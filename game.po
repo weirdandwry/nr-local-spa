@@ -1,0 +1,2377 @@
+# ----------------------------------------------------------
+# unmodified strings
+
+# ----------------------------------------------------------
+# modified strings
+
+# ----------------------------------------------------------
+# new strings
+
+msgctxt "10_minutes"
+msgid "10 minutes"
+msgstr "10 minutos"
+
+msgctxt "15_minutes"
+msgid "15 minutes"
+msgstr "15 minutos"
+
+msgctxt "20_minutes"
+msgid "20 minutes"
+msgstr "20 minutos"
+
+msgctxt "30_minutes"
+msgid "30 minutes"
+msgstr "30 minutos"
+
+msgctxt "5_minutes"
+msgid "5 minutes"
+msgstr "5 minutos"
+
+msgctxt "60_minutes"
+msgid "60 minutes"
+msgstr "60 minutos"
+
+msgctxt "accounting"
+msgid "Accounting"
+msgstr "Contabilidad"
+
+msgctxt "accounting_cash_total"
+msgid "$ Total"
+msgstr "$ Total"
+
+msgctxt "accounting_construction"
+msgid "Construction"
+msgstr "Construcción"
+
+msgctxt "accounting_construction_depots"
+msgid "Depots"
+msgstr "Depósitos"
+
+msgctxt "accounting_construction_stations"
+msgid "Stations"
+msgstr "Estaciones"
+
+msgctxt "accounting_construction_total"
+msgid "Total construction"
+msgstr "Total construcción"
+
+msgctxt "accounting_construction_tracks"
+msgid "Tracks"
+msgstr "Vías"
+
+msgctxt "accounting_financing"
+msgid "Financing"
+msgstr "Financiación"
+
+msgctxt "accounting_financing_credit"
+msgid "Credit"
+msgstr "Crédito"
+
+msgctxt "accounting_financing_interest"
+msgid "Interest"
+msgstr "Interés"
+
+msgctxt "accounting_pax"
+msgid "Passengers"
+msgstr "Pasajeros"
+
+msgctxt "accounting_pax_boarded"
+msgid "Boarded train"
+msgstr "Entrado tren"
+
+msgctxt "accounting_pax_compensated"
+msgid "Compensated"
+msgstr "Compensado"
+
+msgctxt "accounting_pax_lost"
+msgid "Lost"
+msgstr "Perdido"
+
+msgctxt "accounting_pax_post"
+msgid "pax"
+msgstr "pax"
+
+msgctxt "accounting_pax_reached_depot"
+msgid "Reached depot"
+msgstr "Llegó a depósito"
+
+msgctxt "accounting_pax_reached_destination"
+msgid "Reached destination"
+msgstr "Llegó a destinación"
+
+msgctxt "accounting_pax_reached_transfer"
+msgid "Reached transfer"
+msgstr "Llegó a transferencia"
+
+msgctxt "accounting_pax_refunded"
+msgid "Refunded"
+msgstr "Reembolsado"
+
+msgctxt "accounting_pax_refused_fare"
+msgid "Refused too high fare"
+msgstr "Rechazó tarifa demasiado alta"
+
+msgctxt "accounting_pax_spawned"
+msgid "Started trip"
+msgstr "Empezó viaje"
+
+msgctxt "accounting_pax_waited_too_long"
+msgid "Waited too long"
+msgstr "Esperó demasiado"
+
+msgctxt "accounting_period_day"
+msgid "Day"
+msgstr "Día"
+
+msgctxt "accounting_period_lifetme"
+msgid "Lifetime"
+msgstr "Todo"
+
+msgctxt "accounting_period_month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "accounting_period_quarter"
+msgid "Quarter"
+msgstr "Trimestre"
+
+msgctxt "accounting_period_week"
+msgid "Week"
+msgstr "Semana"
+
+msgctxt "accounting_period_year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "accounting_quarter1"
+msgid "Q1"
+msgstr "T1"
+
+msgctxt "accounting_quarter2"
+msgid "Q2"
+msgstr "T2"
+
+msgctxt "accounting_quarter3"
+msgid "Q3"
+msgstr "T3"
+
+msgctxt "accounting_quarter4"
+msgid "Q4"
+msgstr "T4"
+
+msgctxt "accounting_ticketing"
+msgid "Ticketing"
+msgstr "Billetes"
+
+msgctxt "accounting_ticketing_compensations"
+msgid "Compensations"
+msgstr "Compensaciones"
+
+msgctxt "accounting_ticketing_fares"
+msgid "Fares"
+msgstr "Tarifas"
+
+msgctxt "accounting_ticketing_refunds"
+msgid "Refunds"
+msgstr "Reembolsos"
+
+msgctxt "accounting_trains"
+msgid "Trains"
+msgstr "Trenes"
+
+msgctxt "accounting_trains_intervention"
+msgid "Interventions"
+msgstr "Intervenciones"
+
+msgctxt "accounting_trains_purchases"
+msgid "New trains"
+msgstr "Nuevos trenes"
+
+msgctxt "accounting_trains_running"
+msgid "Running costs"
+msgstr "Costes de circulación"
+
+msgctxt "accounting_trains_sales"
+msgid "Train sales"
+msgstr "Venta de trenes"
+
+msgctxt "accounting_week_title"
+msgid "Week of {0} {1} {2}"
+msgstr "Semana de {0} {1} {2}"
+
+msgctxt "acl_action_allow"
+msgid "Always allow"
+msgstr "Permitir siempre"
+
+msgctxt "acl_action_drop"
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgctxt "acl_action_queue"
+msgid "Ask me"
+msgstr "Pregúntame"
+
+msgctxt "acl_allowed"
+msgid "Allowed"
+msgstr "Permitido"
+
+msgctxt "acl_denied"
+msgid "Denied"
+msgstr "Denegado"
+
+msgctxt "acl_friend_action"
+msgid "If an uninvited friend wants to join:"
+msgstr "Si un amigo no invitado quiere entrar:"
+
+msgctxt "acl_pending"
+msgid "Pending"
+msgstr "Pendiente"
+
+msgctxt "acl_stranger_action"
+msgid "If an uninvited stranger wants to join:"
+msgstr "Si un desconocido quiere entrar:"
+
+msgctxt "autosave_interval"
+msgid "Autosave interval:"
+msgstr "Intervalo de autoguarda:"
+
+msgctxt "autosave_slots"
+msgid "Autosave slots:"
+msgstr "Total autoguardas:"
+
+msgctxt "autosaving"
+msgid "Autosaving..."
+msgstr "Autoguarda..."
+
+msgctxt "back"
+msgid "Back"
+msgstr "Volver"
+
+msgctxt "bad_angle"
+msgid "bad angle"
+msgstr "mal ángulo"
+
+msgctxt "banner_expain_ignore"
+msgid "Ignored join requests can be authorized in the server management window."
+msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+
+msgctxt "banner_join_friend"
+msgid "{} wants to join your game."
+msgstr "{} quiere entrar en tu partida."
+
+msgctxt "banner_join_stranger"
+msgid "{} (not a friend) wants to join your game."
+msgstr "{} (desconocido) quiere entrar en tu partida."
+
+msgctxt "banner_new_join"
+msgid "{} joined the game."
+msgstr "{} ha entrado en la partida."
+
+msgctxt "banner_prompt_client_join_anon"
+msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
+msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+
+msgctxt "banner_prompt_client_join_user"
+msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
+msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+
+msgctxt "banner_prompt_game_join_anon"
+msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
+msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará."
+
+msgctxt "banner_prompt_game_join_user"
+msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
+msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará."
+
+msgctxt "banner_prompt_nogame_join_anon"
+msgid "Do you want to join a game hosted by {}?"
+msgstr "Quieres entrar a una partida hospedada por {}?"
+
+msgctxt "banner_prompt_nogame_join_user"
+msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
+msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar?"
+
+msgctxt "banner_prompt_server_join_anon"
+msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
+msgstr "Do you want to join a game hosted by {}? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+
+msgctxt "banner_prompt_server_join_user"
+msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
+msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+
+msgctxt "bill_tab_client"
+msgid "By me"
+msgstr "Míos"
+
+msgctxt "bill_tab_global"
+msgid "Global"
+msgstr "Global"
+
+msgctxt "bill_tab_selection"
+msgid "Selection"
+msgstr "Selección"
+
+msgctxt "build"
+msgid "Build"
+msgstr "Construir"
+
+msgctxt "build_all_bp"
+msgid "Build all blueprints"
+msgstr "Construir todos los planos"
+
+msgctxt "build_my_bp"
+msgid "Build my blueprints"
+msgstr "Construir mis planos"
+
+msgctxt "build_selected_bp"
+msgid "Build selected blueprints"
+msgstr "Construir planos seleccionados"
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "cancel_quit"
+msgid "Quit"
+msgstr "Salir"
+
+msgctxt "client_blueprint_bill"
+msgid "My blueprint bill"
+msgstr "Factura de mis planos"
+
+msgctxt "client_conn_info"
+msgid "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
+msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
+
+msgctxt "company_tab_info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "confirm_bp"
+msgid "Do you want to build the current blueprint?"
+msgstr "Quieres construir los planos actuales?"
+
+msgctxt "confirm_bp_price"
+msgid "Do you want to build the current blueprint for ${}?"
+msgstr "Quieres construir los planos actuales por un precio de ${}?"
+
+msgctxt "confirm_construction"
+msgid "Confirm construction"
+msgstr "Confirmar construcción"
+
+msgctxt "confirm_delete"
+msgid "Confirm delete"
+msgstr "Confirmar borrado"
+
+msgctxt "confirm_delete_desc"
+msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
+msgstr "Una o más vías ya han sido construidas. Borrar estas vías no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
+
+msgctxt "conflict_map_hit"
+msgid "water or road hits"
+msgstr "colisión con agua o calles"
+
+msgctxt "conflicts"
+msgid "Conflicts"
+msgstr "Conflictos"
+
+msgctxt "conflicts_pop_desc"
+msgid "One or more tracks have conflicts and cannot be constructed. Move, edit or delete all tracks marked in red."
+msgstr "Una o más vías tiene conflictos y no se pueden construir. Mueve, edita o borra todas las vías de color rojo."
+
+msgctxt "connecting_elip"
+msgid "Connecting..."
+msgstr "Conectando..."
+
+msgctxt "connection_denied"
+msgid "Connection denied"
+msgstr "Conexión denegada"
+
+msgctxt "construct_no_bps"
+msgid "There are no pending track or station blueprints to build"
+msgstr "No hay planos de vías o estaciones pendientes de construcción"
+
+msgctxt "construction_conflicts_cash"
+msgid "Not enough money for construction"
+msgstr "No hay dinero suficiente para la construcción"
+
+msgctxt "construction_conflicts_error"
+msgid "Conflicts block construction"
+msgstr "Hay conflictos bloqueando la construcción"
+
+msgctxt "copy"
+msgid "Copy"
+msgstr "Copiar"
+
+msgctxt "credits"
+msgid "Credits"
+msgstr "Créditos"
+
+msgctxt "credits_acknowledgments"
+msgid "Acknowledgments"
+msgstr "Licencias"
+
+msgctxt "credits_art"
+msgid "Art"
+msgstr "Ilustración"
+
+msgctxt "credits_programming"
+msgid "Programming and design"
+msgstr "Programación y diseño"
+
+msgctxt "credits_thanks"
+msgid "Thanks"
+msgstr "Agradecimientos"
+
+msgctxt "crossings_n_0"
+msgid "0 crossings"
+msgstr "0 cruces"
+
+msgctxt "crossings_n_1"
+msgid "1 crossing"
+msgstr "1 cruce"
+
+msgctxt "crossings_n_many"
+msgid "%d crossings"
+msgstr "%d cruces"
+
+msgctxt "custom_admin_level_poi"
+msgid "POI"
+msgstr "PDI"
+
+msgctxt "custom_admin_level_transport"
+msgid "Transportation"
+msgstr "Transportes"
+
+msgctxt "default_han_font"
+msgid "Default Han font:"
+msgstr "Fuente Han predet.:"
+
+msgctxt "default_han_font_chi"
+msgid "Simplified Chinese"
+msgstr "Chino simplificado"
+
+msgctxt "default_han_font_jpn"
+msgid "Japanese"
+msgstr "Japonés"
+
+msgctxt "default_han_font_kor"
+msgid "Korean"
+msgstr "Koreano"
+
+msgctxt "default_han_font_zho"
+msgid "Traditional Chinese"
+msgstr "Chino tradicional"
+
+msgctxt "default_train_name"
+msgid "Train {}"
+msgstr "Tren {}"
+
+msgctxt "delete_tracks"
+msgid "Delete tracks"
+msgstr "Borrar vías"
+
+msgctxt "demand_pax_overall"
+msgid "{:.1f} pax/s"
+msgstr "{:.1f} pax/s"
+
+msgctxt "depot_at"
+msgid "Depot at"
+msgstr "Depósito en"
+
+msgctxt "depots_n_0"
+msgid "0 depots"
+msgstr "0 depósitos"
+
+msgctxt "depots_n_1"
+msgid "1 depot"
+msgstr "1 depósito"
+
+msgctxt "depots_n_many"
+msgid "%d depots"
+msgstr "%d depósitos"
+
+msgctxt "description"
+msgid "Description:"
+msgstr "Descripción:"
+
+msgctxt "disabled"
+msgid "Disabled"
+msgstr "Desactivado"
+
+msgctxt "display_mode"
+msgid "Mode:"
+msgstr "Modo:"
+
+msgctxt "display_mode_exclusive_fullscreen"
+msgid "Exclusive fullscreen"
+msgstr "Pantalla completa excl."
+
+msgctxt "display_mode_windowed"
+msgid "Windowed"
+msgstr "Ventana"
+
+msgctxt "display_mode_windowed_fullscreen"
+msgid "Windowed fullscreen"
+msgstr "Ventana pantalla completa"
+
+msgctxt "display_screen"
+msgid "Display:"
+msgstr "Monitor:"
+
+msgctxt "display_screen_leave_alone"
+msgid "Do not set"
+msgstr "No cambiar"
+
+msgctxt "done"
+msgid "Done"
+msgstr "Hecho"
+
+msgctxt "editor_add"
+msgid "Append to tracks or create new ones"
+msgstr "Añadir a vías o crear nuevas vías"
+
+msgctxt "editor_branch"
+msgid "Create new track branches"
+msgstr "Crear nuevas ramas de vías"
+
+msgctxt "editor_depot"
+msgid "Create new depot"
+msgstr "Crear nuevo depósito"
+
+msgctxt "editor_move"
+msgid "Move, delete and edit tracks"
+msgstr "Mover, borrar y editar vías"
+
+msgctxt "editor_select_add_platform"
+msgid "Click platform numbers in stations to add stops to the line"
+msgstr "Click en los nombres de plataformas para añadir paradas a la línea"
+
+msgctxt "editor_select_add_waypoint"
+msgid "Click track segments to add waypoints to the line"
+msgstr "Click en los segmentos de vías para añadir puntos de ruta"
+
+msgctxt "editor_select_pick_depot"
+msgid "Click a depot on the map to set this train slot order"
+msgstr "Click en un depósito en el mapa para editar esta orden"
+
+msgctxt "editor_station"
+msgid "Create new station platforms"
+msgstr "Crear nuevas plataformas de estación"
+
+msgctxt "editor_tip_add_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc para volver a modo edición"
+
+msgctxt "editor_tip_add_left1"
+msgid "Left click on the existing end of track control points to continue an existing track"
+msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+
+msgctxt "editor_tip_add_left2"
+msgid "Left click anywhere else to create a new track"
+msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+
+msgctxt "editor_tip_branch_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc para volver a modo edición"
+
+msgctxt "editor_tip_branch_left"
+msgid "Left click to create the branch"
+msgstr "Click izquierdo para crear una rama"
+
+msgctxt "editor_tip_branch_mouse"
+msgid "Hover the mouse cursor near an existing track to see a new track branch"
+msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
+
+msgctxt "editor_tip_branch_shift"
+msgid "Press shift for opposite direction"
+msgstr "Presiona shift para la dirección opuesta"
+
+msgctxt "editor_tip_cont_esc"
+msgid "Esc to cancel"
+msgstr "Esc para cancelar"
+
+msgctxt "editor_tip_cont_left"
+msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
+msgstr "Click izquierdo para crear un nuevo segmento de vía. Mantén pulsado shift para crear más segmentos."
+
+msgctxt "editor_tip_cont_mouse"
+msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
+msgstr "Acerca el cursor al extremo de una vía existente para ver como quedaría enlazado con la vía que estás editando"
+
+msgctxt "editor_tip_create_del"
+msgid "Del to delete selected tracks"
+msgstr "Del para borrar las vías seleccionadas"
+
+msgctxt "editor_tip_create_drag"
+msgid "Drag any selected track control point to move the selection"
+msgstr "Arrastra cualquiera de los controles de las vías seleccionadas para mover la selección"
+
+msgctxt "editor_tip_create_esc"
+msgid "Esc to cancel selection"
+msgstr "Esc para cancelar la selección"
+
+msgctxt "editor_tip_create_left1"
+msgid "Left click on track control points to select"
+msgstr "Click izquierdo en los controles de las vías para seleccionarlas"
+
+msgctxt "editor_tip_create_left2"
+msgid "Left click on station name plate to edit station details"
+msgstr "Click izquierdo en el nombre de una estación para editar sus detalles"
+
+msgctxt "editor_tip_create_left3"
+msgid "Left click on track control points to reset selection"
+msgstr "Click izquierdo en los controles de las vías para resetear la selección"
+
+msgctxt "editor_tip_create_sleft"
+msgid "Shift left click to add or remove points from selection"
+msgstr "Shift + click izquierdo para añadir o quitar controles de la selección"
+
+msgctxt "editor_tip_depot_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc para volver a modo edición"
+
+msgctxt "editor_tip_depot_fin_esc"
+msgid "Esc to cancel"
+msgstr "Esc para cancelar"
+
+msgctxt "editor_tip_depot_fin_left"
+msgid "Left click to finish creating a new depot"
+msgstr "Click izquierdo para terminar de crear el depósito"
+
+msgctxt "editor_tip_depot_left"
+msgid "Left click to create a new depot"
+msgstr "Click izquierdo para crear un nuevo depósito"
+
+msgctxt "editor_tip_link_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc para volver a modo edición"
+
+msgctxt "editor_tip_link_left"
+msgid "Left click to link tracks"
+msgstr "Click izquierdo para enlazar las vías"
+
+msgctxt "editor_tip_link_move"
+msgid "Move away the mouse cursor to cancel"
+msgstr "Aleja el cursor para cancelar"
+
+msgctxt "editor_tip_move_esc"
+msgid "Esc to cancel movement"
+msgstr "Esc para cancelar el movimiento"
+
+msgctxt "editor_tip_move_left"
+msgid "Release left button to stop moving control point"
+msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
+
+msgctxt "editor_tip_rect_left"
+msgid "Release the left button to end rectangle selection"
+msgstr "Suelta el botón izquierdo para terminar la selección rectangular"
+
+msgctxt "editor_tip_station_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc para volver a modo edición"
+
+msgctxt "editor_tip_station_fin_esc"
+msgid "Esc to cancel"
+msgstr "Esc para cancelar"
+
+msgctxt "editor_tip_station_fin_left"
+msgid "Left click to finish creating a new station platform"
+msgstr "Click izquierdo para terminar de crear la nueva plataforma de estación"
+
+msgctxt "editor_tip_station_left"
+msgid "Left click to create a new station platform"
+msgstr "Click izquierdo para crear una nueva plataforma de estación"
+
+msgctxt "editor_tip_undo"
+msgid "Ctrl-Z to undo the last edit"
+msgstr "Ctrl-Z para hacer deshacer la última edición"
+
+msgctxt "editor_tip_zoom"
+msgid "Zoom in to edit"
+msgstr "Aumenta el zoom para poder editar"
+
+msgctxt "editor_warn_zero_leg"
+msgid "At least one travel time is set to 0. Pax AI will get confused when riding this line."
+msgstr "Al menos uno de los tiempos de viaje está a 0. La IA no podrá elaborar planes de viaje correctamente."
+
+msgctxt "enabled"
+msgid "Enabled"
+msgstr "Activo"
+
+msgctxt "error_cannot_open_file"
+msgid "Cannot open file: "
+msgstr "No se puede abrir archivo: "
+
+msgctxt "error_corrupted_file"
+msgid "Corrupted file: "
+msgstr "Archivo corrupto: "
+
+msgctxt "error_reading_file"
+msgid "Error reading from file"
+msgstr "Error leyendo el archivo"
+
+msgctxt "error_reading_file_desc"
+msgid "The system does not allow to read the selected file, or its format is not valid game data"
+msgstr "El sistema no permite leer el archivo selecionado, o no contiene datos válidos de juego"
+
+msgctxt "error_save"
+msgid "Corrupted game state"
+msgstr "Juego corrupto"
+
+msgctxt "error_saving_internal"
+msgid "Internal error while saving game"
+msgstr "Error interno mientras se guardaba el juego"
+
+msgctxt "error_too_new_save"
+msgid "The game version that created this save file is newer than your game version. Update the game to load this file."
+msgstr "La versión del juego que ha creado esta partida es más nueva que tu versión del juego. Actualiza el juego para cargar este fichero."
+
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded."
+msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar."
+
+msgctxt "error_writing_file"
+msgid "Error writing to file"
+msgstr "Error escribiendo el archivo"
+
+msgctxt "error_writing_file_desc"
+msgid "The system does not allow to write in the selected file"
+msgstr "El sistema no permite escribir en el archivo seleccionado"
+
+msgctxt "ev_refunds"
+msgid "{} refunds"
+msgstr "{} reembolsos"
+
+msgctxt "file_header_date"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "file_header_name"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "friend_state_away"
+msgid "Away"
+msgstr "Ausente"
+
+msgctxt "friend_state_busy"
+msgid "Busy"
+msgstr "Ocupado"
+
+msgctxt "friend_state_connected"
+msgid "Connected"
+msgstr "Conectado"
+
+msgctxt "friend_state_connected_here"
+msgid "Conn. here"
+msgstr "Con. aquí"
+
+msgctxt "friend_state_connected_other"
+msgid "Conn. elsewhere"
+msgstr "Con. otro"
+
+msgctxt "friend_state_hosting"
+msgid "Hosting"
+msgstr "Hospedando"
+
+msgctxt "friend_state_in_game"
+msgid "In-game"
+msgstr "Jugando"
+
+msgctxt "friend_state_offline"
+msgid "Offline"
+msgstr "Offline"
+
+msgctxt "friend_state_online"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "friend_state_snooze"
+msgid "Snooze"
+msgstr "Ausente"
+
+msgctxt "friends"
+msgid "Friends"
+msgstr "Amigos"
+
+msgctxt "global_blueprint_bill"
+msgid "Global blueprint bill"
+msgstr "Factura planos globales"
+
+msgctxt "host_game"
+msgid "Host game"
+msgstr "Hospedar partida"
+
+msgctxt "icon_file"
+msgid "Icon file:"
+msgstr "Archivo icono:"
+
+msgctxt "ignore"
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgctxt "info_table_count"
+msgid "Count"
+msgstr "Cuantos"
+
+msgctxt "info_table_pax_destination"
+msgid "Destination"
+msgstr "Destino"
+
+msgctxt "info_table_pax_fare"
+msgid "Fare"
+msgstr "Trif."
+
+msgctxt "info_table_pax_leg"
+msgid "Leg"
+msgstr "Seg."
+
+msgctxt "info_table_pax_origin"
+msgid "Origin"
+msgstr "Origen"
+
+msgctxt "info_table_pax_sax"
+msgid "Sax"
+msgstr "Sat"
+
+msgctxt "info_table_pax_total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "info_train_pax"
+msgid "Pax: {0} / {1}"
+msgstr "Pax: {0} / {1}"
+
+msgctxt "info_train_speed"
+msgid "Speed: {} km/h"
+msgstr "Vel.: {} km/h"
+
+msgctxt "info_train_speed_short"
+msgid "{} km/h"
+msgstr "{} km/h"
+
+msgctxt "intervention"
+msgid "Intervention"
+msgstr "Intervención"
+
+msgctxt "invalid_location"
+msgid "Invalid"
+msgstr "Inválido"
+
+msgctxt "join"
+msgid "Join"
+msgstr "Entrar"
+
+msgctxt "join_game"
+msgid "Join game"
+msgstr "Entrar a partida"
+
+msgctxt "joincode_client_info"
+msgid "Paste a join code to join a player hosted server. If the player is offline or ignores your request, the connection will fail."
+msgstr "Pega un código de entrada para entrar a una partida hospedada. Si el anfitrión está offline o te ignora, fallará la conexión."
+
+msgctxt "joincode_server_info"
+msgid "This join code allows any player to join your hosted game, even if they are not in your friend list. Make sure your Access rules are set to Allow or to Ask, otherwise players will be ignored even if they have a correct join code."
+msgstr "Este código de entrada permite a cualquier jugador entrar a tu partida, aunque no sea tu amigo. Asegúrate que tus reglas de acceso son Permitir o Preguntar, de lo contrario se ignorarán jugadores aunque tengan el código correcto."
+
+msgctxt "joint_multiplayer_name"
+msgid "Join multiplayer game"
+msgstr "Entrar a partida multijugador"
+
+msgctxt "key_info"
+msgid "Key: "
+msgstr "Tecla: "
+
+msgctxt "language_pick"
+msgid "Language:"
+msgstr "Idioma:"
+
+msgctxt "line_0_stops"
+msgid "0 stops"
+msgstr "0 paradas"
+
+msgctxt "line_error_no_path_between_stops"
+msgid "Cannot find path!"
+msgstr "No se puede encontrar camino!"
+
+msgctxt "line_error_no_path_to_start"
+msgid "Cannot find path to start of line!"
+msgstr "No se puede encontrar camino a la primera parada!"
+
+msgctxt "line_n_stops"
+msgid "{0}, {1} stops"
+msgstr "{0}, {1} paradas"
+
+msgctxt "line_new_stop_cell"
+msgid "New stops are inserted here"
+msgstr "Las nuevas paradas se insertan aquí"
+
+msgctxt "line_state"
+msgid "State"
+msgstr "Estado"
+
+msgctxt "line_stop_arrival_header"
+msgid "Arrival"
+msgstr "Llegada"
+
+msgctxt "line_stop_distance_header"
+msgid "Distance"
+msgstr "Distancia"
+
+msgctxt "line_stop_eta_header"
+msgid "Travel"
+msgstr "Viaje"
+
+msgctxt "line_stop_interval_header"
+msgid "Interval"
+msgstr "Intervalo"
+
+msgctxt "line_stop_min_header"
+msgid "Min."
+msgstr "Min."
+
+msgctxt "line_stop_passthru_short"
+msgid "Pass"
+msgstr "Pasa"
+
+msgctxt "line_stop_wait_header"
+msgid "Wait"
+msgstr "Espera"
+
+msgctxt "line_stops"
+msgid "Stops"
+msgstr "Paradas"
+
+msgctxt "line_to"
+msgid "{} to"
+msgstr "{} a"
+
+msgctxt "lineeditor_auto_eta_avg_branch_wait"
+msgid "Avg. branch (mm:ss):"
+msgstr "Rama media (mm:ss):"
+
+msgctxt "lineeditor_auto_eta_run"
+msgid "Estimate travel times"
+msgstr "Estimar tiempos de viaje"
+
+msgctxt "lineeditor_auto_eta_speed"
+msgid "Ideal speed (km/h):"
+msgstr "Vel. ideal (km/h):"
+
+msgctxt "lineeditor_auto_interval_run"
+msgid "Set min. interval times"
+msgstr "Aplicar intervalo min."
+
+msgctxt "lineeditor_auto_inverval"
+msgid "Min. interval (mm:ss):"
+msgstr "Intervalo min. (mm:ss):"
+
+msgctxt "lineeditor_bp_station"
+msgid "Build your tracks blueprint to enable this platform"
+msgstr "Construye los planos para activar esta plataforma"
+
+msgctxt "lineeditor_code"
+msgid "Code:"
+msgstr "Código:"
+
+msgctxt "lineeditor_color"
+msgid "Color:"
+msgstr "Color:"
+
+msgctxt "lineeditor_name"
+msgid "Name:"
+msgstr "Nombre:"
+
+msgctxt "lineeditor_price_base"
+msgid "Base ticket price:"
+msgstr "Precio base de billete:"
+
+msgctxt "lineeditor_price_km"
+msgid "Price per km:"
+msgstr "Precio por km de billete:"
+
+msgctxt "lineeditor_tooltip_add_stop_mode"
+msgid "Add stops to line"
+msgstr "Añadir paradas a la línea"
+
+msgctxt "lineeditor_tooltip_add_waypoint_mode"
+msgid "Add waypoints to line"
+msgstr "Añadir puntos de paso a la línea"
+
+msgctxt "lineeditor_tooltip_del"
+msgid "Delete selected line"
+msgstr "Eliminar línea seleccionada"
+
+msgctxt "lineeditor_tooltip_del_stop"
+msgid "Delete selected stop"
+msgstr "Eliminar parada seleccionada"
+
+msgctxt "lineeditor_tooltip_down_stop"
+msgid "Move down selected stop"
+msgstr "Mover la parada abajo"
+
+msgctxt "lineeditor_tooltip_new"
+msgid "Create a new line"
+msgstr "Crear nueva línea"
+
+msgctxt "lineeditor_tooltip_up_stop"
+msgid "Move up selected stop"
+msgstr "Mover la parada arriba"
+
+msgctxt "lines"
+msgid "Lines"
+msgstr "Líneas"
+
+msgctxt "lines_n_0"
+msgid "0 lines"
+msgstr "0 líneas"
+
+msgctxt "lines_n_1"
+msgid "1 line"
+msgstr "1 línea"
+
+msgctxt "lines_n_many"
+msgid "%d lines"
+msgstr "%d líneas"
+
+msgctxt "load_game"
+msgid "Load game"
+msgstr "Cargar partida"
+
+msgctxt "loading_elip"
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgctxt "loan_balance"
+msgid "Balance:"
+msgstr "Balance:"
+
+msgctxt "loan_contract_accept"
+msgid "Take new loan"
+msgstr "Pedir nuevo crédito"
+
+msgctxt "loan_contract_amount"
+msgid "$M Amount:"
+msgstr "Cantidad $M:"
+
+msgctxt "loan_contract_ko"
+msgid "Not approved"
+msgstr "Rechazado"
+
+msgctxt "loan_contract_monthly_payment"
+msgid "Monthly payment:"
+msgstr "Pago mensual:"
+
+msgctxt "loan_contract_rate"
+msgid "APR:"
+msgstr "TIN:"
+
+msgctxt "loan_contract_total_interest"
+msgid "{} months interest:"
+msgstr "{} meses de interés:"
+
+msgctxt "loan_contract_years"
+msgid "Years:"
+msgstr "Años:"
+
+msgctxt "loan_created_on"
+msgid "Created on:"
+msgstr "Creado en:"
+
+msgctxt "loan_n"
+msgid "Loan {}"
+msgstr "Crédito {}"
+
+msgctxt "loan_need_admin"
+msgid "Only admins can take loans"
+msgstr "Solo los admins puede pedir crédito"
+
+msgctxt "loan_paid_interest"
+msgid "Paid interest:"
+msgstr "Interés pagado:"
+
+msgctxt "loan_pay_early"
+msgid "Pay early ${}"
+msgstr "Liquidar ${}"
+
+msgctxt "loan_payments"
+msgid "Payments:"
+msgstr "Pagos:"
+
+msgctxt "loan_payments_fmt"
+msgid "{0} out of {1}, next on {2}"
+msgstr "{0} de {1}, siguiente en {2}"
+
+msgctxt "loan_subtitle"
+msgid "${} per month"
+msgstr "${} mensual"
+
+msgctxt "loan_title"
+msgid "${0} at {1:.3}% APR in {2} years"
+msgstr "${0} a {1:.3}% TIN en {2} años"
+
+msgctxt "local_mod"
+msgid "Local mod to upload:"
+msgstr "Mod local a subir:"
+
+msgctxt "lonely_station"
+msgid "Lonely Station"
+msgstr "Estación Solitaria"
+
+msgctxt "main_options"
+msgid "Options"
+msgstr "Opciones"
+
+msgctxt "map_names_eng"
+msgid "English"
+msgstr "Inglés"
+
+msgctxt "map_names_native"
+msgid "Native"
+msgstr "Nativo"
+
+msgctxt "map_names_prio"
+msgid "Map names priority:"
+msgstr "Prioridad nombres mapa:"
+
+msgctxt "matches_n_0"
+msgid "0 coincidencias"
+msgstr "0 coincidencias"
+
+msgctxt "matches_n_1"
+msgid "1 coincidencia"
+msgstr "1 coincidencia"
+
+msgctxt "matches_n_many"
+msgid "%d coincidencias"
+msgstr "%d coincidencias"
+
+msgctxt "missing_mod"
+msgid "This mod is enabled in the current game, but it is not installed in this PC. Some textures may be missing."
+msgstr "Este mod está activo en la partida, pero no está instalado en tu PC. Pueden faltar algunas texturas."
+
+msgctxt "mod_author"
+msgid "Author:"
+msgstr "Autor:"
+
+msgctxt "mod_desc"
+msgid "Description:"
+msgstr "Descripción:"
+
+msgctxt "mod_name"
+msgid "Name:"
+msgstr "Nombre:"
+
+msgctxt "mod_source"
+msgid "Source:"
+msgstr "Fuente:"
+
+msgctxt "mod_source_builtin"
+msgid "Built-in"
+msgstr "Estándar"
+
+msgctxt "mod_source_local"
+msgid "Local"
+msgstr "Local"
+
+msgctxt "mod_source_steamworks_ugc"
+msgid "Steamworks UGC"
+msgstr "Steamworks UGC"
+
+msgctxt "mod_uploader_busy"
+msgid "Uploading mod..."
+msgstr "Subiendo mod..."
+
+msgctxt "mod_uploader_info"
+msgid "The mod uploader is a tool for mod developers. If you want to use mods when playing the game, subscribe to them in the Steam Workshop and enable them when creating a new game."
+msgstr "La herramienta de mods es para desarrolladores de mods. Si quieres utilizar mods mientras juegas, suscríbete en la Steam Workshop para activarlos y crea una nueva partida."
+
+msgctxt "mod_uploader_info_guide"
+msgid "Mod development guide"
+msgstr "Guía de desarrollo de mods"
+
+msgctxt "mod_uploader_info_open_browser"
+msgid "Visit Workshop"
+msgstr "Visitar Workshop"
+
+msgctxt "mod_uploader_info_player_workshop"
+msgid "Manage Workshop"
+msgstr "Admin. Workshop"
+
+msgctxt "mod_uploader_info_use_uploader"
+msgid "Use Mod Uploader"
+msgstr "Utilizar herramienta mods"
+
+msgctxt "mod_uploader_new_mod"
+msgid "New mod"
+msgstr "Nuevo mod"
+
+msgctxt "mod_uploader_not_in_game"
+msgid "The mod uploader cannot be used with a loaded game."
+msgstr "No se puede utilizar la herramienta de mods con una partida en curso."
+
+msgctxt "mod_uploader_update_mod"
+msgid "Update mod"
+msgstr "Actualizar mod"
+
+msgctxt "mod_uploader_view_ws_mod"
+msgid "View mod in Workshop"
+msgstr "Ver mod en Workshop"
+
+msgctxt "mod_version"
+msgid "Version:"
+msgstr "Version:"
+
+msgctxt "mode_map_default"
+msgid "Plain map"
+msgstr "Mapa por defecto"
+
+msgctxt "mode_map_population"
+msgid "Population overlay"
+msgstr "Capa de población"
+
+msgctxt "mode_map_tracks"
+msgid "Plain tracks"
+msgstr "Vías por defecto"
+
+msgctxt "mode_map_tracks_lines"
+msgid "Lines overlay"
+msgstr "Capa de líneas"
+
+msgctxt "mode_map_tracks_speed"
+msgid "Speed overlay"
+msgstr "Capa de velocidad"
+
+msgctxt "mods"
+msgid "Mods"
+msgstr "Mods"
+
+msgctxt "month_april"
+msgid "April"
+msgstr "Abril"
+
+msgctxt "month_august"
+msgid "August"
+msgstr "Agosto"
+
+msgctxt "month_december"
+msgid "December"
+msgstr "Diciembre"
+
+msgctxt "month_february"
+msgid "February"
+msgstr "Febrero"
+
+msgctxt "month_january"
+msgid "January"
+msgstr "Enero"
+
+msgctxt "month_july"
+msgid "July"
+msgstr "Julio"
+
+msgctxt "month_june"
+msgid "June"
+msgstr "Junio"
+
+msgctxt "month_march"
+msgid "March"
+msgstr "Marzo"
+
+msgctxt "month_may"
+msgid "May"
+msgstr "Mayo"
+
+msgctxt "month_november"
+msgid "November"
+msgstr "Noviembre"
+
+msgctxt "month_october"
+msgid "October"
+msgstr "Octubre"
+
+msgctxt "month_september"
+msgid "September"
+msgstr "Septiembre"
+
+msgctxt "month_short_april"
+msgid "Apr"
+msgstr "Abr"
+
+msgctxt "month_short_august"
+msgid "Aug"
+msgstr "Ago"
+
+msgctxt "month_short_december"
+msgid "Dec"
+msgstr "Dic"
+
+msgctxt "month_short_february"
+msgid "Feb"
+msgstr "Feb"
+
+msgctxt "month_short_january"
+msgid "Jan"
+msgstr "Ene"
+
+msgctxt "month_short_july"
+msgid "Jul"
+msgstr "Jul"
+
+msgctxt "month_short_june"
+msgid "Jun"
+msgstr "Jun"
+
+msgctxt "month_short_march"
+msgid "Mar"
+msgstr "Mar"
+
+msgctxt "month_short_may"
+msgid "May"
+msgstr "May"
+
+msgctxt "month_short_november"
+msgid "Nov"
+msgstr "Nov"
+
+msgctxt "month_short_october"
+msgid "Oct"
+msgstr "Oct"
+
+msgctxt "month_short_september"
+msgid "Sep"
+msgstr "Sep"
+
+msgctxt "mp_action_allow"
+msgid "Allow"
+msgstr "Permitir"
+
+msgctxt "mp_action_block"
+msgid "Block"
+msgstr "Bloquear"
+
+msgctxt "mp_action_deny"
+msgid "Deny"
+msgstr "Rechazar"
+
+msgctxt "mp_action_disconnect"
+msgid "Disconnect"
+msgstr "Desconectar"
+
+msgctxt "mp_action_forget"
+msgid "Forget"
+msgstr "Olvidar"
+
+msgctxt "mp_action_host_to_invite"
+msgid "Host to invite"
+msgstr "Hospeda para invitar"
+
+msgctxt "mp_action_invite"
+msgid "Invite"
+msgstr "Invitar"
+
+msgctxt "mp_action_req_join"
+msgid "Request join"
+msgstr "Pedir entrada"
+
+msgctxt "mp_client_info"
+msgid "Server information"
+msgstr "Info servidor"
+
+msgctxt "mp_host_label"
+msgid "Host"
+msgstr "Anfitrión"
+
+msgctxt "mp_info_acl"
+msgid "Access"
+msgstr "Acceso"
+
+msgctxt "mp_info_connected"
+msgid "Connected"
+msgstr "Conectado"
+
+msgctxt "mp_info_invite"
+msgid "Invite"
+msgstr "Invitar"
+
+msgctxt "mp_server_info"
+msgid "Server management"
+msgstr "Admin servidor"
+
+msgctxt "mpinfo_stats_game"
+msgid "Game stats"
+msgstr "Estat. partida"
+
+msgctxt "mpinfo_stats_net"
+msgid "Net stats"
+msgstr "Estat. red"
+
+msgctxt "msaa_mode"
+msgid "MSAA:"
+msgstr "MSAA:"
+
+msgctxt "multiplayer"
+msgid "Multiplayer"
+msgstr "Multijugador"
+
+msgctxt "new_game"
+msgid "New game"
+msgstr "Nueva partida"
+
+msgctxt "new_game_options"
+msgid "New game options"
+msgstr "Opciones de nueva partida"
+
+msgctxt "new_loan"
+msgid "New loan"
+msgstr "Nuevo crédito"
+
+msgctxt "new_mod_id_placeholder"
+msgid "<New mod>"
+msgstr "<Nuevo mod>"
+
+msgctxt "new_save_file_name"
+msgid "New save file name:"
+msgstr "Nombre de nueva partida guardada:"
+
+msgctxt "new_save_placeholder"
+msgid "<Create new save>"
+msgstr "<Crear nueva partida guardada>"
+
+msgctxt "no_cash_pop_desc"
+msgid "Not enough money to build the blueprint. Delete some blueprint tracks or make more money."
+msgstr "No hay suficiente dinero para construir los planos. Borra parte de los planos o consigue más dinero."
+
+msgctxt "ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "option_company_name"
+msgid "Company name:"
+msgstr "Nombre empresa:"
+
+msgctxt "option_no_cash"
+msgid "Unlimited money"
+msgstr "Dinero ilimitado"
+
+msgctxt "options"
+msgid "Options"
+msgstr "Opciones"
+
+msgctxt "options_general"
+msgid "General"
+msgstr "General"
+
+msgctxt "options_graphics"
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgctxt "options_mods_upload"
+msgid "Uploader"
+msgstr "Her. mods"
+
+msgctxt "osm_admin_level_10"
+msgid "Quarter"
+msgstr "Barrio"
+
+msgctxt "osm_admin_level_2"
+msgid "Country"
+msgstr "País"
+
+msgctxt "osm_admin_level_3"
+msgid "Zone"
+msgstr "Zona"
+
+msgctxt "osm_admin_level_4"
+msgid "State"
+msgstr "Estado"
+
+msgctxt "osm_admin_level_5"
+msgid "Region"
+msgstr "Región"
+
+msgctxt "osm_admin_level_6"
+msgid "County"
+msgstr "Comarca"
+
+msgctxt "osm_admin_level_7"
+msgid "Metro"
+msgstr "Metro"
+
+msgctxt "osm_admin_level_8"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt "osm_admin_level_9"
+msgid "Ward"
+msgstr "Distrito"
+
+msgctxt "overpass_n_0"
+msgid "0 overpasses"
+msgstr "0 cruces"
+
+msgctxt "overpass_n_1"
+msgid "1 overpass"
+msgstr "1 cruce"
+
+msgctxt "overpass_n_many"
+msgid "%d overpasses"
+msgstr "%d cruces"
+
+msgctxt "overwrite"
+msgid "Overwrite"
+msgstr "Sobreescribir"
+
+msgctxt "overwrite_file"
+msgid "Overwrite file"
+msgstr "Sobreescribir archivo"
+
+msgctxt "ovewrite_name"
+msgid "Overwrite {}?"
+msgstr "Sobreescribir {}?"
+
+msgctxt "paste"
+msgid "Paste"
+msgstr "Pegar"
+
+msgctxt "pax_tab"
+msgid "Passengers"
+msgstr "Pasajeros"
+
+msgctxt "pax_waiting"
+msgid "Pax: {0} / {1}"
+msgstr "Pax: {0} / {1}"
+
+msgctxt "pax_waiting_detail"
+msgid "New pax: {0} / Transfer pax: {1} "
+msgstr "Nuevo pax: {0} / Transfer. pax: {1} "
+
+msgctxt "paxlist_groupby_dest"
+msgid "Group by destination"
+msgstr "Agrupados por destino"
+
+msgctxt "paxlist_groupby_none"
+msgid "Show all"
+msgstr "Todos"
+
+msgctxt "paxlist_groupby_origin"
+msgid "Group by origin"
+msgstr "Agrupados por origen"
+
+msgctxt "paxlist_groupby_plan"
+msgid "Show trips"
+msgstr "Itinerarios"
+
+msgctxt "paxlist_n_new_pax"
+msgid "{} new pax"
+msgstr "{} nuevos pax"
+
+msgctxt "paxlist_n_pax"
+msgid "{} pax"
+msgstr "{} pax"
+
+msgctxt "pick_a_local_mod"
+msgid "Pick a local mod"
+msgstr "Elige mod local"
+
+msgctxt "pick_placeholder"
+msgid "< Pick >"
+msgstr "< Elige >"
+
+msgctxt "platform_n"
+msgid "Platform "
+msgstr "Plataforma "
+
+msgctxt "pop_reach"
+msgid "Reach: {}"
+msgstr "Alcance: {}"
+
+msgctxt "private"
+msgid "Private"
+msgstr "Privado"
+
+msgctxt "profile"
+msgid "Profile"
+msgstr "Perfil"
+
+msgctxt "public"
+msgid "Public"
+msgstr "Público"
+
+msgctxt "purchase"
+msgid "Purchase"
+msgstr "Comprar"
+
+msgctxt "quickstart_guide"
+msgid "Quickstart guide"
+msgstr "Guía rápida"
+
+msgctxt "quit_desktop"
+msgid "Quit to desktop"
+msgstr "Salir a escritorio"
+
+msgctxt "quit_game"
+msgid "Quit game"
+msgstr "Salir de partida"
+
+msgctxt "renderer"
+msgid "Renderer:"
+msgstr "Renderer:"
+
+msgctxt "renderer_dx11"
+msgid "DirectX 11"
+msgstr "DirectX 11"
+
+msgctxt "renderer_opengl"
+msgid "OpenGL 3.1"
+msgstr "OpenGL 3.1"
+
+msgctxt "reset_train"
+msgid "Reset train"
+msgstr "Reset a tren"
+
+msgctxt "save"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "save_file_name"
+msgid "Save file name"
+msgstr "Nombre archivo partida"
+
+msgctxt "save_game"
+msgid "Save game"
+msgstr "Guardar partida"
+
+msgctxt "sax_0"
+msgid "Neutral"
+msgstr "Neutral"
+
+msgctxt "sax_m1"
+msgid "Mediocre"
+msgstr "Mediocre"
+
+msgctxt "sax_m2"
+msgid "Bad"
+msgstr "Mal"
+
+msgctxt "sax_m3"
+msgid "Very bad"
+msgstr "Muy mal"
+
+msgctxt "sax_p1"
+msgid "Good"
+msgstr "Bueno"
+
+msgctxt "sax_p2"
+msgid "Very good"
+msgstr "Muy bueno"
+
+msgctxt "sax_p3"
+msgid "Excellent"
+msgstr "Excelente"
+
+msgctxt "sax_score"
+msgid "Satisfaction: {:.2f}"
+msgstr "Satisfacción: {:.2f}"
+
+msgctxt "sax_tooltip"
+msgid "Overall: {0:+.2f} ({1}) | Time: {2:+.2f} | Fare: {3:+.2f}"
+msgstr "General: {0:+.2f} ({1}) | Tiempo: {2:+.2f} | Tarifa: {3:+.2f}"
+
+msgctxt "scaling_mode"
+msgid "Scaling:"
+msgstr "Escalado:"
+
+msgctxt "scaling_mode_auto"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "search_section_lines"
+msgid "Lines"
+msgstr "Líneas"
+
+msgctxt "search_section_nearby"
+msgid "Nearby"
+msgstr "Cercano"
+
+msgctxt "search_section_stations"
+msgid "Stations"
+msgstr "Estaciones"
+
+msgctxt "search_section_trains"
+msgid "Trains"
+msgstr "Trenes"
+
+msgctxt "search_section_world"
+msgid "World"
+msgstr "Mundo"
+
+msgctxt "selection_blueprint_bill"
+msgid "Selected blueprints bill"
+msgstr "Factura de planos seleccionados"
+
+msgctxt "settings"
+msgid "Settings"
+msgstr "Opciones"
+
+msgctxt "single_player"
+msgid "Single player"
+msgstr "Un jugador"
+
+msgctxt "start_game"
+msgid "Start game"
+msgstr "Empezar partida"
+
+msgctxt "station_name_edit"
+msgid "Name:"
+msgstr "Nombre:"
+
+msgctxt "station_name_use_auto"
+msgid "Use automatic name"
+msgstr "Nombre automático"
+
+msgctxt "station_pop_area"
+msgid "Area:"
+msgstr "Area:"
+
+msgctxt "stations_n_0"
+msgid "0 stations"
+msgstr "0 estaciones"
+
+msgctxt "stations_n_1"
+msgid "1 station"
+msgstr "1 estación"
+
+msgctxt "stations_n_many"
+msgid "%d stations"
+msgstr "%d estaciones"
+
+msgctxt "steam_chat"
+msgid "Steam Chat and Friends"
+msgstr "Steam Chat y Amigos"
+
+msgctxt "steam_chat_client_info"
+msgid "The Join Game options in Steam Chat and Steam Friends can be used to request access to other player games."
+msgstr "Las opciones para entrar a partida del Steam Chat y Amigos se pueden utilizar para pedir acceso a las partidas de otros jugadores."
+
+msgctxt "steam_chat_server_info"
+msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
+msgstr "Las opciones para invitar jugadores del Steam Chat y Amigos se pueden utilizar para invitar a otros jugadores a tu partida. Tus opciones para las reglas de acceso se aplican a estas invitaciones."
+
+msgctxt "steam_friends"
+msgid "Steam Friends"
+msgstr "Amigos Steam"
+
+msgctxt "steamworks_id"
+msgid "Steamworks ID:"
+msgstr "Steamworks ID:"
+
+msgctxt "stop_idx"
+msgid "Stop {}"
+msgstr "Parada {}"
+
+msgctxt "stops_n_0"
+msgid "0 stops"
+msgstr "0 paradas"
+
+msgctxt "stops_n_1"
+msgid "1 stop"
+msgstr "1 parada"
+
+msgctxt "stops_n_many"
+msgid "%d stops"
+msgstr "%d paradas"
+
+msgctxt "strangers"
+msgid "Strangers"
+msgstr "Desconocidos"
+
+msgctxt "subs_in_workshop"
+msgid "Subscribe in Workshop"
+msgstr "Suscribirse en Workshop"
+
+msgctxt "subscribe_to_mods"
+msgid "Subscribe to mods"
+msgstr "Suscribirse a mods"
+
+msgctxt "time_h_m"
+msgid "{0}h {1}m"
+msgstr "{0}h {1}m"
+
+msgctxt "time_m"
+msgid "{}m"
+msgstr "{}m"
+
+msgctxt "time_s"
+msgid "{}s"
+msgstr "{}s"
+
+msgctxt "title"
+msgid "Title:"
+msgstr "Título:"
+
+msgctxt "tooltip_demand"
+msgid "Local {0}% | Regional {1}% | Long distance {2}%"
+msgstr "Local {0}% | Regional {1}% | Larga distancia {2}%"
+
+msgctxt "total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "track_editor"
+msgid "Tracks"
+msgstr "Vías"
+
+msgctxt "track_ground"
+msgid "Ground"
+msgstr "Suelo"
+
+msgctxt "track_ground_crossings"
+msgid "Ground (with road crossings)"
+msgstr "Suelo"
+
+msgctxt "track_ground_underpasses"
+msgid "Ground"
+msgstr "Suelo"
+
+msgctxt "track_hits"
+msgid "track hits"
+msgstr "choques con vía"
+
+msgctxt "track_metro1"
+msgid "Metro depth 1"
+msgstr "Túnel"
+
+msgctxt "track_metro2"
+msgid "Metro depth 2"
+msgstr "Túnel"
+
+msgctxt "track_tram"
+msgid "Tram"
+msgstr "Tranvía"
+
+msgctxt "track_trench"
+msgid "Trench"
+msgstr "Trinchera"
+
+msgctxt "track_tunnel1"
+msgid "Tunnel"
+msgstr "Túnel"
+
+msgctxt "track_tunnel2"
+msgid "Tunnel depth 4"
+msgstr "Túnel"
+
+msgctxt "track_viaduct"
+msgid "Viaduct"
+msgstr "Viaducto"
+
+msgctxt "train_base_color_edit"
+msgid "Base color:"
+msgstr "Color base:"
+
+msgctxt "train_bill"
+msgid "Train bill"
+msgstr "Factura de trenes"
+
+msgctxt "train_clone"
+msgid "Clone"
+msgstr "Clonar"
+
+msgctxt "train_code_edit"
+msgid "Serial:"
+msgstr "N. serie:"
+
+msgctxt "train_decal_color_edit"
+msgid "Decal color:"
+msgstr "Color decor.:"
+
+msgctxt "train_decal_edit"
+msgid "Decal:"
+msgstr "Decoración:"
+
+msgctxt "train_decal_pick_edit"
+msgid "Pick a decal"
+msgstr "Elige una decor."
+
+msgctxt "train_decal_use_line_color"
+msgid "Use line color"
+msgstr "Usa color línea"
+
+msgctxt "train_info_destination"
+msgid "Destination:"
+msgstr "Destino:"
+
+msgctxt "train_info_dim"
+msgid "Dimensions:"
+msgstr "Dimensiones:"
+
+msgctxt "train_info_dim_d"
+msgid "{0} cars / {1:.2f}m / {2:.2f}m"
+msgstr "{0} coches / {1:.2f}m / {2:.2f}m"
+
+msgctxt "train_info_empty_mass"
+msgid "Empty mass:"
+msgstr "Masa vacío:"
+
+msgctxt "train_info_force"
+msgid "Tractive force:"
+msgstr "Fuerza tractiva:"
+
+msgctxt "train_info_line"
+msgid "Line:"
+msgstr "Línea:"
+
+msgctxt "train_info_location"
+msgid "Location:"
+msgstr "Lugar:"
+
+msgctxt "train_info_maintenance_cost"
+msgid "Maintenace cost:"
+msgstr "Coste mantenimiento:"
+
+msgctxt "train_info_maintenance_cost_f"
+msgid "${} per day"
+msgstr "${} por día"
+
+msgctxt "train_info_mass"
+msgid "Mass / empty:"
+msgstr "Masa / vacío:"
+
+msgctxt "train_info_max_pax"
+msgid "Max pax:"
+msgstr "Max pax:"
+
+msgctxt "train_info_max_speed"
+msgid "Max speed:"
+msgstr "Max velocidad:"
+
+msgctxt "train_info_pax"
+msgid "Pax / max:"
+msgstr "Pax / max:"
+
+msgctxt "train_info_running_cost"
+msgid "Running cost:"
+msgstr "Coste circulación:"
+
+msgctxt "train_info_running_cost_f"
+msgid "${:.4} per km per pax"
+msgstr "${:.4} por km por pax"
+
+msgctxt "train_info_speed"
+msgid "Speed / max:"
+msgstr "Velocidad / max:"
+
+msgctxt "train_info_status"
+msgid "Status:"
+msgstr "Estado:"
+
+msgctxt "train_info_status_circulation"
+msgid "Running"
+msgstr "Circulando"
+
+msgctxt "train_info_status_in_storage"
+msgid "Stored"
+msgstr "Almacenado"
+
+msgctxt "train_info_status_lost_or_bad_orders"
+msgid "Lost or bad orders"
+msgstr "Perdido u orden inválida"
+
+msgctxt "train_info_status_no_path_to_destination"
+msgid "No path to destination"
+msgstr "Sin camino a destino"
+
+msgctxt "train_info_storing"
+msgid "Storing in:"
+msgstr "Almacenado en:"
+
+msgctxt "train_intervention_dialog_desc"
+msgid "This intervention will reset the train position to its next stop or depot, pay the costs of relocation, refund its fares, and pay a compensation fine. The price is ${}."
+msgstr "Esta intervención resetea la posición del tren a su siguente parada o depósito, paga el coste del reposicionamiento, reembolsa lo pagado a sus pax, y paga una multa. El precio es ${}."
+
+msgctxt "train_intervention_dialog_title"
+msgid "Train intervention"
+msgstr "Intervenir tren"
+
+msgctxt "train_invalid_order"
+msgid "Invalid order"
+msgstr "Orden inválida"
+
+msgctxt "train_list_filter_alert"
+msgid "Only alert warnings"
+msgstr "Solo con alertas"
+
+msgctxt "train_list_filter_all_lines"
+msgid "All lines"
+msgstr "Todas las líneas"
+
+msgctxt "train_list_filter_all_models"
+msgid "All models"
+msgstr "Todos los modelos"
+
+msgctxt "train_model_edit"
+msgid "Model:"
+msgstr "Modelo:"
+
+msgctxt "train_n_cars_edit"
+msgid "Cars:"
+msgstr "Coches:"
+
+msgctxt "train_n_units"
+msgid "Units:"
+msgstr "Unidades:"
+
+msgctxt "train_name_edit"
+msgid "Name:"
+msgstr "Nombre:"
+
+msgctxt "train_purchase_no_cash"
+msgid "Not enough money for purchase"
+msgstr "No hay suficiente dinero para la compra"
+
+msgctxt "train_purchase_no_cash_desc"
+msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
+msgstr "No hay suficiente dinero para comprar los trenes. Elige un tren más barato, menos trenes, menos coches, o consigue más dinero."
+
+msgctxt "train_sched_add"
+msgid "Toggle new slots mode"
+msgstr "Activar creación de slots"
+
+msgctxt "train_sched_add_help"
+msgid "Click anywhere to add a new schedule slot"
+msgstr "Click en cualquier parte para añadir un slot de programación"
+
+msgctxt "train_sched_clear_all_multi"
+msgid "Delete all {} slots"
+msgstr "Borrar todos los slots de {}"
+
+msgctxt "train_sched_clear_all_single"
+msgid "Delete all slots"
+msgstr "Borrar todos los slots"
+
+msgctxt "train_sched_clear_day"
+msgid "Delete all {0} slots from train {1}"
+msgstr "Borrar todos los slots de {0} del tren {1}"
+
+msgctxt "train_sched_copy_day"
+msgid "Copy all {0} slots from train {1}"
+msgstr "Copiar todos los slots de {0} del tren {1}"
+
+msgctxt "train_sched_copy_slot"
+msgid "Copy selected slot"
+msgstr "Copiar slot seleccionado"
+
+msgctxt "train_sched_copy_week"
+msgid "Copy entire week schedule of train {}"
+msgstr "Copiar toda la programación semanal del tren {}"
+
+msgctxt "train_sched_del"
+msgid "Delete selected slot"
+msgstr "Borrar slot seleccionado"
+
+msgctxt "train_sched_depot_pick"
+msgid "Pick depot"
+msgstr "Elegir depósito"
+
+msgctxt "train_sched_line"
+msgid "Line:"
+msgstr "Línea:"
+
+msgctxt "train_sched_new_slot"
+msgid "New"
+msgstr "Nuevo"
+
+msgctxt "train_sched_noun_all"
+msgid "All"
+msgstr "Todos"
+
+msgctxt "train_sched_noun_day"
+msgid "Day"
+msgstr "Día"
+
+msgctxt "train_sched_noun_slot"
+msgid "Slot"
+msgstr "Slot"
+
+msgctxt "train_sched_noun_train"
+msgid "Train"
+msgstr "Tren"
+
+msgctxt "train_sched_noun_week"
+msgid "Week"
+msgstr "Semana"
+
+msgctxt "train_sched_noun_week_all"
+msgid "Week *"
+msgstr "Semana *"
+
+msgctxt "train_sched_paste_all_day"
+msgid "Paste slots in every day"
+msgstr "Pegar slots en todos los días"
+
+msgctxt "train_sched_paste_all_train"
+msgid "Paste slots in every train {} schedule"
+msgstr "Pegar slots en {} de todos los trenes"
+
+msgctxt "train_sched_paste_day"
+msgid "Paste slots on train {0} {1} schedule"
+msgstr "Pegar slots en el {1} del tren {0}"
+
+msgctxt "train_sched_paste_week"
+msgid "Replace entire week schedule in train {}"
+msgstr "Reemplazar toda la programación semanal en el tren {}"
+
+msgctxt "train_sched_paste_week_all"
+msgid "Replace entire week schedule in all trains"
+msgstr "Reemplazar toda la programación semanal en todos los trenes"
+
+msgctxt "train_sched_slot_kind"
+msgid "Order:"
+msgstr "Orden:"
+
+msgctxt "train_sched_slot_kind_depot"
+msgid "Store in depot"
+msgstr "Almacenar en depósito"
+
+msgctxt "train_sched_slot_kind_line"
+msgid "Run a line"
+msgstr "Circular en línea"
+
+msgctxt "train_sched_start"
+msgid "Start time:"
+msgstr "Tiempo inicio:"
+
+msgctxt "train_sched_start_stop"
+msgid "Start from:"
+msgstr "Empezar desde:"
+
+msgctxt "train_total_price_1"
+msgid "Total for 1 unit"
+msgstr "Total para 1 unidad"
+
+msgctxt "train_total_price_many"
+msgid "Total for %d units"
+msgstr "Total para %d unidades"
+
+msgctxt "traineditor_clear_selection"
+msgid "Clear selection"
+msgstr "Limpiar selección"
+
+msgctxt "traineditor_delete_all_selected"
+msgid "Delete selected trains"
+msgstr "Borrar trenes seleccionados"
+
+msgctxt "traineditor_overflow_desc"
+msgid "Too many trains selected to show the slot editor, but it is still possible to use some bulk editing operations."
+msgstr "Hay demasiados trenes seleccionados para mostrar el editor de slots, pero aún es posible ejecutar algunas operaciones."
+
+msgctxt "traineditor_select_all"
+msgid "Select all trains"
+msgstr "Seleccionar todos los trenes"
+
+msgctxt "traineditor_tooltip_buy_mode"
+msgid "Purchase new trains"
+msgstr "Comprar nuevos trenes"
+
+msgctxt "traineditor_tooltip_del"
+msgid "Delete selected train"
+msgstr "Borrar tren seleccionado"
+
+msgctxt "traineditor_tooltip_list_mode"
+msgid "List trains and edit their details and schedule"
+msgstr "Listar trenes y editar sus detalles y programación"
+
+msgctxt "traineditor_tooltip_sched_mode"
+msgid "Edit the schedule of multiple trains simultaneously"
+msgstr "Editar la programación de múltiples trenes simultaneamente"
+
+msgctxt "traineditor_tooltip_tz_selector"
+msgid "Time zone"
+msgstr "Zona horaria"
+
+msgctxt "traineditor_tz_auto"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "trains"
+msgid "Trains"
+msgstr "Trenes"
+
+msgctxt "trains_models_n_0"
+msgid "0 models"
+msgstr "0 modelos"
+
+msgctxt "trains_models_n_1"
+msgid "1 model"
+msgstr "1 modelo"
+
+msgctxt "trains_models_n_many"
+msgid "%d models"
+msgstr "%d modelos"
+
+msgctxt "trains_n_0"
+msgid "0 trains"
+msgstr "0 trenes"
+
+msgctxt "trains_n_1"
+msgid "1 train"
+msgstr "1 tren"
+
+msgctxt "trains_n_many"
+msgid "%d trains"
+msgstr "%d trenes"
+
+msgctxt "ugc_error_conn"
+msgid "Error while connecting with Steamworks"
+msgstr "Error conectando a Steamworks"
+
+msgctxt "ugc_error_logged"
+msgid "Must be logged into Steam to perform this action"
+msgstr "Hay que estar dentro de Steam para ejecutar esta acción"
+
+msgctxt "ugc_error_priv"
+msgid "Not enough privileges with the current user account in Steam"
+msgstr "No hay suficientes privilegios con la cuenta actual de Steam"
+
+msgctxt "ugc_error_timeout"
+msgid "Timeout while connecting with Steam"
+msgstr "Timeout conectando a Steam"
+
+msgctxt "ugc_some_rule_req"
+msgid "Selected local mod is empty"
+msgstr "El mod local seleccionado está vacío"
+
+msgctxt "ugc_valid_desc_req"
+msgid "Description is required"
+msgstr "Descripción es obligatoria"
+
+msgctxt "ugc_valid_desc_too_long"
+msgid "Description is too long"
+msgstr "Description demasiado larga"
+
+msgctxt "ugc_valid_folder_req"
+msgid "A valid local mod is required"
+msgstr "Se requiere un mod local"
+
+msgctxt "ugc_valid_image_req"
+msgid "An icon image file is required"
+msgstr "Se requiere una imagen de icono"
+
+msgctxt "ugc_valid_title_req"
+msgid "Title is required"
+msgstr "Se requiere un título
+
+msgctxt "ugc_valid_title_too_long"
+msgid "Title is too long"
+msgstr "Título demasiado largo"
+
+msgctxt "ugc_warn_already"
+msgid "A Mod is still being created and/or updated, please wait"
+msgstr "Se está subiendo o creando un mod, espera por favor"
+
+msgctxt "unit_price"
+msgid "Unit price"
+msgstr "Precio unidad"
+
+msgctxt "unknown"
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgctxt "update_note"
+msgid "Update note:"
+msgstr "Nota update:"
+
+msgctxt "upload_mod"
+msgid "Upload mod"
+msgstr "Subir mod"
+
+msgctxt "view_in_workshop"
+msgid "View in Workshop"
+msgstr "Ver en Workshop"
+
+msgctxt "visibility"
+msgid "Visibility:"
+msgstr "Visibilidad:"
+
+msgctxt "vsync_mode"
+msgid "VSync:"
+msgstr "VSync:"
+
+msgctxt "warning"
+msgid "Warning"
+msgstr "Alerta"
+
+msgctxt "waypoint"
+msgid "Waypoint"
+msgstr "Punto de paso"
+
+msgctxt "weekday_friday"
+msgid "Friday"
+msgstr "Viernes"
+
+msgctxt "weekday_monday"
+msgid "Monday"
+msgstr "Lunes"
+
+msgctxt "weekday_saturday"
+msgid "Saturday"
+msgstr "Sábado"
+
+msgctxt "weekday_short_friday"
+msgid "Fri"
+msgstr "Vie"
+
+msgctxt "weekday_short_monday"
+msgid "Mon"
+msgstr "Lun"
+
+msgctxt "weekday_short_saturday"
+msgid "Sat"
+msgstr "Sáb"
+
+msgctxt "weekday_short_sunday"
+msgid "Sun"
+msgstr "Dom"
+
+msgctxt "weekday_short_thursday"
+msgid "Thu"
+msgstr "Jue"
+
+msgctxt "weekday_short_tuesday"
+msgid "Tue"
+msgstr "Mar"
+
+msgctxt "weekday_short_wednesday"
+msgid "Wed"
+msgstr "Mié"
+
+msgctxt "weekday_sunday"
+msgid "Sunday"
+msgstr "Domingo"
+
+msgctxt "weekday_thursday"
+msgid "Thursday"
+msgstr "Jueves"
+
+msgctxt "weekday_tuesday"
+msgid "Tuesday"
+msgstr "Martes"
+
+msgctxt "weekday_wednesday"
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgctxt "workshop_more_langs"
+msgid "More languages"
+msgstr "Más idiomas"
+
+msgctxt "wrong_length"
+msgid "wrong length"
+msgstr "longitud inválida"
+
+msgctxt "wrong_protocol"
+msgid "Protocol mismatch with server. Make sure both your client and the server are updated to the latest game version."
+msgstr "El protocolo no coincide con el servidor. Asegúrate que tanto tú como el servidor estáis actualizados a la versión más nueva del juego."
+

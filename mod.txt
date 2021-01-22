@@ -1,0 +1,13 @@
+[ModMeta]
+schema=1
+name=Traducción al Español
+author=Weird and Wry
+version=1.0.0
+
+[Language]
+code_iso_639_2=spa
+name=Español
+
+[LanguageDict]
+code_iso_639_2=spa
+po=game.po
