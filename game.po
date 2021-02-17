@@ -1136,15 +1136,15 @@ msgid "Map names priority:"
 msgstr "Prioridad nombres mapa:"
 
 msgctxt "matches_n_0"
-msgid "0 coincidencias"
+msgid "0 matches"
 msgstr "0 coincidencias"
 
 msgctxt "matches_n_1"
-msgid "1 coincidencia"
+msgid "1 match"
 msgstr "1 coincidencia"
 
 msgctxt "matches_n_many"
-msgid "%d coincidencias"
+msgid "%d matches"
 msgstr "%d coincidencias"
 
 msgctxt "missing_mod"
