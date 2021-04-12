@@ -1,680 +1,275 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.1.58
-msgctxt "confirm_delete_line"
-msgid "Confirm line deletion"
-msgstr "Borrar la línea?"
-
-#v1.1.58
-msgctxt "confirm_delete_line_desc"
-msgid "Do you want to delete the line named {}?"
-msgstr "Confirmas que quieres borrar la línea de nombre {}?"
-
-#v1.1.58
-msgctxt "delete_line"
-msgid "Delete line"
-msgstr "Borrar línea"
-
-#v1.1.58
-msgctxt "editor_warn_zero_interval"
-msgid "At least one interval time is set to 0. Use the timing calculator after you are done editing the line."
-msgstr "Al menos un intervalo tiene tiempo 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
-
-#v1.1.58
-msgctxt "filter_all_matches"
-msgid "{} models"
-msgstr "{} modelos"
-
-#v1.1.58
-msgctxt "filter_high"
-msgid "High"
-msgstr "Máx."
-
-#v1.1.58
-msgctxt "filter_high_c"
-msgid "High:"
-msgstr "Máx.:"
-
-#v1.1.58
-msgctxt "filter_low"
-msgid "Low"
-msgstr "Mín."
-
-#v1.1.58
-msgctxt "filter_low_c"
-msgid "Low:"
-msgstr "Mín.:"
-
-#v1.1.58
-msgctxt "filter_max_pax"
-msgid "Max pax"
-msgstr "Pax máx."
-
-#v1.1.58
-msgctxt "filter_max_speed"
-msgid "Max speed"
-msgstr "Vel. máx."
-
-#v1.1.58
-msgctxt "filter_price"
-msgid "Price"
-msgstr "Precio"
-
-#v1.1.58
-msgctxt "filter_range_high"
-msgid "At most {0} {1}"
-msgstr "Hasta {0} {1}"
-
-#v1.1.58
-msgctxt "filter_range_low"
-msgid "At least {0} {1}"
-msgstr "Desde {0} {1}"
-
-#v1.1.58
-msgctxt "filter_range_low_high"
-msgid "{0} to {1} {2}"
-msgstr "{0} a {1} {2}"
-
-#v1.1.58
-msgctxt "filter_some_matches"
-msgid "{0} of {1} models"
-msgstr "{0} de {1} modelos"
-
-#v1.1.58
-msgctxt "filter_year_intro"
-msgid "Year introduced"
-msgstr "Año intro."
-
-#v1.1.58
-msgctxt "filter_year_retired"
-msgid "Year retired"
-msgstr "Año retiro"
-
-#v1.1.58
-msgctxt "last_interval"
-msgid "Last interval"
-msgstr "Último intervalo"
-
-#v1.1.58
-msgctxt "last_train"
-msgid "Last train"
-msgstr "Úlitmo tren"
-
-#v1.1.58
-msgctxt "lineeditor_auto_eta_expected_pax"
-msgid "Pax occupancy %:"
-msgstr "Ocupación %:"
-
-#v1.1.58
-msgctxt "lineeditor_pax_transfer_ai"
-msgid "Pax AI at transfers:"
-msgstr "Pax en transbordo:"
-
-#v1.1.58
-msgctxt "lineeditor_pax_transfer_max_int"
-msgid "Considers line max interval"
-msgstr "Valora intervalo máx. de línea"
-
-#v1.1.58
-msgctxt "lineeditor_pax_transfer_min_int"
-msgid "Considers stop min interval"
-msgstr "Valora intervalo mín. de parada"
-
-#v1.1.58
-msgctxt "lineeditor_tooltip_lock_all_stops"
-msgid "Lock all stop times"
-msgstr "Bloquear todos los tiempos de parada"
-
-#v1.1.58
-msgctxt "lineeditor_tooltip_unlock_all_stops"
-msgid "Unlock all stop times"
-msgstr "Desbloquear todos los tiempos de parada"
-
-#v1.1.58
-msgctxt "loader_cancelling"
-msgid "Cancelling"
-msgstr "Cancelando"
-
-#v1.1.58
-msgctxt "loader_db_snapshot"
-msgid "Loading database snapshot"
-msgstr "Cargando base de datos"
-
-#v1.1.58
-msgctxt "loader_decompressing"
-msgid "Decompressing"
-msgstr "Descomprimiendo"
-
-#v1.1.58
-msgctxt "loader_deserializing"
-msgid "Deserializing"
-msgstr "Deserializando"
-
-#v1.1.58
-msgctxt "loader_error_invalid"
-msgid "Invalid state"
-msgstr "Estado inválido"
-
-#v1.1.58
-msgctxt "loader_final"
-msgid "Finalizing"
-msgstr "Finalizando"
-
-#v1.1.58
-msgctxt "loader_importing_db"
-msgid "Importing database"
-msgstr "Importando base de datos"
-
-#v1.1.58
-msgctxt "loader_importing_sim"
-msgid "Importing simulation state"
-msgstr "Importando estado de la simulación"
-
-#v1.1.58
-msgctxt "loader_parsing_header"
-msgid "Parsing header"
-msgstr "Interpretando cabecera"
-
-#v1.1.58
-msgctxt "loader_prep_import"
-msgid "Preparing database import"
-msgstr "Preparando importación de base de datos"
-
-#v1.1.58
-msgctxt "loader_scrubbing"
-msgid "Scrubbing"
-msgstr "Limpiando"
-
-#v1.1.58
-msgctxt "loader_spawn"
-msgid "Spawning game loader"
-msgstr "Preparando cargador"
-
-#v1.1.58
-msgctxt "loader_updating_rules"
-msgid "Updating game rules"
-msgstr "Actualizando reglas del juego"
-
-#v1.1.58
-msgctxt "msg_loading_error"
-msgid "Error loading game"
-msgstr "Error cargando partida"
-
-#v1.1.58
-msgctxt "msg_loading_game_default"
-msgid "The game is being loaded, please wait."
-msgstr "Se está cargando la partida, por favor espere."
-
-#v1.1.58
-msgctxt "msg_loading_game_taks"
-msgid "The game is being loaded: {}..."
-msgstr "Cargando partida: {}..."
-
-#v1.1.58
-msgctxt "msg_loading_game_title"
-msgid "Loading game"
-msgstr "Cargando partida"
-
-#v1.1.58
-msgctxt "mvo_user_map_region_names"
-msgid "Map labels"
-msgstr "Etiquetas de mapa"
-
-#v1.1.58
-msgctxt "option_company_demand"
-msgid "Pax demand factor:"
-msgstr "Factor demanda de pax:"
-
-#v1.1.58
-msgctxt "other"
-msgid "Other"
-msgstr "Otros"
-
-#v1.1.58
-msgctxt "path_board_at"
-msgid "Wait and board at platform {}"
-msgstr "Esperar y entrar en plataforma {}"
-
-#v1.1.58
-msgctxt "path_pax_train_warn"
-msgid "Path starts at pax next stop"
-msgstr "El camino empieza la siguiente parada del pax"
-
-#v1.1.58
-msgctxt "paxlist_waiting_pax"
-msgid "Waiting for pax..."
-msgstr "Esperando pax..."
-
-#v1.1.58
-msgctxt "platforms"
-msgid "Platforms"
-msgstr "Plataformas"
-
-#v1.1.58
-msgctxt "search_section_train_models"
-msgid "Purchase train"
-msgstr "Comprar tren"
-
-#v1.1.58
-msgctxt "stop_leg_at_speed"
-msgid "at"
-msgstr "a"
-
-#v1.1.58
-msgctxt "stop_leg_at_speed_units"
-msgid "km/h min."
-msgstr "km/h mín."
-
-#v1.1.58
-msgctxt "stop_leg_m"
-msgid "{}m in"
-msgstr "{}m en"
-
-#v1.1.58
-msgctxt "tag_autorack"
-msgid "Autorack"
-msgstr "Autoexpreso"
-
-#v1.1.58
-msgctxt "tag_baggage"
-msgid "Baggage"
-msgstr "Equipaje"
-
-#v1.1.58
-msgctxt "tag_bar"
-msgid "Bar"
-msgstr "Bar"
-
-#v1.1.58
-msgctxt "tag_brake"
-msgid "Brake"
-msgstr "Freno"
-
-#v1.1.58
-msgctxt "tag_broad"
-msgid "Broad"
-msgstr "Ancha"
-
-#v1.1.58
-msgctxt "tag_cable"
-msgid "Cable"
-msgstr "Cable"
-
-#v1.1.58
-msgctxt "tag_cable_car"
-msgid "Cable car"
-msgstr "Coche de cable"
-
-#v1.1.58
-msgctxt "tag_coach"
-msgid "Coach"
-msgstr "Pasajeros"
-
-#v1.1.58
-msgctxt "tag_commuter"
-msgid "Commuter"
-msgstr "Cercanías"
-
-#v1.1.58
-msgctxt "tag_compartments"
-msgid "Compartments"
-msgstr "Cabinas"
-
-#v1.1.58
-msgctxt "tag_deposit"
-msgid "Deposit"
-msgstr "Depósito"
-
-#v1.1.58
-msgctxt "tag_diesel"
-msgid "Diesel"
-msgstr "Diésel"
-
-#v1.1.58
-msgctxt "tag_electric"
-msgid "Electric"
-msgstr "Eléctrico"
-
-#v1.1.58
-msgctxt "tag_end_of_train"
-msgid "End of train"
-msgstr "Fin de tren"
-
-#v1.1.58
-msgctxt "tag_fantasy"
-msgid "Fantasy"
-msgstr "Fantasía"
-
-#v1.1.58
-msgctxt "tag_filter_any"
-msgid "Any"
-msgstr "Cualquiera"
-
-#v1.1.58
-msgctxt "tag_filter_ignore"
-msgid "Ignore"
-msgstr "Ignorar"
-
-#v1.1.58
-msgctxt "tag_filter_n_tags"
-msgid "{} tags"
-msgstr "{} etiquetas"
-
-#v1.1.58
-msgctxt "tag_generator"
-msgid "Generator"
-msgstr "Generador"
-
-#v1.1.58
-msgctxt "tag_heritage"
-msgid "Heritage"
-msgstr "Histórico"
-
-#v1.1.58
-msgctxt "tag_high_speed"
-msgid "High speed"
-msgstr "Alta velocidad"
-
-#v1.1.58
-msgctxt "tag_hotel"
-msgid "Hotel"
-msgstr "Hotel"
-
-#v1.1.58
-msgctxt "tag_intercity"
-msgid "Intercity"
-msgstr "Intercity"
-
-#v1.1.58
-msgctxt "tag_light_rail"
-msgid "Light rail"
-msgstr "Ligero"
-
-#v1.1.58
-msgctxt "tag_linear_induction"
-msgid "Linear induction"
-msgstr "Inducción lineal"
-
-#v1.1.58
-msgctxt "tag_locomotive"
-msgid "Locomotive"
-msgstr "Locomotora"
-
-#v1.1.58
-msgctxt "tag_long_distance"
-msgid "Long distance"
-msgstr "Larga distancia"
-
-#v1.1.58
-msgctxt "tag_lounge"
-msgid "Lounge"
-msgstr "Salón"
-
-#v1.1.58
-msgctxt "tag_maglev"
-msgid "Maglev"
-msgstr "Maglev"
-
-#v1.1.58
-msgctxt "tag_metro"
-msgid "Metro"
-msgstr "Metro"
-
-#v1.1.58
-msgctxt "tag_minimum_gauge"
-msgid "Minimum gauge"
-msgstr "Ancho mínimo"
-
-#v1.1.58
-msgctxt "tag_monorail"
-msgid "Monorail"
-msgstr "Monorail"
-
-#v1.1.58
-msgctxt "tag_mu"
-msgid "Multiple unit"
-msgstr "Unidad de tren"
-
-#v1.1.58
-msgctxt "tag_narrow"
-msgid "Narrow"
-msgstr "Estrecha"
-
-#v1.1.58
-msgctxt "tag_observation"
-msgid "Observation"
-msgstr "Mirador"
-
-#v1.1.58
-msgctxt "tag_people_mover"
-msgid "People mover"
-msgstr "People mover"
-
-#v1.1.58
-msgctxt "tag_private"
-msgid "Private"
-msgstr "Privado"
-
-#v1.1.58
-msgctxt "tag_prototype"
-msgid "Prototype"
-msgstr "Prototipo"
-
-#v1.1.58
-msgctxt "tag_push_pull"
-msgid "Push-pull"
-msgstr "Push-pull"
-
-#v1.1.58
-msgctxt "tag_railbus"
-msgid "Railbus"
-msgstr "Railbus"
-
-#v1.1.58
-msgctxt "tag_regional"
-msgid "Regional"
-msgstr "Regional"
-
-#v1.1.58
-msgctxt "tag_restaurant"
-msgid "Restaurant"
-msgstr "Restaurante"
-
-#v1.1.58
-msgctxt "tag_shuttle"
-msgid "Shuttle"
-msgstr "Shuttle"
-
-#v1.1.58
-msgctxt "tag_sitting"
-msgid "Sitting"
-msgstr "Plazas sentadas"
-
-#v1.1.58
-msgctxt "tag_sleeper"
-msgid "Sleeper"
-msgstr "Dormitorio"
-
-#v1.1.58
-msgctxt "tag_standard"
-msgid "Standard"
-msgstr "Estándar"
-
-#v1.1.58
-msgctxt "tag_standing"
-msgid "Standing"
-msgstr "Plazas de pie"
-
-#v1.1.58
-msgctxt "tag_steam"
-msgid "Steam"
-msgstr "Vapor"
-
-#v1.1.58
-msgctxt "tag_tender"
-msgid "Tender"
-msgstr "Ténder"
-
-#v1.1.58
-msgctxt "tag_third_rail"
-msgid "Third rail"
-msgstr "Tercer raíl"
-
-#v1.1.58
-msgctxt "tag_tilting"
-msgid "Tilting"
-msgstr "Pendular"
-
-#v1.1.58
-msgctxt "tag_tram"
-msgid "Tram"
-msgstr "Tram"
-
-#v1.1.58
-msgctxt "tag_turbine"
-msgid "Turbine"
-msgstr "Turbina"
-
-#v1.1.58
-msgctxt "tag_tyres"
-msgid "Tyres"
-msgstr "Neumáticos"
-
-#v1.1.58
-msgctxt "tags_gauge"
-msgid "Gauge"
-msgstr "Ancho de vía"
-
-#v1.1.58
-msgctxt "tags_misc"
-msgid "Misc."
-msgstr "Misc."
-
-#v1.1.58
-msgctxt "tags_power"
-msgid "Power"
-msgstr "Potencia"
-
-#v1.1.58
-msgctxt "tags_role"
-msgid "Role"
-msgstr "Rol"
-
-#v1.1.58
-msgctxt "tags_units"
-msgid "Units"
-msgstr "Unidades"
-
-#v1.1.58
-msgctxt "train_info_arrives"
-msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
-
-#v1.1.58
-msgctxt "train_info_car_name"
-msgid "Car:"
-msgstr "Coche:"
-
-#v1.1.58
-msgctxt "train_info_departs"
-msgid "Departs in {}"
-msgstr "Salida en {}"
-
-#v1.1.58
-msgctxt "train_info_departs_from"
-msgid "Departs in {0} from {1}"
-msgstr "Salida en {0} desde {1}"
-
-#v1.1.58
-msgctxt "train_info_dim_car"
-msgid "{0:.2f}m / {1:.2f}m"
-msgstr "{0:.2f}m / {1:.2f}m"
-
-#v1.1.58
-msgctxt "train_info_late"
-msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
-
-#v1.1.58
-msgctxt "train_info_power"
-msgid "Power:"
-msgstr "Potencia:"
-
-#v1.1.58
-msgctxt "train_n_copies"
-msgid "Trains:"
-msgstr "Trenes:"
-
-#v1.1.58
-msgctxt "train_price"
-msgid "Train price"
-msgstr "Precio del tren"
-
-#v1.1.58
-msgctxt "train_texture_info"
-msgid "Train textures: {} of {} max"
-msgstr "IGNORE Train textures: {} of {} max"
-
-#v1.1.58
-msgctxt "train_textures_option"
-msgid "Train textures:"
-msgstr "IGNORE Train textures:"
-
-#v1.1.58
-msgctxt "train_units_inst"
-msgid "Units:"
-msgstr "Unidades:"
-
-#v1.1.58
-msgctxt "train_want_clone_schedule"
-msgid "Clone schedule of {}"
-msgstr "Copiar horario de {}"
-
-#v1.1.58
-msgctxt "transfers_to"
-msgid "Transfers to {}"
-msgstr "Transbordo a {}"
+#v1.1.72
+msgctxt "accounting_km_post"
+msgid "km"
+msgstr "km"
+
+#v1.1.72
+msgctxt "accounting_pax_never_serviced"
+msgid "Never serviced"
+msgstr "Sin servicio"
+
+#v1.1.72
+msgctxt "accounting_pax_new"
+msgid "New pax"
+msgstr "Nuevos pax"
+
+#v1.1.72
+msgctxt "accounting_period_lifetime"
+msgid "Lifetime"
+msgstr "Desde creación"
+
+#v1.1.72
+msgctxt "accounting_period_lifetime_unknown"
+msgid "Since its creation"
+msgstr "Desde creación"
+
+#v1.1.72
+msgctxt "accounting_stats_now"
+msgid "Now"
+msgstr "Ahora"
+
+#v1.1.72
+msgctxt "asset_lines"
+msgid "Lines"
+msgstr "Líneas"
+
+#v1.1.72
+msgctxt "asset_stations"
+msgid "Stations"
+msgstr "Estaciones"
+
+#v1.1.72
+msgctxt "asset_trains"
+msgid "Trains"
+msgstr "Trenes"
+
+#v1.1.72
+msgctxt "balance"
+msgid "Balance"
+msgstr "Balance"
+
+#v1.1.72
+msgctxt "confirm_set_no_cash"
+msgid "Confirm switching to unlimited money"
+msgstr "Confirmar el paso a dinero ilimitado"
+
+#v1.1.72
+msgctxt "confirm_set_no_cash_desc"
+msgid "Switching to unlimited money cannot be undone. Are you sure?"
+msgstr "Pasar a dinero ilimitado es definitivo. Estás seguro?"
+
+#v1.1.72
+msgctxt "delete_line_sell_trains"
+msgid "Delete and sell trains"
+msgstr "Borrar y vender trenes"
+
+#v1.1.72
+msgctxt "editor_warn_need_train_acc"
+msgid "Schedule at least one train to this line."
+msgstr "Programa al menos un tren en esta línea."
+
+#v1.1.72
+msgctxt "editor_warn_train_speed_too_high"
+msgid "Trains might be unable to adapt to dynamic traffic and mass conditions at this min. speed"
+msgstr "Es posible que los trenes no puedan adaptarse a las condiciones de tráfico con esta velocidad"
+
+#v1.1.72
+msgctxt "lineeditor_tooltip_purchase_trains"
+msgid "Purchase new trains for this line"
+msgstr "Comprar nuevos trenes para esta línea"
+
+#v1.1.72
+msgctxt "option_company_switch_no_cash"
+msgid "Switch to unlimited money"
+msgstr "Pasar a dinero ilimitado"
+
+#v1.1.72
+msgctxt "option_local_pax_ai"
+msgid "Pax AI at stations:"
+msgstr "IA pax en estación:"
+
+#v1.1.72
+msgctxt "option_local_pax_ai_disabled"
+msgid "Only considers optimal train"
+msgstr "Solo considera el tren óptimo"
+
+#v1.1.72
+msgctxt "option_local_pax_ai_enabled"
+msgid "Considers any train"
+msgstr "Considera cualquier tren"
+
+#v1.1.72
+msgctxt "ridership"
+msgid "Ridership"
+msgstr "Ocupación global en trenes"
+
+#v1.1.72
+msgctxt "right_bar_assets"
+msgid "Assets"
+msgstr "Recursos"
+
+#v1.1.72
+msgctxt "rtstat_coverage"
+msgid "Coverage"
+msgstr "Alcance"
+
+#v1.1.72
+msgctxt "rtstat_leg_m"
+msgid "Leg remaining distance"
+msgstr "Distancia segmento restante"
+
+#v1.1.72
+msgctxt "rtstat_leg_s"
+msgid "Leg remaining time"
+msgstr "Tiempo segmento restante"
+
+#v1.1.72
+msgctxt "rtstat_pax_avg_leg_time"
+msgid "Avg. leg time of contained pax"
+msgstr "Media de tiempo de segmento de pax"
+
+#v1.1.72
+msgctxt "rtstat_pax_avg_time"
+msgid "Avg. total time of contained pax"
+msgstr "Media de tiempo total de pax"
+
+#v1.1.72
+msgctxt "rtstat_pax_capacity"
+msgid "Capacity"
+msgstr "Capacidad"
+
+#v1.1.72
+msgctxt "rtstat_pax_capactity_usage"
+msgid "Capacity used %"
+msgstr "Uso de capacidad %"
+
+#v1.1.72
+msgctxt "rtstat_pax_new"
+msgid "Contains new pax"
+msgstr "Contiene nuevos pax"
+
+#v1.1.72
+msgctxt "rtstat_pax_total"
+msgid "Contains total pax"
+msgstr "Contiene total pax"
+
+#v1.1.72
+msgctxt "rtstat_pax_transfer"
+msgid "Contains transfer pax"
+msgstr "Contiene pax en transbordo"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_destination"
+msgid "Pax with destination at"
+msgstr "Pax con destino en"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_next"
+msgid "Pax with next stop at"
+msgstr "Pax con siguente parada en"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_origin"
+msgid "Pax with origin at"
+msgstr "Pax con origen en"
+
+#v1.1.72
+msgctxt "rtstat_sax_avg"
+msgid "Satisfaction"
+msgstr "Satisfacción"
+
+#v1.1.72
+msgctxt "rtstat_spawn_rate"
+msgid "Spawn rate"
+msgstr "Ritmo de nuevos pax"
+
+#v1.1.72
+msgctxt "rtstat_speed"
+msgid "Speed"
+msgstr "Velocidad"
+
+#v1.1.72
+msgctxt "sort_sep_accounting"
+msgid "--- Accounting ---"
+msgstr "--- Contabilidad ---"
+
+#v1.1.72
+msgctxt "sort_sep_real_time"
+msgid "--- Real time ---"
+msgstr "--- Tiempo real ---"
+
+#v1.1.72
+msgctxt "switch_no_cash"
+msgid "Switch to unlimited"
+msgstr "Pasar a ilimitado"
+
+#v1.1.72
+msgctxt "train_info_price"
+msgid "Price:"
+msgstr "Precio:"
+
+#v1.1.72
+msgctxt "train_new_for_line_name"
+msgid "New train for {}"
+msgstr "Nuevo tren para {}"
+
+#v1.1.72
+msgctxt "train_purchase_sched"
+msgid "Schedule:"
+msgstr "Programación:"
+
+#v1.1.72
+msgctxt "train_purchase_sched_empty"
+msgid "Blank schedule"
+msgstr "Programación vacía"
+
+#v1.1.72
+msgctxt "train_purchase_sched_simple"
+msgid "Run an existing line"
+msgstr "Recorrer una línea existente"
+
+#v1.1.72
+msgctxt "unit_kmh"
+msgid "km/h"
+msgstr "km/h"
+
+#v1.1.72
+msgctxt "unit_pax"
+msgid "pax"
+msgstr "pax"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.1.58
-msgctxt "editor_select_add_platform"
-msgid "Click platform letters in stations to add stops to the line"
-msgstr "Click en los nombres de plataformas para añadir paradas a la línea"
+#v1.1.72
+msgctxt "accounting_utc_warn"
+msgid "Accounting time: {} UTC0"
+msgstr "Tiempo conta.: {} UTC0"
 
-#v1.1.58
-msgctxt "editor_warn_zero_leg"
-msgid "At least one leg travel time is set to 0. Use the timing calculator after you are done editing the line."
-msgstr "Al menos uno de los tiempos de viaje está a 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
+#v1.1.72
+msgctxt "train_price"
+msgid "Train price:"
+msgstr "Precio del tren:"
 
-#v1.1.58
-msgctxt "lineeditor_auto_eta_speed"
-msgid "Min. speed (km/h):"
-msgstr "Vel. mín. (km/h):"
-
-#v1.1.58
-msgctxt "train_info_dim_d"
-msgid "{0} units / {1:.2f}m / {2:.2f}m"
-msgstr "{0} unidades / {1:.2f}m / {2:.2f}m"
-
-#v1.1.58
+#v1.1.72
 msgctxt "train_total_price_1"
-msgid "Total for 1 train"
-msgstr "Total para 1 tren"
+msgid "Total for 1 train:"
+msgstr "Total para 1 tren:"
 
-#v1.1.58
+#v1.1.72
 msgctxt "train_total_price_many"
-msgid "Total for %d trains"
-msgstr "Total para %d trenes"
+msgid "Total for %d trains:"
+msgstr "Total para %d trenes:"
 
-#v1.1.58
-msgctxt "traineditor_select_all"
-msgid "Select all listed trains"
-msgstr "Seleccionar todos los trenes listados"
+#v1.1.72
+msgctxt "train_want_clone_schedule"
+msgid "Clone from {}"
+msgstr "Copiar de {}"
 
 
 
@@ -837,11 +432,6 @@ msgid "Day"
 msgstr "Día"
 
 #v1.1.31
-msgctxt "accounting_period_lifetme"
-msgid "Lifetime"
-msgstr "Todo"
-
-#v1.1.31
 msgctxt "accounting_period_month"
 msgid "Month"
 msgstr "Mes"
@@ -935,11 +525,6 @@ msgstr "Costes de circulación"
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
 msgstr "Venta de trenes"
-
-#v1.1.37
-msgctxt "accounting_utc_warn"
-msgid "Accounting time: {} UTC-0"
-msgstr "Tiempo conta.: {} UTC-0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -1161,6 +746,16 @@ msgctxt "confirm_delete_desc"
 msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
 msgstr "Una o más vías ya han sido construidas. Borrar estas vías no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
 
+#v1.1.58
+msgctxt "confirm_delete_line"
+msgid "Confirm line deletion"
+msgstr "Borrar la línea?"
+
+#v1.1.58
+msgctxt "confirm_delete_line_desc"
+msgid "Do you want to delete the line named {}?"
+msgstr "Confirmas que quieres borrar la línea de nombre {}?"
+
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
@@ -1296,6 +891,11 @@ msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
 msgstr "Mover la partida guardada a la papelera"
 
+#v1.1.58
+msgctxt "delete_line"
+msgid "Delete line"
+msgstr "Borrar línea"
+
 #v1.1.31
 msgctxt "delete_tracks"
 msgid "Delete tracks"
@@ -1390,6 +990,11 @@ msgstr "Crear nuevo de[P]ósito"
 msgctxt "editor_move"
 msgid "[M]ove, delete and edit tracks"
 msgstr "[M]over, borrar y editar vías"
+
+#v1.1.58
+msgctxt "editor_select_add_platform"
+msgid "Click platform letters in stations to add stops to the line"
+msgstr "Click en los nombres de plataformas para añadir paradas a la línea"
 
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
@@ -1576,6 +1181,16 @@ msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
 msgstr "Aumenta el zoom para poder editar"
 
+#v1.1.58
+msgctxt "editor_warn_zero_interval"
+msgid "At least one interval time is set to 0. Use the timing calculator after you are done editing the line."
+msgstr "Al menos un intervalo tiene tiempo 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
+
+#v1.1.58
+msgctxt "editor_warn_zero_leg"
+msgid "At least one leg travel time is set to 0. Use the timing calculator after you are done editing the line."
+msgstr "Al menos uno de los tiempos de viaje está a 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
+
 #v1.1.31
 msgctxt "enabled"
 msgid "Enabled"
@@ -1690,6 +1305,76 @@ msgstr "Versión juego:"
 msgctxt "file_picker_version_old"
 msgid "1.1.35 or earlier (model v{})"
 msgstr "1.1.35 o anterior (model v{})"
+
+#v1.1.58
+msgctxt "filter_all_matches"
+msgid "{} models"
+msgstr "{} modelos"
+
+#v1.1.58
+msgctxt "filter_high"
+msgid "High"
+msgstr "Máx."
+
+#v1.1.58
+msgctxt "filter_high_c"
+msgid "High:"
+msgstr "Máx.:"
+
+#v1.1.58
+msgctxt "filter_low"
+msgid "Low"
+msgstr "Mín."
+
+#v1.1.58
+msgctxt "filter_low_c"
+msgid "Low:"
+msgstr "Mín.:"
+
+#v1.1.58
+msgctxt "filter_max_pax"
+msgid "Max pax"
+msgstr "Pax máx."
+
+#v1.1.58
+msgctxt "filter_max_speed"
+msgid "Max speed"
+msgstr "Vel. máx."
+
+#v1.1.58
+msgctxt "filter_price"
+msgid "Price"
+msgstr "Precio"
+
+#v1.1.58
+msgctxt "filter_range_high"
+msgid "At most {0} {1}"
+msgstr "Hasta {0} {1}"
+
+#v1.1.58
+msgctxt "filter_range_low"
+msgid "At least {0} {1}"
+msgstr "Desde {0} {1}"
+
+#v1.1.58
+msgctxt "filter_range_low_high"
+msgid "{0} to {1} {2}"
+msgstr "{0} a {1} {2}"
+
+#v1.1.58
+msgctxt "filter_some_matches"
+msgid "{0} of {1} models"
+msgstr "{0} de {1} modelos"
+
+#v1.1.58
+msgctxt "filter_year_intro"
+msgid "Year introduced"
+msgstr "Año intro."
+
+#v1.1.58
+msgctxt "filter_year_retired"
+msgid "Year retired"
+msgstr "Año retiro"
 
 #v1.1.31
 msgctxt "friend_state_away"
@@ -1921,6 +1606,16 @@ msgctxt "language_pick"
 msgid "Language:"
 msgstr "Idioma:"
 
+#v1.1.58
+msgctxt "last_interval"
+msgid "Last interval"
+msgstr "Último intervalo"
+
+#v1.1.58
+msgctxt "last_train"
+msgid "Last train"
+msgstr "Úlitmo tren"
+
 #v1.1.31
 msgctxt "line_0_stops"
 msgid "0 stops"
@@ -2031,30 +1726,10 @@ msgctxt "lineeditor_auto_acc_ramp"
 msgid "Acceleration ramp:"
 msgstr "Rampa aceleración:"
 
-#v1.1.37
-msgctxt "lineeditor_auto_acc_ramp_01"
-msgid "Fixed 0.1 ms-2"
-msgstr "Fija 0.1 ms-2"
-
-#v1.1.37
-msgctxt "lineeditor_auto_acc_ramp_02"
-msgid "Fixed 0.2 ms-2"
-msgstr "Fija 0.2 ms-2"
-
-#v1.1.37
-msgctxt "lineeditor_auto_acc_ramp_03"
-msgid "Fixed 0.3 ms-2"
-msgstr "Fija 0.3 ms-2"
-
-#v1.1.37
-msgctxt "lineeditor_auto_acc_ramp_04"
-msgid "Fixed 0.4 ms-2"
-msgstr "Fija 0.4 ms-2"
-
-#v1.1.37
-msgctxt "lineeditor_auto_acc_ramp_05"
-msgid "Fixed 0.5 ms-2"
-msgstr "Fija 0.5 ms-2"
+#v1.1.58
+msgctxt "lineeditor_auto_eta_expected_pax"
+msgid "Pax occupancy %:"
+msgstr "Ocupación %:"
 
 #v1.1.37
 msgctxt "lineeditor_auto_eta_max_speed"
@@ -2065,6 +1740,11 @@ msgstr "Velocidad tren max.:"
 msgctxt "lineeditor_auto_eta_run"
 msgid "Estimate leg travel times"
 msgstr "Estimar tiempos de viaje"
+
+#v1.1.58
+msgctxt "lineeditor_auto_eta_speed"
+msgid "Min. speed (km/h):"
+msgstr "Vel. mín. (km/h):"
 
 #v1.1.37
 msgctxt "lineeditor_auto_eta_title"
@@ -2131,6 +1811,21 @@ msgctxt "lineeditor_name"
 msgid "Name:"
 msgstr "Nombre:"
 
+#v1.1.58
+msgctxt "lineeditor_pax_transfer_ai"
+msgid "Pax AI at transfers:"
+msgstr "Pax en transbordo:"
+
+#v1.1.58
+msgctxt "lineeditor_pax_transfer_max_int"
+msgid "Considers line max interval"
+msgstr "Valora intervalo máx. de línea"
+
+#v1.1.58
+msgctxt "lineeditor_pax_transfer_min_int"
+msgid "Considers stop min interval"
+msgstr "Valora intervalo mín. de parada"
+
 #v1.1.31
 msgctxt "lineeditor_price_base"
 msgid "Base ticket price:"
@@ -2166,6 +1861,11 @@ msgctxt "lineeditor_tooltip_down_stop"
 msgid "Move down selected stop"
 msgstr "Mover la parada abajo"
 
+#v1.1.58
+msgctxt "lineeditor_tooltip_lock_all_stops"
+msgid "Lock all stop times"
+msgstr "Bloquear todos los tiempos de parada"
+
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
 msgid "Create a new line"
@@ -2175,6 +1875,11 @@ msgstr "Crear nueva línea"
 msgctxt "lineeditor_tooltip_show_mini_editor"
 msgid "Timing calculator"
 msgstr "Calculadora de tiempos"
+
+#v1.1.58
+msgctxt "lineeditor_tooltip_unlock_all_stops"
+msgid "Unlock all stop times"
+msgstr "Desbloquear todos los tiempos de parada"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_up_stop"
@@ -2210,6 +1915,71 @@ msgstr "Orden inverso"
 msgctxt "load_game"
 msgid "Load game"
 msgstr "Cargar partida"
+
+#v1.1.58
+msgctxt "loader_cancelling"
+msgid "Cancelling"
+msgstr "Cancelando"
+
+#v1.1.58
+msgctxt "loader_db_snapshot"
+msgid "Loading database snapshot"
+msgstr "Cargando base de datos"
+
+#v1.1.58
+msgctxt "loader_decompressing"
+msgid "Decompressing"
+msgstr "Descomprimiendo"
+
+#v1.1.58
+msgctxt "loader_deserializing"
+msgid "Deserializing"
+msgstr "Deserializando"
+
+#v1.1.58
+msgctxt "loader_error_invalid"
+msgid "Invalid state"
+msgstr "Estado inválido"
+
+#v1.1.58
+msgctxt "loader_final"
+msgid "Finalizing"
+msgstr "Finalizando"
+
+#v1.1.58
+msgctxt "loader_importing_db"
+msgid "Importing database"
+msgstr "Importando base de datos"
+
+#v1.1.58
+msgctxt "loader_importing_sim"
+msgid "Importing simulation state"
+msgstr "Importando estado de la simulación"
+
+#v1.1.58
+msgctxt "loader_parsing_header"
+msgid "Parsing header"
+msgstr "Interpretando cabecera"
+
+#v1.1.58
+msgctxt "loader_prep_import"
+msgid "Preparing database import"
+msgstr "Preparando importación de base de datos"
+
+#v1.1.58
+msgctxt "loader_scrubbing"
+msgid "Scrubbing"
+msgstr "Limpiando"
+
+#v1.1.58
+msgctxt "loader_spawn"
+msgid "Spawning game loader"
+msgstr "Preparando cargador"
+
+#v1.1.58
+msgctxt "loader_updating_rules"
+msgid "Updating game rules"
+msgstr "Actualizando reglas del juego"
 
 #v1.1.31
 msgctxt "loading_elip"
@@ -2741,6 +2511,26 @@ msgctxt "msaa_mode"
 msgid "MSAA:"
 msgstr "MSAA:"
 
+#v1.1.58
+msgctxt "msg_loading_error"
+msgid "Error loading game"
+msgstr "Error cargando partida"
+
+#v1.1.58
+msgctxt "msg_loading_game_default"
+msgid "The game is being loaded, please wait."
+msgstr "Se está cargando la partida, por favor espere."
+
+#v1.1.58
+msgctxt "msg_loading_game_taks"
+msgid "The game is being loaded: {}..."
+msgstr "Cargando partida: {}..."
+
+#v1.1.58
+msgctxt "msg_loading_game_title"
+msgid "Loading game"
+msgstr "Cargando partida"
+
 #v1.1.31
 msgctxt "multiplayer"
 msgid "Multiplayer"
@@ -2750,6 +2540,11 @@ msgstr "Multijugador"
 msgctxt "mvo_user_line_stops"
 msgid "Line stops"
 msgstr "Paradas de líneas"
+
+#v1.1.58
+msgctxt "mvo_user_map_region_names"
+msgid "Map labels"
+msgstr "Etiquetas de mapa"
 
 #v1.1.37
 msgctxt "mvo_user_station_event"
@@ -2836,6 +2631,11 @@ msgctxt "open_games_folder_tooltip"
 msgid "Open saved games folder"
 msgstr "Abrir carpeta de partidas guardadas"
 
+#v1.1.58
+msgctxt "option_company_demand"
+msgid "Pax demand factor:"
+msgstr "Factor demanda de pax:"
+
 #v1.1.31
 msgctxt "option_company_name"
 msgid "Company name:"
@@ -2911,6 +2711,11 @@ msgctxt "osm_admin_level_9"
 msgid "Ward"
 msgstr "Distrito"
 
+#v1.1.58
+msgctxt "other"
+msgid "Other"
+msgstr "Otros"
+
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
@@ -2955,6 +2760,16 @@ msgstr "{} se guardó con otra versión del juego. Quieres sobreescribirla, o re
 msgctxt "paste"
 msgid "Paste"
 msgstr "Pegar"
+
+#v1.1.58
+msgctxt "path_board_at"
+msgid "Wait and board at platform {}"
+msgstr "Esperar y entrar en plataforma {}"
+
+#v1.1.58
+msgctxt "path_pax_train_warn"
+msgid "Path starts at pax next stop"
+msgstr "El camino empieza la siguiente parada del pax"
 
 #v1.1.31
 msgctxt "pax_tab"
@@ -3006,6 +2821,11 @@ msgctxt "paxlist_n_pax"
 msgid "{} pax"
 msgstr "{} pax"
 
+#v1.1.58
+msgctxt "paxlist_waiting_pax"
+msgid "Waiting for pax..."
+msgstr "Esperando pax..."
+
 #v1.1.37
 msgctxt "pending_validations"
 msgid "Validating tracks and stations, {} to go"
@@ -3025,6 +2845,11 @@ msgstr "< Elige >"
 msgctxt "platform_n"
 msgid "Platform "
 msgstr "Plataforma "
+
+#v1.1.58
+msgctxt "platforms"
+msgid "Platforms"
+msgstr "Plataformas"
 
 #v1.1.31
 msgctxt "pop_reach"
@@ -3211,6 +3036,11 @@ msgctxt "search_section_stations"
 msgid "Stations"
 msgstr "Estaciones"
 
+#v1.1.58
+msgctxt "search_section_train_models"
+msgid "Purchase train"
+msgstr "Comprar tren"
+
 #v1.1.31
 msgctxt "search_section_trains"
 msgid "Trains"
@@ -3306,6 +3136,21 @@ msgctxt "stop_idx"
 msgid "Stop {}"
 msgstr "Parada {}"
 
+#v1.1.58
+msgctxt "stop_leg_at_speed"
+msgid "at"
+msgstr "a"
+
+#v1.1.58
+msgctxt "stop_leg_at_speed_units"
+msgid "km/h min."
+msgstr "km/h mín."
+
+#v1.1.58
+msgctxt "stop_leg_m"
+msgid "{}m in"
+msgstr "{}m en"
+
 #v1.1.31
 msgctxt "stops_n_0"
 msgid "0 stops"
@@ -3345,6 +3190,301 @@ msgstr "Suscribirse en Workshop"
 msgctxt "subscribe_to_mods"
 msgid "Subscribe to new mods"
 msgstr "Suscribirse a nuevos mods"
+
+#v1.1.58
+msgctxt "tag_autorack"
+msgid "Autorack"
+msgstr "Autoexpreso"
+
+#v1.1.58
+msgctxt "tag_baggage"
+msgid "Baggage"
+msgstr "Equipaje"
+
+#v1.1.58
+msgctxt "tag_bar"
+msgid "Bar"
+msgstr "Bar"
+
+#v1.1.58
+msgctxt "tag_brake"
+msgid "Brake"
+msgstr "Freno"
+
+#v1.1.58
+msgctxt "tag_broad"
+msgid "Broad"
+msgstr "Ancha"
+
+#v1.1.58
+msgctxt "tag_cable"
+msgid "Cable"
+msgstr "Cable"
+
+#v1.1.58
+msgctxt "tag_cable_car"
+msgid "Cable car"
+msgstr "Coche de cable"
+
+#v1.1.58
+msgctxt "tag_coach"
+msgid "Coach"
+msgstr "Pasajeros"
+
+#v1.1.58
+msgctxt "tag_commuter"
+msgid "Commuter"
+msgstr "Cercanías"
+
+#v1.1.58
+msgctxt "tag_compartments"
+msgid "Compartments"
+msgstr "Cabinas"
+
+#v1.1.58
+msgctxt "tag_deposit"
+msgid "Deposit"
+msgstr "Depósito"
+
+#v1.1.58
+msgctxt "tag_diesel"
+msgid "Diesel"
+msgstr "Diésel"
+
+#v1.1.58
+msgctxt "tag_electric"
+msgid "Electric"
+msgstr "Eléctrico"
+
+#v1.1.58
+msgctxt "tag_end_of_train"
+msgid "End of train"
+msgstr "Fin de tren"
+
+#v1.1.58
+msgctxt "tag_fantasy"
+msgid "Fantasy"
+msgstr "Fantasía"
+
+#v1.1.58
+msgctxt "tag_filter_any"
+msgid "Any"
+msgstr "Cualquiera"
+
+#v1.1.58
+msgctxt "tag_filter_ignore"
+msgid "Ignore"
+msgstr "Ignorar"
+
+#v1.1.58
+msgctxt "tag_filter_n_tags"
+msgid "{} tags"
+msgstr "{} etiquetas"
+
+#v1.1.58
+msgctxt "tag_generator"
+msgid "Generator"
+msgstr "Generador"
+
+#v1.1.58
+msgctxt "tag_heritage"
+msgid "Heritage"
+msgstr "Histórico"
+
+#v1.1.58
+msgctxt "tag_high_speed"
+msgid "High speed"
+msgstr "Alta velocidad"
+
+#v1.1.58
+msgctxt "tag_hotel"
+msgid "Hotel"
+msgstr "Hotel"
+
+#v1.1.58
+msgctxt "tag_intercity"
+msgid "Intercity"
+msgstr "Intercity"
+
+#v1.1.58
+msgctxt "tag_light_rail"
+msgid "Light rail"
+msgstr "Ligero"
+
+#v1.1.58
+msgctxt "tag_linear_induction"
+msgid "Linear induction"
+msgstr "Inducción lineal"
+
+#v1.1.58
+msgctxt "tag_locomotive"
+msgid "Locomotive"
+msgstr "Locomotora"
+
+#v1.1.58
+msgctxt "tag_long_distance"
+msgid "Long distance"
+msgstr "Larga distancia"
+
+#v1.1.58
+msgctxt "tag_lounge"
+msgid "Lounge"
+msgstr "Salón"
+
+#v1.1.58
+msgctxt "tag_maglev"
+msgid "Maglev"
+msgstr "Maglev"
+
+#v1.1.58
+msgctxt "tag_metro"
+msgid "Metro"
+msgstr "Metro"
+
+#v1.1.58
+msgctxt "tag_minimum_gauge"
+msgid "Minimum gauge"
+msgstr "Ancho mínimo"
+
+#v1.1.58
+msgctxt "tag_monorail"
+msgid "Monorail"
+msgstr "Monorail"
+
+#v1.1.58
+msgctxt "tag_mu"
+msgid "Multiple unit"
+msgstr "Unidad de tren"
+
+#v1.1.58
+msgctxt "tag_narrow"
+msgid "Narrow"
+msgstr "Estrecha"
+
+#v1.1.58
+msgctxt "tag_observation"
+msgid "Observation"
+msgstr "Mirador"
+
+#v1.1.58
+msgctxt "tag_people_mover"
+msgid "People mover"
+msgstr "People mover"
+
+#v1.1.58
+msgctxt "tag_private"
+msgid "Private"
+msgstr "Privado"
+
+#v1.1.58
+msgctxt "tag_prototype"
+msgid "Prototype"
+msgstr "Prototipo"
+
+#v1.1.58
+msgctxt "tag_push_pull"
+msgid "Push-pull"
+msgstr "Push-pull"
+
+#v1.1.58
+msgctxt "tag_railbus"
+msgid "Railbus"
+msgstr "Railbus"
+
+#v1.1.58
+msgctxt "tag_regional"
+msgid "Regional"
+msgstr "Regional"
+
+#v1.1.58
+msgctxt "tag_restaurant"
+msgid "Restaurant"
+msgstr "Restaurante"
+
+#v1.1.58
+msgctxt "tag_shuttle"
+msgid "Shuttle"
+msgstr "Shuttle"
+
+#v1.1.58
+msgctxt "tag_sitting"
+msgid "Sitting"
+msgstr "Plazas sentadas"
+
+#v1.1.58
+msgctxt "tag_sleeper"
+msgid "Sleeper"
+msgstr "Dormitorio"
+
+#v1.1.58
+msgctxt "tag_standard"
+msgid "Standard"
+msgstr "Estándar"
+
+#v1.1.58
+msgctxt "tag_standing"
+msgid "Standing"
+msgstr "Plazas de pie"
+
+#v1.1.58
+msgctxt "tag_steam"
+msgid "Steam"
+msgstr "Vapor"
+
+#v1.1.58
+msgctxt "tag_tender"
+msgid "Tender"
+msgstr "Ténder"
+
+#v1.1.58
+msgctxt "tag_third_rail"
+msgid "Third rail"
+msgstr "Tercer raíl"
+
+#v1.1.58
+msgctxt "tag_tilting"
+msgid "Tilting"
+msgstr "Pendular"
+
+#v1.1.58
+msgctxt "tag_tram"
+msgid "Tram"
+msgstr "Tram"
+
+#v1.1.58
+msgctxt "tag_turbine"
+msgid "Turbine"
+msgstr "Turbina"
+
+#v1.1.58
+msgctxt "tag_tyres"
+msgid "Tyres"
+msgstr "Neumáticos"
+
+#v1.1.58
+msgctxt "tags_gauge"
+msgid "Gauge"
+msgstr "Ancho de vía"
+
+#v1.1.58
+msgctxt "tags_misc"
+msgid "Misc."
+msgstr "Misc."
+
+#v1.1.58
+msgctxt "tags_power"
+msgid "Power"
+msgstr "Potencia"
+
+#v1.1.58
+msgctxt "tags_role"
+msgid "Role"
+msgstr "Rol"
+
+#v1.1.58
+msgctxt "tags_units"
+msgid "Units"
+msgstr "Unidades"
 
 #v1.1.31
 msgctxt "time_h_m"
@@ -3476,6 +3616,26 @@ msgctxt "train_decal_use_line_color"
 msgid "Use line color"
 msgstr "Usa color línea"
 
+#v1.1.58
+msgctxt "train_info_arrives"
+msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
+msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
+
+#v1.1.58
+msgctxt "train_info_car_name"
+msgid "Car:"
+msgstr "Coche:"
+
+#v1.1.58
+msgctxt "train_info_departs"
+msgid "Departs in {}"
+msgstr "Salida en {}"
+
+#v1.1.58
+msgctxt "train_info_departs_from"
+msgid "Departs in {0} from {1}"
+msgstr "Salida en {0} desde {1}"
+
 #v1.1.31
 msgctxt "train_info_destination"
 msgid "Destination:"
@@ -3486,6 +3646,16 @@ msgctxt "train_info_dim"
 msgid "Dimensions:"
 msgstr "Dimensiones:"
 
+#v1.1.58
+msgctxt "train_info_dim_car"
+msgid "{0:.2f}m / {1:.2f}m"
+msgstr "{0:.2f}m / {1:.2f}m"
+
+#v1.1.58
+msgctxt "train_info_dim_d"
+msgid "{0} units / {1:.2f}m / {2:.2f}m"
+msgstr "{0} unidades / {1:.2f}m / {2:.2f}m"
+
 #v1.1.37
 msgctxt "train_info_dynamics"
 msgid "Dynamics:"
@@ -3495,6 +3665,11 @@ msgstr "Dinámica:"
 msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
 msgstr "Masa vacío:"
+
+#v1.1.58
+msgctxt "train_info_late"
+msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
+msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -3535,6 +3710,11 @@ msgstr "Max velocidad:"
 msgctxt "train_info_pax"
 msgid "Pax / max:"
 msgstr "Pax / max:"
+
+#v1.1.58
+msgctxt "train_info_power"
+msgid "Power:"
+msgstr "Potencia:"
 
 #v1.1.31
 msgctxt "train_info_running_cost"
@@ -3630,6 +3810,11 @@ msgstr "En depósito"
 msgctxt "train_model_edit"
 msgid "Model:"
 msgstr "Modelo:"
+
+#v1.1.58
+msgctxt "train_n_copies"
+msgid "Trains:"
+msgstr "Trenes:"
 
 #v1.1.31
 msgctxt "train_name_edit"
@@ -3791,6 +3976,21 @@ msgctxt "train_sched_start_stop"
 msgid "Start from:"
 msgstr "Empezar desde:"
 
+#v1.1.58
+msgctxt "train_texture_info"
+msgid "Train textures: {} of {} max"
+msgstr "IGNORE Train textures: {} of {} max"
+
+#v1.1.58
+msgctxt "train_textures_option"
+msgid "Train textures:"
+msgstr "IGNORE Train textures:"
+
+#v1.1.58
+msgctxt "train_units_inst"
+msgid "Units:"
+msgstr "Unidades:"
+
 #v1.1.31
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
@@ -3805,6 +4005,11 @@ msgstr "Centrar la cámara al seleccionar un tren"
 msgctxt "traineditor_overflow_desc"
 msgid "Too many trains selected to show the slot editor, but it is still possible to use some bulk editing operations."
 msgstr "Hay demasiados trenes seleccionados para mostrar el editor de slots, pero aún es posible ejecutar algunas operaciones."
+
+#v1.1.58
+msgctxt "traineditor_select_all"
+msgid "Select all listed trains"
+msgstr "Seleccionar todos los trenes listados"
 
 #v1.1.37
 msgctxt "traineditor_sell_all_selected"
@@ -3860,6 +4065,11 @@ msgstr "1 tren"
 msgctxt "trains_n_many"
 msgid "%d trains"
 msgstr "%d trenes"
+
+#v1.1.58
+msgctxt "transfers_to"
+msgid "Transfers to {}"
+msgstr "Transbordo a {}"
 
 #v1.1.31
 msgctxt "ugc_error_conn"
