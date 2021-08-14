@@ -1,690 +1,210 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.2.22
-msgctxt "apply"
-msgid "Apply"
-msgstr "Aplicar"
-
-#v1.2.22
-msgctxt "constraint_direction"
-msgid "Direction:"
-msgstr "Dirección:"
-
-#v1.2.22
-msgctxt "constraint_flip"
-msgid "Flip"
-msgstr "Rotar"
-
-#v1.2.22
-msgctxt "constraint_offset"
-msgid "Offset (m):"
-msgstr "Desplazar (m):"
-
-#v1.2.22
-msgctxt "constraint_pick"
-msgid "Pick parent"
-msgstr "Elegir padre"
-
-#v1.2.22
-msgctxt "constraint_remove"
-msgid "Remove constraint"
-msgstr "Quitar restricción"
-
-#v1.2.22
-msgctxt "constraint_t"
-msgid "Segment t (0 to 1):"
-msgstr "T de segmento (0 to 1):"
-
-#v1.2.22
-msgctxt "constraint_type"
-msgid "Lock control point:"
-msgstr "Bloqueo de punto:"
-
-#v1.2.22
-msgctxt "constraint_type_control_point"
-msgid "To a control point"
-msgstr "A punto de control"
-
-#v1.2.22
-msgctxt "constraint_type_t_tangent"
-msgid "To a track point"
-msgstr "A un punto de vía"
-
-#v1.2.22
-msgctxt "constraints_editor"
-msgid "Track constraints"
-msgstr "Restricciones de vía"
-
-#v1.2.22
-msgctxt "editor_edit_signal"
-msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
-
-#v1.2.22
-msgctxt "editor_new_signal"
-msgid "Create new signals"
-msgstr "Crear nuevas señales"
-
-#v1.2.22
-msgctxt "editor_pick_constraint_parent_esc"
-msgid "Esc to cancel picking"
-msgstr "Esc para cancelar elección"
-
-#v1.2.22
-msgctxt "editor_pick_constraint_parent_left"
-msgid "Click a control point to make it the constraint parent"
-msgstr "Click en punto de control para hacerlo el padre de la restricción"
-
-#v1.2.22
-msgctxt "editor_tip_cont_alt"
-msgid "Alt to toggle the parallel track side"
-msgstr "Alt para alternar el lado de la vía paralela"
-
-#v1.2.22
-msgctxt "editor_tip_create_rebp2"
-msgid "{} to change selected built track(s) into blueprint track(s)"
-msgstr "{} para convertir en planos las vías seleccionadas"
-
-#v1.2.22
-msgctxt "editor_tip_move_branch_draw"
-msgid "Drag the branch control point near any branchable track to change its position"
-msgstr "Arrastra el punto de control de la rama a cualquier vía válida para cambiar su posición"
-
-#v1.2.22
-msgctxt "editor_tip_new_signal_esc"
-msgid "Esc to go to signal edit mode"
-msgstr "Esc para volver a modo de edición de señales"
-
-#v1.2.22
-msgctxt "editor_tip_new_signal_left"
-msgid "Left click to create signal"
-msgstr "Click izquierdo para crear señal"
-
-#v1.2.22
-msgctxt "editor_tip_new_signal_shift"
-msgid "Shift to change signal facing direction"
-msgstr "Shift para cambiar la dirección de la señal"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_del"
-msgid "Del to delete selected signals"
-msgstr "Supr para borrar señal(es)"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_drag"
-msgid "Drag to move selected signal"
-msgstr "Arrastra para mover la señal seleccionada"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_esc"
-msgid "Esc to go to track edit mode"
-msgstr "Esc para volver al modo de edición de vía"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_left"
-msgid "Left click to select a signal"
-msgstr "Click izquierdo para seleccionar una señal"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_move"
-msgid "Release left button to stop moving the signal"
-msgstr "Suelta el botón izquierdo para parar de mover la señal"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_sel_esc"
-msgid "Esc to clear selection"
-msgstr "Esc para limpiar la selección"
-
-#v1.2.22
-msgctxt "editor_tip_sel_signal_sleft"
-msgid "Shift left click to select additional signals"
-msgstr "Shift con click izquierdo para seleccionar más señales"
-
-#v1.2.22
-msgctxt "editor_warn_closed"
-msgid "Remember to set the service level to Full to allow pax to use this line."
-msgstr "Recuerda cambiar el nivel de servicio a abierto para permitir que los pax utilicen esta línea."
-
-#v1.2.22
-msgctxt "game_restart_req"
-msgid "Game restart is required"
-msgstr "Se requiere reiniciar el juego"
-
-#v1.2.22
-msgctxt "info_mode_tp"
-msgid "Info"
-msgstr "Info"
-
-#v1.2.22
-msgctxt "kb_map_down"
-msgid "Map: scroll down"
-msgstr "Mapa: desplazar abajo"
-
-#v1.2.22
-msgctxt "kb_map_left"
-msgid "Map: scroll left"
-msgstr "Mapa: desplazar izquierda"
-
-#v1.2.22
-msgctxt "kb_map_right"
-msgid "Map: scroll right"
-msgstr "Mapa: desplazar derecha"
-
-#v1.2.22
-msgctxt "kb_map_toggle_layer"
-msgid "Map: toggle layers"
-msgstr "Mapa: alternar capas"
-
-#v1.2.22
-msgctxt "kb_map_toggle_tracks"
-msgid "Map: track mode"
-msgstr "Mapa: alternar modo de vía"
-
-#v1.2.22
-msgctxt "kb_map_up"
-msgid "Map: scroll up"
-msgstr "Mapa: desplazar arriba"
-
-#v1.2.22
-msgctxt "kb_map_zoom_in"
-msgid "Map: zoom in"
-msgstr "Mapa: ampliar"
-
-#v1.2.22
-msgctxt "kb_map_zoom_out"
-msgid "Map: zoom out"
-msgstr "Mapa: reducir"
-
-#v1.2.22
-msgctxt "kb_mode_info"
-msgid "Mode: info"
-msgstr "Modo: info"
-
-#v1.2.22
-msgctxt "kb_mode_lines"
-msgid "Mode: lines"
-msgstr "Modo: líneas"
-
-#v1.2.22
-msgctxt "kb_mode_tracks"
-msgid "Mode: tracks"
-msgstr "Modo: vías"
-
-#v1.2.22
-msgctxt "kb_mode_trains"
-msgid "Mode: trains"
-msgstr "Modo: trenes"
-
-#v1.2.22
-msgctxt "kb_speed_down"
-msgid "Speed down"
-msgstr "Bajar velocidad"
-
-#v1.2.22
-msgctxt "kb_speed_toggle"
-msgid "Pause"
-msgstr "Pausa"
-
-#v1.2.22
-msgctxt "kb_speed_up"
-msgid "Speed up"
-msgstr "Subir velocidad"
-
-#v1.2.22
-msgctxt "kb_track_2x"
-msgid "Tracks: double tracks"
-msgstr "Vías: doble vía"
-
-#v1.2.22
-msgctxt "kb_track_branch"
-msgid "Tracks: new branch"
-msgstr "Vías: nueva rama"
-
-#v1.2.22
-msgctxt "kb_track_depot"
-msgid "Tracks: new depot"
-msgstr "Vías: nuevo depósito"
-
-#v1.2.22
-msgctxt "kb_track_move"
-msgid "Tracks: selection"
-msgstr "Vías: seleccionar"
-
-#v1.2.22
-msgctxt "kb_track_new"
-msgid "Tracks: new tracks"
-msgstr "Vías: nuevas vías"
-
-#v1.2.22
-msgctxt "kb_track_new_signal"
-msgid "Tracks: new signal"
-msgstr "Vías: nueva señal"
-
-#v1.2.22
-msgctxt "kb_track_sel_signal"
-msgid "Tracks: select signal"
-msgstr "Vías: seleccionar señal"
-
-#v1.2.22
-msgctxt "kb_track_station"
-msgid "Tracks: new station"
-msgstr "Vías: nueva estación"
-
-#v1.2.22
-msgctxt "kb_tracks_unbp"
-msgid "Tracks: unblueprint"
-msgstr "Vías: convertir a planos"
-
-#v1.2.22
-msgctxt "key_info2"
-msgid "[Key: {}]"
-msgstr "[Tecla: {}]"
-
-#v1.2.22
-msgctxt "lineeditor_auto_value"
-msgid "Auto"
-msgstr "Auto"
-
-#v1.2.22
-msgctxt "lineeditor_basics"
-msgid "Basics"
-msgstr "Básico"
-
-#v1.2.22
-msgctxt "lineeditor_cruise_speed"
-msgid "Cruise speed (km/h):"
-msgstr "Vel. crucero (km/h):"
-
-#v1.2.22
-msgctxt "lineeditor_cruise_speed_desc"
-msgid "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
-msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
-
-#v1.2.22
-msgctxt "lineeditor_default_timings"
-msgid "Default timings"
-msgstr "Tiempos por defecto"
-
-#v1.2.22
-msgctxt "lineeditor_header_full"
-msgid "{0}, {1} km, {2}, {3} km/h avg."
-msgstr "{0}, {1} km, {2}, {3} km/h media"
-
-#v1.2.22
-msgctxt "lineeditor_header_l"
-msgid "{0}, {1} km"
-msgstr "{0}, {1} km"
-
-#v1.2.22
-msgctxt "lineeditor_interval_time"
-msgid "Interval time (mm:ss):"
-msgstr "Intervalo (mm:ss):"
-
-#v1.2.22
-msgctxt "lineeditor_interval_time_desc"
-msgid "Train stop times will be increased up to this value to evenly space their arrival times."
-msgstr "Los tiempos de parada de los trenes se incrementarán hasta este valor para espaciar sus llegadas."
-
-#v1.2.22
-msgctxt "lineeditor_interval_wait_at"
-msgid "Interval wait at:"
-msgstr "Espera intervalo en:"
-
-#v1.2.22
-msgctxt "lineeditor_interval_wait_at_all_stops"
-msgid "All stops"
-msgstr "Todas las paradas"
-
-#v1.2.22
-msgctxt "lineeditor_interval_wait_at_desc"
-msgid "Increased stop times due to interval waiting will only be applied at these stops."
-msgstr "Las esperas por intervalo solo se llevarán a cabo en estas paradas."
-
-#v1.2.22
-msgctxt "lineeditor_interval_wait_at_first_stop"
-msgid "First stop"
-msgstr "Primera parada"
-
-#v1.2.22
-msgctxt "lineeditor_interval_wait_at_manual"
-msgid "Manual"
-msgstr "Manual"
-
-#v1.2.22
-msgctxt "lineeditor_min_stop_time"
-msgid "Min. stop time (mm:ss):"
-msgstr "Parada min. (mm:ss):"
-
-#v1.2.22
-msgctxt "lineeditor_min_stop_time_desc"
-msgid "Trains will wait at least this long on line stops. They might wait longer if pax are still leaving or boarding."
-msgstr "Los trenes esperarán al menos este tiempo en todas las paradas. Puede aumentar si todavía hay pax entrando o saliendo."
-
-#v1.2.22
-msgctxt "lineeditor_reference_train"
-msgid "Reference train:"
-msgstr "Tren de referencia:"
-
-#v1.2.22
-msgctxt "lineeditor_reference_train_desc"
-msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
-msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos."
-
-#v1.2.22
-msgctxt "lineeditor_service_level"
-msgid "Service level:"
-msgstr "Nivel de servicio:"
-
-#v1.2.22
-msgctxt "lineeditor_service_level_closed"
-msgid "Closed"
-msgstr "Cerrado"
-
-#v1.2.22
-msgctxt "lineeditor_service_level_full"
-msgid "Full"
-msgstr "Abierto"
-
-#v1.2.22
-msgctxt "lineeditor_service_level_only_trains"
-msgid "Empty trains"
-msgstr "Trenes vacíos"
-
-#v1.2.22
-msgctxt "lineeditor_stop_interval_wait_here"
-msgid "Interval wait in this stop"
-msgstr "Espera de intervalo en esta parada"
-
-#v1.2.22
-msgctxt "lineeditor_stop_panel_editor"
-msgid "Stop {0}: {1}"
-msgstr "Parada {0}: {1}"
-
-#v1.2.22
-msgctxt "mode_map_tracks_signals"
-msgid "Track reservations"
-msgstr "Reservas de vía"
-
-#v1.2.22
-msgctxt "mvo_user_signals"
-msgid "Signals"
-msgstr "Señales"
-
-#v1.2.22
-msgctxt "new_key_tip"
-msgid "Press new key or backspace to clear"
-msgstr "Pulsa la nueva tecla o borrar para limpiar"
-
-#v1.2.22
-msgctxt "options_keybinds"
-msgid "Keybinds"
-msgstr "Teclas"
-
-#v1.2.22
-msgctxt "plat_auto_direction"
-msgid "Auto append direction signals"
-msgstr "Auto añadir señales de dirección única"
-
-#v1.2.22
-msgctxt "plat_auto_direction_lr"
+#v1.2.29
+msgctxt "depth_layer_n"
+msgid "Depth {}"
+msgstr "Profundidad {}"
+
+#v1.2.29
+msgctxt "editor_tip_cont_ctrl"
+msgid "Hold Ctrl to line up track with its previous track segment."
+msgstr "Presiona Ctrl para alinear la vía al segmento anterior."
+
+#v1.2.29
+msgctxt "editor_tip_sel_signal_flip"
+msgid "{} to flip direction of selected signals"
+msgstr "{} para cambiar la dirección de las señales seleccionadas"
+
+#v1.2.29
+msgctxt "game_speed_down"
+msgid "Game speed down"
+msgstr "Reducir velocidad del juego"
+
+#v1.2.29
+msgctxt "game_speed_up"
+msgid "Game speed up"
+msgstr "incrementar velocidad del juego"
+
+#v1.2.29
+msgctxt "height_layer_n"
+msgid "Height {}"
+msgstr "Altura {}"
+
+#v1.2.29
+msgctxt "horizon_ground"
+msgid "Ground"
+msgstr "Suelo"
+
+#v1.2.29
+msgctxt "horizon_tunnel"
+msgid "Tunnel"
+msgstr "Túnel"
+
+#v1.2.29
+msgctxt "horizon_viaduct"
+msgid "Viaduct"
+msgstr "Viaducto"
+
+#v1.2.29
+msgctxt "kb_track_flip_signal"
+msgid "Tracks: flip selected signal"
+msgstr "Tracks: cambiar dir. señal"
+
+#v1.2.29
+msgctxt "kb_track_layer_down"
+msgid "Tracks: decr. new track layer"
+msgstr "Tracks: decr. capa de vía"
+
+#v1.2.29
+msgctxt "kb_track_layer_up"
+msgid "Tracks: incr. new track layer"
+msgstr "Tracks: incr. capa de vía"
+
+#v1.2.29
+msgctxt "layer_ground"
+msgid "Ground"
+msgstr "Suelo"
+
+#v1.2.29
+msgctxt "tag_battery"
+msgid "Battery"
+msgstr "Batería"
+
+#v1.2.29
+msgctxt "tag_tank"
+msgid "Tank"
+msgstr "Depósito"
+
+#v1.2.29
+msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
-msgstr "Conducir a la izquierda con plataformas dobles"
+msgstr "Circular por la izquierda en doble plataforma"
 
-#v1.2.22
-msgctxt "plat_auto_scissors"
+#v1.2.29
+msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "Auto añadir cruces y señales de camino en plataformas dobles"
+msgstr "Auto añadir cambio cruzado y señales en doble plataforma"
 
-#v1.2.22
-msgctxt "plat_auto_stops"
+#v1.2.29
+msgctxt "teo.plat_auto_stops"
 msgid "Auto append platform stop point signals"
-msgstr "Auto añadir señales de parada"
+msgstr "Auto añadir señales de parada en plataforma"
 
-#v1.2.22
-msgctxt "signal_dir_m1"
-msgid "-1"
-msgstr "-1"
-
-#v1.2.22
-msgctxt "signal_dir_p1"
-msgid "+1"
-msgstr "+1"
-
-#v1.2.22
-msgctxt "signal_direction"
-msgid "Direction:"
-msgstr "Dirección:"
-
-#v1.2.22
-msgctxt "signal_editor_title_edit"
-msgid "Edit signal"
-msgstr "Editar señal"
-
-#v1.2.22
-msgctxt "signal_editor_title_new"
-msgid "New signal"
-msgstr "Nueva signal"
-
-#v1.2.22
-msgctxt "signal_flip"
-msgid "Flip"
-msgstr "Rotar"
-
-#v1.2.22
-msgctxt "signal_kind_block_balise"
-msgid "Block balise"
-msgstr "Baliza de bloque"
-
-#v1.2.22
-msgctxt "signal_kind_name_oneway"
-msgid "One way"
-msgstr "Dirección única"
-
-#v1.2.22
-msgctxt "signal_kind_name_platform_stop"
-msgid "Platform train stop point"
-msgstr "Punto de parada en plataforma"
-
-#v1.2.22
-msgctxt "signal_kind_path"
-msgid "Path signal"
-msgstr "Señal de camino"
-
-#v1.2.22
-msgctxt "signal_kind_simple_block"
-msgid "Simple block"
-msgstr "Bloque simple"
-
-#v1.2.22
-msgctxt "signal_limits_block"
-msgid "Bounds other signals:"
-msgstr "Limita otras señales:"
-
-#v1.2.22
-msgctxt "signal_limits_block_always"
-msgid "Always"
-msgstr "Siempre"
-
-#v1.2.22
-msgctxt "signal_limits_block_same"
-msgid "Only for same direction"
-msgstr "Solo para la misma dirección"
-
-#v1.2.22
-msgctxt "signal_long_check"
-msgid "Check path up to:"
-msgstr "Examinar camino hasta:"
-
-#v1.2.22
-msgctxt "signal_side"
-msgid "Side (cosmetic):"
-msgstr "Lado (cosmético):"
-
-#v1.2.22
-msgctxt "signal_side_0"
-msgid "0"
-msgstr "0"
-
-#v1.2.22
-msgctxt "signal_side_m1"
-msgid "-1"
-msgstr "-1"
-
-#v1.2.22
-msgctxt "signal_side_p1"
-msgid "+1"
-msgstr "+1"
-
-#v1.2.22
-msgctxt "signal_stop_check_only_signals"
-msgid "Only signals"
-msgstr "Solo señales"
-
-#v1.2.22
-msgctxt "signal_stop_check_signals_stops"
-msgid "Signals and train stop"
-msgstr "Señales y parada de tren"
-
-#v1.2.22
-msgctxt "signal_toggle"
-msgid "Toggle"
-msgstr "Alternar"
-
-#v1.2.22
-msgctxt "signal_type"
-msgid "Type:"
-msgstr "Tipo:"
-
-#v1.2.22
-msgctxt "speed_down"
-msgid "Speed down"
-msgstr "Disminuir velocidad"
-
-#v1.2.22
-msgctxt "speed_up"
-msgid "Speed up"
-msgstr "Aumentar velocidad"
-
-#v1.2.22
-msgctxt "station_editor"
-msgid "Station properties"
-msgstr "Propiedades de estación"
-
-#v1.2.22
-msgctxt "stop_leg_full"
-msgid "{0}m in {1} at {2} km/h avg."
-msgstr "{0}m en {1} a {2} km/h media"
-
-#v1.2.22
-msgctxt "stop_leg_l"
-msgid "{0}m"
-msgstr "{0}m"
-
-#v1.2.22
-msgctxt "train_info_status_collision"
-msgid "Collision"
-msgstr "Colisión"
-
-#v1.2.22
-msgctxt "twoex_mode"
+#v1.2.29
+msgctxt "teo.twoex_mode"
 msgid "Double track mode"
-msgstr "Modo doble vía"
+msgstr "Modo de doble vía"
 
-#v1.2.22
-msgctxt "user_signal_light_cones"
-msgid "Signal light cones"
-msgstr "Cono de luz de señales"
+#v1.2.29
+msgctxt "track_all_kinds_info"
+msgid "Show all track kinds and pick your favorites"
+msgstr "Mostrar todos los tipos de vía y elegir favoritos"
+
+#v1.2.29
+msgctxt "track_high_speed"
+msgid "High speed"
+msgstr "Alta velocidad"
+
+#v1.2.29
+msgctxt "track_info_layer"
+msgid "Layer:"
+msgstr "Capa:"
+
+#v1.2.29
+msgctxt "track_info_max_speed"
+msgid "Max speed:"
+msgstr "Vel. máxima:"
+
+#v1.2.29
+msgctxt "track_info_multi"
+msgid "Multiple selection"
+msgstr "Selección múltiple"
+
+#v1.2.29
+msgctxt "track_info_price"
+msgid "Price:"
+msgstr "Precio:"
+
+#v1.2.29
+msgctxt "track_info_price_f"
+msgid "${} per km"
+msgstr "${} por km"
+
+#v1.2.29
+msgctxt "track_info_special"
+msgid "Special:"
+msgstr "Especial:"
+
+#v1.2.29
+msgctxt "track_info_special_no_collide_ways"
+msgid "Ignores roads"
+msgstr "Ignora calles"
+
+#v1.2.29
+msgctxt "track_mid_speed"
+msgid "Medium speed"
+msgstr "Velocidad mediana"
+
+#v1.2.29
+msgctxt "track_not_favorited"
+msgid "Not favorited"
+msgstr "No favorito"
+
+#v1.2.29
+msgctxt "track_sort_alpha"
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#v1.2.29
+msgctxt "track_sort_price"
+msgid "Price"
+msgstr "Precio"
+
+#v1.2.29
+msgctxt "track_sort_speed"
+msgid "Max. speed"
+msgstr "Vel. máxima"
+
+#v1.2.29
+msgctxt "unlimited_depth"
+msgid "Unlimited depth"
+msgstr "Profundidad ilimitada"
+
+#v1.2.29
+msgctxt "unlimited_height"
+msgid "Unlimited height"
+msgstr "Altura ilimitada"
+
+#v1.2.29
+msgctxt "warn_mod_in_use"
+msgid "Mod is in use"
+msgstr "Mod está en uso"
+
+#v1.2.29
+msgctxt "waw_track_hs_1_name"
+msgid "High speed"
+msgstr "Alta velocidad"
+
+#v1.2.29
+msgctxt "waw_track_mid_1_name"
+msgid "Medium speed"
+msgstr "Velocidad mediana"
+
+#v1.2.29
+msgctxt "waw_track_tram_1_name"
+msgid "Tram"
+msgstr "Tranvía"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.2.22
-msgctxt "editor_add"
-msgid "Append to tracks or create new ones"
-msgstr "Añadir a vías o crear nuevas vías"
-
-#v1.2.22
-msgctxt "editor_branch"
-msgid "Create new track branches"
-msgstr "Crear nuevas ramas de vías"
-
-#v1.2.22
-msgctxt "editor_depot"
-msgid "Create new depot"
-msgstr "Crear nuevo depósito"
-
-#v1.2.22
-msgctxt "editor_move"
-msgid "Move, delete and edit tracks"
-msgstr "Mover, borrar y editar vías"
-
-#v1.2.22
-msgctxt "editor_station"
-msgid "Create new station platforms"
-msgstr "Crear nuevas plataformas de estación"
-
-#v1.2.22
-msgctxt "editor_tip_branch_mouse"
-msgid "Hover the mouse cursor near an existing track to start a new branch"
-msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
-
-#v1.2.22
-msgctxt "editor_tip_move_left"
-msgid "Release left button to stop moving the control point"
-msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
-
-#v1.2.22
-msgctxt "editor_warn_need_train_acc"
-msgid "Buy and schedule at least one train to this line."
-msgstr "Programa al menos un tren en esta línea."
-
-#v1.2.22
-msgctxt "editor_warn_train_speed_too_high"
-msgid "Trains might be unable to adapt to dynamic traffic and mass conditions at this cruise speed."
-msgstr "Es posible que los trenes no puedan adaptarse a las condiciones de tráfico con esta velocidad"
-
-#v1.2.22
-msgctxt "mode_map_default"
-msgid "Plain map"
-msgstr "Mapa por defecto"
-
-#v1.2.22
-msgctxt "mode_map_population"
-msgid "Population overlay"
-msgstr "Capa de población"
-
-#v1.2.22
-msgctxt "mode_map_tracks"
-msgid "Plain tracks"
-msgstr "Vías por defecto"
-
-#v1.2.22
-msgctxt "mode_map_tracks_lines"
-msgid "Lines overlay"
-msgstr "Capa de líneas"
-
-#v1.2.22
-msgctxt "mode_map_tracks_speed"
-msgid "Speed overlay"
-msgstr "Capa de velocidad"
-
-#v1.2.22
-msgctxt "pax_waiting_detail"
-msgid "New pax: {0}\nTransfer pax: {1} "
-msgstr "Nuevo pax: {0}\nTransfer. pax: {1} "
-
-#v1.2.22
-msgctxt "sax_tooltip2"
-msgid "{0}\nNeutral at {1}, ${2:.2f}"
-msgstr "{0}\nNeutral a {1}, ${2:.2f}"
-
-#v1.2.22
-msgctxt "tooltip_demand"
-msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
-msgstr "Local {0}%\nRegional {1}%\nLarga distancia {2}%"
+#v1.2.29
+msgctxt "renderer_opengl"
+msgid "OpenGL 3.3"
+msgstr "OpenGL 3.3"
 
 
 
@@ -1021,6 +541,11 @@ msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
 msgstr "Si un desconocido quiere entrar:"
 
+#v1.2.22
+msgctxt "apply"
+msgid "Apply"
+msgstr "Aplicar"
+
 #v1.1.72
 msgctxt "asset_lines"
 msgid "Lines"
@@ -1261,6 +786,56 @@ msgctxt "connection_denied"
 msgid "Connection denied"
 msgstr "Conexión denegada"
 
+#v1.2.22
+msgctxt "constraint_direction"
+msgid "Direction:"
+msgstr "Dirección:"
+
+#v1.2.22
+msgctxt "constraint_flip"
+msgid "Flip"
+msgstr "Rotar"
+
+#v1.2.22
+msgctxt "constraint_offset"
+msgid "Offset (m):"
+msgstr "Desplazar (m):"
+
+#v1.2.22
+msgctxt "constraint_pick"
+msgid "Pick parent"
+msgstr "Elegir padre"
+
+#v1.2.22
+msgctxt "constraint_remove"
+msgid "Remove constraint"
+msgstr "Quitar restricción"
+
+#v1.2.22
+msgctxt "constraint_t"
+msgid "Segment t (0 to 1):"
+msgstr "T de segmento (0 to 1):"
+
+#v1.2.22
+msgctxt "constraint_type"
+msgid "Lock control point:"
+msgstr "Bloqueo de punto:"
+
+#v1.2.22
+msgctxt "constraint_type_control_point"
+msgid "To a control point"
+msgstr "A punto de control"
+
+#v1.2.22
+msgctxt "constraint_type_t_tangent"
+msgid "To a track point"
+msgstr "A un punto de vía"
+
+#v1.2.22
+msgctxt "constraints_editor"
+msgid "Track constraints"
+msgstr "Restricciones de vía"
+
 #v1.1.31
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
@@ -1456,6 +1031,46 @@ msgctxt "done"
 msgid "Done"
 msgstr "Hecho"
 
+#v1.2.22
+msgctxt "editor_add"
+msgid "Append to tracks or create new ones"
+msgstr "Añadir a vías o crear nuevas vías"
+
+#v1.2.22
+msgctxt "editor_branch"
+msgid "Create new track branches"
+msgstr "Crear nuevas ramas de vías"
+
+#v1.2.22
+msgctxt "editor_depot"
+msgid "Create new depot"
+msgstr "Crear nuevo depósito"
+
+#v1.2.22
+msgctxt "editor_edit_signal"
+msgid "Move, delete and edit signals"
+msgstr "Mover, borrar y editar señales"
+
+#v1.2.22
+msgctxt "editor_move"
+msgid "Move, delete and edit tracks"
+msgstr "Mover, borrar y editar vías"
+
+#v1.2.22
+msgctxt "editor_new_signal"
+msgid "Create new signals"
+msgstr "Crear nuevas señales"
+
+#v1.2.22
+msgctxt "editor_pick_constraint_parent_esc"
+msgid "Esc to cancel picking"
+msgstr "Esc para cancelar elección"
+
+#v1.2.22
+msgctxt "editor_pick_constraint_parent_left"
+msgid "Click a control point to make it the constraint parent"
+msgstr "Click en punto de control para hacerlo el padre de la restricción"
+
 #v1.1.58
 msgctxt "editor_select_add_platform"
 msgid "Click platform letters in stations to add stops to the line"
@@ -1470,6 +1085,11 @@ msgstr "Click en los segmentos de vías para añadir puntos de ruta"
 msgctxt "editor_select_pick_depot"
 msgid "Click a depot on the map to set this train slot order"
 msgstr "Click en un depósito en el mapa para editar esta orden"
+
+#v1.2.22
+msgctxt "editor_station"
+msgid "Create new station platforms"
+msgstr "Crear nuevas plataformas de estación"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1495,6 +1115,16 @@ msgstr "Esc para volver a modo edición"
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
 msgstr "Click izquierdo para crear una rama"
+
+#v1.2.22
+msgctxt "editor_tip_branch_mouse"
+msgid "Hover the mouse cursor near an existing track to start a new branch"
+msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
+
+#v1.2.22
+msgctxt "editor_tip_cont_alt"
+msgid "Alt to toggle the parallel track side"
+msgstr "Alt para alternar el lado de la vía paralela"
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
@@ -1546,6 +1176,11 @@ msgctxt "editor_tip_create_prompt_sel"
 msgid "To move or delete tracks, you must select their control points"
 msgstr "Para mover o borrar vías, debes seleccionar sus puntos de control"
 
+#v1.2.22
+msgctxt "editor_tip_create_rebp2"
+msgid "{} to change selected built track(s) into blueprint track(s)"
+msgstr "{} para convertir en planos las vías seleccionadas"
+
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
 msgid "Shift left click to add or remove points from selection"
@@ -1586,15 +1221,75 @@ msgctxt "editor_tip_link_move"
 msgid "Move away the mouse cursor to cancel"
 msgstr "Aleja el cursor para cancelar"
 
+#v1.2.22
+msgctxt "editor_tip_move_branch_draw"
+msgid "Drag the branch control point near any branchable track to change its position"
+msgstr "Arrastra el punto de control de la rama a cualquier vía válida para cambiar su posición"
+
 #v1.1.31
 msgctxt "editor_tip_move_esc"
 msgid "Esc to cancel movement"
 msgstr "Esc para cancelar el movimiento"
 
+#v1.2.22
+msgctxt "editor_tip_move_left"
+msgid "Release left button to stop moving the control point"
+msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_esc"
+msgid "Esc to go to signal edit mode"
+msgstr "Esc para volver a modo de edición de señales"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_left"
+msgid "Left click to create signal"
+msgstr "Click izquierdo para crear señal"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_shift"
+msgid "Shift to change signal facing direction"
+msgstr "Shift para cambiar la dirección de la señal"
+
 #v1.1.31
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
 msgstr "Suelta el botón izquierdo para terminar la selección rectangular"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_del"
+msgid "Del to delete selected signals"
+msgstr "Supr para borrar señal(es)"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_drag"
+msgid "Drag to move selected signal"
+msgstr "Arrastra para mover la señal seleccionada"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_esc"
+msgid "Esc to go to track edit mode"
+msgstr "Esc para volver al modo de edición de vía"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_left"
+msgid "Left click to select a signal"
+msgstr "Click izquierdo para seleccionar una señal"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_move"
+msgid "Release left button to stop moving the signal"
+msgstr "Suelta el botón izquierdo para parar de mover la señal"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_sel_esc"
+msgid "Esc to clear selection"
+msgstr "Esc para limpiar la selección"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_sleft"
+msgid "Shift left click to select additional signals"
+msgstr "Shift con click izquierdo para seleccionar más señales"
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
@@ -1625,6 +1320,21 @@ msgstr "Ctrl-Z para hacer deshacer la última edición"
 msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
 msgstr "Aumenta el zoom para poder editar"
+
+#v1.2.22
+msgctxt "editor_warn_closed"
+msgid "Remember to set the service level to Full to allow pax to use this line."
+msgstr "Recuerda cambiar el nivel de servicio a abierto para permitir que los pax utilicen esta línea."
+
+#v1.2.22
+msgctxt "editor_warn_need_train_acc"
+msgid "Buy and schedule at least one train to this line."
+msgstr "Programa al menos un tren en esta línea."
+
+#v1.2.22
+msgctxt "editor_warn_train_speed_too_high"
+msgid "Trains might be unable to adapt to dynamic traffic and mass conditions at this cruise speed."
+msgstr "Es posible que los trenes no puedan adaptarse a las condiciones de tráfico con esta velocidad"
 
 #v1.1.58
 msgctxt "editor_warn_zero_interval"
@@ -1881,6 +1591,11 @@ msgctxt "full_date_time"
 msgid "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 
+#v1.2.22
+msgctxt "game_restart_req"
+msgid "Game restart is required"
+msgstr "Se requiere reiniciar el juego"
+
 #v1.1.31
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
@@ -1910,6 +1625,11 @@ msgstr "Archivo icono:"
 msgctxt "ignore"
 msgid "Ignore"
 msgstr "Ignorar"
+
+#v1.2.22
+msgctxt "info_mode_tp"
+msgid "Info"
+msgstr "Info"
 
 #v1.1.37
 msgctxt "info_table_count"
@@ -2041,6 +1761,131 @@ msgctxt "joint_multiplayer_name"
 msgid "Join multiplayer game"
 msgstr "Entrar a partida multijugador"
 
+#v1.2.22
+msgctxt "kb_map_down"
+msgid "Map: scroll down"
+msgstr "Mapa: desplazar abajo"
+
+#v1.2.22
+msgctxt "kb_map_left"
+msgid "Map: scroll left"
+msgstr "Mapa: desplazar izquierda"
+
+#v1.2.22
+msgctxt "kb_map_right"
+msgid "Map: scroll right"
+msgstr "Mapa: desplazar derecha"
+
+#v1.2.22
+msgctxt "kb_map_toggle_layer"
+msgid "Map: toggle layers"
+msgstr "Mapa: alternar capas"
+
+#v1.2.22
+msgctxt "kb_map_toggle_tracks"
+msgid "Map: track mode"
+msgstr "Mapa: alternar modo de vía"
+
+#v1.2.22
+msgctxt "kb_map_up"
+msgid "Map: scroll up"
+msgstr "Mapa: desplazar arriba"
+
+#v1.2.22
+msgctxt "kb_map_zoom_in"
+msgid "Map: zoom in"
+msgstr "Mapa: ampliar"
+
+#v1.2.22
+msgctxt "kb_map_zoom_out"
+msgid "Map: zoom out"
+msgstr "Mapa: reducir"
+
+#v1.2.22
+msgctxt "kb_mode_info"
+msgid "Mode: info"
+msgstr "Modo: info"
+
+#v1.2.22
+msgctxt "kb_mode_lines"
+msgid "Mode: lines"
+msgstr "Modo: líneas"
+
+#v1.2.22
+msgctxt "kb_mode_tracks"
+msgid "Mode: tracks"
+msgstr "Modo: vías"
+
+#v1.2.22
+msgctxt "kb_mode_trains"
+msgid "Mode: trains"
+msgstr "Modo: trenes"
+
+#v1.2.22
+msgctxt "kb_speed_down"
+msgid "Speed down"
+msgstr "Bajar velocidad"
+
+#v1.2.22
+msgctxt "kb_speed_toggle"
+msgid "Pause"
+msgstr "Pausa"
+
+#v1.2.22
+msgctxt "kb_speed_up"
+msgid "Speed up"
+msgstr "Subir velocidad"
+
+#v1.2.22
+msgctxt "kb_track_2x"
+msgid "Tracks: double tracks"
+msgstr "Vías: doble vía"
+
+#v1.2.22
+msgctxt "kb_track_branch"
+msgid "Tracks: new branch"
+msgstr "Vías: nueva rama"
+
+#v1.2.22
+msgctxt "kb_track_depot"
+msgid "Tracks: new depot"
+msgstr "Vías: nuevo depósito"
+
+#v1.2.22
+msgctxt "kb_track_move"
+msgid "Tracks: selection"
+msgstr "Vías: seleccionar"
+
+#v1.2.22
+msgctxt "kb_track_new"
+msgid "Tracks: new tracks"
+msgstr "Vías: nuevas vías"
+
+#v1.2.22
+msgctxt "kb_track_new_signal"
+msgid "Tracks: new signal"
+msgstr "Vías: nueva señal"
+
+#v1.2.22
+msgctxt "kb_track_sel_signal"
+msgid "Tracks: select signal"
+msgstr "Vías: seleccionar señal"
+
+#v1.2.22
+msgctxt "kb_track_station"
+msgid "Tracks: new station"
+msgstr "Vías: nueva estación"
+
+#v1.2.22
+msgctxt "kb_tracks_unbp"
+msgid "Tracks: unblueprint"
+msgstr "Vías: convertir a planos"
+
+#v1.2.22
+msgctxt "key_info2"
+msgid "[Key: {}]"
+msgstr "[Tecla: {}]"
+
 #v1.1.31
 msgctxt "language_pick"
 msgid "Language:"
@@ -2131,6 +1976,16 @@ msgctxt "line_to"
 msgid "{} to"
 msgstr "{} a"
 
+#v1.2.22
+msgctxt "lineeditor_auto_value"
+msgid "Auto"
+msgstr "Auto"
+
+#v1.2.22
+msgctxt "lineeditor_basics"
+msgid "Basics"
+msgstr "Básico"
+
 #v1.1.31
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
@@ -2145,6 +2000,76 @@ msgstr "Código:"
 msgctxt "lineeditor_color"
 msgid "Color:"
 msgstr "Color:"
+
+#v1.2.22
+msgctxt "lineeditor_cruise_speed"
+msgid "Cruise speed (km/h):"
+msgstr "Vel. crucero (km/h):"
+
+#v1.2.22
+msgctxt "lineeditor_cruise_speed_desc"
+msgid "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
+msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
+
+#v1.2.22
+msgctxt "lineeditor_default_timings"
+msgid "Default timings"
+msgstr "Tiempos por defecto"
+
+#v1.2.22
+msgctxt "lineeditor_header_full"
+msgid "{0}, {1} km, {2}, {3} km/h avg."
+msgstr "{0}, {1} km, {2}, {3} km/h media"
+
+#v1.2.22
+msgctxt "lineeditor_header_l"
+msgid "{0}, {1} km"
+msgstr "{0}, {1} km"
+
+#v1.2.22
+msgctxt "lineeditor_interval_time"
+msgid "Interval time (mm:ss):"
+msgstr "Intervalo (mm:ss):"
+
+#v1.2.22
+msgctxt "lineeditor_interval_time_desc"
+msgid "Train stop times will be increased up to this value to evenly space their arrival times."
+msgstr "Los tiempos de parada de los trenes se incrementarán hasta este valor para espaciar sus llegadas."
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at"
+msgid "Interval wait at:"
+msgstr "Espera intervalo en:"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_all_stops"
+msgid "All stops"
+msgstr "Todas las paradas"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_desc"
+msgid "Increased stop times due to interval waiting will only be applied at these stops."
+msgstr "Las esperas por intervalo solo se llevarán a cabo en estas paradas."
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_first_stop"
+msgid "First stop"
+msgstr "Primera parada"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_manual"
+msgid "Manual"
+msgstr "Manual"
+
+#v1.2.22
+msgctxt "lineeditor_min_stop_time"
+msgid "Min. stop time (mm:ss):"
+msgstr "Parada min. (mm:ss):"
+
+#v1.2.22
+msgctxt "lineeditor_min_stop_time_desc"
+msgid "Trains will wait at least this long on line stops. They might wait longer if pax are still leaving or boarding."
+msgstr "Los trenes esperarán al menos este tiempo en todas las paradas. Puede aumentar si todavía hay pax entrando o saliendo."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -2165,6 +2090,46 @@ msgstr "Precio base de billete:"
 msgctxt "lineeditor_price_km"
 msgid "Price per km:"
 msgstr "Precio por km de billete:"
+
+#v1.2.22
+msgctxt "lineeditor_reference_train"
+msgid "Reference train:"
+msgstr "Tren de referencia:"
+
+#v1.2.22
+msgctxt "lineeditor_reference_train_desc"
+msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
+msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos."
+
+#v1.2.22
+msgctxt "lineeditor_service_level"
+msgid "Service level:"
+msgstr "Nivel de servicio:"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_closed"
+msgid "Closed"
+msgstr "Cerrado"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_full"
+msgid "Full"
+msgstr "Abierto"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_only_trains"
+msgid "Empty trains"
+msgstr "Trenes vacíos"
+
+#v1.2.22
+msgctxt "lineeditor_stop_interval_wait_here"
+msgid "Interval wait in this stop"
+msgstr "Espera de intervalo en esta parada"
+
+#v1.2.22
+msgctxt "lineeditor_stop_panel_editor"
+msgid "Stop {0}: {1}"
+msgstr "Parada {0}: {1}"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
@@ -2566,6 +2531,36 @@ msgctxt "mod_version"
 msgid "Version:"
 msgstr "Version:"
 
+#v1.2.22
+msgctxt "mode_map_default"
+msgid "Plain map"
+msgstr "Mapa por defecto"
+
+#v1.2.22
+msgctxt "mode_map_population"
+msgid "Population overlay"
+msgstr "Capa de población"
+
+#v1.2.22
+msgctxt "mode_map_tracks"
+msgid "Plain tracks"
+msgstr "Vías por defecto"
+
+#v1.2.22
+msgctxt "mode_map_tracks_lines"
+msgid "Lines overlay"
+msgstr "Capa de líneas"
+
+#v1.2.22
+msgctxt "mode_map_tracks_signals"
+msgid "Track reservations"
+msgstr "Reservas de vía"
+
+#v1.2.22
+msgctxt "mode_map_tracks_speed"
+msgid "Speed overlay"
+msgstr "Capa de velocidad"
+
 #v1.1.31
 msgctxt "mods"
 msgid "Mods"
@@ -2841,6 +2836,11 @@ msgctxt "mvo_user_map_region_names"
 msgid "Map labels"
 msgstr "Etiquetas de mapa"
 
+#v1.2.22
+msgctxt "mvo_user_signals"
+msgid "Signals"
+msgstr "Señales"
+
 #v1.1.37
 msgctxt "mvo_user_station_event"
 msgid "Station events"
@@ -2880,6 +2880,11 @@ msgstr "Nueva partida"
 msgctxt "new_game_options"
 msgid "New game options"
 msgstr "Opciones de nueva partida"
+
+#v1.2.22
+msgctxt "new_key_tip"
+msgid "Press new key or backspace to clear"
+msgstr "Pulsa la nueva tecla o borrar para limpiar"
 
 #v1.1.31
 msgctxt "new_loan"
@@ -2975,6 +2980,11 @@ msgstr "General"
 msgctxt "options_graphics"
 msgid "Graphics"
 msgstr "Gráficos"
+
+#v1.2.22
+msgctxt "options_keybinds"
+msgid "Keybinds"
+msgstr "Teclas"
 
 #v1.1.31
 msgctxt "options_mods_upload"
@@ -3096,6 +3106,11 @@ msgctxt "pax_waiting"
 msgid "Pax: {0} / {1}"
 msgstr "Pax: {0} / {1}"
 
+#v1.2.22
+msgctxt "pax_waiting_detail"
+msgid "New pax: {0}\nTransfer pax: {1} "
+msgstr "Nuevo pax: {0}\nTransfer. pax: {1} "
+
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
 msgid "Group by destination"
@@ -3150,6 +3165,11 @@ msgstr "Elige mod local"
 msgctxt "pick_placeholder"
 msgid "< Pick >"
 msgstr "< Elige >"
+
+#v1.2.22
+msgctxt "plat_auto_direction"
+msgid "Auto append direction signals"
+msgstr "Auto añadir señales de dirección única"
 
 #v1.1.31
 msgctxt "platform_n"
@@ -3215,11 +3235,6 @@ msgstr "Renderer:"
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
-
-#v1.1.31
-msgctxt "renderer_opengl"
-msgid "OpenGL 3.1"
-msgstr "OpenGL 3.1"
 
 #v1.1.31
 msgctxt "reset_train"
@@ -3406,6 +3421,11 @@ msgctxt "sax_score"
 msgid "Satisfaction: {:.2f}"
 msgstr "Satisfacción: {:.2f}"
 
+#v1.2.22
+msgctxt "sax_tooltip2"
+msgid "{0}\nNeutral at {1}, ${2:.2f}"
+msgstr "{0}\nNeutral a {1}, ${2:.2f}"
+
 #v1.1.37
 msgctxt "sax_tooltip_new"
 msgid "Expects {0}, ${1:.2f}"
@@ -3456,6 +3476,121 @@ msgctxt "settings"
 msgid "Settings"
 msgstr "Opciones"
 
+#v1.2.22
+msgctxt "signal_dir_m1"
+msgid "-1"
+msgstr "-1"
+
+#v1.2.22
+msgctxt "signal_dir_p1"
+msgid "+1"
+msgstr "+1"
+
+#v1.2.22
+msgctxt "signal_direction"
+msgid "Direction:"
+msgstr "Dirección:"
+
+#v1.2.22
+msgctxt "signal_editor_title_edit"
+msgid "Edit signal"
+msgstr "Editar señal"
+
+#v1.2.22
+msgctxt "signal_editor_title_new"
+msgid "New signal"
+msgstr "Nueva signal"
+
+#v1.2.22
+msgctxt "signal_flip"
+msgid "Flip"
+msgstr "Rotar"
+
+#v1.2.22
+msgctxt "signal_kind_block_balise"
+msgid "Block balise"
+msgstr "Baliza de bloque"
+
+#v1.2.22
+msgctxt "signal_kind_name_oneway"
+msgid "One way"
+msgstr "Dirección única"
+
+#v1.2.22
+msgctxt "signal_kind_name_platform_stop"
+msgid "Platform train stop point"
+msgstr "Punto de parada en plataforma"
+
+#v1.2.22
+msgctxt "signal_kind_path"
+msgid "Path signal"
+msgstr "Señal de camino"
+
+#v1.2.22
+msgctxt "signal_kind_simple_block"
+msgid "Simple block"
+msgstr "Bloque simple"
+
+#v1.2.22
+msgctxt "signal_limits_block"
+msgid "Bounds other signals:"
+msgstr "Limita otras señales:"
+
+#v1.2.22
+msgctxt "signal_limits_block_always"
+msgid "Always"
+msgstr "Siempre"
+
+#v1.2.22
+msgctxt "signal_limits_block_same"
+msgid "Only for same direction"
+msgstr "Solo para la misma dirección"
+
+#v1.2.22
+msgctxt "signal_long_check"
+msgid "Check path up to:"
+msgstr "Examinar camino hasta:"
+
+#v1.2.22
+msgctxt "signal_side"
+msgid "Side (cosmetic):"
+msgstr "Lado (cosmético):"
+
+#v1.2.22
+msgctxt "signal_side_0"
+msgid "0"
+msgstr "0"
+
+#v1.2.22
+msgctxt "signal_side_m1"
+msgid "-1"
+msgstr "-1"
+
+#v1.2.22
+msgctxt "signal_side_p1"
+msgid "+1"
+msgstr "+1"
+
+#v1.2.22
+msgctxt "signal_stop_check_only_signals"
+msgid "Only signals"
+msgstr "Solo señales"
+
+#v1.2.22
+msgctxt "signal_stop_check_signals_stops"
+msgid "Signals and train stop"
+msgstr "Señales y parada de tren"
+
+#v1.2.22
+msgctxt "signal_toggle"
+msgid "Toggle"
+msgstr "Alternar"
+
+#v1.2.22
+msgctxt "signal_type"
+msgid "Type:"
+msgstr "Tipo:"
+
 #v1.1.31
 msgctxt "single_player"
 msgid "Single player"
@@ -3475,6 +3610,11 @@ msgstr "--- Tiempo real ---"
 msgctxt "start_game"
 msgid "Start game"
 msgstr "Empezar partida"
+
+#v1.2.22
+msgctxt "station_editor"
+msgid "Station properties"
+msgstr "Propiedades de estación"
 
 #v1.1.31
 msgctxt "station_name_edit"
@@ -3540,6 +3680,16 @@ msgstr "Steamworks ID:"
 msgctxt "stop_idx"
 msgid "Stop {}"
 msgstr "Parada {}"
+
+#v1.2.22
+msgctxt "stop_leg_full"
+msgid "{0}m in {1} at {2} km/h avg."
+msgstr "{0}m en {1} a {2} km/h media"
+
+#v1.2.22
+msgctxt "stop_leg_l"
+msgid "{0}m"
+msgstr "{0}m"
 
 #v1.1.31
 msgctxt "stops_n_0"
@@ -3635,11 +3785,6 @@ msgstr "Cercanías"
 msgctxt "tag_compartments"
 msgid "Compartments"
 msgstr "Cabinas"
-
-#v1.1.58
-msgctxt "tag_deposit"
-msgid "Deposit"
-msgstr "Depósito"
 
 #v1.1.58
 msgctxt "tag_diesel"
@@ -3901,6 +4046,11 @@ msgctxt "title"
 msgid "Title:"
 msgstr "Título:"
 
+#v1.2.22
+msgctxt "tooltip_demand"
+msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
+msgstr "Local {0}%\nRegional {1}%\nLarga distancia {2}%"
+
 #v1.1.31
 msgctxt "total"
 msgid "Total"
@@ -3912,11 +4062,6 @@ msgid "Tracks"
 msgstr "Vías"
 
 #v1.1.31
-msgctxt "track_ground_underpasses"
-msgid "Ground"
-msgstr "Suelo"
-
-#v1.1.31
 msgctxt "track_hits"
 msgid "track hits"
 msgstr "choques con vía"
@@ -3925,16 +4070,6 @@ msgstr "choques con vía"
 msgctxt "track_tram"
 msgid "Tram"
 msgstr "Tranvía"
-
-#v1.1.31
-msgctxt "track_tunnel1"
-msgid "Tunnel"
-msgstr "Túnel"
-
-#v1.1.31
-msgctxt "track_viaduct"
-msgid "Viaduct"
-msgstr "Viaducto"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
@@ -4105,6 +4240,11 @@ msgstr "Estado:"
 msgctxt "train_info_status_circulation"
 msgid "Running"
 msgstr "Circulando"
+
+#v1.2.22
+msgctxt "train_info_status_collision"
+msgid "Collision"
+msgstr "Colisión"
 
 #v1.1.31
 msgctxt "train_info_status_in_storage"
@@ -4565,6 +4705,11 @@ msgstr "Subir mod"
 msgctxt "used_active_mod"
 msgid "This mod is used by one or more objects in the game, and cannot be disabled."
 msgstr "Este mod está en uso por uno o más objetos en el juego, y no se puede desactivar."
+
+#v1.2.22
+msgctxt "user_signal_light_cones"
+msgid "Signal light cones"
+msgstr "Cono de luz de señales"
 
 #v1.1.31
 msgctxt "view_in_workshop"
