@@ -1,210 +1,320 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.2.29
-msgctxt "depth_layer_n"
-msgid "Depth {}"
-msgstr "Profundidad {}"
+#v1.3.13
+msgctxt "acc_export_desc"
+msgid "Accounting data has been exported to {}"
+msgstr "Se ha exportado la contabilidad a {}"
 
-#v1.2.29
-msgctxt "editor_tip_cont_ctrl"
-msgid "Hold Ctrl to line up track with its previous track segment."
-msgstr "Presiona Ctrl para alinear la vía al segmento anterior."
+#v1.3.13
+msgctxt "acc_export_title"
+msgid "Exported accounting data"
+msgstr "Contabilidad exportada"
 
-#v1.2.29
-msgctxt "editor_tip_sel_signal_flip"
-msgid "{} to flip direction of selected signals"
-msgstr "{} para cambiar la dirección de las señales seleccionadas"
+#v1.3.13
+msgctxt "alert_after"
+msgid "After:"
+msgstr "Pasados:"
 
-#v1.2.29
-msgctxt "game_speed_down"
-msgid "Game speed down"
-msgstr "Reducir velocidad del juego"
+#v1.3.13
+msgctxt "alert_on"
+msgid "Alert on:"
+msgstr "Alerta en:"
 
-#v1.2.29
-msgctxt "game_speed_up"
-msgid "Game speed up"
-msgstr "incrementar velocidad del juego"
+#v1.3.13
+msgctxt "autoexport_config_name"
+msgid "Autoexport accounting:"
+msgstr "Auto exportar conta.:"
 
-#v1.2.29
-msgctxt "height_layer_n"
-msgid "Height {}"
-msgstr "Altura {}"
+#v1.3.13
+msgctxt "autoexport_config_value"
+msgid "Enabled"
+msgstr "Activado"
 
-#v1.2.29
-msgctxt "horizon_ground"
-msgid "Ground"
-msgstr "Suelo"
+#v1.3.13
+msgctxt "autoexporting"
+msgid "Autoexporting..."
+msgstr "Auto exportando..."
 
-#v1.2.29
-msgctxt "horizon_tunnel"
-msgid "Tunnel"
-msgstr "Túnel"
+#v1.3.13
+msgctxt "cat_track_gauge"
+msgid "Track gauge"
+msgstr "Ancho de vía"
 
-#v1.2.29
-msgctxt "horizon_viaduct"
-msgid "Viaduct"
-msgstr "Viaducto"
+#v1.3.13
+msgctxt "cat_train_misc"
+msgid "Train miscellany"
+msgstr "Misc. tren"
 
-#v1.2.29
-msgctxt "kb_track_flip_signal"
-msgid "Tracks: flip selected signal"
-msgstr "Tracks: cambiar dir. señal"
+#v1.3.13
+msgctxt "cat_train_power"
+msgid "Train power"
+msgstr "Potencia (tren)"
 
-#v1.2.29
-msgctxt "kb_track_layer_down"
-msgid "Tracks: decr. new track layer"
-msgstr "Tracks: decr. capa de vía"
+#v1.3.13
+msgctxt "cat_train_role"
+msgid "Train role"
+msgstr "Rol (tren)"
 
-#v1.2.29
-msgctxt "kb_track_layer_up"
-msgid "Tracks: incr. new track layer"
-msgstr "Tracks: incr. capa de vía"
+#v1.3.13
+msgctxt "cat_train_unit"
+msgid "Train unit"
+msgstr "Unidad (tren)"
 
-#v1.2.29
-msgctxt "layer_ground"
-msgid "Ground"
-msgstr "Suelo"
+#v1.3.13
+msgctxt "charts_title"
+msgid "Charts"
+msgstr "Gráficos"
 
-#v1.2.29
-msgctxt "tag_battery"
-msgid "Battery"
-msgstr "Batería"
+#v1.3.13
+msgctxt "color"
+msgid "Color:"
+msgstr "Color:"
 
-#v1.2.29
-msgctxt "tag_tank"
-msgid "Tank"
-msgstr "Depósito"
+#v1.3.13
+msgctxt "line_list_group_all"
+msgid "Group by: All lines"
+msgstr "Agrupar por: Todas las líneas"
 
-#v1.2.29
-msgctxt "teo.plat_auto_direction_lr"
-msgid "Drive on left for double platforms"
-msgstr "Circular por la izquierda en doble plataforma"
+#v1.3.13
+msgctxt "line_list_group_no_tags"
+msgid "Group by: Untagged"
+msgstr "Agrupar por: Sin tags"
 
-#v1.2.29
-msgctxt "teo.plat_auto_scissors"
-msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "Auto añadir cambio cruzado y señales en doble plataforma"
+#v1.3.13
+msgctxt "line_list_group_tags"
+msgid "Group by: Tags"
+msgstr "Agrupar por: Tags"
 
-#v1.2.29
-msgctxt "teo.plat_auto_stops"
-msgid "Auto append platform stop point signals"
-msgstr "Auto añadir señales de parada en plataforma"
+#v1.3.13
+msgctxt "lineeditor_tags"
+msgid "Tags:"
+msgstr "Tags:"
 
-#v1.2.29
-msgctxt "teo.twoex_mode"
-msgid "Double track mode"
-msgstr "Modo de doble vía"
+#v1.3.13
+msgctxt "loader_stations_n"
+msgid "Validating stations, {} to go"
+msgstr "Validando estaciones, {} restantes"
 
-#v1.2.29
-msgctxt "track_all_kinds_info"
-msgid "Show all track kinds and pick your favorites"
-msgstr "Mostrar todos los tipos de vía y elegir favoritos"
+#v1.3.13
+msgctxt "minutes"
+msgid "minutes"
+msgstr "minutos"
 
-#v1.2.29
-msgctxt "track_high_speed"
-msgid "High speed"
-msgstr "Alta velocidad"
+#v1.3.13
+msgctxt "mode_map_layer_regions"
+msgid "Regions layer"
+msgstr "Capa de regiones"
 
-#v1.2.29
-msgctxt "track_info_layer"
-msgid "Layer:"
-msgstr "Capa:"
+#v1.3.13
+msgctxt "name"
+msgid "Name:"
+msgstr "Nombre:"
 
-#v1.2.29
-msgctxt "track_info_max_speed"
-msgid "Max speed:"
-msgstr "Vel. máxima:"
+#v1.3.13
+msgctxt "option_company_acc_export"
+msgid "Export accounting data"
+msgstr "Exportar contabilidad"
 
-#v1.2.29
-msgctxt "track_info_multi"
-msgid "Multiple selection"
-msgstr "Selección múltiple"
+#v1.3.13
+msgctxt "parent"
+msgid "Parent:"
+msgstr "Padre:"
 
-#v1.2.29
-msgctxt "track_info_price"
-msgid "Price:"
-msgstr "Precio:"
+#v1.3.13
+msgctxt "plots_button_tp"
+msgid "Open charts window"
+msgstr "Abrir ventana de gráficos"
 
-#v1.2.29
-msgctxt "track_info_price_f"
-msgid "${} per km"
-msgstr "${} por km"
+#v1.3.13
+msgctxt "right_bar_tags"
+msgid "Tags"
+msgstr "Tags"
 
-#v1.2.29
-msgctxt "track_info_special"
-msgid "Special:"
-msgstr "Especial:"
+#v1.3.13
+msgctxt "signal_alert_opt_custom"
+msgid "Custom wait time"
+msgstr "Espera específica"
 
-#v1.2.29
-msgctxt "track_info_special_no_collide_ways"
-msgid "Ignores roads"
-msgstr "Ignora calles"
+#v1.3.13
+msgctxt "signal_alert_opt_default"
+msgid "Same wait time as global option"
+msgstr "Idéntico a la opción global"
 
-#v1.2.29
-msgctxt "track_mid_speed"
-msgid "Medium speed"
-msgstr "Velocidad mediana"
+#v1.3.13
+msgctxt "signal_alert_opts"
+msgid "Alert on:"
+msgstr "Alertar en:"
 
-#v1.2.29
-msgctxt "track_not_favorited"
-msgid "Not favorited"
-msgstr "No favorito"
+#v1.3.13
+msgctxt "signal_filter_applies"
+msgid "Applies to all trains"
+msgstr "Aplica a todos los trenes"
 
-#v1.2.29
-msgctxt "track_sort_alpha"
-msgid "Alphabetical"
-msgstr "Alfabético"
+#v1.3.13
+msgctxt "signal_filter_except"
+msgid "Except:"
+msgstr "Excepto:"
 
-#v1.2.29
-msgctxt "track_sort_price"
-msgid "Price"
-msgstr "Precio"
+#v1.3.13
+msgctxt "signal_filter_ignored"
+msgid "Ignored by all trains"
+msgstr "Ignorado por todos los trenes"
 
-#v1.2.29
-msgctxt "track_sort_speed"
-msgid "Max. speed"
-msgstr "Vel. máxima"
+#v1.3.13
+msgctxt "signal_filter_label"
+msgid "By default:"
+msgstr "Por defecto:"
 
-#v1.2.29
-msgctxt "unlimited_depth"
-msgid "Unlimited depth"
-msgstr "Profundidad ilimitada"
+#v1.3.13
+msgctxt "signal_filter_none"
+msgid "<No exceptions>"
+msgstr "<Sin excepciones>"
 
-#v1.2.29
-msgctxt "unlimited_height"
-msgid "Unlimited height"
-msgstr "Altura ilimitada"
+#v1.3.13
+msgctxt "signal_filter_op_or"
+msgid "OR"
+msgstr "O"
 
-#v1.2.29
-msgctxt "warn_mod_in_use"
-msgid "Mod is in use"
-msgstr "Mod está en uso"
+#v1.3.13
+msgctxt "signal_kind_name_noway"
+msgid "No way"
+msgstr "Sin paso"
 
-#v1.2.29
-msgctxt "waw_track_hs_1_name"
-msgid "High speed"
-msgstr "Alta velocidad"
+#v1.3.13
+msgctxt "signal_warn_max_length"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "El bloque protegido por esta señal es demasiado largo. Introduce más señales en el bloque, por ejemplo balizas, para hacerlo más corto."
 
-#v1.2.29
-msgctxt "waw_track_mid_1_name"
-msgid "Medium speed"
-msgstr "Velocidad mediana"
+#v1.3.13
+msgctxt "signal_warn_too_close"
+msgid "Too close"
+msgstr "Demasiado cerca"
 
-#v1.2.29
-msgctxt "waw_track_tram_1_name"
-msgid "Tram"
-msgstr "Tranvía"
+#v1.3.13
+msgctxt "tag_del"
+msgid "Delete tag"
+msgstr "Borrar tag"
+
+#v1.3.13
+msgctxt "tag_info_builtin"
+msgid "Built-in tag"
+msgstr "Tag predefinida"
+
+#v1.3.13
+msgctxt "tag_info_def_name"
+msgid "New tag"
+msgstr "Nueva tag"
+
+#v1.3.13
+msgctxt "tag_info_mp"
+msgid "Cannot edit in multiplayer"
+msgstr "No se puede editar en multijugador"
+
+#v1.3.13
+msgctxt "tag_info_top_level"
+msgid "<Top level>"
+msgstr "<Nivel superior>"
+
+#v1.3.13
+msgctxt "tag_new"
+msgid "New tag"
+msgstr "Nueva tag"
+
+#v1.3.13
+msgctxt "tags_empty"
+msgid "<No tags>"
+msgstr "<Sin tags>"
+
+#v1.3.13
+msgctxt "train_alert_banner"
+msgid "{} ({})\n{}\nSince: {} UTC{}"
+msgstr "{} ({})\n{}\Desde: {} UTC{}"
+
+#v1.3.13
+msgctxt "train_alert_center_train"
+msgid "Go to train"
+msgstr "Ir a tren"
+
+#v1.3.13
+msgctxt "train_alert_line_banner"
+msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
+msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
+
+#v1.3.13
+msgctxt "train_info_status_busy_track"
+msgid "Track is occupied or reserved"
+msgstr "Vía ocupada o reservada"
+
+#v1.3.13
+msgctxt "train_info_status_line_closed"
+msgid "Line is closed"
+msgstr "Line cerrada"
+
+#v1.3.13
+msgctxt "train_info_status_signal_wait"
+msgid "Waiting at signal"
+msgstr "Esperando señal"
+
+#v1.3.13
+msgctxt "train_list_filter_by_line_tags"
+msgid "Group by line tags"
+msgstr "Agrupar por tags de línea"
+
+#v1.3.13
+msgctxt "train_list_filter_tags"
+msgid "Group by tags"
+msgstr "Agrupar por tags"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.2.29
-msgctxt "renderer_opengl"
-msgid "OpenGL 3.3"
-msgstr "OpenGL 3.3"
+#v1.3.13
+msgctxt "line_list_sort_alpha"
+msgid "Sort by: Alphabetical"
+msgstr "Ordenar por: Alfabético"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_Compensation"
+msgid "Sort by: Compensations"
+msgstr "Ordenar por: Compensaciones"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_board"
+msgid "Sort by: Boarded"
+msgstr "Ordenar por: Entrado en tren"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_fares"
+msgid "Sort by: Fares"
+msgstr "Ordenar por: Pagado"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_profit"
+msgid "Sort by: Profit"
+msgstr "Ordenar por: Beneficio"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_refunds"
+msgid "Sort by: Refunds"
+msgstr "Ordenar por: Reembolsos"
+
+#v1.3.13
+msgctxt "list_sort_reverse"
+msgid "Reverse sorting"
+msgstr "Orden inverso"
+
+#v1.3.13
+msgctxt "mode_map_population"
+msgid "Population layer"
+msgstr "Capa de población"
+
+#v1.3.13
+msgctxt "pending_validations"
+msgid "Validating tracks, {} to go"
+msgstr "Validando vías, {} restantes"
 
 
 
@@ -986,6 +1096,11 @@ msgctxt "depots_n_many"
 msgid "%d depots"
 msgstr "%d depósitos"
 
+#v1.2.29
+msgctxt "depth_layer_n"
+msgid "Depth {}"
+msgstr "Profundidad {}"
+
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
@@ -1125,6 +1240,11 @@ msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
 msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
 msgstr "Alt para alternar el lado de la vía paralela"
+
+#v1.2.29
+msgctxt "editor_tip_cont_ctrl"
+msgid "Hold Ctrl to line up track with its previous track segment."
+msgstr "Presiona Ctrl para alinear la vía al segmento anterior."
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
@@ -1270,6 +1390,11 @@ msgstr "Arrastra para mover la señal seleccionada"
 msgctxt "editor_tip_sel_signal_esc"
 msgid "Esc to go to track edit mode"
 msgstr "Esc para volver al modo de edición de vía"
+
+#v1.2.29
+msgctxt "editor_tip_sel_signal_flip"
+msgid "{} to flip direction of selected signals"
+msgstr "{} para cambiar la dirección de las señales seleccionadas"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
@@ -1596,10 +1721,40 @@ msgctxt "game_restart_req"
 msgid "Game restart is required"
 msgstr "Se requiere reiniciar el juego"
 
+#v1.2.29
+msgctxt "game_speed_down"
+msgid "Game speed down"
+msgstr "Reducir velocidad del juego"
+
+#v1.2.29
+msgctxt "game_speed_up"
+msgid "Game speed up"
+msgstr "incrementar velocidad del juego"
+
 #v1.1.31
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
 msgstr "Factura planos globales"
+
+#v1.2.29
+msgctxt "height_layer_n"
+msgid "Height {}"
+msgstr "Altura {}"
+
+#v1.2.29
+msgctxt "horizon_ground"
+msgid "Ground"
+msgstr "Suelo"
+
+#v1.2.29
+msgctxt "horizon_tunnel"
+msgid "Tunnel"
+msgstr "Túnel"
+
+#v1.2.29
+msgctxt "horizon_viaduct"
+msgid "Viaduct"
+msgstr "Viaducto"
 
 #v1.1.31
 msgctxt "host_game"
@@ -1851,6 +2006,21 @@ msgctxt "kb_track_depot"
 msgid "Tracks: new depot"
 msgstr "Vías: nuevo depósito"
 
+#v1.2.29
+msgctxt "kb_track_flip_signal"
+msgid "Tracks: flip selected signal"
+msgstr "Tracks: cambiar dir. señal"
+
+#v1.2.29
+msgctxt "kb_track_layer_down"
+msgid "Tracks: decr. new track layer"
+msgstr "Tracks: decr. capa de vía"
+
+#v1.2.29
+msgctxt "kb_track_layer_up"
+msgid "Tracks: incr. new track layer"
+msgstr "Tracks: incr. capa de vía"
+
 #v1.2.22
 msgctxt "kb_track_move"
 msgid "Tracks: selection"
@@ -1901,6 +2071,11 @@ msgctxt "last_train"
 msgid "Last train"
 msgstr "Úlitmo tren"
 
+#v1.2.29
+msgctxt "layer_ground"
+msgid "Ground"
+msgstr "Suelo"
+
 #v1.1.31
 msgctxt "line_0_stops"
 msgid "0 stops"
@@ -1915,36 +2090,6 @@ msgstr "No se puede encontrar camino!"
 msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
 msgstr "No se puede encontrar camino a la primera parada!"
-
-#v1.1.37
-msgctxt "line_list_sort_alpha"
-msgid "Alphabetical"
-msgstr "Alfabético"
-
-#v1.1.37
-msgctxt "line_list_sort_pax_Compensation"
-msgid "Compensations"
-msgstr "Compensaciones"
-
-#v1.1.37
-msgctxt "line_list_sort_pax_board"
-msgid "Boarded"
-msgstr "Entrado en tren"
-
-#v1.1.37
-msgctxt "line_list_sort_pax_fares"
-msgid "Fares"
-msgstr "Pagado"
-
-#v1.1.37
-msgctxt "line_list_sort_pax_profit"
-msgid "Profit"
-msgstr "Beneficio"
-
-#v1.1.37
-msgctxt "line_list_sort_pax_refunds"
-msgid "Refunds"
-msgstr "Reembolsos"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -2190,11 +2335,6 @@ msgstr "1 línea"
 msgctxt "lines_n_many"
 msgid "%d lines"
 msgstr "%d líneas"
-
-#v1.1.37
-msgctxt "list_sort_reverse"
-msgid "Reverse"
-msgstr "Orden inverso"
 
 #v1.1.31
 msgctxt "load_game"
@@ -2530,16 +2670,6 @@ msgstr "Ver mod en Workshop"
 msgctxt "mod_version"
 msgid "Version:"
 msgstr "Version:"
-
-#v1.2.22
-msgctxt "mode_map_default"
-msgid "Plain map"
-msgstr "Mapa por defecto"
-
-#v1.2.22
-msgctxt "mode_map_population"
-msgid "Population overlay"
-msgstr "Capa de población"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
@@ -3151,11 +3281,6 @@ msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "Esperando pax..."
 
-#v1.1.37
-msgctxt "pending_validations"
-msgid "Validating tracks and stations, {} to go"
-msgstr "Validando vías y estaciones, {} restantes"
-
 #v1.1.31
 msgctxt "pick_a_local_mod"
 msgid "Pick a local mod"
@@ -3235,6 +3360,11 @@ msgstr "Renderer:"
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
+
+#v1.2.29
+msgctxt "renderer_opengl"
+msgid "OpenGL 3.3"
+msgstr "OpenGL 3.3"
 
 #v1.1.31
 msgctxt "reset_train"
@@ -3547,11 +3677,6 @@ msgid "Only for same direction"
 msgstr "Solo para la misma dirección"
 
 #v1.2.22
-msgctxt "signal_long_check"
-msgid "Check path up to:"
-msgstr "Examinar camino hasta:"
-
-#v1.2.22
 msgctxt "signal_side"
 msgid "Side (cosmetic):"
 msgstr "Lado (cosmético):"
@@ -3750,6 +3875,11 @@ msgstr "Equipaje"
 msgctxt "tag_bar"
 msgid "Bar"
 msgstr "Bar"
+
+#v1.2.29
+msgctxt "tag_battery"
+msgid "Battery"
+msgstr "Batería"
 
 #v1.1.58
 msgctxt "tag_brake"
@@ -3971,6 +4101,11 @@ msgctxt "tag_steam"
 msgid "Steam"
 msgstr "Vapor"
 
+#v1.2.29
+msgctxt "tag_tank"
+msgid "Tank"
+msgstr "Depósito"
+
 #v1.1.58
 msgctxt "tag_tender"
 msgid "Tender"
@@ -4026,6 +4161,26 @@ msgctxt "tags_units"
 msgid "Units"
 msgstr "Unidades"
 
+#v1.2.29
+msgctxt "teo.plat_auto_direction_lr"
+msgid "Drive on left for double platforms"
+msgstr "Circular por la izquierda en doble plataforma"
+
+#v1.2.29
+msgctxt "teo.plat_auto_scissors"
+msgid "Auto append scissor intersections and path signals for double platforms"
+msgstr "Auto añadir cambio cruzado y señales en doble plataforma"
+
+#v1.2.29
+msgctxt "teo.plat_auto_stops"
+msgid "Auto append platform stop point signals"
+msgstr "Auto añadir señales de parada en plataforma"
+
+#v1.2.29
+msgctxt "teo.twoex_mode"
+msgid "Double track mode"
+msgstr "Modo de doble vía"
+
 #v1.1.31
 msgctxt "time_h_m"
 msgid "{0}h {1}m"
@@ -4056,6 +4211,11 @@ msgctxt "total"
 msgid "Total"
 msgstr "Total"
 
+#v1.2.29
+msgctxt "track_all_kinds_info"
+msgid "Show all track kinds and pick your favorites"
+msgstr "Mostrar todos los tipos de vía y elegir favoritos"
+
 #v1.1.31
 msgctxt "track_editor"
 msgid "Tracks"
@@ -4066,10 +4226,60 @@ msgctxt "track_hits"
 msgid "track hits"
 msgstr "choques con vía"
 
-#v1.1.31
-msgctxt "track_tram"
-msgid "Tram"
-msgstr "Tranvía"
+#v1.2.29
+msgctxt "track_info_layer"
+msgid "Layer:"
+msgstr "Capa:"
+
+#v1.2.29
+msgctxt "track_info_max_speed"
+msgid "Max speed:"
+msgstr "Vel. máxima:"
+
+#v1.2.29
+msgctxt "track_info_multi"
+msgid "Multiple selection"
+msgstr "Selección múltiple"
+
+#v1.2.29
+msgctxt "track_info_price"
+msgid "Price:"
+msgstr "Precio:"
+
+#v1.2.29
+msgctxt "track_info_price_f"
+msgid "${} per km"
+msgstr "${} por km"
+
+#v1.2.29
+msgctxt "track_info_special"
+msgid "Special:"
+msgstr "Especial:"
+
+#v1.2.29
+msgctxt "track_info_special_no_collide_ways"
+msgid "Ignores roads"
+msgstr "Ignora calles"
+
+#v1.2.29
+msgctxt "track_not_favorited"
+msgid "Not favorited"
+msgstr "No favorito"
+
+#v1.2.29
+msgctxt "track_sort_alpha"
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#v1.2.29
+msgctxt "track_sort_price"
+msgid "Price"
+msgstr "Precio"
+
+#v1.2.29
+msgctxt "track_sort_speed"
+msgid "Max. speed"
+msgstr "Vel. máxima"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
@@ -4290,11 +4500,6 @@ msgstr "Orden inválida"
 msgctxt "train_list_filter_alert"
 msgid "With alert warnings"
 msgstr "Solo con alertas"
-
-#v1.1.37
-msgctxt "train_list_filter_all"
-msgid "All trains"
-msgstr "Todos los trenes"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
@@ -4691,6 +4896,16 @@ msgctxt "unknown"
 msgid "Unknown"
 msgstr "Desconocido"
 
+#v1.2.29
+msgctxt "unlimited_depth"
+msgid "Unlimited depth"
+msgstr "Profundidad ilimitada"
+
+#v1.2.29
+msgctxt "unlimited_height"
+msgid "Unlimited height"
+msgstr "Altura ilimitada"
+
 #v1.1.31
 msgctxt "update_note"
 msgid "Update note:"
@@ -4726,10 +4941,30 @@ msgctxt "vsync_mode"
 msgid "VSync:"
 msgstr "VSync:"
 
+#v1.2.29
+msgctxt "warn_mod_in_use"
+msgid "Mod is in use"
+msgstr "Mod está en uso"
+
 #v1.1.31
 msgctxt "warning"
 msgid "Warning"
 msgstr "Alerta"
+
+#v1.2.29
+msgctxt "waw_track_hs_1_name"
+msgid "High speed"
+msgstr "Alta velocidad"
+
+#v1.2.29
+msgctxt "waw_track_mid_1_name"
+msgid "Medium speed"
+msgstr "Velocidad mediana"
+
+#v1.2.29
+msgctxt "waw_track_tram_1_name"
+msgid "Tram"
+msgstr "Tranvía"
 
 #v1.1.31
 msgctxt "waypoint"
