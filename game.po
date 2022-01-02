@@ -14,12 +14,12 @@ msgstr "내보낸 회계 데이터"
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "후에:"
+msgstr "후에 알림:"
 
 #v1.3.13
 msgctxt "alert_on"
 msgid "Alert on:"
-msgstr "다음에 알림:"
+msgstr "다음에 알립니다:"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
@@ -244,12 +244,12 @@ msgstr "{} ({} / {})\n{}\{} UTC{}부터"
 #v1.3.13
 msgctxt "train_info_status_busy_track"
 msgid "Track is occupied or reserved"
-msgstr "선로가 사용중이거나 예약되어 있습니다."
+msgstr "선로가 사용중이거나 예약됨"
 
 #v1.3.13
 msgctxt "train_info_status_line_closed"
 msgid "Line is closed"
-msgstr "노선 폐쇄됨"
+msgstr "노선이 닫힘"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
@@ -3114,7 +3114,7 @@ msgstr "그래픽"
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
-msgstr "Teclas"
+msgstr "키할당"
 
 #v1.1.31
 msgctxt "options_mods_upload"
@@ -4469,7 +4469,7 @@ msgstr "분실 또는 잘못된 주문"
 #v1.1.31
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "목적지까지 경로가 없습니다."
+msgstr "목적지까지 경로가 없음"
 
 #v1.1.31
 msgctxt "train_info_storing"
