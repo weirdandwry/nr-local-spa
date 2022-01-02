@@ -4594,7 +4594,7 @@ msgstr "{1} 편성에서 모든 {0} 슬롯 제거"
 #v1.1.31
 msgctxt "train_sched_copy_day"
 msgid "Copy all {0} slots from train {1}"
-msgstr"{1} 편성에서 모든 {0} 슬롯 복사"
+msgstr "{1} 편성에서 모든 {0} 슬롯 복사"
 
 #v1.1.31
 msgctxt "train_sched_copy_slot"
