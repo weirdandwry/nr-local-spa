@@ -1,9 +1,9 @@
-### NIMBY Rails을 위한 한국어 번역
+# NIMBY Rails을 위한 한국어 번역
 
 NIMBY Rails의 비공식 한국어 번역 모드입니다.
 
-### Contribute
+## Contribute
 기여를 받습니다. Pull Request 또는 Issue를 올려 주세요.
 
-### 워크샵 URL
+## 워크샵 URL
 https://steamcommunity.com/sharedfiles/filedetails/?id=2376656256
