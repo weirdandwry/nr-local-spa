@@ -1,5 +1,4 @@
 # NIMBY Rails을 위한 한국어 번역
-
 NIMBY Rails의 비공식 한국어 번역 모드입니다.
 
 ## Contribute
