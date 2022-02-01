@@ -3374,7 +3374,7 @@ msgstr "열차 재배치"
 #v1.1.72
 msgctxt "ridership"
 msgid "Ridership"
-msgstr "지금 열차에 타고 있는 승객 수"
+msgstr "모든 열차에 탑승해 있는 승객의 합"
 
 #v1.1.72
 msgctxt "right_bar_assets"
