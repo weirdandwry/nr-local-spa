@@ -544,7 +544,7 @@ msgstr "4분기"
 #v1.1.72
 msgctxt "accounting_stats_now"
 msgid "Now"
-msgstr "Ahora"
+msgstr "지금"
 
 #v1.1.31
 msgctxt "accounting_ticketing"
@@ -879,7 +879,7 @@ msgstr "물 또는 도로와 충돌함"
 #v1.1.31
 msgctxt "conflicts"
 msgid "Conflicts"
-msgstr "Conflicts"
+msgstr "충돌"
 
 #v1.1.37
 msgctxt "conflicts_pop_desc"
@@ -1099,7 +1099,7 @@ msgstr "%d 차고지"
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr "Profundidad {}"
+msgstr "깊이 {}"
 
 #v1.1.31
 msgctxt "description"
@@ -1149,32 +1149,32 @@ msgstr "완료"
 #v1.2.22
 msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
-msgstr "선로를 추가하거나 새 선로 만들기 [N]"
+msgstr "선로를 추가하거나 새 선로 만들기"
 
 #v1.2.22
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr "새 선로 분기점 만들기 [B]"
+msgstr "새 선로 분기점 만들기"
 
 #v1.2.22
 msgctxt "editor_depot"
 msgid "Create new depot"
-msgstr "새 차고지 만들기 [P]"
+msgstr "새 차고지 만들기"
 
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Move, delete and edit signals"
+msgstr "신호 이동, 삭제 및 편집"
 
 #v1.2.22
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "선로 이동, 삭제 및 편집 [M]"
+msgstr "선로 이동, 삭제 및 편집"
 
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr "Create new signals"
+msgstr "새 신호 만들기"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
@@ -1204,7 +1204,7 @@ msgstr "이 열차의 슬롯 순서를 설정하려면 지도에서 차고지를
 #v1.2.22
 msgctxt "editor_station"
 msgid "Create new station platforms"
-msgstr "새로운 역 홈 만들기 [T]"
+msgstr "새로운 역 홈 만들기"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1299,7 +1299,7 @@ msgstr "선로를 옮기거나 삭제하려면 선로의 정점을 선택해야 
 #v1.2.22
 msgctxt "editor_tip_create_rebp2"
 msgid "{} to change selected built track(s) into blueprint track(s)"
-msgstr "{} para convertir en planos las vías seleccionadas"
+msgstr "선택한 선로를 청사진으로 바꾸려면 {}키를 누르세요."
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
@@ -2129,7 +2129,7 @@ msgstr "Auto"
 #v1.2.22
 msgctxt "lineeditor_basics"
 msgid "Basics"
-msgstr "Basics"
+msgstr "기본 사항"
 
 #v1.1.31
 msgctxt "lineeditor_bp_station"
@@ -2154,7 +2154,7 @@ msgstr "Cruise speed (km/h):"
 #v1.2.22
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
-msgstr "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
+msgstr "열차는 지정된 속도까지 가속한 후 속도를 일정하게 유지할겁니다. 열차가 지연됐을 경우 기관사가 속도를 더 낼 수도 있습니다."
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -2674,22 +2674,22 @@ msgstr "버전: "
 #v1.2.22
 msgctxt "mode_map_tracks"
 msgid "Plain tracks"
-msgstr "일반 선로 표시 [End]"
+msgstr "일반 선로 표시"
 
 #v1.2.22
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay"
-msgstr "노선 표시 [End]"
+msgstr "노선 표시"
 
 #v1.2.22
 msgctxt "mode_map_tracks_signals"
 msgid "Track reservations"
-msgstr "Reservas de vía"
+msgstr "선로 예약 표시"
 
 #v1.2.22
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay"
-msgstr "속도 수치 표시 [End]"
+msgstr "속도 수치 표시"
 
 #v1.1.31
 msgctxt "mods"
@@ -3014,7 +3014,7 @@ msgstr "새 게임 설정"
 #v1.2.22
 msgctxt "new_key_tip"
 msgid "Press new key or backspace to clear"
-msgstr "Pulsa la nueva tecla o borrar para limpiar"
+msgstr "새로 할당할 키를 누르세요. 기존 키를 제외하려면 백스페이스를 누르세요."
 
 #v1.1.31
 msgctxt "new_loan"
@@ -3074,22 +3074,22 @@ msgstr "회사명: "
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
-msgstr "Pasar a dinero ilimitado"
+msgstr "예산 무제한 모드로 바꾸기"
 
 #v1.1.72
 msgctxt "option_local_pax_ai"
 msgid "Pax AI at stations:"
-msgstr "IA pax en estación:"
+msgstr "역사 내 승객 AI 설정:"
 
 #v1.1.72
 msgctxt "option_local_pax_ai_disabled"
 msgid "Only considers optimal train"
-msgstr "Solo considera el tren óptimo"
+msgstr "AI가 최적의 열차만 계산"
 
 #v1.1.72
 msgctxt "option_local_pax_ai_enabled"
 msgid "Considers any train"
-msgstr "Considera cualquier tren"
+msgstr "AI가 모든 열차를 계산"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -3374,7 +3374,7 @@ msgstr "열차 재배치"
 #v1.1.72
 msgctxt "ridership"
 msgid "Ridership"
-msgstr "Ocupación global en trenes"
+msgstr "지금 열차에 타고 있는 승객 수"
 
 #v1.1.72
 msgctxt "right_bar_assets"
