@@ -1,320 +1,495 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.3.13
-msgctxt "acc_export_desc"
-msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+#v1.4.15
+msgctxt "accounting_construction_buildings"
+msgid "Buildings"
+msgstr "Edificios"
 
-#v1.3.13
-msgctxt "acc_export_title"
-msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+#v1.4.15
+msgctxt "alerts_pause_game"
+msgid "Alerts pause game"
+msgstr "Alertas pausan el juego"
 
-#v1.3.13
-msgctxt "alert_after"
-msgid "After:"
-msgstr "Pasados:"
+#v1.4.15
+msgctxt "alerts_pause_game_fastest"
+msgid "Even at fastest speed"
+msgstr "Incluso en máxima velocidad"
 
-#v1.3.13
-msgctxt "alert_on"
-msgid "Alert on:"
-msgstr "Alerta en:"
+#v1.4.15
+msgctxt "bill_show_full"
+msgid "Show full billing details"
+msgstr "Mostrar factura completa"
 
-#v1.3.13
-msgctxt "autoexport_config_name"
-msgid "Autoexport accounting:"
-msgstr "Auto exportar conta.:"
+#v1.4.15
+msgctxt "building_all_kinds_info"
+msgid "Show all building kinds and pick your favorites"
+msgstr "Mostrar todos los edificios y elegir favoritos"
 
-#v1.3.13
-msgctxt "autoexport_config_value"
-msgid "Enabled"
-msgstr "Activado"
+#v1.4.15
+msgctxt "building_constraint_curved"
+msgid "Trace track curve"
+msgstr "Trazar la curva de la vía"
 
-#v1.3.13
-msgctxt "autoexporting"
-msgid "Autoexporting..."
-msgstr "Auto exportando..."
+#v1.4.15
+msgctxt "building_constraint_draw_layer"
+msgid "Draw depth:"
+msgstr "Altura:"
 
-#v1.3.13
-msgctxt "cat_track_gauge"
-msgid "Track gauge"
-msgstr "Ancho de vía"
+#v1.4.15
+msgctxt "building_constraint_pick"
+msgid "Pick track"
+msgstr "Elegir vía"
 
-#v1.3.13
-msgctxt "cat_train_misc"
-msgid "Train miscellany"
-msgstr "Misc. tren"
+#v1.4.15
+msgctxt "building_constraint_type"
+msgid "Locked to track:"
+msgstr "Pegado a vía:"
 
-#v1.3.13
-msgctxt "cat_train_power"
-msgid "Train power"
-msgstr "Potencia (tren)"
+#v1.4.15
+msgctxt "building_constraints_editor"
+msgid "Building properties"
+msgstr "Propiedades de edificio"
 
-#v1.3.13
-msgctxt "cat_train_role"
-msgid "Train role"
-msgstr "Rol (tren)"
+#v1.4.15
+msgctxt "building_draw_layer_0"
+msgid "Under tracks"
+msgstr "Bajo de vía"
 
-#v1.3.13
-msgctxt "cat_train_unit"
-msgid "Train unit"
-msgstr "Unidad (tren)"
+#v1.4.15
+msgctxt "building_draw_layer_1"
+msgid "Over tracks"
+msgstr "Sobre la vía"
 
-#v1.3.13
-msgctxt "charts_title"
-msgid "Charts"
-msgstr "Gráficos"
+#v1.4.15
+msgctxt "building_draw_layer_3"
+msgid "Roof"
+msgstr "Tejado"
 
-#v1.3.13
-msgctxt "color"
-msgid "Color:"
-msgstr "Color:"
+#v1.4.15
+msgctxt "building_info_price_f"
+msgid "${} per m\xC2\xB2"
+msgstr "${} por m²"
 
-#v1.3.13
-msgctxt "line_list_group_all"
-msgid "Group by: All lines"
-msgstr "Agrupar por: Todas las líneas"
+#v1.4.15
+msgctxt "building_label"
+msgid "[*] Label"
+msgstr "[*] Etiqueta"
 
-#v1.3.13
-msgctxt "line_list_group_no_tags"
-msgid "Group by: Untagged"
-msgstr "Agrupar por: Sin tags"
+#v1.4.15
+msgctxt "building_label_bg_fill"
+msgid "Fill background"
+msgstr "Color de fondo"
 
-#v1.3.13
-msgctxt "line_list_group_tags"
-msgid "Group by: Tags"
-msgstr "Agrupar por: Tags"
+#v1.4.15
+msgctxt "building_label_font"
+msgid "Font size:"
+msgstr "Tamaño fuente:"
 
-#v1.3.13
-msgctxt "lineeditor_tags"
-msgid "Tags:"
-msgstr "Tags:"
+#v1.4.15
+msgctxt "building_label_font_0"
+msgid "Small"
+msgstr "Pequeña"
 
-#v1.3.13
-msgctxt "loader_stations_n"
-msgid "Validating stations, {} to go"
-msgstr "Validando estaciones, {} restantes"
+#v1.4.15
+msgctxt "building_label_font_1"
+msgid "Medium"
+msgstr "Mediana"
 
-#v1.3.13
-msgctxt "minutes"
-msgid "minutes"
-msgstr "minutos"
+#v1.4.15
+msgctxt "building_label_font_2"
+msgid "Large"
+msgstr "Grande"
 
-#v1.3.13
-msgctxt "mode_map_layer_regions"
-msgid "Regions layer"
-msgstr "Capa de regiones"
+#v1.4.15
+msgctxt "building_label_text"
+msgid "Text:"
+msgstr "Texto:"
 
-#v1.3.13
-msgctxt "name"
-msgid "Name:"
-msgstr "Nombre:"
+#v1.4.15
+msgctxt "building_max_zoom"
+msgid "Max zoom:"
+msgstr "Zoom máximo:"
 
-#v1.3.13
-msgctxt "option_company_acc_export"
-msgid "Export accounting data"
-msgstr "Exportar contabilidad"
+#v1.4.15
+msgctxt "building_platform_footprint_extension"
+msgid "[*] Platform footprint extension"
+msgstr "[*] Extensión de plataforma"
 
-#v1.3.13
-msgctxt "parent"
-msgid "Parent:"
-msgstr "Padre:"
+#v1.4.15
+msgctxt "buildings_total"
+msgid "Buildings total"
+msgstr "Total edificios"
 
-#v1.3.13
-msgctxt "plots_button_tp"
-msgid "Open charts window"
-msgstr "Abrir ventana de gráficos"
+#v1.4.15
+msgctxt "client_blueprint_bill_short"
+msgid "My blueprints"
+msgstr "Mis planos"
 
-#v1.3.13
-msgctxt "right_bar_tags"
-msgid "Tags"
-msgstr "Tags"
+#v1.4.15
+msgctxt "clip_auto_name"
+msgid "Clip #{}"
+msgstr "Clip #{}"
 
-#v1.3.13
-msgctxt "signal_alert_opt_custom"
-msgid "Custom wait time"
-msgstr "Espera específica"
+#v1.4.15
+msgctxt "confirm_clip_unknown"
+msgid "Clip contains unknown objects or mods"
+msgstr "El clip contiene objetos o mods desconocidos"
 
-#v1.3.13
-msgctxt "signal_alert_opt_default"
-msgid "Same wait time as global option"
-msgstr "Idéntico a la opción global"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_1"
+msgid "One or more objects in the clip references an unknown object kind:\n"
+msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto desconocido:\n"
 
-#v1.3.13
-msgctxt "signal_alert_opts"
-msgid "Alert on:"
-msgstr "Alertar en:"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_2"
+msgid "One or more objects in the clip references an unknown mod:\n"
+msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
 
-#v1.3.13
-msgctxt "signal_filter_applies"
-msgid "Applies to all trains"
-msgstr "Aplica a todos los trenes"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
+msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
 
-#v1.3.13
-msgctxt "signal_filter_except"
-msgid "Except:"
-msgstr "Excepto:"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
 
-#v1.3.13
-msgctxt "signal_filter_ignored"
-msgid "Ignored by all trains"
-msgstr "Ignorado por todos los trenes"
+#v1.4.15
+msgctxt "constraint_disp"
+msgid "Displace (m):"
+msgstr "Desplazar (m):"
 
-#v1.3.13
-msgctxt "signal_filter_label"
-msgid "By default:"
-msgstr "Por defecto:"
+#v1.4.15
+msgctxt "constraint_straight"
+msgid "Keep straight"
+msgstr "Mantener recto"
 
-#v1.3.13
-msgctxt "signal_filter_none"
-msgid "<No exceptions>"
-msgstr "<Sin excepciones>"
+#v1.4.15
+msgctxt "copied_from_coll"
+msgid "Copied! Paste with Ctrl-V"
+msgstr "Copiado! Pega con Ctrl-V"
 
-#v1.3.13
-msgctxt "signal_filter_op_or"
-msgid "OR"
-msgstr "O"
+#v1.4.15
+msgctxt "default_user_label"
+msgid "Edit me"
+msgstr "Edítame"
 
-#v1.3.13
-msgctxt "signal_kind_name_noway"
-msgid "No way"
-msgstr "Sin paso"
+#v1.4.15
+msgctxt "delete_clip"
+msgid "Delete clip"
+msgstr "Borrar clip"
 
-#v1.3.13
-msgctxt "signal_warn_max_length"
-msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "El bloque protegido por esta señal es demasiado largo. Introduce más señales en el bloque, por ejemplo balizas, para hacerlo más corto."
+#v1.4.15
+msgctxt "edit_clip_name"
+msgid "Edit clip name"
+msgstr "Editar nombre del clip"
 
-#v1.3.13
-msgctxt "signal_warn_too_close"
-msgid "Too close"
-msgstr "Demasiado cerca"
+#v1.4.15
+msgctxt "editor_building"
+msgid "Create new buildings"
+msgstr "Crear nuevos edificios"
 
-#v1.3.13
-msgctxt "tag_del"
-msgid "Delete tag"
-msgstr "Borrar tag"
+#v1.4.15
+msgctxt "editor_pick_building_parent_left"
+msgid "Click a control point to make it the building parent"
+msgstr "Haz click en un nodo de control de vía para mantener el edificio pegado a la misma"
 
-#v1.3.13
-msgctxt "tag_info_builtin"
-msgid "Built-in tag"
-msgstr "Tag predefinida"
+#v1.4.15
+msgctxt "editor_tip_copy"
+msgid "Ctrl-C to copy selected objects into clipboard"
+msgstr "Ctrl-C para copiar la selección al portapapeles"
 
-#v1.3.13
-msgctxt "tag_info_def_name"
-msgid "New tag"
-msgstr "Nueva tag"
+#v1.4.15
+msgctxt "editor_tip_create_drag_alt"
+msgid "Alt and drag any selected control point to rotate the selection"
+msgstr "Alt y arrastra desde cualquier nodo de control para rotar la selección"
 
-#v1.3.13
-msgctxt "tag_info_mp"
-msgid "Cannot edit in multiplayer"
-msgstr "No se puede editar en multijugador"
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer"
+msgid "Drag the building control point to resize and rotate the building"
+msgstr "Arrastra el nodo de control para escalar y rotar el edificio"
 
-#v1.3.13
-msgctxt "tag_info_top_level"
-msgid "<Top level>"
-msgstr "<Nivel superior>"
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer_ctrl"
+msgid "Hold Ctrl to line up the control point on its current axis."
+msgstr "Pulsta Ctrl para alinear el punto de control sobre su eje actual."
 
-#v1.3.13
-msgctxt "tag_new"
-msgid "New tag"
-msgstr "Nueva tag"
+#v1.4.15
+msgctxt "editor_tip_new_building_fin_left"
+msgid "Left click to finish creating a new building"
+msgstr "Click izquierdo para finalizar la creación del edificio"
 
-#v1.3.13
-msgctxt "tags_empty"
-msgid "<No tags>"
-msgstr "<Sin tags>"
+#v1.4.15
+msgctxt "editor_tip_new_building_left"
+msgid "Left click to create a new building"
+msgstr "Click izquierdo para crear un nuevo edificio"
 
-#v1.3.13
-msgctxt "train_alert_banner"
-msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr "{} ({})\n{}\Desde: {} UTC{}"
+#v1.4.15
+msgctxt "editor_tip_paste"
+msgid "Ctrl-V to paste clipboard objects"
+msgstr "Ctrl-V para pegar el clip del portapapeles"
 
-#v1.3.13
-msgctxt "train_alert_center_train"
-msgid "Go to train"
-msgstr "Ir a tren"
+#v1.4.15
+msgctxt "editor_tip_rot_left"
+msgid "Release left button to stop rotating the selection"
+msgstr "Suelta el botón izquierdo para parar de rotar la selección"
 
-#v1.3.13
-msgctxt "train_alert_line_banner"
-msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
+#v1.4.15
+msgctxt "empty_clipboard"
+msgid "<Empty clipboard>"
+msgstr "<Portapapeles vacío>"
 
-#v1.3.13
-msgctxt "train_info_status_busy_track"
-msgid "Track is occupied or reserved"
-msgstr "Vía ocupada o reservada"
+#v1.4.15
+msgctxt "enable_new_mods"
+msgid "Copy with new mods"
+msgstr "Copiar con nuevos mods"
 
-#v1.3.13
-msgctxt "train_info_status_line_closed"
-msgid "Line is closed"
-msgstr "Line cerrada"
+#v1.4.15
+msgctxt "global_blueprint_bill_short"
+msgid "Global"
+msgstr "Global"
 
-#v1.3.13
-msgctxt "train_info_status_signal_wait"
-msgid "Waiting at signal"
-msgstr "Esperando señal"
+#v1.4.15
+msgctxt "help_show_full"
+msgid "Show help"
+msgstr "Mostrar ayuda"
 
-#v1.3.13
-msgctxt "train_list_filter_by_line_tags"
-msgid "Group by line tags"
-msgstr "Agrupar por tags de línea"
+#v1.4.15
+msgctxt "info_company_buildings"
+msgid "Buildings:"
+msgstr "Edificios:"
 
-#v1.3.13
-msgctxt "train_list_filter_tags"
-msgid "Group by tags"
-msgstr "Agrupar por tags"
+#v1.4.15
+msgctxt "info_company_lines"
+msgid "Lines:"
+msgstr "Líneas:"
+
+#v1.4.15
+msgctxt "info_company_stations"
+msgid "Stations:"
+msgstr "Estaciones:"
+
+#v1.4.15
+msgctxt "info_company_tracks"
+msgid "Track segments:"
+msgstr "Segmentos de vía:"
+
+#v1.4.15
+msgctxt "info_company_trains"
+msgid "Trains:"
+msgstr "Trenes:"
+
+#v1.4.15
+msgctxt "invalid_size"
+msgid "invalid size"
+msgstr "tamaño inválido"
+
+#v1.4.15
+msgctxt "kb_track_building"
+msgid "Tracks: new building"
+msgstr "Vías: nuevos edificios"
+
+#v1.4.15
+msgctxt "layer_ground_g"
+msgid "G"
+msgstr "S"
+
+#v1.4.15
+msgctxt "loader_tracks_n"
+msgid "Validating tracks, {} to go"
+msgstr "Validando vías, {} restantes"
+
+#v1.4.15
+msgctxt "mvo_user_labels"
+msgid "User labels"
+msgstr "Etiquetas de usuario"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_over_O"
+msgid "O"
+msgstr "S"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_roof_R"
+msgid "R"
+msgstr "T"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_under_U"
+msgid "U"
+msgstr "B"
+
+#v1.4.15
+msgctxt "mvo_user_layer_toggles"
+msgid "Display layers:"
+msgstr "Mostrar niveles:"
+
+#v1.4.15
+msgctxt "mvo_user_platform_names"
+msgid "Platform names"
+msgstr "Nombres de plataforma"
+
+#v1.4.15
+msgctxt "mvo_user_track_depth"
+msgid "Tunnels under roads"
+msgstr "Túneles bajo calles"
+
+#v1.4.15
+msgctxt "open_games_backup_folder_tooltip"
+msgid "Open saved games auto backup folder"
+msgstr "Abrir carpeta de auto backup de partidas"
+
+#v1.4.15
+msgctxt "plat_buildings_base"
+msgid "Auto append building base"
+msgstr "Auto añadir edificio base"
+
+#v1.4.15
+msgctxt "plat_buildings_floor"
+msgid "Auto append building floors and ceiling"
+msgstr "Auto añadir edificio de suelo y tejado"
+
+#v1.4.15
+msgctxt "plat_curved"
+msgid "Curved tracks and buildings"
+msgstr "Vías y edificios curvados"
+
+#v1.4.15
+msgctxt "plats_n_0"
+msgid "0 platforms"
+msgstr "0 plataformas"
+
+#v1.4.15
+msgctxt "plats_n_1"
+msgid "1 platform"
+msgstr "1 plataforma"
+
+#v1.4.15
+msgctxt "plats_n_many"
+msgid "%d platforms"
+msgstr "%d plataformas"
+
+#v1.4.15
+msgctxt "save_clipboard"
+msgid "Save clipboard"
+msgstr "Guardar portapapeles"
+
+#v1.4.15
+msgctxt "selection_blueprint_bill_short"
+msgid "Selected"
+msgstr "Selección"
+
+#v1.4.15
+msgctxt "show_all_clips"
+msgid "Show saved clipboard clips"
+msgstr "Mostrar los clips guardados del portapapeles"
+
+#v1.4.15
+msgctxt "signal_edit_invalid_track"
+msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
+msgstr "Esta señal sigue siendo functional pero no está permitida en este tipo de vía a partir de la versión 1.4. Algunas maniobras de trenes no se realizarán en esta vía. Desplázala a otra vía."
+
+#v1.4.15
+msgctxt "signal_edit_plat_stop_obsolete"
+msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
+msgstr "Esta señal sigue siendo functional pero se considera obsoleta. Algunas maniobras de trenes no se realizarán en esta vía."
+
+#v1.4.15
+msgctxt "signal_edit_simple_block_obsolete"
+msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
+msgstr "Esta señal sigue siendo funcional pero se considera obsoleta y reemplazada por las señales de camino. Reemplaza tus señales de bloque simple por señales de camino."
+
+#v1.4.15
+msgctxt "station_platform_auto_name"
+msgid "Platform auto name"
+msgstr "Auto nombre de plataforma"
+
+#v1.4.15
+msgctxt "station_platform_user_name"
+msgid "Platform name:"
+msgstr "Nombre de plataforma:"
+
+#v1.4.15
+msgctxt "trackeditor_hide_controls"
+msgid "Hide control points at low zoom"
+msgstr "Esconder puntos de control en zoom bajo"
+
+#v1.4.15
+msgctxt "tracks_total"
+msgid "Tracks total"
+msgstr "Total vías"
+
+#v1.4.15
+msgctxt "use_placeholders"
+msgid "Copy with built-in"
+msgstr "Copiar por defecto"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.3.13
-msgctxt "line_list_sort_alpha"
-msgid "Sort by: Alphabetical"
-msgstr "Ordenar por: Alfabético"
+#v1.4.15
+msgctxt "accounting_construction_stations"
+msgid "Platforms"
+msgstr "Plataformas"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_Compensation"
-msgid "Sort by: Compensations"
-msgstr "Ordenar por: Compensaciones"
+#v1.4.15
+msgctxt "confirm_delete_desc"
+msgid "One or more selected objects are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
+msgstr "Uno o más objetos ya han sido construidos. Borrar estos objetos no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_board"
-msgid "Sort by: Boarded"
-msgstr "Ordenar por: Entrado en tren"
+#v1.4.15
+msgctxt "constraints_editor"
+msgid "Track properties"
+msgstr "Propiedades de vía"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_fares"
-msgid "Sort by: Fares"
-msgstr "Ordenar por: Pagado"
+#v1.4.15
+msgctxt "construct_no_bps"
+msgid "There are no pending blueprints to build"
+msgstr "No hay planos pendientes de construcción"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_profit"
-msgid "Sort by: Profit"
-msgstr "Ordenar por: Beneficio"
+#v1.4.15
+msgctxt "delete_tracks"
+msgid "Delete objects"
+msgstr "Borrar objetos"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_refunds"
-msgid "Sort by: Refunds"
-msgstr "Ordenar por: Reembolsos"
+#v1.4.15
+msgctxt "editor_tip_create_del"
+msgid "Del to delete selected objects"
+msgstr "Del para borrar los objetos seleccionados"
 
-#v1.3.13
-msgctxt "list_sort_reverse"
-msgid "Reverse sorting"
-msgstr "Orden inverso"
+#v1.4.15
+msgctxt "editor_tip_create_drag"
+msgid "Drag any selected control point to move the selection"
+msgstr "Arrastra cualquiera de los controles de los objetos seleccionados para mover la selección"
 
-#v1.3.13
-msgctxt "mode_map_population"
-msgid "Population layer"
-msgstr "Capa de población"
+#v1.4.15
+msgctxt "editor_tip_create_left1"
+msgid "Left click on object control points to select them"
+msgstr "Click izquierdo en los controles de los objetos para seleccionarlos"
 
-#v1.3.13
-msgctxt "pending_validations"
-msgid "Validating tracks, {} to go"
-msgstr "Validando vías, {} restantes"
+#v1.4.15
+msgctxt "editor_tip_create_left3"
+msgid "Left click on control points to reset selection"
+msgstr "Click izquierdo en los controles de los objetos para resetear la selección"
+
+#v1.4.15
+msgctxt "editor_tip_create_prompt_sel"
+msgid "To move or delete objects, you must select their control points"
+msgstr "Para mover o borrar objetos, debes seleccionar sus puntos de control"
+
+#v1.4.15
+msgctxt "editor_tip_create_rebp2"
+msgid "{} to change selected built object(s) into blueprint object(s)"
+msgstr "{} para convertir en planos las objetos seleccionadas"
+
+#v1.4.15
+msgctxt "editor_tip_move_left"
+msgid "Release left button to stop moving the selection"
+msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
 
 
 
@@ -351,6 +526,16 @@ msgctxt "60_minutes"
 msgid "60 minutes"
 msgstr "60 minutos"
 
+#v1.3.13
+msgctxt "acc_export_desc"
+msgid "Accounting data has been exported to {}"
+msgstr "Se ha exportado la contabilidad a {}"
+
+#v1.3.13
+msgctxt "acc_export_title"
+msgid "Exported accounting data"
+msgstr "Contabilidad exportada"
+
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
@@ -370,11 +555,6 @@ msgstr "Construcción"
 msgctxt "accounting_construction_depots"
 msgid "Depots"
 msgstr "Depósitos"
-
-#v1.1.31
-msgctxt "accounting_construction_stations"
-msgid "Stations"
-msgstr "Estaciones"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
@@ -651,6 +831,16 @@ msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
 msgstr "Si un desconocido quiere entrar:"
 
+#v1.3.13
+msgctxt "alert_after"
+msgid "After:"
+msgstr "Pasados:"
+
+#v1.3.13
+msgctxt "alert_on"
+msgid "Alert on:"
+msgstr "Alerta en:"
+
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
@@ -670,6 +860,21 @@ msgstr "Estaciones"
 msgctxt "asset_trains"
 msgid "Trains"
 msgstr "Trenes"
+
+#v1.3.13
+msgctxt "autoexport_config_name"
+msgid "Autoexport accounting:"
+msgstr "Auto exportar conta.:"
+
+#v1.3.13
+msgctxt "autoexport_config_value"
+msgid "Enabled"
+msgstr "Activado"
+
+#v1.3.13
+msgctxt "autoexporting"
+msgid "Autoexporting..."
+msgstr "Auto exportando..."
 
 #v1.1.31
 msgctxt "autosave_interval"
@@ -806,6 +1011,36 @@ msgctxt "cancel_quit"
 msgid "Quit"
 msgstr "Salir"
 
+#v1.3.13
+msgctxt "cat_track_gauge"
+msgid "Track gauge"
+msgstr "Ancho de vía"
+
+#v1.3.13
+msgctxt "cat_train_misc"
+msgid "Train miscellany"
+msgstr "Misc. tren"
+
+#v1.3.13
+msgctxt "cat_train_power"
+msgid "Train power"
+msgstr "Potencia (tren)"
+
+#v1.3.13
+msgctxt "cat_train_role"
+msgid "Train role"
+msgstr "Rol (tren)"
+
+#v1.3.13
+msgctxt "cat_train_unit"
+msgid "Train unit"
+msgstr "Unidad (tren)"
+
+#v1.3.13
+msgctxt "charts_title"
+msgid "Charts"
+msgstr "Gráficos"
+
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
@@ -820,6 +1055,11 @@ msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
 msgstr "Estadísticas de streaming de cliente"
+
+#v1.3.13
+msgctxt "color"
+msgid "Color:"
+msgstr "Color:"
 
 #v1.1.31
 msgctxt "company_tab_info"
@@ -845,11 +1085,6 @@ msgstr "Confirmar construcción"
 msgctxt "confirm_delete"
 msgid "Confirm delete"
 msgstr "Confirmar borrado"
-
-#v1.1.31
-msgctxt "confirm_delete_desc"
-msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Una o más vías ya han sido construidas. Borrar estas vías no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
@@ -940,16 +1175,6 @@ msgstr "A punto de control"
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
 msgstr "A un punto de vía"
-
-#v1.2.22
-msgctxt "constraints_editor"
-msgid "Track constraints"
-msgstr "Restricciones de vía"
-
-#v1.1.31
-msgctxt "construct_no_bps"
-msgid "There are no pending track or station blueprints to build"
-msgstr "No hay planos de vías o estaciones pendientes de construcción"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
@@ -1065,11 +1290,6 @@ msgstr "Borrar línea"
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
 msgstr "Borrar y vender trenes"
-
-#v1.1.31
-msgctxt "delete_tracks"
-msgid "Delete tracks"
-msgstr "Borrar vías"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
@@ -1262,44 +1482,14 @@ msgid "Hover the mouse cursor over an existing end of track to see how it would 
 msgstr "Acerca el cursor al extremo de una vía existente para ver como quedaría enlazado con la vía que estás editando"
 
 #v1.1.31
-msgctxt "editor_tip_create_del"
-msgid "Del to delete selected tracks"
-msgstr "Del para borrar las vías seleccionadas"
-
-#v1.1.31
-msgctxt "editor_tip_create_drag"
-msgid "Drag any selected track control point to move the selection"
-msgstr "Arrastra cualquiera de los controles de las vías seleccionadas para mover la selección"
-
-#v1.1.31
 msgctxt "editor_tip_create_esc"
 msgid "Esc to cancel selection"
 msgstr "Esc para cancelar la selección"
 
 #v1.1.37
-msgctxt "editor_tip_create_left1"
-msgid "Left click on track or station control points to select them"
-msgstr "Click izquierdo en los controles de las vías o estaciones para seleccionarlas"
-
-#v1.1.37
 msgctxt "editor_tip_create_left2"
 msgid "Left click on station name plates to edit station details"
 msgstr "Click izquierdo en el nombre de una estación para editar sus detalles"
-
-#v1.1.37
-msgctxt "editor_tip_create_left3"
-msgid "Left click on track or station control points to reset selection"
-msgstr "Click izquierdo en los controles de las vías o estaciones para resetear la selección"
-
-#v1.1.37
-msgctxt "editor_tip_create_prompt_sel"
-msgid "To move or delete tracks, you must select their control points"
-msgstr "Para mover o borrar vías, debes seleccionar sus puntos de control"
-
-#v1.2.22
-msgctxt "editor_tip_create_rebp2"
-msgid "{} to change selected built track(s) into blueprint track(s)"
-msgstr "{} para convertir en planos las vías seleccionadas"
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
@@ -1350,11 +1540,6 @@ msgstr "Arrastra el punto de control de la rama a cualquier vía válida para ca
 msgctxt "editor_tip_move_esc"
 msgid "Esc to cancel movement"
 msgstr "Esc para cancelar el movimiento"
-
-#v1.2.22
-msgctxt "editor_tip_move_left"
-msgid "Release left button to stop moving the control point"
-msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
@@ -2091,6 +2276,51 @@ msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
 msgstr "No se puede encontrar camino a la primera parada!"
 
+#v1.3.13
+msgctxt "line_list_group_all"
+msgid "Group by: All lines"
+msgstr "Agrupar por: Todas las líneas"
+
+#v1.3.13
+msgctxt "line_list_group_no_tags"
+msgid "Group by: Untagged"
+msgstr "Agrupar por: Sin tags"
+
+#v1.3.13
+msgctxt "line_list_group_tags"
+msgid "Group by: Tags"
+msgstr "Agrupar por: Tags"
+
+#v1.3.13
+msgctxt "line_list_sort_alpha"
+msgid "Sort by: Alphabetical"
+msgstr "Ordenar por: Alfabético"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_Compensation"
+msgid "Sort by: Compensations"
+msgstr "Ordenar por: Compensaciones"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_board"
+msgid "Sort by: Boarded"
+msgstr "Ordenar por: Entrado en tren"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_fares"
+msgid "Sort by: Fares"
+msgstr "Ordenar por: Pagado"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_profit"
+msgid "Sort by: Profit"
+msgstr "Ordenar por: Beneficio"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_refunds"
+msgid "Sort by: Refunds"
+msgstr "Ordenar por: Reembolsos"
+
 #v1.1.31
 msgctxt "line_n_stops"
 msgid "{0}, {1} stops"
@@ -2276,6 +2506,11 @@ msgctxt "lineeditor_stop_panel_editor"
 msgid "Stop {0}: {1}"
 msgstr "Parada {0}: {1}"
 
+#v1.3.13
+msgctxt "lineeditor_tags"
+msgid "Tags:"
+msgstr "Tags:"
+
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
 msgid "Add stops to line"
@@ -2335,6 +2570,11 @@ msgstr "1 línea"
 msgctxt "lines_n_many"
 msgid "%d lines"
 msgstr "%d líneas"
+
+#v1.3.13
+msgctxt "list_sort_reverse"
+msgid "Reverse sorting"
+msgstr "Orden inverso"
 
 #v1.1.31
 msgctxt "load_game"
@@ -2400,6 +2640,11 @@ msgstr "Limpiando"
 msgctxt "loader_spawn"
 msgid "Spawning game loader"
 msgstr "Preparando cargador"
+
+#v1.3.13
+msgctxt "loader_stations_n"
+msgid "Validating stations, {} to go"
+msgstr "Validando estaciones, {} restantes"
 
 #v1.1.58
 msgctxt "loader_updating_rules"
@@ -2530,6 +2775,11 @@ msgstr "Prioridad nombres mapa:"
 msgctxt "max_speed_desc"
 msgid "Map and UI is disabled in max speed mode. Slow down to cancel."
 msgstr "El mapa y el interfaz se desactivan en modo de máxima velocidad. Reduce la velocidad para cancelar."
+
+#v1.3.13
+msgctxt "minutes"
+msgid "minutes"
+msgstr "minutos"
 
 #v1.1.37
 msgctxt "missing_mod"
@@ -2670,6 +2920,16 @@ msgstr "Ver mod en Workshop"
 msgctxt "mod_version"
 msgid "Version:"
 msgstr "Version:"
+
+#v1.3.13
+msgctxt "mode_map_layer_regions"
+msgid "Regions layer"
+msgstr "Capa de regiones"
+
+#v1.3.13
+msgctxt "mode_map_population"
+msgid "Population layer"
+msgstr "Capa de población"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
@@ -3001,6 +3261,11 @@ msgctxt "mvo_user_zoom_out_tracks"
 msgid "Zoomed out tracks"
 msgstr "Vías en zoom abierto"
 
+#v1.3.13
+msgctxt "name"
+msgid "Name:"
+msgstr "Nombre:"
+
 #v1.1.31
 msgctxt "new_game"
 msgid "New game"
@@ -3060,6 +3325,11 @@ msgstr "Abrir"
 msgctxt "open_games_folder_tooltip"
 msgid "Open saved games folder"
 msgstr "Abrir carpeta de partidas guardadas"
+
+#v1.3.13
+msgctxt "option_company_acc_export"
+msgid "Export accounting data"
+msgstr "Exportar contabilidad"
 
 #v1.1.58
 msgctxt "option_company_demand"
@@ -3211,6 +3481,11 @@ msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
 msgstr "{} se guardó con otra versión del juego. Quieres sobreescribirla, o renombrarla para mantener su contenido, y entonces guardar tu partida?"
 
+#v1.3.13
+msgctxt "parent"
+msgid "Parent:"
+msgstr "Padre:"
+
 #v1.1.31
 msgctxt "paste"
 msgid "Paste"
@@ -3281,6 +3556,11 @@ msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "Esperando pax..."
 
+#v1.3.13
+msgctxt "pending_validations"
+msgid "Validating tracks, {} to go"
+msgstr "Validando vías, {} restantes"
+
 #v1.1.31
 msgctxt "pick_a_local_mod"
 msgid "Pick a local mod"
@@ -3305,6 +3585,11 @@ msgstr "Plataforma "
 msgctxt "platforms"
 msgid "Platforms"
 msgstr "Plataformas"
+
+#v1.3.13
+msgctxt "plots_button_tp"
+msgid "Open charts window"
+msgstr "Abrir ventana de gráficos"
 
 #v1.1.31
 msgctxt "pop_reach"
@@ -3410,6 +3695,11 @@ msgstr "Estado de multijugador"
 msgctxt "right_bar_search"
 msgid "Search"
 msgstr "Buscador"
+
+#v1.3.13
+msgctxt "right_bar_tags"
+msgid "Tags"
+msgstr "Tags"
 
 #v1.1.72
 msgctxt "rtstat_coverage"
@@ -3606,6 +3896,21 @@ msgctxt "settings"
 msgid "Settings"
 msgstr "Opciones"
 
+#v1.3.13
+msgctxt "signal_alert_opt_custom"
+msgid "Custom wait time"
+msgstr "Espera específica"
+
+#v1.3.13
+msgctxt "signal_alert_opt_default"
+msgid "Same wait time as global option"
+msgstr "Idéntico a la opción global"
+
+#v1.3.13
+msgctxt "signal_alert_opts"
+msgid "Alert on:"
+msgstr "Alertar en:"
+
 #v1.2.22
 msgctxt "signal_dir_m1"
 msgid "-1"
@@ -3631,6 +3936,36 @@ msgctxt "signal_editor_title_new"
 msgid "New signal"
 msgstr "Nueva signal"
 
+#v1.3.13
+msgctxt "signal_filter_applies"
+msgid "Applies to all trains"
+msgstr "Aplica a todos los trenes"
+
+#v1.3.13
+msgctxt "signal_filter_except"
+msgid "Except:"
+msgstr "Excepto:"
+
+#v1.3.13
+msgctxt "signal_filter_ignored"
+msgid "Ignored by all trains"
+msgstr "Ignorado por todos los trenes"
+
+#v1.3.13
+msgctxt "signal_filter_label"
+msgid "By default:"
+msgstr "Por defecto:"
+
+#v1.3.13
+msgctxt "signal_filter_none"
+msgid "<No exceptions>"
+msgstr "<Sin excepciones>"
+
+#v1.3.13
+msgctxt "signal_filter_op_or"
+msgid "OR"
+msgstr "O"
+
 #v1.2.22
 msgctxt "signal_flip"
 msgid "Flip"
@@ -3640,6 +3975,11 @@ msgstr "Rotar"
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
 msgstr "Baliza de bloque"
+
+#v1.3.13
+msgctxt "signal_kind_name_noway"
+msgid "No way"
+msgstr "Sin paso"
 
 #v1.2.22
 msgctxt "signal_kind_name_oneway"
@@ -3716,6 +4056,16 @@ msgctxt "signal_type"
 msgid "Type:"
 msgstr "Tipo:"
 
+#v1.3.13
+msgctxt "signal_warn_max_length"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "El bloque protegido por esta señal es demasiado largo. Introduce más señales en el bloque, por ejemplo balizas, para hacerlo más corto."
+
+#v1.3.13
+msgctxt "signal_warn_too_close"
+msgid "Too close"
+msgstr "Demasiado cerca"
+
 #v1.1.31
 msgctxt "single_player"
 msgid "Single player"
@@ -3760,21 +4110,6 @@ msgstr "Nombre automático"
 msgctxt "station_pop_area"
 msgid "Area:"
 msgstr "Area:"
-
-#v1.1.31
-msgctxt "stations_n_0"
-msgid "0 stations"
-msgstr "0 estaciones"
-
-#v1.1.31
-msgctxt "stations_n_1"
-msgid "1 station"
-msgstr "1 estación"
-
-#v1.1.31
-msgctxt "stations_n_many"
-msgid "%d stations"
-msgstr "%d estaciones"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -3916,6 +4251,11 @@ msgctxt "tag_compartments"
 msgid "Compartments"
 msgstr "Cabinas"
 
+#v1.3.13
+msgctxt "tag_del"
+msgid "Delete tag"
+msgstr "Borrar tag"
+
 #v1.1.58
 msgctxt "tag_diesel"
 msgid "Diesel"
@@ -3970,6 +4310,26 @@ msgstr "Alta velocidad"
 msgctxt "tag_hotel"
 msgid "Hotel"
 msgstr "Hotel"
+
+#v1.3.13
+msgctxt "tag_info_builtin"
+msgid "Built-in tag"
+msgstr "Tag predefinida"
+
+#v1.3.13
+msgctxt "tag_info_def_name"
+msgid "New tag"
+msgstr "Nueva tag"
+
+#v1.3.13
+msgctxt "tag_info_mp"
+msgid "Cannot edit in multiplayer"
+msgstr "No se puede editar en multijugador"
+
+#v1.3.13
+msgctxt "tag_info_top_level"
+msgid "<Top level>"
+msgstr "<Nivel superior>"
 
 #v1.1.58
 msgctxt "tag_intercity"
@@ -4030,6 +4390,11 @@ msgstr "Unidad de tren"
 msgctxt "tag_narrow"
 msgid "Narrow"
 msgstr "Estrecha"
+
+#v1.3.13
+msgctxt "tag_new"
+msgid "New tag"
+msgstr "Nueva tag"
 
 #v1.1.58
 msgctxt "tag_observation"
@@ -4136,6 +4501,11 @@ msgctxt "tag_tyres"
 msgid "Tyres"
 msgstr "Neumáticos"
 
+#v1.3.13
+msgctxt "tags_empty"
+msgid "<No tags>"
+msgstr "<Sin tags>"
+
 #v1.1.58
 msgctxt "tags_gauge"
 msgid "Gauge"
@@ -4170,11 +4540,6 @@ msgstr "Circular por la izquierda en doble plataforma"
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
 msgstr "Auto añadir cambio cruzado y señales en doble plataforma"
-
-#v1.2.29
-msgctxt "teo.plat_auto_stops"
-msgid "Auto append platform stop point signals"
-msgstr "Auto añadir señales de parada en plataforma"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
@@ -4280,6 +4645,21 @@ msgstr "Precio"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "Vel. máxima"
+
+#v1.3.13
+msgctxt "train_alert_banner"
+msgid "{} ({})\n{}\nSince: {} UTC{}"
+msgstr "{} ({})\n{}\Desde: {} UTC{}"
+
+#v1.3.13
+msgctxt "train_alert_center_train"
+msgid "Go to train"
+msgstr "Ir a tren"
+
+#v1.3.13
+msgctxt "train_alert_line_banner"
+msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
+msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
@@ -4446,6 +4826,11 @@ msgctxt "train_info_status"
 msgid "Status:"
 msgstr "Estado:"
 
+#v1.3.13
+msgctxt "train_info_status_busy_track"
+msgid "Track is occupied or reserved"
+msgstr "Vía ocupada o reservada"
+
 #v1.1.31
 msgctxt "train_info_status_circulation"
 msgid "Running"
@@ -4461,6 +4846,11 @@ msgctxt "train_info_status_in_storage"
 msgid "Stored"
 msgstr "Almacenado"
 
+#v1.3.13
+msgctxt "train_info_status_line_closed"
+msgid "Line is closed"
+msgstr "Line cerrada"
+
 #v1.1.31
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
@@ -4470,6 +4860,11 @@ msgstr "Perdido u orden inválida"
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
 msgstr "Sin camino a destino"
+
+#v1.3.13
+msgctxt "train_info_status_signal_wait"
+msgid "Waiting at signal"
+msgstr "Esperando señal"
 
 #v1.1.31
 msgctxt "train_info_storing"
@@ -4506,6 +4901,11 @@ msgctxt "train_list_filter_by_line"
 msgid "Group by line"
 msgstr "Agrupar por línea"
 
+#v1.3.13
+msgctxt "train_list_filter_by_line_tags"
+msgid "Group by line tags"
+msgstr "Agrupar por tags de línea"
+
 #v1.1.37
 msgctxt "train_list_filter_by_model"
 msgid "Group by model"
@@ -4515,6 +4915,11 @@ msgstr "Agrupar por modelo"
 msgctxt "train_list_filter_depot"
 msgid "In depot"
 msgstr "En depósito"
+
+#v1.3.13
+msgctxt "train_list_filter_tags"
+msgid "Group by tags"
+msgstr "Agrupar por tags"
 
 #v1.1.31
 msgctxt "train_model_edit"
