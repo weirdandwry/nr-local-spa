@@ -1,320 +1,495 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.3.13
-msgctxt "acc_export_desc"
-msgid "Accounting data has been exported to {}"
-msgstr "회계 데이터가 {}(으)로 내보내졌습니다."
+#v1.4.15
+msgctxt "accounting_construction_buildings"
+msgid "Buildings"
+msgstr "건물"
 
-#v1.3.13
-msgctxt "acc_export_title"
-msgid "Exported accounting data"
-msgstr "내보낸 회계 데이터"
+#v1.4.15
+msgctxt "alerts_pause_game"
+msgid "Alerts pause game"
+msgstr "알림 시 게임 일시중지"
 
-#v1.3.13
-msgctxt "alert_after"
-msgid "After:"
-msgstr "후에 알림:"
+#v1.4.15
+msgctxt "alerts_pause_game_fastest"
+msgid "Even at fastest speed"
+msgstr "최고 속도에서도"
 
-#v1.3.13
-msgctxt "alert_on"
-msgid "Alert on:"
-msgstr "다음에 알립니다:"
+#v1.4.15
+msgctxt "bill_show_full"
+msgid "Show full billing details"
+msgstr "전체 청구 상세 정보 보기"
 
-#v1.3.13
-msgctxt "autoexport_config_name"
-msgid "Autoexport accounting:"
-msgstr "자동 회계 데이터 내보내기:"
+#v1.4.15
+msgctxt "building_all_kinds_info"
+msgid "Show all building kinds and pick your favorites"
+msgstr "전체 건물 종류 보기 및 선택하기"
 
-#v1.3.13
-msgctxt "autoexport_config_value"
-msgid "Enabled"
-msgstr "활성화"
+#v1.4.15
+msgctxt "building_constraint_curved"
+msgid "Trace track curve"
+msgstr "선로 곡선 추적"
 
-#v1.3.13
-msgctxt "autoexporting"
-msgid "Autoexporting..."
-msgstr "자동 내보내기 중..."
+#v1.4.15
+msgctxt "building_constraint_draw_layer"
+msgid "Draw depth:"
+msgstr "깊이 그리기:"
 
-#v1.3.13
-msgctxt "cat_track_gauge"
-msgid "Track gauge"
-msgstr "트랙 게이지"
+#v1.4.15
+msgctxt "building_constraint_pick"
+msgid "Pick track"
+msgstr "선로 고르기"
 
-#v1.3.13
-msgctxt "cat_train_misc"
-msgid "Train miscellany"
-msgstr "기타"
+#v1.4.15
+msgctxt "building_constraint_type"
+msgid "Locked to track:"
+msgstr "선로에 고정됨:"
 
-#v1.3.13
-msgctxt "cat_train_power"
-msgid "Train power"
-msgstr "견인력 (열차)"
+#v1.4.15
+msgctxt "building_constraints_editor"
+msgid "Building properties"
+msgstr "건물 속성"
 
-#v1.3.13
-msgctxt "cat_train_role"
-msgid "Train role"
-msgstr "용도 (열차)"
+#v1.4.15
+msgctxt "building_draw_layer_0"
+msgid "Under tracks"
+msgstr "선로 아래"
 
-#v1.3.13
-msgctxt "cat_train_unit"
-msgid "Train unit"
-msgstr "단위 (열차)"
+#v1.4.15
+msgctxt "building_draw_layer_1"
+msgid "Over tracks"
+msgstr "선로 위"
 
-#v1.3.13
-msgctxt "charts_title"
-msgid "Charts"
-msgstr "차트"
+#v1.4.15
+msgctxt "building_draw_layer_3"
+msgid "Roof"
+msgstr "지붕"
 
-#v1.3.13
-msgctxt "color"
-msgid "Color:"
-msgstr "색상:"
+#v1.4.15
+msgctxt "building_info_price_f"
+msgid "${} per m\xC2\xB2"
+msgstr "m² 당 ${} "
 
-#v1.3.13
-msgctxt "line_list_group_all"
-msgid "Group by: All lines"
-msgstr "묶어 보기: 모든 노선"
+#v1.4.15
+msgctxt "building_label"
+msgid "[*] Label"
+msgstr "[*] 라벨"
 
-#v1.3.13
-msgctxt "line_list_group_no_tags"
-msgid "Group by: Untagged"
-msgstr "묶어 보기: 태그 없음"
+#v1.4.15
+msgctxt "building_label_bg_fill"
+msgid "Fill background"
+msgstr "배경 채우기"
 
-#v1.3.13
-msgctxt "line_list_group_tags"
-msgid "Group by: Tags"
-msgstr "묶어 보기: 태그"
+#v1.4.15
+msgctxt "building_label_font"
+msgid "Font size:"
+msgstr "폰트 크기:"
 
-#v1.3.13
-msgctxt "lineeditor_tags"
-msgid "Tags:"
-msgstr "태그:"
+#v1.4.15
+msgctxt "building_label_font_0"
+msgid "Small"
+msgstr "작게"
 
-#v1.3.13
-msgctxt "loader_stations_n"
-msgid "Validating stations, {} to go"
-msgstr "역 갱신 중, {} 남음"
+#v1.4.15
+msgctxt "building_label_font_1"
+msgid "Medium"
+msgstr "중간"
 
-#v1.3.13
-msgctxt "minutes"
-msgid "minutes"
-msgstr "분"
+#v1.4.15
+msgctxt "building_label_font_2"
+msgid "Large"
+msgstr "크게"
 
-#v1.3.13
-msgctxt "mode_map_layer_regions"
-msgid "Regions layer"
-msgstr "지역 레이어"
+#v1.4.15
+msgctxt "building_label_text"
+msgid "Text:"
+msgstr "글씨:"
 
-#v1.3.13
-msgctxt "name"
-msgid "Name:"
-msgstr "이름:"
+#v1.4.15
+msgctxt "building_max_zoom"
+msgid "Max zoom:"
+msgstr "최대 확대:"
 
-#v1.3.13
-msgctxt "option_company_acc_export"
-msgid "Export accounting data"
-msgstr "회계 데이터 내보내기"
+#v1.4.15
+msgctxt "building_platform_footprint_extension"
+msgid "[*] Platform footprint extension"
+msgstr "[*] 플랫폼 확장"
 
-#v1.3.13
-msgctxt "parent"
-msgid "Parent:"
-msgstr "부모:"
+#v1.4.15
+msgctxt "buildings_total"
+msgid "Buildings total"
+msgstr "총 건물"
 
-#v1.3.13
-msgctxt "plots_button_tp"
-msgid "Open charts window"
-msgstr "차트 창 열기"
+#v1.4.15
+msgctxt "client_blueprint_bill_short"
+msgid "My blueprints"
+msgstr "내 청사진"
 
-#v1.3.13
-msgctxt "right_bar_tags"
-msgid "Tags"
-msgstr "태그"
+#v1.4.15
+msgctxt "clip_auto_name"
+msgid "Clip #{}"
+msgstr "#{}번째 복사"
 
-#v1.3.13
-msgctxt "signal_alert_opt_custom"
-msgid "Custom wait time"
-msgstr "사용자 설정 대기 시간"
+#v1.4.15
+msgctxt "confirm_clip_unknown"
+msgid "Clip contains unknown objects or mods"
+msgstr "복사 내용에 알 수 없는 물체나 모드가 포함되어 있습니다."
 
-#v1.3.13
-msgctxt "signal_alert_opt_default"
-msgid "Same wait time as global option"
-msgstr "전역 옵션과 동일하게 설정"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_1"
+msgid "One or more objects in the clip references an unknown object kind:\n"
+msgstr "내용에 포함된 한 개 이상의 물체가 알 수 없는 객체를 참조합니다:\n"
 
-#v1.3.13
-msgctxt "signal_alert_opts"
-msgid "Alert on:"
-msgstr "다음에 알림:"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_2"
+msgid "One or more objects in the clip references an unknown mod:\n"
+msgstr "내용에 포함된 한 개 이상의 물체가 알 수 없는 모드를 참조합니다:\n"
 
-#v1.3.13
-msgctxt "signal_filter_applies"
-msgid "Applies to all trains"
-msgstr "모든 열차에 적용"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
+msgstr "내장된 객체들로 대체해 새 모드나 객체가 게임에 포함되지 않게 하기\n"
 
-#v1.3.13
-msgctxt "signal_filter_except"
-msgid "Except:"
-msgstr "제외:"
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "새 모드에서 객체를 불러와 게임에 포함시키기(Steam Workshop에서 해당 모드들을 구독해야 합니다)"
 
-#v1.3.13
-msgctxt "signal_filter_ignored"
-msgid "Ignored by all trains"
-msgstr "모든 열차에 대해 무시됨"
+#v1.4.15
+msgctxt "constraint_disp"
+msgid "Displace (m):"
+msgstr "바꾸기 (m):"
 
-#v1.3.13
-msgctxt "signal_filter_label"
-msgid "By default:"
-msgstr "기본:"
+#v1.4.15
+msgctxt "constraint_straight"
+msgid "Keep straight"
+msgstr "직선 유지"
 
-#v1.3.13
-msgctxt "signal_filter_none"
-msgid "<No exceptions>"
-msgstr "<예외 없음>"
+#v1.4.15
+msgctxt "copied_from_coll"
+msgid "Copied! Paste with Ctrl-V"
+msgstr "복사되었습니다! Ctrl-V로 붙여넣을 수 있습니다."
 
-#v1.3.13
-msgctxt "signal_filter_op_or"
-msgid "OR"
-msgstr "또는"
+#v1.4.15
+msgctxt "default_user_label"
+msgid "Edit me"
+msgstr "수정하기"
 
-#v1.3.13
-msgctxt "signal_kind_name_noway"
-msgid "No way"
-msgstr "막다른 길"
+#v1.4.15
+msgctxt "delete_clip"
+msgid "Delete clip"
+msgstr "복사 삭제"
 
-#v1.3.13
-msgctxt "signal_warn_max_length"
-msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "이 신호기가 담당하는 선로가 너무 깁니다. 지상자 등 신호를 더 설치해 담당하는 선로를 더 짧게 만들어 주세요."
+#v1.4.15
+msgctxt "edit_clip_name"
+msgid "Edit clip name"
+msgstr "복사 이름 바꾸기"
 
-#v1.3.13
-msgctxt "signal_warn_too_close"
-msgid "Too close"
-msgstr "너무 가까움"
+#v1.4.15
+msgctxt "editor_building"
+msgid "Create new buildings"
+msgstr "새 건물 생성하기"
 
-#v1.3.13
-msgctxt "tag_del"
-msgid "Delete tag"
-msgstr "태그 삭제"
+#v1.4.15
+msgctxt "editor_pick_building_parent_left"
+msgid "Click a control point to make it the building parent"
+msgstr "제어점을 클릭하여 건물의 모체로 만듭니다."
 
-#v1.3.13
-msgctxt "tag_info_builtin"
-msgid "Built-in tag"
-msgstr "내장된 태그"
+#v1.4.15
+msgctxt "editor_tip_copy"
+msgid "Ctrl-C to copy selected objects into clipboard"
+msgstr "Ctrl-C로 선택한 물체들을 복사합니다"
 
-#v1.3.13
-msgctxt "tag_info_def_name"
-msgid "New tag"
-msgstr "새로운 태그"
+#v1.4.15
+msgctxt "editor_tip_create_drag_alt"
+msgid "Alt and drag any selected control point to rotate the selection"
+msgstr "Alt키를 누른 채로 제어점을 드래그해 회전합니다"
 
-#v1.3.13
-msgctxt "tag_info_mp"
-msgid "Cannot edit in multiplayer"
-msgstr "멀티플레이어에서는 수정할 수 없습니다"
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer"
+msgid "Drag the building control point to resize and rotate the building"
+msgstr "건물의 제어점을 드래그해 크기나 방향을 조정합니다"
 
-#v1.3.13
-msgctxt "tag_info_top_level"
-msgid "<Top level>"
-msgstr "<최상 층>"
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer_ctrl"
+msgid "Hold Ctrl to line up the control point on its current axis."
+msgstr "Ctrl을 누른 채로 제어점을 현 중심축에 정렬합니다."
 
-#v1.3.13
-msgctxt "tag_new"
-msgid "New tag"
-msgstr "새 태그"
+#v1.4.15
+msgctxt "editor_tip_new_building_fin_left"
+msgid "Left click to finish creating a new building"
+msgstr "왼쪽 클릭으로 건물 생성을 마칩니다"
 
-#v1.3.13
-msgctxt "tags_empty"
-msgid "<No tags>"
-msgstr "<태그 없음>"
+#v1.4.15
+msgctxt "editor_tip_new_building_left"
+msgid "Left click to create a new building"
+msgstr "왼쪽 클릭으로 건물을 새로 생성합니다"
 
-#v1.3.13
-msgctxt "train_alert_banner"
-msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr "{} ({})\n{}\{} UTC{} 부터"
+#v1.4.15
+msgctxt "editor_tip_paste"
+msgid "Ctrl-V to paste clipboard objects"
+msgstr "Ctrl-V로 복사한 물체들을 붙여넣습니다"
 
-#v1.3.13
-msgctxt "train_alert_center_train"
-msgid "Go to train"
-msgstr "열차로 이동"
+#v1.4.15
+msgctxt "editor_tip_rot_left"
+msgid "Release left button to stop rotating the selection"
+msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다"
 
-#v1.3.13
-msgctxt "train_alert_line_banner"
-msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr "{} ({} / {})\n{}\{} UTC{}부터"
+#v1.4.15
+msgctxt "empty_clipboard"
+msgid "<Empty clipboard>"
+msgstr "<클립보드 비어 있음>"
 
-#v1.3.13
-msgctxt "train_info_status_busy_track"
-msgid "Track is occupied or reserved"
-msgstr "선로가 사용중이거나 예약됨"
+#v1.4.15
+msgctxt "enable_new_mods"
+msgid "Copy with new mods"
+msgstr "새 모드와 함께 복사"
 
-#v1.3.13
-msgctxt "train_info_status_line_closed"
-msgid "Line is closed"
-msgstr "노선이 닫힘"
+#v1.4.15
+msgctxt "global_blueprint_bill_short"
+msgid "Global"
+msgstr "전역"
 
-#v1.3.13
-msgctxt "train_info_status_signal_wait"
-msgid "Waiting at signal"
-msgstr "신호 대기중"
+#v1.4.15
+msgctxt "help_show_full"
+msgid "Show help"
+msgstr "도움말 보기"
 
-#v1.3.13
-msgctxt "train_list_filter_by_line_tags"
-msgid "Group by line tags"
-msgstr "노선 태그로 묶어 보기"
+#v1.4.15
+msgctxt "info_company_buildings"
+msgid "Buildings:"
+msgstr "건물:"
 
-#v1.3.13
-msgctxt "train_list_filter_tags"
-msgid "Group by tags"
-msgstr "태그로 묶어 보기"
+#v1.4.15
+msgctxt "info_company_lines"
+msgid "Lines:"
+msgstr "노선:"
+
+#v1.4.15
+msgctxt "info_company_stations"
+msgid "Stations:"
+msgstr "역:"
+
+#v1.4.15
+msgctxt "info_company_tracks"
+msgid "Track segments:"
+msgstr "선로 구획:"
+
+#v1.4.15
+msgctxt "info_company_trains"
+msgid "Trains:"
+msgstr "열차:"
+
+#v1.4.15
+msgctxt "invalid_size"
+msgid "invalid size"
+msgstr "올바르지 않은 크기"
+
+#v1.4.15
+msgctxt "kb_track_building"
+msgid "Tracks: new building"
+msgstr "선로: 새 건물"
+
+#v1.4.15
+msgctxt "layer_ground_g"
+msgid "G"
+msgstr "S"
+
+#v1.4.15
+msgctxt "loader_tracks_n"
+msgid "Validating tracks, {} to go"
+msgstr "선로 확인 중, {} 남음"
+
+#v1.4.15
+msgctxt "mvo_user_labels"
+msgid "User labels"
+msgstr "유저"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_over_O"
+msgid "O"
+msgstr "S"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_roof_R"
+msgid "R"
+msgstr "T"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_under_U"
+msgid "U"
+msgstr "B"
+
+#v1.4.15
+msgctxt "mvo_user_layer_toggles"
+msgid "Display layers:"
+msgstr "레이어(층) 표시:"
+
+#v1.4.15
+msgctxt "mvo_user_platform_names"
+msgid "Platform names"
+msgstr "플랫폼 이름"
+
+#v1.4.15
+msgctxt "mvo_user_track_depth"
+msgid "Tunnels under roads"
+msgstr "도로 아래 터널"
+
+#v1.4.15
+msgctxt "open_games_backup_folder_tooltip"
+msgid "Open saved games auto backup folder"
+msgstr "자동 백업 게임 폴더 열기"
+
+#v1.4.15
+msgctxt "plat_buildings_base"
+msgid "Auto append building base"
+msgstr "자동으로 건물 기초 추가"
+
+#v1.4.15
+msgctxt "plat_buildings_floor"
+msgid "Auto append building floors and ceiling"
+msgstr "자동으로 건물 바닥과 천장 추가"
+
+#v1.4.15
+msgctxt "plat_curved"
+msgid "Curved tracks and buildings"
+msgstr "곡선 선로와 건물"
+
+#v1.4.15
+msgctxt "plats_n_0"
+msgid "0 platforms"
+msgstr "0개 플랫폼"
+
+#v1.4.15
+msgctxt "plats_n_1"
+msgid "1 platform"
+msgstr "1개 플랫폼"
+
+#v1.4.15
+msgctxt "plats_n_many"
+msgid "%d platforms"
+msgstr "%d개 플랫폼"
+
+#v1.4.15
+msgctxt "save_clipboard"
+msgid "Save clipboard"
+msgstr "클립보드에 저장"
+
+#v1.4.15
+msgctxt "selection_blueprint_bill_short"
+msgid "Selected"
+msgstr "선택됨"
+
+#v1.4.15
+msgctxt "show_all_clips"
+msgid "Show saved clipboard clips"
+msgstr "저장된 복사 내용 보기"
+
+#v1.4.15
+msgctxt "signal_edit_invalid_track"
+msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
+msgstr "버전 1.4 이후로 해당 신호는 이 선로 종류에 사용할 수 없습니다(아직 작동합니다). 일부 열차 기동이 선로에서 올바르게 작동하지 않을 수 있습니다. 신호를 다른 곳으로 옮겨 주세요."
+
+#v1.4.15
+msgctxt "signal_edit_plat_stop_obsolete"
+msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
+msgstr "해당 신호는 아직 동작하지만 구 버전의 규칙을 따릅니다. 일부 열차 기동이 올바르게 작동하지 않을 수 있습니다."
+
+#v1.4.15
+msgctxt "signal_edit_simple_block_obsolete"
+msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
+msgstr "해당 신호는 아직 동작하지만 경로 신호기로 대체되었습니다. 폐색 신호기를 경로 신호기로 교체해 주세요."
+
+#v1.4.15
+msgctxt "station_platform_auto_name"
+msgid "Platform auto name"
+msgstr "플랫폼 자동 이름 짓기"
+
+#v1.4.15
+msgctxt "station_platform_user_name"
+msgid "Platform name:"
+msgstr "플랫폼 이름:"
+
+#v1.4.15
+msgctxt "trackeditor_hide_controls"
+msgid "Hide control points at low zoom"
+msgstr "축소 상태에서 제어점 숨기기"
+
+#v1.4.15
+msgctxt "tracks_total"
+msgid "Tracks total"
+msgstr "총 선로"
+
+#v1.4.15
+msgctxt "use_placeholders"
+msgid "Copy with built-in"
+msgstr "내장된 객체로 복사"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.3.13
-msgctxt "line_list_sort_alpha"
-msgid "Sort by: Alphabetical"
-msgstr "사전순"
+#v1.4.15
+msgctxt "accounting_construction_stations"
+msgid "Platforms"
+msgstr "역"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_Compensation"
-msgid "Sort by: Compensations"
-msgstr "보상"
+#v1.4.15
+msgctxt "confirm_delete_desc"
+msgid "One or more selected objects are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
+msgstr "하나 이상의 선택한 선로가 이미 건설되었습니다. 제거해도 금액은 환불받을 수 없으며 이 작업은 다시 되돌릴 수 없습니다."
 
-#v1.3.13
-msgctxt "line_list_sort_pax_board"
-msgid "Sort by: Boarded"
-msgstr "탑승"
+#v1.4.15
+msgctxt "constraints_editor"
+msgid "Track properties"
+msgstr "선로 속성"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_fares"
-msgid "Sort by: Fares"
-msgstr "운임"
+#v1.4.15
+msgctxt "construct_no_bps"
+msgid "There are no pending blueprints to build"
+msgstr "건설 할 보류중인 선로 또는 역사 청사진이 없습니다."
 
-#v1.3.13
-msgctxt "line_list_sort_pax_profit"
-msgid "Sort by: Profit"
-msgstr "이익"
+#v1.4.15
+msgctxt "delete_tracks"
+msgid "Delete objects"
+msgstr "선로 삭제"
 
-#v1.3.13
-msgctxt "line_list_sort_pax_refunds"
-msgid "Sort by: Refunds"
-msgstr "환불"
+#v1.4.15
+msgctxt "editor_tip_create_del"
+msgid "Del to delete selected objects"
+msgstr "선택한 트랙을 삭제하려면 DEL키를 누르세요."
 
-#v1.3.13
-msgctxt "list_sort_reverse"
-msgid "Reverse sorting"
-msgstr "역순"
+#v1.4.15
+msgctxt "editor_tip_create_drag"
+msgid "Drag any selected control point to move the selection"
+msgstr "선택한 선로를 이동하려면 선택한 선로 제어점을 끌어보세요."
 
-#v1.3.13
-msgctxt "mode_map_population"
-msgid "Population layer"
-msgstr "인구 분포도 표시 [Home]"
+#v1.4.15
+msgctxt "editor_tip_create_left1"
+msgid "Left click on object control points to select them"
+msgstr "선로 제어점을 선택하려면 마우스 왼쪽 버튼을 누르세요."
 
-#v1.3.13
-msgctxt "pending_validations"
-msgid "Validating tracks, {} to go"
-msgstr "선로와 역사 건설중, {} 남음"
+#v1.4.15
+msgctxt "editor_tip_create_left3"
+msgid "Left click on control points to reset selection"
+msgstr "선택을 초기화하려면 선로 제어점을 마우스 왼쪽을 누르세요."
+
+#v1.4.15
+msgctxt "editor_tip_create_prompt_sel"
+msgid "To move or delete objects, you must select their control points"
+msgstr "선로를 옮기거나 삭제하려면 선로의 제어점을 선택해야 합니다"
+
+#v1.4.15
+msgctxt "editor_tip_create_rebp2"
+msgid "{} to change selected built object(s) into blueprint object(s)"
+msgstr "선택한 선로를 청사진으로 바꾸려면 {}키를 누르세요."
+
+#v1.4.15
+msgctxt "editor_tip_move_left"
+msgid "Release left button to stop moving the selection"
+msgstr "제어점 이동을 중지하려면 마우스 왼쪽을 놓으세요."
 
 
 
@@ -351,6 +526,16 @@ msgctxt "60_minutes"
 msgid "60 minutes"
 msgstr "60분"
 
+#v1.3.13
+msgctxt "acc_export_desc"
+msgid "Accounting data has been exported to {}"
+msgstr "회계 데이터가 {}(으)로 내보내졌습니다."
+
+#v1.3.13
+msgctxt "acc_export_title"
+msgid "Exported accounting data"
+msgstr "내보낸 회계 데이터"
+
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
@@ -370,11 +555,6 @@ msgstr "건설"
 msgctxt "accounting_construction_depots"
 msgid "Depots"
 msgstr "차고지"
-
-#v1.1.31
-msgctxt "accounting_construction_stations"
-msgid "Stations"
-msgstr "역"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
@@ -651,6 +831,16 @@ msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
 msgstr "초대받지 않은 낯선 플레이어가 참여를 원하는 경우: "
 
+#v1.3.13
+msgctxt "alert_after"
+msgid "After:"
+msgstr "후에 알림:"
+
+#v1.3.13
+msgctxt "alert_on"
+msgid "Alert on:"
+msgstr "다음에 알립니다:"
+
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
@@ -664,12 +854,27 @@ msgstr "노선"
 #v1.1.72
 msgctxt "asset_stations"
 msgid "Stations"
-msgstr "역"
+msgstr "정차역"
 
 #v1.1.72
 msgctxt "asset_trains"
 msgid "Trains"
 msgstr "열차"
+
+#v1.3.13
+msgctxt "autoexport_config_name"
+msgid "Autoexport accounting:"
+msgstr "자동 회계 데이터 내보내기:"
+
+#v1.3.13
+msgctxt "autoexport_config_value"
+msgid "Enabled"
+msgstr "활성화"
+
+#v1.3.13
+msgctxt "autoexporting"
+msgid "Autoexporting..."
+msgstr "자동 내보내기 중..."
 
 #v1.1.31
 msgctxt "autosave_interval"
@@ -806,6 +1011,36 @@ msgctxt "cancel_quit"
 msgid "Quit"
 msgstr "종료"
 
+#v1.3.13
+msgctxt "cat_track_gauge"
+msgid "Track gauge"
+msgstr "궤간"
+
+#v1.3.13
+msgctxt "cat_train_misc"
+msgid "Train miscellany"
+msgstr "기타"
+
+#v1.3.13
+msgctxt "cat_train_power"
+msgid "Train power"
+msgstr "견인력 (열차)"
+
+#v1.3.13
+msgctxt "cat_train_role"
+msgid "Train role"
+msgstr "용도 (열차)"
+
+#v1.3.13
+msgctxt "cat_train_unit"
+msgid "Train unit"
+msgstr "단위 (열차)"
+
+#v1.3.13
+msgctxt "charts_title"
+msgid "Charts"
+msgstr "차트"
+
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
@@ -820,6 +1055,11 @@ msgstr "호스트: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/초"
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
 msgstr "클라이언트 스트림 상태"
+
+#v1.3.13
+msgctxt "color"
+msgid "Color:"
+msgstr "색상:"
 
 #v1.1.31
 msgctxt "company_tab_info"
@@ -845,11 +1085,6 @@ msgstr "건설 확인"
 msgctxt "confirm_delete"
 msgid "Confirm delete"
 msgstr "삭제 확인"
-
-#v1.1.31
-msgctxt "confirm_delete_desc"
-msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "하나 이상의 선택한 선로가 이미 건설되었습니다. 제거해도 금액은 환불받을 수 없으며 이 작업은 다시 되돌릴 수 없습니다."
 
 #v1.1.58
 msgctxt "confirm_delete_line"
@@ -909,12 +1144,12 @@ msgstr "뒤집기"
 #v1.2.22
 msgctxt "constraint_offset"
 msgid "Offset (m):"
-msgstr "Offset (m):"
+msgstr "오프셋 (m):"
 
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Pick parent"
+msgstr "모체 선택"
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -929,27 +1164,17 @@ msgstr "Segment t (0 to 1):"
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Lock control point:"
+msgstr "제어점 고정:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "To a control point"
+msgstr "대상 제어점으로"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "To a track point"
-
-#v1.2.22
-msgctxt "constraints_editor"
-msgid "Track constraints"
-msgstr "Track constraints"
-
-#v1.1.31
-msgctxt "construct_no_bps"
-msgid "There are no pending track or station blueprints to build"
-msgstr "건설 할 보류중인 선로 또는 역사 청사진이 없습니다."
+msgstr "선로 정점으로"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
@@ -1067,11 +1292,6 @@ msgid "Delete and sell trains"
 msgstr "열차 삭제 후 판매"
 
 #v1.1.31
-msgctxt "delete_tracks"
-msgid "Delete tracks"
-msgstr "선로 삭제"
-
-#v1.1.31
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
 msgstr "초당 승객 {:.1f}"
@@ -1184,7 +1404,7 @@ msgstr "Esc to cancel picking"
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Click a control point to make it the constraint parent"
+msgstr "제어점을 클릭하여 제약조건의 모체로 만듭니다."
 
 #v1.1.58
 msgctxt "editor_select_add_platform"
@@ -1262,44 +1482,14 @@ msgid "Hover the mouse cursor over an existing end of track to see how it would 
 msgstr "현재 선로와 연결된 모양을 보려면 마우스 커서를 기존 선로 끝 위로 가져가세요."
 
 #v1.1.31
-msgctxt "editor_tip_create_del"
-msgid "Del to delete selected tracks"
-msgstr "선택한 트랙을 삭제하려면 DEL키를 누르세요."
-
-#v1.1.31
-msgctxt "editor_tip_create_drag"
-msgid "Drag any selected track control point to move the selection"
-msgstr "선택한 선로를 이동하려면 선택한 선로 제어점을 끌어보세요."
-
-#v1.1.31
 msgctxt "editor_tip_create_esc"
 msgid "Esc to cancel selection"
 msgstr "선택을 취소하려면 ESC키를 누르세요."
 
 #v1.1.37
-msgctxt "editor_tip_create_left1"
-msgid "Left click on track or station control points to select them"
-msgstr "선로 제어점을 선택하려면 마우스 왼쪽 버튼을 누르세요."
-
-#v1.1.37
 msgctxt "editor_tip_create_left2"
 msgid "Left click on station name plates to edit station details"
 msgstr "역 상세 정보를 수정하려면 역명판을 마우스 왼쪽을 누르세요."
-
-#v1.1.37
-msgctxt "editor_tip_create_left3"
-msgid "Left click on track or station control points to reset selection"
-msgstr "선택을 초기화하려면 선로 제어점을 마우스 왼쪽을 누르세요."
-
-#v1.1.37
-msgctxt "editor_tip_create_prompt_sel"
-msgid "To move or delete tracks, you must select their control points"
-msgstr "선로를 옮기거나 삭제하려면 선로의 정점을 선택해야 합니다"
-
-#v1.2.22
-msgctxt "editor_tip_create_rebp2"
-msgid "{} to change selected built track(s) into blueprint track(s)"
-msgstr "선택한 선로를 청사진으로 바꾸려면 {}키를 누르세요."
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
@@ -1350,11 +1540,6 @@ msgstr "분기의 위치를 바꾸려면 분기 제어점을 분기 생성이 �
 msgctxt "editor_tip_move_esc"
 msgid "Esc to cancel movement"
 msgstr "이동을 취소하려면 ESC키를 누르세요."
-
-#v1.2.22
-msgctxt "editor_tip_move_left"
-msgid "Release left button to stop moving the control point"
-msgstr "제어점 이동을 중지하려면 마우스 왼쪽을 놓으세요."
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
@@ -1784,7 +1969,7 @@ msgstr "무시"
 #v1.2.22
 msgctxt "info_mode_tp"
 msgid "Info"
-msgstr "Info"
+msgstr "정보"
 
 #v1.1.37
 msgctxt "info_table_count"
@@ -2091,6 +2276,51 @@ msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
 msgstr "노선의 시작 경로를 찾을 수 없습니다!"
 
+#v1.3.13
+msgctxt "line_list_group_all"
+msgid "Group by: All lines"
+msgstr "묶어 보기: 모든 노선"
+
+#v1.3.13
+msgctxt "line_list_group_no_tags"
+msgid "Group by: Untagged"
+msgstr "묶어 보기: 태그 없음"
+
+#v1.3.13
+msgctxt "line_list_group_tags"
+msgid "Group by: Tags"
+msgstr "묶어 보기: 태그"
+
+#v1.3.13
+msgctxt "line_list_sort_alpha"
+msgid "Sort by: Alphabetical"
+msgstr "사전순"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_Compensation"
+msgid "Sort by: Compensations"
+msgstr "보상"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_board"
+msgid "Sort by: Boarded"
+msgstr "탑승"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_fares"
+msgid "Sort by: Fares"
+msgstr "운임"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_profit"
+msgid "Sort by: Profit"
+msgstr "이익"
+
+#v1.3.13
+msgctxt "line_list_sort_pax_refunds"
+msgid "Sort by: Refunds"
+msgstr "환불"
+
 #v1.1.31
 msgctxt "line_n_stops"
 msgid "{0}, {1} stops"
@@ -2276,6 +2506,11 @@ msgctxt "lineeditor_stop_panel_editor"
 msgid "Stop {0}: {1}"
 msgstr "역 {0}: {1}"
 
+#v1.3.13
+msgctxt "lineeditor_tags"
+msgid "Tags:"
+msgstr "태그:"
+
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
 msgid "Add stops to line"
@@ -2335,6 +2570,11 @@ msgstr "1 노선"
 msgctxt "lines_n_many"
 msgid "%d lines"
 msgstr "%d 노선"
+
+#v1.3.13
+msgctxt "list_sort_reverse"
+msgid "Reverse sorting"
+msgstr "역순"
 
 #v1.1.31
 msgctxt "load_game"
@@ -2400,6 +2640,11 @@ msgstr "오류 검사 중"
 msgctxt "loader_spawn"
 msgid "Spawning game loader"
 msgstr "게임 로더 준비 중"
+
+#v1.3.13
+msgctxt "loader_stations_n"
+msgid "Validating stations, {} to go"
+msgstr "역 갱신 중, {} 남음"
 
 #v1.1.58
 msgctxt "loader_updating_rules"
@@ -2530,6 +2775,11 @@ msgstr "지도 이름 우선순위: "
 msgctxt "max_speed_desc"
 msgid "Map and UI is disabled in max speed mode. Slow down to cancel."
 msgstr "지도와 UI는 최대 속도에서 비활성화 됩니다. 속도를 낮춰 다시 활성화할 수 있습니다."
+
+#v1.3.13
+msgctxt "minutes"
+msgid "minutes"
+msgstr "분"
 
 #v1.1.37
 msgctxt "missing_mod"
@@ -2670,6 +2920,16 @@ msgstr "창작마당에서 모드 보기"
 msgctxt "mod_version"
 msgid "Version:"
 msgstr "버전: "
+
+#v1.3.13
+msgctxt "mode_map_layer_regions"
+msgid "Regions layer"
+msgstr "지역 레이어"
+
+#v1.3.13
+msgctxt "mode_map_population"
+msgid "Population layer"
+msgstr "인구 분포도 표시 [Home]"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
@@ -2969,7 +3229,7 @@ msgstr "맵 레이블"
 #v1.2.22
 msgctxt "mvo_user_signals"
 msgid "Signals"
-msgstr "Señales"
+msgstr "신호"
 
 #v1.1.37
 msgctxt "mvo_user_station_event"
@@ -3000,6 +3260,11 @@ msgstr "열차 아이콘"
 msgctxt "mvo_user_zoom_out_tracks"
 msgid "Zoomed out tracks"
 msgstr "축소된 선로"
+
+#v1.3.13
+msgctxt "name"
+msgid "Name:"
+msgstr "이름:"
 
 #v1.1.31
 msgctxt "new_game"
@@ -3060,6 +3325,11 @@ msgstr "열기"
 msgctxt "open_games_folder_tooltip"
 msgid "Open saved games folder"
 msgstr "저장된 게임 폴더 열기"
+
+#v1.3.13
+msgctxt "option_company_acc_export"
+msgid "Export accounting data"
+msgstr "회계 데이터 내보내기"
 
 #v1.1.58
 msgctxt "option_company_demand"
@@ -3211,6 +3481,11 @@ msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
 msgstr "{}은(는) 다른 게임 버전으로 저장되었습니다. 덮어쓰거나, 다른 이름으로 다시 저장해 원본을 유지할 수 있습니다."
 
+#v1.3.13
+msgctxt "parent"
+msgid "Parent:"
+msgstr "부모:"
+
 #v1.1.31
 msgctxt "paste"
 msgid "Paste"
@@ -3281,6 +3556,11 @@ msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "승객 기다리는 중..."
 
+#v1.3.13
+msgctxt "pending_validations"
+msgid "Validating tracks, {} to go"
+msgstr "선로와 역사 건설중, {} 남음"
+
 #v1.1.31
 msgctxt "pick_a_local_mod"
 msgid "Pick a local mod"
@@ -3305,6 +3585,11 @@ msgstr "홈  "
 msgctxt "platforms"
 msgid "Platforms"
 msgstr "플랫폼"
+
+#v1.3.13
+msgctxt "plots_button_tp"
+msgid "Open charts window"
+msgstr "차트 창 열기"
 
 #v1.1.31
 msgctxt "pop_reach"
@@ -3410,6 +3695,11 @@ msgstr "멀티플레이 상태"
 msgctxt "right_bar_search"
 msgid "Search"
 msgstr "검색"
+
+#v1.3.13
+msgctxt "right_bar_tags"
+msgid "Tags"
+msgstr "태그"
 
 #v1.1.72
 msgctxt "rtstat_coverage"
@@ -3606,6 +3896,21 @@ msgctxt "settings"
 msgid "Settings"
 msgstr "설정"
 
+#v1.3.13
+msgctxt "signal_alert_opt_custom"
+msgid "Custom wait time"
+msgstr "사용자 설정 대기 시간"
+
+#v1.3.13
+msgctxt "signal_alert_opt_default"
+msgid "Same wait time as global option"
+msgstr "전역 옵션과 동일하게 설정"
+
+#v1.3.13
+msgctxt "signal_alert_opts"
+msgid "Alert on:"
+msgstr "다음에 알림:"
+
 #v1.2.22
 msgctxt "signal_dir_m1"
 msgid "-1"
@@ -3631,6 +3936,36 @@ msgctxt "signal_editor_title_new"
 msgid "New signal"
 msgstr "새 신호"
 
+#v1.3.13
+msgctxt "signal_filter_applies"
+msgid "Applies to all trains"
+msgstr "모든 열차에 적용"
+
+#v1.3.13
+msgctxt "signal_filter_except"
+msgid "Except:"
+msgstr "제외:"
+
+#v1.3.13
+msgctxt "signal_filter_ignored"
+msgid "Ignored by all trains"
+msgstr "모든 열차에 대해 무시됨"
+
+#v1.3.13
+msgctxt "signal_filter_label"
+msgid "By default:"
+msgstr "기본:"
+
+#v1.3.13
+msgctxt "signal_filter_none"
+msgid "<No exceptions>"
+msgstr "<예외 없음>"
+
+#v1.3.13
+msgctxt "signal_filter_op_or"
+msgid "OR"
+msgstr "또는"
+
 #v1.2.22
 msgctxt "signal_flip"
 msgid "Flip"
@@ -3640,6 +3975,11 @@ msgstr "뒤집기"
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
 msgstr "지상자 블록"
+
+#v1.3.13
+msgctxt "signal_kind_name_noway"
+msgid "No way"
+msgstr "막다른 길"
 
 #v1.2.22
 msgctxt "signal_kind_name_oneway"
@@ -3716,6 +4056,16 @@ msgctxt "signal_type"
 msgid "Type:"
 msgstr "종류:"
 
+#v1.3.13
+msgctxt "signal_warn_max_length"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "이 신호기가 담당하는 선로가 너무 깁니다. 지상자 등 신호를 더 설치해 담당하는 선로를 더 짧게 만들어 주세요."
+
+#v1.3.13
+msgctxt "signal_warn_too_close"
+msgid "Too close"
+msgstr "너무 가까움"
+
 #v1.1.31
 msgctxt "single_player"
 msgid "Single player"
@@ -3760,21 +4110,6 @@ msgstr "자동 이름 사용"
 msgctxt "station_pop_area"
 msgid "Area:"
 msgstr "지역: "
-
-#v1.1.31
-msgctxt "stations_n_0"
-msgid "0 stations"
-msgstr "0개 플랫폼"
-
-#v1.1.31
-msgctxt "stations_n_1"
-msgid "1 station"
-msgstr "1개 플랫폼"
-
-#v1.1.31
-msgctxt "stations_n_many"
-msgid "%d stations"
-msgstr "%d개 플랫폼"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -3889,7 +4224,7 @@ msgstr "브레이크"
 #v1.1.58
 msgctxt "tag_broad"
 msgid "Broad"
-msgstr "넓은"
+msgstr "광궤"
 
 #v1.1.58
 msgctxt "tag_cable"
@@ -3915,6 +4250,11 @@ msgstr "통근"
 msgctxt "tag_compartments"
 msgid "Compartments"
 msgstr "구획"
+
+#v1.3.13
+msgctxt "tag_del"
+msgid "Delete tag"
+msgstr "태그 삭제"
 
 #v1.1.58
 msgctxt "tag_diesel"
@@ -3971,6 +4311,26 @@ msgctxt "tag_hotel"
 msgid "Hotel"
 msgstr "숙박"
 
+#v1.3.13
+msgctxt "tag_info_builtin"
+msgid "Built-in tag"
+msgstr "내장된 태그"
+
+#v1.3.13
+msgctxt "tag_info_def_name"
+msgid "New tag"
+msgstr "새로운 태그"
+
+#v1.3.13
+msgctxt "tag_info_mp"
+msgid "Cannot edit in multiplayer"
+msgstr "멀티플레이어에서는 수정할 수 없습니다"
+
+#v1.3.13
+msgctxt "tag_info_top_level"
+msgid "<Top level>"
+msgstr "<최상 층>"
+
 #v1.1.58
 msgctxt "tag_intercity"
 msgid "Intercity"
@@ -4014,7 +4374,7 @@ msgstr "지하철"
 #v1.1.58
 msgctxt "tag_minimum_gauge"
 msgid "Minimum gauge"
-msgstr "최소 너비"
+msgstr "최소 궤간"
 
 #v1.1.58
 msgctxt "tag_monorail"
@@ -4029,7 +4389,12 @@ msgstr "여러 칸"
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr "좁은"
+msgstr "협궤"
+
+#v1.3.13
+msgctxt "tag_new"
+msgid "New tag"
+msgstr "새 태그"
 
 #v1.1.58
 msgctxt "tag_observation"
@@ -4039,7 +4404,7 @@ msgstr "Observation"
 #v1.1.58
 msgctxt "tag_people_mover"
 msgid "People mover"
-msgstr "People mover"
+msgstr "여객"
 
 #v1.1.58
 msgctxt "tag_private"
@@ -4089,7 +4454,7 @@ msgstr "침대칸"
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr "표준"
+msgstr "표준궤"
 
 #v1.1.58
 msgctxt "tag_standing"
@@ -4136,6 +4501,11 @@ msgctxt "tag_tyres"
 msgid "Tyres"
 msgstr "고무차륜"
 
+#v1.3.13
+msgctxt "tags_empty"
+msgid "<No tags>"
+msgstr "<태그 없음>"
+
 #v1.1.58
 msgctxt "tags_gauge"
 msgid "Gauge"
@@ -4170,11 +4540,6 @@ msgstr "복선 플랫폼에서 좌측으로 주행"
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
 msgstr "복선 플랫폼에 대해 가위형 인터섹션과 신호 자동 추가"
-
-#v1.2.29
-msgctxt "teo.plat_auto_stops"
-msgid "Auto append platform stop point signals"
-msgstr "플랫폼 정차 지점 신호 자동 추가"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
@@ -4280,6 +4645,21 @@ msgstr "가격"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "최대 속력"
+
+#v1.3.13
+msgctxt "train_alert_banner"
+msgid "{} ({})\n{}\nSince: {} UTC{}"
+msgstr "{} ({})\n{}\{} UTC{} 부터"
+
+#v1.3.13
+msgctxt "train_alert_center_train"
+msgid "Go to train"
+msgstr "열차로 이동"
+
+#v1.3.13
+msgctxt "train_alert_line_banner"
+msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
+msgstr "{} ({} / {})\n{}\{} UTC{}부터"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
@@ -4446,6 +4826,11 @@ msgctxt "train_info_status"
 msgid "Status:"
 msgstr "상태: "
 
+#v1.3.13
+msgctxt "train_info_status_busy_track"
+msgid "Track is occupied or reserved"
+msgstr "선로가 사용중이거나 예약됨"
+
 #v1.1.31
 msgctxt "train_info_status_circulation"
 msgid "Running"
@@ -4461,6 +4846,11 @@ msgctxt "train_info_status_in_storage"
 msgid "Stored"
 msgstr "보관됨"
 
+#v1.3.13
+msgctxt "train_info_status_line_closed"
+msgid "Line is closed"
+msgstr "노선이 닫힘"
+
 #v1.1.31
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
@@ -4470,6 +4860,11 @@ msgstr "분실 또는 잘못된 주문"
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
 msgstr "목적지까지 경로가 없음"
+
+#v1.3.13
+msgctxt "train_info_status_signal_wait"
+msgid "Waiting at signal"
+msgstr "신호 대기중"
 
 #v1.1.31
 msgctxt "train_info_storing"
@@ -4506,6 +4901,11 @@ msgctxt "train_list_filter_by_line"
 msgid "Group by line"
 msgstr "노선 별로 묶어보기"
 
+#v1.3.13
+msgctxt "train_list_filter_by_line_tags"
+msgid "Group by line tags"
+msgstr "노선 태그로 묶어 보기"
+
 #v1.1.37
 msgctxt "train_list_filter_by_model"
 msgid "Group by model"
@@ -4515,6 +4915,11 @@ msgstr "모델 별로 묶어보기"
 msgctxt "train_list_filter_depot"
 msgid "In depot"
 msgstr "차고지 안"
+
+#v1.3.13
+msgctxt "train_list_filter_tags"
+msgid "Group by tags"
+msgstr "태그로 묶어 보기"
 
 #v1.1.31
 msgctxt "train_model_edit"
