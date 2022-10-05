@@ -14,12 +14,12 @@ msgstr "탑승 실패: 만원 열차"
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Automatically track and scroll the list based on the time of day"
+msgstr "하루 시간에 맞추어 자동으로 목록 스크롤하기"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Platform keep straight:"
+msgstr "직선 플랫폼 유지하기:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
@@ -34,7 +34,7 @@ msgstr "활성화"
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "역 고도:"
+msgstr "역 높이:"
 
 #v1.5.31
 msgctxt "company_tab_loans"
@@ -119,7 +119,7 @@ msgstr "속도: {:.1f}x"
 #v1.5.31
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "속:: {0:.1f}x\n핸디캡: {1}%"
+msgstr "속력: {0:.1f}x\n핸디캡: {1}%"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting"
@@ -134,7 +134,7 @@ msgstr "Expected to depart with this line and stop number, based on timetables"
 #v1.5.31
 msgctxt "input_range"
 msgid "{}{} to {}{}"
-msgstr "{}{} to {}{}"
+msgstr "{}{}에서 {}{}"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
@@ -204,7 +204,7 @@ msgstr "Evenly spaced to fit one line loop"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "고정된 수동 기간 사용중"
+msgstr "고정된 수동 기간 사용"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
@@ -279,17 +279,17 @@ msgstr "일주일"
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr "Extra stop time on:"
+msgstr "추가적인 정차 시간:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "Evenly on all stops"
+msgstr "모든 역에 균일하게"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "Manually picked stops"
+msgstr "선택한 역들에만"
 
 #v1.5.31
 msgctxt "lineeditor_header_full_tooltip"
@@ -299,37 +299,37 @@ msgstr "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-l
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "First train departure:"
+msgstr "첫 차 출발:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
+msgstr "형식: hh:mm:ss\n첫 자동운행 차량의 출발 시각을 작성합니다.\n이 설정은 자동 명령으로 운행되는 열차에만 적용됩니다.\n노선에 있는 수동 명령 열차들은 이 설정을 무시하며 계산에 반영하지 안습니다."
 
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "Main platform:"
+msgstr "주 플랫폼:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
-msgstr "Manual interval:"
+msgstr "수동 주기:"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
-msgstr "Stop {}"
+msgstr "{}번째 역"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_clone"
 msgid "Clone selected line"
-msgstr "Clone selected line"
+msgstr "선택한 노선 복제"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_depot_new"
 msgid "Create a new depot line"
-msgstr "Create a new depot line"
+msgstr "새 차고지 노선 만들기"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_shift"
@@ -354,12 +354,12 @@ msgstr "시간대:"
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
 msgid "Time zone of the first train departure time input."
-msgstr "Time zone of the first train departure time input."
+msgstr "첫차의 출발 시각에 사용되는 시간대"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
 msgid "First stop station time zone"
-msgstr "First stop station time zone"
+msgstr "첫 번째 역의 시간대"
 
 #v1.5.31
 msgctxt "lineeditor_tz_line"
@@ -399,12 +399,12 @@ msgstr "모든 노선을 삭제하시겠습니까?"
 #v1.5.31
 msgctxt "mass_del_lines_title"
 msgid "Delete all lines"
-msgstr "Delete all lines"
+msgstr "모든 노선 삭제하기"
 
 #v1.5.31
 msgctxt "mass_del_lines_yes"
 msgid "Delete all"
-msgstr "Delete all"
+msgstr "모두 삭제하기"
 
 #v1.5.31
 msgctxt "mass_del_trains_but"
@@ -444,22 +444,22 @@ msgstr "New track par. off.:"
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
-msgstr "New station label:"
+msgstr "새 역의 높이:"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
 msgid "Empty line"
-msgstr "Empty line"
+msgstr "비어있는 노선"
 
 #v1.5.31
 msgctxt "order_error_invalid_line"
 msgid "Invalid line"
-msgstr "Invalid line"
+msgstr "유효하지 않은 노선"
 
 #v1.5.31
 msgctxt "order_error_not_fit"
 msgid "Runs do not fit between previous and next order"
-msgstr "Runs do not fit between previous and next order"
+msgstr "이전과 다음의 명령이 맞지 않습니다"
 
 #v1.5.31
 msgctxt "order_error_two_arrival_by"
@@ -659,17 +659,17 @@ msgstr "Group"
 #v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
-msgstr "Orders"
+msgstr "명령"
 
 #v1.5.31
 msgctxt "train_group_duration"
 msgid "Duration:"
-msgstr "Duration:"
+msgstr "기간:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by"
 msgid "Interval:"
-msgstr "Interval:"
+msgstr "주기:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
@@ -679,17 +679,17 @@ msgstr "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the 
 #v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
-msgstr "Interval:"
+msgstr "주기:"
 
 #v1.5.31
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Duration of:"
+msgstr "다음의 기간:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
 msgid "Duration:"
-msgstr "Duration:"
+msgstr "기간:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
@@ -3399,7 +3399,7 @@ msgstr "색상: "
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "Cruise speed (km/h):"
+msgstr "운행 속도 (km/h):"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed_desc"
@@ -3409,7 +3409,7 @@ msgstr "열차는 지정된 속도까지 가속한 후 속도를 일정하게 �
 #v1.2.22
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
-msgstr "Default timings"
+msgstr "기본 타이밍"
 
 #v1.2.22
 msgctxt "lineeditor_header_full"
