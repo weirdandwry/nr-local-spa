@@ -4,1102 +4,1102 @@
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "이벤트"
 
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
+msgstr "탑승 실패: 만원 열차"
 
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
+msgstr "Automatically track and scroll the list based on the time of day"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Andén recto:"
+msgstr "Platform keep straight:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Desactivar"
+msgstr "비활성화"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Activar"
+msgstr "활성화"
 
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "역 고도:"
 
 #v1.5.31
 msgctxt "company_tab_loans"
 msgid "Loans"
-msgstr "Crédito"
+msgstr "대출"
 
 #v1.5.31
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "설정"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
+msgstr "노선 개입 확인"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+msgstr "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
 
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
+msgstr "커스텀 최고 속도:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+msgstr "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
 
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
+msgstr "평행 오프셋:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
+msgstr "평행 고정:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "삭제"
 
 #v1.5.31
 msgctxt "constraints_bulk_editor"
 msgid "Track bulk editor"
-msgstr "Editor en grupo de vía"
+msgstr "다중 선로 편집기"
 
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
+msgstr "Click signal controls to set a signal as the secondary path signal for the stop"
 
 #v1.5.31
 msgctxt "editor_select_alt_stop"
 msgid "Click platform letters in stations to add a secondary platform to the stop"
-msgstr "Selecciona andenes para asignarlos como andenes secundarios"
+msgstr "Click platform letters in stations to add a secondary platform to the stop"
 
 #v1.5.31
 msgctxt "editor_select_change_platform"
 msgid "Click platform letters in stations to change the stop main platform"
-msgstr "Selecciona un andén para asignarlo como andén principal"
+msgstr "Click platform letters in stations to change the stop main platform"
 
 #v1.5.31
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
-msgstr "Los pax ignorarán los trenes asignados a esta línea."
+msgstr "Pax will leave and won't board trains running this line."
 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "El intervalo excede la duración de la línea. Será ignorado o funcionará incorrectamente.\nAumenta la duración manual de la línea hasta como mínimo el valor del intervalo."
+msgstr "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
 
 #v1.5.31
 msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
-msgstr "Velocidad: {:.1f}x"
+msgstr "속도: {:.1f}x"
 
 #v1.5.31
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
+msgstr "속:: {0:.1f}x\n핸디캡: {1}%"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting"
 msgid "Waiting for"
-msgstr "Esperando a"
+msgstr "다음 대기중:"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
+msgstr "Expected to depart with this line and stop number, based on timetables"
 
 #v1.5.31
 msgctxt "input_range"
 msgid "{}{} to {}{}"
-msgstr "{}{} a {}{}"
+msgstr "{}{} to {}{}"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Intervenir todos los trenes"
+msgstr "Intervene all trains"
 
 #v1.5.31
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Intervenir línea"
+msgstr "Intervene line"
 
 #v1.5.31
 msgctxt "line_editor_tip_zoom_pick"
 msgid "Zoom in to pick"
-msgstr "Ampliar para elegir"
+msgstr "선택하려면 확대하세요"
 
 #v1.5.31
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "시간표"
 
 #v1.5.31
 msgctxt "line_to2"
 msgid "{} [{}] to"
-msgstr "{} [{}] a"
+msgstr "{} [{}] to"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "Andenes secundarios:"
+msgstr "보조 플랫폼:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
-msgstr "(Total: {})"
+msgstr "(총합: {})"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
+msgstr "보조 플랫폼 신호:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr "Señal {}"
+msgstr "신호 {}"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto"
 msgid "Auto interval:"
-msgstr "Auto intervalo:"
+msgstr "자동 간격:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Añade uno o más trenes en auto recorrido"
+msgstr "하나 또는 여러개의 자동 운행 열차를 추가하세요"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr "Lanzamiento:"
+msgstr "Launch trains:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Espaciados uniformemente en un recorrido"
+msgstr "Evenly spaced to fit one line loop"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "En intervalo manual y fijo"
+msgstr "고정된 수동 기간 사용중"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr "Auto recorrido de línea"
+msgstr "노선 자동 운행"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr "Duración manual:"
+msgstr "수동 기간:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
+msgstr "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "Periodo manual:"
+msgstr "수동 주기:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
+msgstr "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Permitir parada de duración manual"
+msgstr "수동 당역 대기시간"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr "Manual"
+msgstr "수동"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr "Encajar un periodo"
+msgstr "주기에 맞춤"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr "Duración de línea:"
+msgstr "노선 길이:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode_minimal"
 msgid "Minimal"
-msgstr "Mínima"
+msgstr "최소"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period"
 msgid "Period:"
-msgstr "Periodo:"
+msgstr "간격:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
-msgstr "Manual"
+msgstr "수동"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "하루"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "일주일"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr "Espera extra en:"
+msgstr "Extra stop time on:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "Uniforme en todas las paradas"
+msgstr "Evenly on all stops"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "Paradas elegidas manualmente"
+msgstr "Manually picked stops"
 
 #v1.5.31
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
-msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
+msgstr "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "Salida del primer tren:"
+msgstr "First train departure:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Formato: hh:mm:ss\nHora de la salida del primer tren de recorrido automático.\nEsta opción solo se aplica a trenes de recorrido automático.\nLos trenes en modo manual o en modo copia ignoran esta opción."
+msgstr "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
 
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "Andén principal:"
+msgstr "Main platform:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
-msgstr "Intervalo manual:"
+msgstr "Manual interval:"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
-msgstr "Parada {}"
+msgstr "Stop {}"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_clone"
 msgid "Clone selected line"
-msgstr "Clonar línea seleccionada"
+msgstr "Clone selected line"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_depot_new"
 msgid "Create a new depot line"
-msgstr "Crear nueva línea de depósito"
+msgstr "Create a new depot line"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_shift"
 msgid "Shift down all line stops"
-msgstr "Desplazar abajo todas las paradas"
+msgstr "Shift down all line stops"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "Intervenir todos los trenes recorriendo la línea"
+msgstr "Issue an intervention to all trains currently running the selected line"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
 msgid "Shift up all line stops"
-msgstr "Desplazar arriba todas las paradas"
+msgstr "Shift up all line stops"
 
 #v1.5.31
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
-msgstr "Zona horaria:"
+msgstr "시간대:"
 
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
 msgid "Time zone of the first train departure time input."
-msgstr "Zona horaria de la hora de salida del primer tren."
+msgstr "Time zone of the first train departure time input."
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
 msgid "First stop station time zone"
-msgstr "Zona horaria de la primera estación"
+msgstr "First stop station time zone"
 
 #v1.5.31
 msgctxt "lineeditor_tz_line"
 msgid "Line"
-msgstr "Línea"
+msgstr "노선"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
-msgstr "Tipo de parada:"
+msgstr "동작 그만하기:"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
 msgid "Black hole main, wait secondary"
-msgstr "Desaparece principal, espera secundaria"
+msgstr "Black hole main, wait secondary"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
 msgid "Wait on platforms"
-msgstr "Espera en andenes"
+msgstr "플랫폼에서 대기"
 
 #v1.5.31
 msgctxt "loader_timetables_init"
 msgid "Initializing timetables"
-msgstr "Inicializando horarios"
+msgstr "시간표 생성중"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
 msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
+msgstr "모든 노선 삭제"
 
 #v1.5.31
 msgctxt "mass_del_lines_desc"
 msgid "Do you want to delete all lines?"
-msgstr "Quieres borrar todas las líneas?"
+msgstr "모든 노선을 삭제하시겠습니까?"
 
 #v1.5.31
 msgctxt "mass_del_lines_title"
 msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
+msgstr "Delete all lines"
 
 #v1.5.31
 msgctxt "mass_del_lines_yes"
 msgid "Delete all"
-msgstr "Borrar todas"
+msgstr "Delete all"
 
 #v1.5.31
 msgctxt "mass_del_trains_but"
 msgid "Sell all trains"
-msgstr "Vender todos los trenes"
+msgstr "모든 열차 판매"
 
 #v1.5.31
 msgctxt "mass_del_trains_desc"
 msgid "Do you want to sell all trains?"
-msgstr "Quieres vender todos los trenes?"
+msgstr "모든 열차를 판매하시겠습니까?"
 
 #v1.5.31
 msgctxt "mass_del_trains_title"
 msgid "Sell all trains"
-msgstr "Vender todos los trenes"
+msgstr "모든 열차 판매"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "Intervenir todos los trenes"
+msgstr "All trains intervention"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
 msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr "Quieres intervenir todos los trenes con un precio de ${}?"
+msgstr "Do you want to issue an intervention to all trains for a price of ${}?"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_title"
 msgid "Confirm all trains intervention"
-msgstr "Confirmar intervención de todos los trenes"
+msgstr "Confirm all trains intervention"
 
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "Nueva vía desp. par.:"
+msgstr "New track par. off.:"
 
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
-msgstr "Etiqueta estación nueva:"
+msgstr "New station label:"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
 msgid "Empty line"
-msgstr "Línea vacía"
+msgstr "Empty line"
 
 #v1.5.31
 msgctxt "order_error_invalid_line"
 msgid "Invalid line"
-msgstr "Línea inválida"
+msgstr "Invalid line"
 
 #v1.5.31
 msgctxt "order_error_not_fit"
 msgid "Runs do not fit between previous and next order"
-msgstr "No hay suficiente tiempo para crear recorridos entre esta orden y la siguiente"
+msgstr "Runs do not fit between previous and next order"
 
 #v1.5.31
 msgctxt "order_error_two_arrival_by"
 msgid "Arrival By orders cannot appear one after the other"
-msgstr "Órdenes con <Llegar antes de> no pueden aparecer seguidas"
+msgstr "Arrival By orders cannot appear one after the other"
 
 #v1.5.31
 msgctxt "order_invalid_line"
 msgid "Invalid line"
-msgstr "Línea inválida"
+msgstr "유효하지 않은 노선"
 
 #v1.5.31
 msgctxt "path2_arrive"
 msgid "Arrive at {}"
-msgstr "Llegada a {}"
+msgstr "{}에 도착"
 
 #v1.5.31
 msgctxt "path2_ride"
 msgid "Ride {0} for {1}"
-msgstr "Recorre {0} durante {1}"
+msgstr "{0}를 {1}에 탑승"
 
 #v1.5.31
 msgctxt "path2_take2"
 msgid " Up to {0} [{1}]"
-msgstr " Hasta {0} [{1}]"
+msgstr " 최대 {0} [{1}]"
 
 #v1.5.31
 msgctxt "path2_wait_at"
 msgid " Wait {0} at {1}"
-msgstr " Espera {0} en {1}"
+msgstr " {1}에서 {0} 대기"
 
 #v1.5.31
 msgctxt "path2_wait_line2"
 msgid " For the departure of {0} [{1}]"
-msgstr " Para la salida de {0} [{1}]"
+msgstr " {0}의 출발을 기다리는 중 [{1}]"
 
 #v1.5.31
 msgctxt "path_not_found_trip"
 msgid "Path not found between {0} and {1}"
-msgstr "Camino no encontrado entre {0} y {1}"
+msgstr "{0}와 {1} 사이의 경로를 찾을 수 없음"
 
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "Datos obsoletos, ignorando el paso"
+msgstr "구형 데이터가 감지되어 단계를 건너뜁니다"
 
 #v1.5.31
 msgctxt "pax_new_time"
 msgid "New"
-msgstr "Nuevo"
+msgstr "새로운"
 
 #v1.5.31
 msgctxt "paxlist_groupby_dominating"
 msgid "Show dominating trips"
-msgstr "Caminos dominantes"
+msgstr "주로 이동하는 경로 표시"
 
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
 msgid "Group by waited line stop"
-msgstr "Esperando a parada de línea"
+msgstr "Group by waited line stop"
 
 #v1.5.31
 msgctxt "paxlist_other_win"
 msgid "(window)"
-msgstr "(ventana)"
+msgstr "(window)"
 
 #v1.5.31
 msgctxt "pick"
 msgid "Pick"
-msgstr "Elegir"
+msgstr "선택"
 
 #v1.5.31
 msgctxt "run_panel_pad_stop"
 msgid "Train will wait an extra {} in this stop to start the next run at its scheduled time"
-msgstr "El tren esperará un tiempo extra {} en esta parada para empezar el siguiente recorrido en la hora correcta"
+msgstr "열차가 이 역에서 추가적으로 {} 만큼을 기다린 후 다음 계획에 맞추어 운행합니다."
 
 #v1.5.31
 msgctxt "run_panel_start"
 msgid "{0}: Start path to {1}"
-msgstr "{0}: Empezar recorrido a {1}"
+msgstr "{0}: {1}(으)로 경로 시작"
 
 #v1.5.31
 msgctxt "run_panel_train"
 msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
+msgstr "{0} Run {1}"
 
 #v1.5.31
 msgctxt "run_view_tooltip"
 msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
+msgstr "{0} Run {1}"
 
 #v1.5.31
 msgctxt "run_view_tooltip_full"
 msgid "{0} Run {1}\n{2}"
-msgstr "{0} Recorrido {1}\n{2}"
+msgstr "{0} Run {1}\n{2}"
 
 #v1.5.31
 msgctxt "sell_all_trains_yes"
 msgid "Sell all"
-msgstr "Vender todos"
+msgstr "모두 팔기"
 
 #v1.5.31
 msgctxt "stale_run"
 msgid "Stale run"
-msgstr "Recorrido obsoleto"
+msgstr "Stale run"
 
 #v1.5.31
 msgctxt "stale_run_tooltip"
 msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
+msgstr "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
 
 #v1.5.31
 msgctxt "station_label_mode"
 msgid "Label:"
-msgstr "Etiqueta:"
+msgstr "라벨:"
 
 #v1.5.31
 msgctxt "station_label_mode_dot_only"
 msgid "Dot only"
-msgstr "Solo un punto"
+msgstr "정점만"
 
 #v1.5.31
 msgctxt "station_label_mode_full"
 msgid "Full"
-msgstr "Completa"
+msgstr "전체"
 
 #v1.5.31
 msgctxt "station_label_mode_icon_only"
 msgid "Icon only"
-msgstr "Solo un icono"
+msgstr "아이콘만"
 
 #v1.5.31
 msgctxt "station_label_mode_name_only"
 msgid "Name only"
-msgstr "Solo el nombre"
+msgstr "이름만"
 
 #v1.5.31
 msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
-msgstr "Nombre y pax"
+msgstr "이름과 승객"
 
 #v1.5.31
 msgctxt "stop_leg_full2"
 msgid "{0}m at {1} km/h avg."
-msgstr "{0}m a {1} km/h media"
+msgstr "{0}m at {1} km/h avg"
 
 #v1.5.31
 msgctxt "timetable_1day"
 msgid "One day"
-msgstr "Un día"
+msgstr "하루"
 
 #v1.5.31
 msgctxt "timetable_3days"
 msgid "Three days"
-msgstr "Tres días"
+msgstr "사흘"
 
 #v1.5.31
 msgctxt "timetable_heuristic_building_tp"
 msgid "Refreshing pathfind heuristic..."
-msgstr "Actualizando heurísitca de caminos..."
+msgstr "경로 재탐색 중..."
 
 #v1.5.31
 msgctxt "timetable_rebuild_tp"
 msgid "Rebuilding timetables..."
-msgstr "Actualizando horarios..."
+msgstr "시간표 재구성 중..."
 
 #v1.5.31
 msgctxt "timetable_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "주"
 
 #v1.5.31
 msgctxt "too_many_collections"
 msgid "Too many clips"
-msgstr "Demasiados clips"
+msgstr "Too many clips"
 
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
+msgstr "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
 
 #v1.5.31
 msgctxt "train_clone_copier"
 msgid "Clone as copier"
-msgstr "Clonar como copiador"
+msgstr "Clone as copier"
 
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr "Básico"
+msgstr "Basics"
 
 #v1.5.31
 msgctxt "train_editor_group"
 msgid "Group"
-msgstr "Grupo"
+msgstr "Group"
 
 #v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
-msgstr "Órdenes"
+msgstr "Orders"
 
 #v1.5.31
 msgctxt "train_group_duration"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Duration:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Interval:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
 msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
+msgstr "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
 
 #v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Interval:"
 
 #v1.5.31
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Duración de:"
+msgstr "Duration of:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Duration:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
 msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
+msgstr "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
 
 #v1.5.31
 msgctxt "train_group_migrate_but"
 msgid "Set as copiers"
-msgstr "Cambiar a copiadores"
+msgstr "원본으로 지정"
 
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "Migrar trenes automáticos"
+msgstr "자동 운행 열차 마이그레이션"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
 msgid "Auto trains of:"
-msgstr "Trenes auto de:"
+msgstr "Auto trains of:"
 
 #v1.5.31
 msgctxt "train_group_mode"
 msgid "Shift mode:"
-msgstr "Distribución:"
+msgstr "변경 모드:"
 
 #v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
-msgstr "Intervalo fijo"
+msgstr "고정 간격"
 
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "Uniforme en la duración de una línea"
+msgstr "노선 운행 기간으로 그룹화"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr "Uniforme en una duración manual"
+msgstr "임의 기간으로 그룹화"
 
 #v1.5.31
 msgctxt "train_group_n_name"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "열차:"
 
 #v1.5.31
 msgctxt "train_group_n_value"
 msgid "{0} copying, {1} managed"
-msgstr "{0} copiando, {1} controlados"
+msgstr "{0} 복사중, {1} 관리됨"
 
 #v1.5.31
 msgctxt "train_group_shift_matching"
 msgid "Shift orders:"
-msgstr "Distribuir órdenes:"
+msgstr "명령 바꾸기:"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_all"
 msgid "All orders"
-msgstr "Todas"
+msgstr "모든 명령"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_only_pax_service"
 msgid "Only pax service orders"
-msgstr "Solo las de líneas de pax"
+msgstr "여객 관련 명령만"
 
 #v1.5.31
 msgctxt "train_info_status_waiting_spawn"
 msgid "Waiting for scheduled spawn"
-msgstr "Esperando según el horario"
+msgstr "예정된 생성 기다리는 중"
 
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
-msgstr "Alertas"
+msgstr "경고"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
 msgid "All trains"
-msgstr "Todos los trenes"
+msgstr "모든 차량"
 
 #v1.5.31
 msgctxt "train_list_filter_all_short"
 msgid "All"
-msgstr "Todos"
+msgstr "전체"
 
 #v1.5.31
 msgctxt "train_list_filter_flat"
 msgid "Flat listing"
-msgstr "Listado plano"
+msgstr "Flat listing"
 
 #v1.5.31
 msgctxt "train_list_filter_manual"
 msgid "Only with manual orders"
-msgstr "Solo con órdenes manuales"
+msgstr "수동 명령들만"
 
 #v1.5.31
 msgctxt "train_list_filter_manual_short"
 msgid "Manual orders"
-msgstr "Órdenes manuales"
+msgstr "수동 명령"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed"
 msgid "Only mothballed"
-msgstr "Solo retirados"
+msgstr "보관된 차량만"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed_short"
 msgid "Mothballed"
-msgstr "Retirados"
+msgstr "보관됨"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy"
 msgid "Auto copy from:"
-msgstr "Auto copia de:"
+msgstr "다음에서 자동 복사:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode"
 msgid "Shift:"
-msgstr "Distribuir:"
+msgstr "이동:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "Controlador por el original"
+msgstr "부모 그룹에 의해 관리됨"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
 msgid "Shift by manual amount"
-msgstr "Desplazar con valor manual"
+msgstr "직접 입력해 변경하기"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_shirt"
 msgid "Copy:"
-msgstr "Copia:"
+msgstr "복사:"
 
 #v1.5.31
 msgctxt "train_orders_auto_run"
 msgid "Auto run line:"
-msgstr "Linea automática"
+msgstr "노선 자동 운행:"
 
 #v1.5.31
 msgctxt "train_orders_keep_line"
 msgid "< Keep current line >"
-msgstr "< Mantener actual >"
+msgstr "< 기존 노선 지키기 >"
 
 #v1.5.31
 msgctxt "train_orders_mode"
 msgid "Orders:"
-msgstr "Órdenes:"
+msgstr "명령:"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_copy"
 msgid "Auto copy manual orders"
-msgstr "Auto copiar órdenes manuales"
+msgstr "수동 명령 자동 복사"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_line"
 msgid "Auto run a line"
-msgstr "Auto recorrer línea"
+msgstr "노선 자동 운행"
 
 #v1.5.31
 msgctxt "train_orders_mode_manual"
 msgid "Manual orders"
-msgstr "Órdenes manules"
+msgstr "수동 명령"
 
 #v1.5.31
 msgctxt "train_orders_mode_mothballed"
 msgid "Mothballed"
-msgstr "Retirado"
+msgstr "보관됨"
 
 #v1.5.31
 msgctxt "train_orders_run_short"
 msgid "Run line:"
-msgstr "Línea:"
+msgstr "노선 운행:"
 
 #v1.5.31
 msgctxt "train_run"
 msgid "Run"
-msgstr "Recorrido"
+msgstr "운행"
 
 #v1.5.31
 msgctxt "train_sort_alpha"
 msgid "Alphabetically"
-msgstr "Alfabético"
+msgstr "사전순"
 
 #v1.5.31
 msgctxt "train_spawn_at"
 msgid "Spawns in {}"
-msgstr "Aparece en {}"
+msgstr "{}뒤에 생성됨"
 
 #v1.5.31
 msgctxt "train_spawn_late"
 msgid "Spawns late by {}"
-msgstr "Aparece tarde por {}"
+msgstr "{}만큼 늦게 생성됨"
 
 #v1.5.31
 msgctxt "train_status_mothballed"
 msgid "Mothballed"
-msgstr "Retirado"
+msgstr "보관됨"
 
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar la auto copia por este valor."
+msgstr "형식: (-)hh:mm:ss\n복사한 명령들의 시작 시각을 입력한 시간만큼 이동합니다."
 
 #v1.5.31
 msgctxt "traineditor_order_append"
 msgid "Append new order"
-msgstr "Añadir nueva orden"
+msgstr "새 명령 추가"
 
 #v1.5.31
 msgctxt "traineditor_order_append_action"
 msgid "Append new order"
-msgstr "Añadir nueva orden"
+msgstr "새 명령 추가"
 
 #v1.5.31
 msgctxt "traineditor_order_bulk_edit"
 msgid "Bulk edit orders"
-msgstr "Editar múltiples órdenes"
+msgstr "다수 명령 수정"
 
 #v1.5.31
 msgctxt "traineditor_order_edit"
 msgid "Edit orders"
-msgstr "Editar órdenes"
+msgstr "명령 수정"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_multi"
 msgid "Bulk shift and change"
-msgstr "Desplazar y cambiar"
+msgstr "다수 변경"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_single"
 msgid "Change one order"
-msgstr "Cambiar orden"
+msgstr "단일 변경"
 
 #v1.5.31
 msgctxt "traineditor_order_enter"
 msgid "Enter:"
-msgstr "Entrada:"
+msgstr "시작:"
 
 #v1.5.31
 msgctxt "traineditor_order_enter_first_stop"
 msgid "<First line stop>"
-msgstr "<Primera parada>"
+msgstr "<첫 번째 역>"
 
 #v1.5.31
 msgctxt "traineditor_order_exit"
 msgid "Exit:"
-msgstr "Salida:"
+msgstr "종료:"
 
 #v1.5.31
 msgctxt "traineditor_order_exit_last_stop"
 msgid "<Last line stop>"
-msgstr "<Última parada>"
+msgstr "<종착역>"
 
 #v1.5.31
 msgctxt "traineditor_order_loops"
 msgid "Loop until next order"
-msgstr "Repetir hasta siguiente orden"
+msgstr "다음 명령까지 반복"
 
 #v1.5.31
 msgctxt "traineditor_order_select_all"
 msgid "Select all orders"
-msgstr "Seleccionar todas las órdenes"
+msgstr "전체 명령 선택"
 
 #v1.5.31
 msgctxt "traineditor_order_select_copy"
 msgid "Copy selected orders"
-msgstr "Copiar órdenes seleccionadas"
+msgstr "선택한 명령 복사"
 
 #v1.5.31
 msgctxt "traineditor_order_select_del"
 msgid "Delete selected orders"
-msgstr "Borrar órdenes seleccionadas"
+msgstr "선택한 명령 삭제"
 
 #v1.5.31
 msgctxt "traineditor_order_select_none"
 msgid "Clear selection"
-msgstr "Cancelar selección"
+msgstr "선택 취소"
 
 #v1.5.31
 msgctxt "traineditor_order_select_paste"
 msgid "Paste orders"
-msgstr "Pegar órdenes"
+msgstr "명령 붙여넣기"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_by"
 msgid "By:"
-msgstr "Por:"
+msgstr "By:"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_time"
 msgid "Shift:"
-msgstr "Desplazar:"
+msgstr "변경:"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar el inicio de las órdenes por este valor."
+msgstr "형식: (-)hh:mm:ss\n입력한 만큼의 시간만큼 출발 시각을 변경합니다."
 
 #v1.5.31
 msgctxt "traineditor_order_start_event"
 msgid "Enter event:"
-msgstr "Ev. entrada:"
+msgstr "이벤트를 입력하세요:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival"
 msgid "Arrive exactly at"
-msgstr "Llegar exactamente"
+msgstr "다음 때에 정확히 도착"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival_by"
 msgid "Arrive no later than"
-msgstr "Llegar antes de"
+msgstr "다음보다 늦지 않게 도착"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_departure"
 msgid "Depart exactly at"
-msgstr "Salir exactamente"
+msgstr "다음 때에 정확히 출발"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
 msgid "At:"
-msgstr "A:"
+msgstr "에:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_by"
 msgid "Than:"
-msgstr "Las:"
+msgstr "보다:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
-msgstr "Formato: hh:mm:ss\nMomento del día para empezar los recorridos de la línea seleccionada."
+msgstr "형식: hh:mm:ss\n선택한 노선의 운행을 시작할 시간을 설정합니다."
 
 #v1.5.31
 msgctxt "traineditor_tz"
 msgid "Time zone:"
-msgstr "Zona horaria:"
+msgstr "시간대:"
 
 #v1.5.31
 msgctxt "traineditor_tz_desc"
 msgid "Time zone used for order time/day input."
-msgstr "Zona horaria utilizada para introducir las horas y días."
+msgstr "시간 / 날짜 입력에 사용되는 시간대"
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
 msgid "First line time zone"
-msgstr "Zona horaria de la primera línea"
+msgstr "첫 번째 역의 시간대"
 
 #v1.5.31
 msgctxt "traineditor_tz_map"
 msgid "Map"
-msgstr "Mapa"
+msgstr "지도"
 
 #v1.5.31
 msgctxt "traineditor_tz_orders"
 msgid "Orders"
-msgstr "Órdenes"
+msgstr "순서"
 
 #v1.5.31
 msgctxt "traineditor_tz_station"
 msgid "Station"
-msgstr "Estación"
+msgstr "역"
 
 #v1.5.31
 msgctxt "waiting_expired"
 msgid "Expired"
-msgstr "Caducado"
+msgstr "만료됨"
 
 #v1.5.31
 msgctxt "wedge_mode"
 msgid "Show trip legs as rhombus to better reflect the initial wait time"
-msgstr "Mostrar los pasos del camino como rombos para reflejar la espera inicial"
+msgstr "초기 대기시간을 더 잘 반영하기 위해 여행 시간을 마름모로 표시"
 
 #v1.5.31
 msgctxt "weekday_shorter_friday"
 msgid "Fr"
-msgstr "Vi"
+msgstr "금"
 
 #v1.5.31
 msgctxt "weekday_shorter_monday"
 msgid "Mo"
-msgstr "Lu"
+msgstr "월"
 
 #v1.5.31
 msgctxt "weekday_shorter_saturday"
 msgid "Sa"
-msgstr "Sá"
+msgstr "토"
 
 #v1.5.31
 msgctxt "weekday_shorter_sunday"
 msgid "Su"
-msgstr "Do"
+msgstr "일"
 
 #v1.5.31
 msgctxt "weekday_shorter_thursday"
 msgid "Th"
-msgstr "Ju"
+msgstr "목"
 
 #v1.5.31
 msgctxt "weekday_shorter_tuesday"
 msgid "Tu"
-msgstr "Ma"
+msgstr "화"
 
 #v1.5.31
 msgctxt "weekday_shorter_wednesday"
 msgid "We"
-msgstr "Mi"
+msgstr "수"
 
 
 
