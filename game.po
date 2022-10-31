@@ -1,1170 +1,280 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.5.31
-msgctxt "accounting_events_post"
-msgid "events"
-msgstr "eventos"
-
-#v1.5.31
-msgctxt "accounting_pax_found_train_too_full"
-msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
-
-#v1.5.31
-msgctxt "auto_platform_scroll"
-msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
-
-#v1.5.31
-msgctxt "bulk_keep_straight"
-msgid "Platform keep straight:"
-msgstr "Andén recto:"
-
-#v1.5.31
-msgctxt "bulk_keep_straight_disable"
-msgid "Disable"
-msgstr "Desactivar"
-
-#v1.5.31
-msgctxt "bulk_keep_straight_enable"
-msgid "Enable"
-msgstr "Activar"
-
-#v1.5.31
-msgctxt "bulk_label_mode"
-msgid "Station label:"
-msgstr "Etiqueta estación:"
-
-#v1.5.31
-msgctxt "company_tab_loans"
-msgid "Loans"
-msgstr "Crédito"
-
-#v1.5.31
-msgctxt "company_tab_options"
-msgid "Options"
-msgstr "Opciones"
-
-#v1.5.31
-msgctxt "confirm_intervention_line"
-msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
-
-#v1.5.31
-msgctxt "confirm_intervention_line_desc"
-msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
-
-#v1.5.31
-msgctxt "constraint_max_speed"
-msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
-
-#v1.5.31
-msgctxt "constraint_max_speed_tip"
-msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
-
-#v1.5.31
-msgctxt "constraint_offset2"
-msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
-
-#v1.5.31
-msgctxt "constraint_remove_parent"
-msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
-
-#v1.5.31
-msgctxt "constraint_remove_parent_action"
-msgid "Remove"
-msgstr "Eliminar"
-
-#v1.5.31
-msgctxt "constraints_bulk_editor"
-msgid "Track bulk editor"
-msgstr "Editor en grupo de vía"
-
-#v1.5.31
-msgctxt "editor_select_alt_signal"
-msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
-
-#v1.5.31
-msgctxt "editor_select_alt_stop"
-msgid "Click platform letters in stations to add a secondary platform to the stop"
-msgstr "Selecciona andenes para asignarlos como andenes secundarios"
-
-#v1.5.31
-msgctxt "editor_select_change_platform"
-msgid "Click platform letters in stations to change the stop main platform"
-msgstr "Selecciona un andén para asignarlo como andén principal"
-
-#v1.5.31
-msgctxt "editor_warn_only_trains"
-msgid "Pax will leave and won't board trains running this line."
-msgstr "Los pax ignorarán los trenes asignados a esta línea."
-
-#v1.5.31
-msgctxt "editor_warn_too_long_manual_interval"
-msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "El intervalo excede la duración de la línea. Será ignorado o funcionará incorrectamente.\nAumenta la duración manual de la línea hasta como mínimo el valor del intervalo."
-
-#v1.5.31
-msgctxt "effective_game_speed"
-msgid "Speed: {:.1f}x"
-msgstr "Velocidad: {:.1f}x"
-
-#v1.5.31
-msgctxt "effective_game_speed_handicap"
-msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
-
-#v1.5.31
-msgctxt "info_table_pax_waiting"
-msgid "Waiting for"
-msgstr "Esperando a"
-
-#v1.5.31
-msgctxt "info_table_pax_waiting_tp"
-msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
-
-#v1.5.31
-msgctxt "input_range"
-msgid "{}{} to {}{}"
-msgstr "{}{} a {}{}"
-
-#v1.5.31
-msgctxt "intervene_all_trains"
-msgid "Intervene all trains"
-msgstr "Intervenir todos los trenes"
-
-#v1.5.31
-msgctxt "intervene_line"
-msgid "Intervene line"
-msgstr "Intervenir línea"
-
-#v1.5.31
-msgctxt "line_editor_tip_zoom_pick"
-msgid "Zoom in to pick"
-msgstr "Ampliar para elegir"
-
-#v1.5.31
-msgctxt "line_timetable"
-msgid "Timetable"
-msgstr "Horario"
-
-#v1.5.31
-msgctxt "line_to2"
-msgid "{} [{}] to"
-msgstr "{} [{}] a"
-
-#v1.5.31
-msgctxt "lineeditor_alt_platforms"
-msgid "Secondary platforms:"
-msgstr "Andenes secundarios:"
-
-#v1.5.31
-msgctxt "lineeditor_alt_platforms_n"
-msgid "(Total: {})"
-msgstr "(Total: {})"
-
-#v1.5.31
-msgctxt "lineeditor_alt_signal"
-msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
-
-#v1.5.31
-msgctxt "lineeditor_alt_signal_label"
-msgid "Signal {}"
-msgstr "Señal {}"
-
-#v1.5.31
-msgctxt "lineeditor_auto_interval_auto"
-msgid "Auto interval:"
-msgstr "Auto intervalo:"
-
-#v1.5.31
-msgctxt "lineeditor_auto_interval_auto_no_trains"
-msgid "Add one or more auto run trains"
-msgstr "Añade uno o más trenes en auto recorrido"
-
-#v1.5.31
-msgctxt "lineeditor_auto_interval_kind2"
-msgid "Launch trains:"
-msgstr "Lanzamiento:"
-
-#v1.5.31
-msgctxt "lineeditor_auto_interval_kind2_fit"
-msgid "Evenly spaced to fit one line loop"
-msgstr "Espaciados uniformemente en un recorrido"
-
-#v1.5.31
-msgctxt "lineeditor_auto_interval_kind2_manual"
-msgid "On a fixed, manual interval"
-msgstr "En intervalo manual y fijo"
-
-#v1.5.31
-msgctxt "lineeditor_auto_timings"
-msgid "Auto run line"
-msgstr "Auto recorrido de línea"
-
-#v1.5.31
-msgctxt "lineeditor_custom_duration"
-msgid "Custom duration:"
-msgstr "Duración manual:"
-
-#v1.5.31
-msgctxt "lineeditor_custom_duration_desc"
-msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
-
-#v1.5.31
-msgctxt "lineeditor_custom_period"
-msgid "Custom period:"
-msgstr "Periodo manual:"
-
-#v1.5.31
-msgctxt "lineeditor_custom_period_desc"
-msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
-
-#v1.5.31
-msgctxt "lineeditor_custom_wait_here"
-msgid "Custom duration wait in this stop"
-msgstr "Permitir parada de duración manual"
-
-#v1.5.31
-msgctxt "lineeditor_duration_custom"
-msgid "Custom"
-msgstr "Manual"
-
-#v1.5.31
-msgctxt "lineeditor_duration_fit_period"
-msgid "Fit a period"
-msgstr "Encajar un periodo"
-
-#v1.5.31
-msgctxt "lineeditor_duration_mode"
-msgid "Line duration:"
-msgstr "Duración de línea:"
-
-#v1.5.31
-msgctxt "lineeditor_duration_mode_minimal"
-msgid "Minimal"
-msgstr "Mínima"
-
-#v1.5.31
-msgctxt "lineeditor_duration_period"
-msgid "Period:"
-msgstr "Periodo:"
-
-#v1.5.31
-msgctxt "lineeditor_duration_period_custom"
-msgid "Custom"
-msgstr "Manual"
-
-#v1.5.31
-msgctxt "lineeditor_duration_period_day"
-msgid "Day"
-msgstr "Día"
-
-#v1.5.31
-msgctxt "lineeditor_duration_period_week"
-msgid "Week"
-msgstr "Semana"
-
-#v1.5.31
-msgctxt "lineeditor_duration_waiters"
-msgid "Extra stop time on:"
-msgstr "Espera extra en:"
-
-#v1.5.31
-msgctxt "lineeditor_duration_waiters_all"
-msgid "Evenly on all stops"
-msgstr "Uniforme en todas las paradas"
-
-#v1.5.31
-msgctxt "lineeditor_duration_waiters_custom"
-msgid "Manually picked stops"
-msgstr "Paradas elegidas manualmente"
-
-#v1.5.31
-msgctxt "lineeditor_header_full_tooltip"
-msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
-msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
-
-#v1.5.31
-msgctxt "lineeditor_launch_time"
-msgid "First train departure:"
-msgstr "Salida del primer tren:"
-
-#v1.5.31
-msgctxt "lineeditor_launch_time_desc"
-msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Formato: hh:mm:ss\nHora de la salida del primer tren de recorrido automático.\nEsta opción solo se aplica a trenes de recorrido automático.\nLos trenes en modo manual o en modo copia ignoran esta opción."
-
-#v1.5.31
-msgctxt "lineeditor_main_platform"
-msgid "Main platform:"
-msgstr "Andén principal:"
-
-#v1.5.31
-msgctxt "lineeditor_manual_interval"
-msgid "Manual interval:"
-msgstr "Intervalo manual:"
-
-#v1.5.31
-msgctxt "lineeditor_stop_panel_editor2"
-msgid "Stop {}"
-msgstr "Parada {}"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_clone"
-msgid "Clone selected line"
-msgstr "Clonar línea seleccionada"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_depot_new"
-msgid "Create a new depot line"
-msgstr "Crear nueva línea de depósito"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_down_shift"
-msgid "Shift down all line stops"
-msgstr "Desplazar abajo todas las paradas"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_intervention"
-msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "Intervenir todos los trenes recorriendo la línea"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_up_shift"
-msgid "Shift up all line stops"
-msgstr "Desplazar arriba todas las paradas"
-
-#v1.5.31
-msgctxt "lineeditor_tz"
-msgid "Time zone:"
-msgstr "Zona horaria:"
-
-#v1.5.31
-msgctxt "lineeditor_tz_desc"
-msgid "Time zone of the first train departure time input."
-msgstr "Zona horaria de la hora de salida del primer tren."
-
-#v1.5.31
-msgctxt "lineeditor_tz_first_stop"
-msgid "First stop station time zone"
-msgstr "Zona horaria de la primera estación"
-
-#v1.5.31
-msgctxt "lineeditor_tz_line"
-msgid "Line"
-msgstr "Línea"
-
-#v1.5.31
-msgctxt "lineeditor_wait_kind"
-msgid "Stop behavior:"
-msgstr "Tipo de parada:"
-
-#v1.5.31
-msgctxt "lineeditor_wait_kind_limbo"
-msgid "Black hole main, wait secondary"
-msgstr "Desaparece principal, espera secundaria"
-
-#v1.5.31
-msgctxt "lineeditor_wait_kind_normal"
-msgid "Wait on platforms"
-msgstr "Espera en andenes"
-
-#v1.5.31
-msgctxt "loader_timetables_init"
-msgid "Initializing timetables"
-msgstr "Inicializando horarios"
-
-#v1.5.31
-msgctxt "mass_del_lines_but"
-msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
-
-#v1.5.31
-msgctxt "mass_del_lines_desc"
-msgid "Do you want to delete all lines?"
-msgstr "Quieres borrar todas las líneas?"
-
-#v1.5.31
-msgctxt "mass_del_lines_title"
-msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
-
-#v1.5.31
-msgctxt "mass_del_lines_yes"
-msgid "Delete all"
-msgstr "Borrar todas"
-
-#v1.5.31
-msgctxt "mass_del_trains_but"
-msgid "Sell all trains"
-msgstr "Vender todos los trenes"
-
-#v1.5.31
-msgctxt "mass_del_trains_desc"
-msgid "Do you want to sell all trains?"
-msgstr "Quieres vender todos los trenes?"
-
-#v1.5.31
-msgctxt "mass_del_trains_title"
-msgid "Sell all trains"
-msgstr "Vender todos los trenes"
-
-#v1.5.31
-msgctxt "mass_intervention_trains_but"
-msgid "All trains intervention"
-msgstr "Intervenir todos los trenes"
-
-#v1.5.31
-msgctxt "mass_intervention_trains_desc"
-msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr "Quieres intervenir todos los trenes con un precio de ${}?"
-
-#v1.5.31
-msgctxt "mass_intervention_trains_title"
-msgid "Confirm all trains intervention"
-msgstr "Confirmar intervención de todos los trenes"
-
-#v1.5.31
-msgctxt "option_company_parallel_offset"
-msgid "New track par. off.:"
-msgstr "Nueva vía desp. par.:"
-
-#v1.5.31
-msgctxt "option_company_station_label"
-msgid "New station label:"
-msgstr "Etiqueta estación nueva:"
-
-#v1.5.31
-msgctxt "order_error_empty_line"
-msgid "Empty line"
-msgstr "Línea vacía"
-
-#v1.5.31
-msgctxt "order_error_invalid_line"
-msgid "Invalid line"
-msgstr "Línea inválida"
-
-#v1.5.31
-msgctxt "order_error_not_fit"
-msgid "Runs do not fit between previous and next order"
-msgstr "No hay suficiente tiempo para crear recorridos entre esta orden y la siguiente"
-
-#v1.5.31
-msgctxt "order_error_two_arrival_by"
-msgid "Arrival By orders cannot appear one after the other"
-msgstr "Órdenes con <Llegar antes de> no pueden aparecer seguidas"
-
-#v1.5.31
-msgctxt "order_invalid_line"
-msgid "Invalid line"
-msgstr "Línea inválida"
-
-#v1.5.31
-msgctxt "path2_arrive"
-msgid "Arrive at {}"
-msgstr "Llegada a {}"
-
-#v1.5.31
-msgctxt "path2_ride"
-msgid "Ride {0} for {1}"
-msgstr "Recorre {0} durante {1}"
-
-#v1.5.31
-msgctxt "path2_take2"
-msgid " Up to {0} [{1}]"
-msgstr " Hasta {0} [{1}]"
-
-#v1.5.31
-msgctxt "path2_wait_at"
-msgid " Wait {0} at {1}"
-msgstr " Espera {0} en {1}"
-
-#v1.5.31
-msgctxt "path2_wait_line2"
-msgid " For the departure of {0} [{1}]"
-msgstr " Para la salida de {0} [{1}]"
-
-#v1.5.31
-msgctxt "path_not_found_trip"
-msgid "Path not found between {0} and {1}"
-msgstr "Camino no encontrado entre {0} y {1}"
-
-#v1.5.31
-msgctxt "path_stale_warn"
-msgid "Stale data detected, ignoring step"
-msgstr "Datos obsoletos, ignorando el paso"
-
-#v1.5.31
-msgctxt "pax_new_time"
-msgid "New"
-msgstr "Nuevo"
-
-#v1.5.31
-msgctxt "paxlist_groupby_dominating"
-msgid "Show dominating trips"
-msgstr "Caminos dominantes"
-
-#v1.5.31
-msgctxt "paxlist_groupby_waiting"
-msgid "Group by waited line stop"
-msgstr "Esperando a parada de línea"
-
-#v1.5.31
-msgctxt "paxlist_other_win"
-msgid "(window)"
-msgstr "(ventana)"
-
-#v1.5.31
-msgctxt "pick"
-msgid "Pick"
-msgstr "Elegir"
-
-#v1.5.31
-msgctxt "run_panel_pad_stop"
-msgid "Train will wait an extra {} in this stop to start the next run at its scheduled time"
-msgstr "El tren esperará un tiempo extra {} en esta parada para empezar el siguiente recorrido en la hora correcta"
-
-#v1.5.31
-msgctxt "run_panel_start"
-msgid "{0}: Start path to {1}"
-msgstr "{0}: Empezar recorrido a {1}"
-
-#v1.5.31
-msgctxt "run_panel_train"
-msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
-
-#v1.5.31
-msgctxt "run_view_tooltip"
-msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
-
-#v1.5.31
-msgctxt "run_view_tooltip_full"
-msgid "{0} Run {1}\n{2}"
-msgstr "{0} Recorrido {1}\n{2}"
-
-#v1.5.31
-msgctxt "sell_all_trains_yes"
-msgid "Sell all"
-msgstr "Vender todos"
-
-#v1.5.31
-msgctxt "stale_run"
-msgid "Stale run"
-msgstr "Recorrido obsoleto"
-
-#v1.5.31
-msgctxt "stale_run_tooltip"
-msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
-
-#v1.5.31
-msgctxt "station_label_mode"
-msgid "Label:"
-msgstr "Etiqueta:"
-
-#v1.5.31
-msgctxt "station_label_mode_dot_only"
-msgid "Dot only"
-msgstr "Solo un punto"
-
-#v1.5.31
-msgctxt "station_label_mode_full"
-msgid "Full"
-msgstr "Completa"
-
-#v1.5.31
-msgctxt "station_label_mode_icon_only"
-msgid "Icon only"
-msgstr "Solo un icono"
-
-#v1.5.31
-msgctxt "station_label_mode_name_only"
-msgid "Name only"
-msgstr "Solo el nombre"
-
-#v1.5.31
-msgctxt "station_label_mode_name_pop"
-msgid "Name and pax"
-msgstr "Nombre y pax"
-
-#v1.5.31
-msgctxt "stop_leg_full2"
-msgid "{0}m at {1} km/h avg."
-msgstr "{0}m a {1} km/h media"
-
-#v1.5.31
-msgctxt "timetable_1day"
-msgid "One day"
-msgstr "Un día"
-
-#v1.5.31
-msgctxt "timetable_3days"
-msgid "Three days"
-msgstr "Tres días"
-
-#v1.5.31
-msgctxt "timetable_heuristic_building_tp"
-msgid "Refreshing pathfind heuristic..."
-msgstr "Actualizando heurísitca de caminos..."
-
-#v1.5.31
-msgctxt "timetable_rebuild_tp"
-msgid "Rebuilding timetables..."
-msgstr "Actualizando horarios..."
-
-#v1.5.31
-msgctxt "timetable_week"
-msgid "Week"
-msgstr "Semana"
-
-#v1.5.31
-msgctxt "too_many_collections"
-msgid "Too many clips"
-msgstr "Demasiados clips"
-
-#v1.5.31
-msgctxt "too_many_collections_body"
-msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
-
-#v1.5.31
-msgctxt "train_clone_copier"
-msgid "Clone as copier"
-msgstr "Clonar como copiador"
-
-#v1.5.31
-msgctxt "train_editor_basics"
-msgid "Basics"
-msgstr "Básico"
-
-#v1.5.31
-msgctxt "train_editor_group"
-msgid "Group"
-msgstr "Grupo"
-
-#v1.5.31
-msgctxt "train_editor_orders"
-msgid "Orders"
-msgstr "Órdenes"
-
-#v1.5.31
-msgctxt "train_group_duration"
-msgid "Duration:"
-msgstr "Duración:"
-
-#v1.5.31
-msgctxt "train_group_fixed_shift_by"
-msgid "Interval:"
-msgstr "Intervalo:"
-
-#v1.5.31
-msgctxt "train_group_fixed_shift_by_desc"
-msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
-
-#v1.5.31
-msgctxt "train_group_interval"
-msgid "Interval:"
-msgstr "Intervalo:"
-
-#v1.5.31
-msgctxt "train_group_line_duration_pick"
-msgid "Duration of:"
-msgstr "Duración de:"
-
-#v1.5.31
-msgctxt "train_group_manual_duration_amount"
-msgid "Duration:"
-msgstr "Duración:"
-
-#v1.5.31
-msgctxt "train_group_manual_duration_amount_desc"
-msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
-
-#v1.5.31
-msgctxt "train_group_migrate_but"
-msgid "Set as copiers"
-msgstr "Cambiar a copiadores"
-
-#v1.5.31
-msgctxt "train_group_migrate_line"
-msgid "Migrate auto run trains"
-msgstr "Migrar trenes automáticos"
-
-#v1.5.31
-msgctxt "train_group_migrate_line_pick"
-msgid "Auto trains of:"
-msgstr "Trenes auto de:"
-
-#v1.5.31
-msgctxt "train_group_mode"
-msgid "Shift mode:"
-msgstr "Distribución:"
-
-#v1.5.31
-msgctxt "train_group_mode_fixed"
-msgid "Fixed interval"
-msgstr "Intervalo fijo"
-
-#v1.5.31
-msgctxt "train_group_mode_line"
-msgid "Evenly over line duration"
-msgstr "Uniforme en la duración de una línea"
-
-#v1.5.31
-msgctxt "train_group_mode_manual_duration"
-msgid "Evenly over manual duration"
-msgstr "Uniforme en una duración manual"
-
-#v1.5.31
-msgctxt "train_group_n_name"
-msgid "Trains:"
-msgstr "Trenes:"
-
-#v1.5.31
-msgctxt "train_group_n_value"
-msgid "{0} copying, {1} managed"
-msgstr "{0} copiando, {1} controlados"
-
-#v1.5.31
-msgctxt "train_group_shift_matching"
-msgid "Shift orders:"
-msgstr "Distribuir órdenes:"
-
-#v1.5.31
-msgctxt "train_group_shift_matching_all"
-msgid "All orders"
-msgstr "Todas"
-
-#v1.5.31
-msgctxt "train_group_shift_matching_only_pax_service"
-msgid "Only pax service orders"
-msgstr "Solo las de líneas de pax"
-
-#v1.5.31
-msgctxt "train_info_status_waiting_spawn"
-msgid "Waiting for scheduled spawn"
-msgstr "Esperando según el horario"
-
-#v1.5.31
-msgctxt "train_list_filter_alert_short"
-msgid "Warnings"
-msgstr "Alertas"
-
-#v1.5.31
-msgctxt "train_list_filter_all"
-msgid "All trains"
-msgstr "Todos los trenes"
-
-#v1.5.31
-msgctxt "train_list_filter_all_short"
-msgid "All"
-msgstr "Todos"
-
-#v1.5.31
-msgctxt "train_list_filter_flat"
-msgid "Flat listing"
-msgstr "Listado plano"
-
-#v1.5.31
-msgctxt "train_list_filter_manual"
-msgid "Only with manual orders"
-msgstr "Solo con órdenes manuales"
-
-#v1.5.31
-msgctxt "train_list_filter_manual_short"
-msgid "Manual orders"
-msgstr "Órdenes manuales"
-
-#v1.5.31
-msgctxt "train_list_filter_mothballed"
-msgid "Only mothballed"
-msgstr "Solo retirados"
-
-#v1.5.31
-msgctxt "train_list_filter_mothballed_short"
-msgid "Mothballed"
-msgstr "Retirados"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy"
-msgid "Auto copy from:"
-msgstr "Auto copia de:"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode"
-msgid "Shift:"
-msgstr "Distribuir:"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode_auto"
-msgid "Managed by parent group"
-msgstr "Controlador por el original"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode_manual"
-msgid "Shift by manual amount"
-msgstr "Desplazar con valor manual"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_shirt"
+#v1.5.41
+msgctxt "auto_clone"
+msgid "(Auto)"
+msgstr "(Auto)"
+
+#v1.5.41
+msgctxt "constraint_xform_grid_snap"
+msgid "Snap:"
+msgstr "Reticular:"
+
+#v1.5.41
+msgctxt "constraint_xform_rotate"
+msgid "Rotate:"
+msgstr "Rotar:"
+
+#v1.5.41
+msgctxt "constraint_xform_rotate_tip"
+msgid "Rotate track end:"
+msgstr "Rotar fin de vía:"
+
+#v1.5.41
+msgctxt "constraint_xform_translate"
+msgid "Translate:"
+msgstr "Mover:"
+
+#v1.5.41
+msgctxt "editor_tip_dupe"
+msgid "Ctrl-B to duplicate selected objects in-place"
+msgstr "Ctrl-B para duplicar objetos sin moverlos"
+
+#v1.5.41
+msgctxt "editor_tip_sel_track_flip"
+msgid "{} to flip side of selected parallel tracks"
+msgstr "{} para cambiar de lado las vías paralelas"
+
+#v1.5.41
+msgctxt "intervene_all_stale_trains"
+msgid "Intervene all stale"
+msgstr "Intervenir todos los trenes caducados"
+
+#v1.5.41
+msgctxt "line_alert_closed"
+msgid "Line is closed"
+msgstr "Line cerrada"
+
+#v1.5.41
+msgctxt "line_alert_invalid_legs"
+msgid "Contains invalid path(s)"
+msgstr "Contiene caminos inválidos"
+
+#v1.5.41
+msgctxt "line_skip_parent_stop"
+msgid "Skip [{0}] {1}"
+msgstr "Saltar [{0}] {1}"
+
+#v1.5.41
+msgctxt "lineeditor_clone_parent"
+msgid "Stop properties:"
+msgstr "Parada:"
+
+#v1.5.41
+msgctxt "lineeditor_clone_parent_clone"
+msgid "Copy from parent line"
+msgstr "Copiar de línea padre"
+
+#v1.5.41
+msgctxt "lineeditor_clone_parent_custom"
+msgid "Customize for this line service"
+msgstr "Cambiar para este servicio"
+
+#v1.5.41
+msgctxt "lineeditor_cruise_speed_ns"
+msgid "Cruise speed:"
+msgstr "Velocidad crucero:"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta"
+msgid "Effective time:"
+msgstr "Tiempo efectivo:"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_custom_speed"
+msgid "Custom speed (km/h):"
+msgstr "Velocidad (km/h):"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_custom_time"
+msgid "Custom time:"
+msgstr "Tiempo:"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_custom_time_desc"
+msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
+msgstr "Format: (hh:)mm:ss\nSe intentará aproximar este tiempo mediante velocidad de crucero.\nPodría ignorarse si la velocidad resultante es demasiado lenta o rápida.\nLos trenes pueden ignorar este tiempo si van retrasados."
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_mode"
+msgid "Leg timing:"
+msgstr "Tiempo de recorrido:"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_mode_auto"
+msgid "Automatic"
+msgstr "Automático"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_mode_speed"
+msgid "Custom speed"
+msgstr "Elegir velocidad"
+
+#v1.5.41
+msgctxt "lineeditor_leg_eta_mode_time"
+msgid "Custom time"
+msgstr "Elegir tiempo"
+
+#v1.5.41
+msgctxt "lineeditor_service_of"
+msgid "Service of:"
+msgstr "Servicio de:"
+
+#v1.5.41
+msgctxt "lineeditor_stop_panel_leg_title"
+msgid "Leg {0} {1} {2}"
+msgstr "Recorrido {0} {1} {2}"
+
+#v1.5.41
+msgctxt "lineeditor_stop_panel_line_service_stop"
+msgid "Line service stop"
+msgstr "Parada de un servicio"
+
+#v1.5.41
+msgctxt "lineeditor_suffix"
+msgid "Suffix:"
+msgstr "Sufijo:"
+
+#v1.5.41
+msgctxt "lineeditor_tags_inherit_parent"
+msgid "Parent line tags are also inherited by trains\n"
+msgstr "Las etiquetas del padre son heredadas por los trenes de sus servicios\n"
+
+#v1.5.41
+msgctxt "lineeditor_tooltip_create_line_service"
+msgid "Create a new line service"
+msgstr "Crear nuevo servicio"
+
+#v1.5.41
+msgctxt "list_sort_compact"
+msgid "Compact"
+msgstr "Compacto"
+
+#v1.5.41
+msgctxt "mass_intervention_stale_trains_but"
+msgid "All stale trains intervention"
+msgstr "Intervenir trenes caducados"
+
+#v1.5.41
+msgctxt "mass_intervention_stale_trains_desc"
+msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
+msgstr "Quieres intervenir todos los trenes caducados por ${}?"
+
+#v1.5.41
+msgctxt "mass_intervention_stale_trains_title"
+msgid "Confirm all stale trains intervention"
+msgstr "Confirmar intervención de trenes caducados"
+
+#v1.5.41
+msgctxt "mass_recalc_all_lines_but"
+msgid "Refresh all line timings"
+msgstr "Refrescar todas las líneas"
+
+#v1.5.41
+msgctxt "picker_mode_flat"
+msgid "Flat"
+msgstr "Plano"
+
+#v1.5.41
+msgctxt "picker_mode_line_tags"
+msgid "Line tags"
+msgstr "Etiquetas línea"
+
+#v1.5.41
+msgctxt "picker_mode_lines"
+msgid "Lines"
+msgstr "Líneas"
+
+#v1.5.41
+msgctxt "picker_mode_recent"
+msgid "Recent"
+msgstr "Recientes"
+
+#v1.5.41
+msgctxt "picker_mode_tags"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#v1.5.41
+msgctxt "plats_show_conflicts"
+msgid "Highlight overlapping train stops"
+msgstr "Mostrar paradas con conflictos"
+
+#v1.5.41
+msgctxt "plats_stacked_lines"
+msgid "Single column per platform"
+msgstr "Una columna por plataforma"
+
+#v1.5.41
+msgctxt "rtstat_leg_late"
+msgid "Lateness estimation"
+msgstr "Estimación del retraso"
+
+#v1.5.41
+msgctxt "train_info_late_predicted"
+msgid "Est. late by {}"
+msgstr "Retraso est. {}"
+
+#v1.5.41
+msgctxt "train_list_compact"
+msgid "Compact"
+msgstr "Compacto"
+
+#v1.5.41
+msgctxt "train_orders_auto_copy_shift"
 msgid "Copy:"
-msgstr "Copia:"
+msgstr "Copiar:"
 
-#v1.5.31
-msgctxt "train_orders_auto_run"
-msgid "Auto run line:"
-msgstr "Linea automática"
+#v1.5.41
+msgctxt "train_orders_auto_copy_shift_go_parent"
+msgid "Edit parent orders"
+msgstr "Editar órdenes del padre"
 
-#v1.5.31
-msgctxt "train_orders_keep_line"
-msgid "< Keep current line >"
-msgstr "< Mantener actual >"
-
-#v1.5.31
-msgctxt "train_orders_mode"
-msgid "Orders:"
-msgstr "Órdenes:"
-
-#v1.5.31
-msgctxt "train_orders_mode_auto_copy"
-msgid "Auto copy manual orders"
-msgstr "Auto copiar órdenes manuales"
-
-#v1.5.31
-msgctxt "train_orders_mode_auto_line"
-msgid "Auto run a line"
-msgstr "Auto recorrer línea"
-
-#v1.5.31
-msgctxt "train_orders_mode_manual"
-msgid "Manual orders"
-msgstr "Órdenes manules"
-
-#v1.5.31
-msgctxt "train_orders_mode_mothballed"
-msgid "Mothballed"
-msgstr "Retirado"
-
-#v1.5.31
-msgctxt "train_orders_run_short"
-msgid "Run line:"
-msgstr "Línea:"
-
-#v1.5.31
-msgctxt "train_run"
-msgid "Run"
-msgstr "Recorrido"
-
-#v1.5.31
-msgctxt "train_sort_alpha"
-msgid "Alphabetically"
-msgstr "Alfabético"
-
-#v1.5.31
-msgctxt "train_spawn_at"
-msgid "Spawns in {}"
-msgstr "Aparece en {}"
-
-#v1.5.31
-msgctxt "train_spawn_late"
-msgid "Spawns late by {}"
-msgstr "Aparece tarde por {}"
-
-#v1.5.31
-msgctxt "train_status_mothballed"
-msgid "Mothballed"
-msgstr "Retirado"
-
-#v1.5.31
-msgctxt "traineditor_auto_shift_time_desc"
-msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar la auto copia por este valor."
-
-#v1.5.31
-msgctxt "traineditor_order_append"
-msgid "Append new order"
-msgstr "Añadir nueva orden"
-
-#v1.5.31
-msgctxt "traineditor_order_append_action"
-msgid "Append new order"
-msgstr "Añadir nueva orden"
-
-#v1.5.31
-msgctxt "traineditor_order_bulk_edit"
-msgid "Bulk edit orders"
-msgstr "Editar múltiples órdenes"
-
-#v1.5.31
-msgctxt "traineditor_order_edit"
-msgid "Edit orders"
-msgstr "Editar órdenes"
-
-#v1.5.31
-msgctxt "traineditor_order_edit_action_multi"
-msgid "Bulk shift and change"
-msgstr "Desplazar y cambiar"
-
-#v1.5.31
-msgctxt "traineditor_order_edit_action_single"
-msgid "Change one order"
-msgstr "Cambiar orden"
-
-#v1.5.31
-msgctxt "traineditor_order_enter"
-msgid "Enter:"
-msgstr "Entrada:"
-
-#v1.5.31
-msgctxt "traineditor_order_enter_first_stop"
-msgid "<First line stop>"
-msgstr "<Primera parada>"
-
-#v1.5.31
-msgctxt "traineditor_order_exit"
-msgid "Exit:"
-msgstr "Salida:"
-
-#v1.5.31
-msgctxt "traineditor_order_exit_last_stop"
-msgid "<Last line stop>"
-msgstr "<Última parada>"
-
-#v1.5.31
-msgctxt "traineditor_order_loops"
-msgid "Loop until next order"
-msgstr "Repetir hasta siguiente orden"
-
-#v1.5.31
-msgctxt "traineditor_order_select_all"
-msgid "Select all orders"
-msgstr "Seleccionar todas las órdenes"
-
-#v1.5.31
-msgctxt "traineditor_order_select_copy"
-msgid "Copy selected orders"
-msgstr "Copiar órdenes seleccionadas"
-
-#v1.5.31
-msgctxt "traineditor_order_select_del"
-msgid "Delete selected orders"
-msgstr "Borrar órdenes seleccionadas"
-
-#v1.5.31
-msgctxt "traineditor_order_select_none"
-msgid "Clear selection"
-msgstr "Cancelar selección"
-
-#v1.5.31
-msgctxt "traineditor_order_select_paste"
-msgid "Paste orders"
-msgstr "Pegar órdenes"
-
-#v1.5.31
-msgctxt "traineditor_order_shift_by"
-msgid "By:"
-msgstr "Por:"
-
-#v1.5.31
-msgctxt "traineditor_order_shift_time"
-msgid "Shift:"
-msgstr "Desplazar:"
-
-#v1.5.31
-msgctxt "traineditor_order_shift_time_desc"
-msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar el inicio de las órdenes por este valor."
-
-#v1.5.31
-msgctxt "traineditor_order_start_event"
-msgid "Enter event:"
-msgstr "Ev. entrada:"
-
-#v1.5.31
-msgctxt "traineditor_order_start_event_arrival"
-msgid "Arrive exactly at"
-msgstr "Llegar exactamente"
-
-#v1.5.31
-msgctxt "traineditor_order_start_event_arrival_by"
-msgid "Arrive no later than"
-msgstr "Llegar antes de"
-
-#v1.5.31
-msgctxt "traineditor_order_start_event_departure"
-msgid "Depart exactly at"
-msgstr "Salir exactamente"
-
-#v1.5.31
-msgctxt "traineditor_order_start_time_at"
-msgid "At:"
-msgstr "A:"
-
-#v1.5.31
-msgctxt "traineditor_order_start_time_by"
-msgid "Than:"
-msgstr "Las:"
-
-#v1.5.31
-msgctxt "traineditor_order_start_time_desc"
-msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
-msgstr "Formato: hh:mm:ss\nMomento del día para empezar los recorridos de la línea seleccionada."
-
-#v1.5.31
-msgctxt "traineditor_tz"
-msgid "Time zone:"
-msgstr "Zona horaria:"
-
-#v1.5.31
-msgctxt "traineditor_tz_desc"
-msgid "Time zone used for order time/day input."
-msgstr "Zona horaria utilizada para introducir las horas y días."
-
-#v1.5.31
-msgctxt "traineditor_tz_first_line"
-msgid "First line time zone"
-msgstr "Zona horaria de la primera línea"
-
-#v1.5.31
-msgctxt "traineditor_tz_map"
-msgid "Map"
-msgstr "Mapa"
-
-#v1.5.31
-msgctxt "traineditor_tz_orders"
-msgid "Orders"
-msgstr "Órdenes"
-
-#v1.5.31
-msgctxt "traineditor_tz_station"
-msgid "Station"
-msgstr "Estación"
-
-#v1.5.31
-msgctxt "waiting_expired"
-msgid "Expired"
-msgstr "Caducado"
-
-#v1.5.31
-msgctxt "wedge_mode"
-msgid "Show trip legs as rhombus to better reflect the initial wait time"
-msgstr "Mostrar los pasos del camino como rombos para reflejar la espera inicial"
-
-#v1.5.31
-msgctxt "weekday_shorter_friday"
-msgid "Fr"
-msgstr "Vi"
-
-#v1.5.31
-msgctxt "weekday_shorter_monday"
-msgid "Mo"
-msgstr "Lu"
-
-#v1.5.31
-msgctxt "weekday_shorter_saturday"
-msgid "Sa"
-msgstr "Sá"
-
-#v1.5.31
-msgctxt "weekday_shorter_sunday"
-msgid "Su"
-msgstr "Do"
-
-#v1.5.31
-msgctxt "weekday_shorter_thursday"
-msgid "Th"
-msgstr "Ju"
-
-#v1.5.31
-msgctxt "weekday_shorter_tuesday"
-msgid "Tu"
-msgstr "Ma"
-
-#v1.5.31
-msgctxt "weekday_shorter_wednesday"
-msgid "We"
-msgstr "Mi"
+#v1.5.41
+msgctxt "traineditor_order_start_time_arrange_top_desc2"
+msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
+msgstr "Cambia el tiempo más temprano posible que permite a la orden anterior no tener tiempo de espera extra\nIgnora los cambios no aplicados a los días de la semana o el inicio de la orden\nSolo se aplica al primer día de la orden"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.5.31
-msgctxt "editor_warn_closed"
-msgid "Remember to set the service level to passenger service to allow pax to use this line."
-msgstr "Recuerda cambiar el nivel de servicio a pasajeros para permitir que los pax utilicen esta línea."
+#v1.5.41
+msgctxt "constraints_bulk_editor"
+msgid "Bulk editor"
+msgstr "Editor en grupo"
 
-#v1.5.31
-msgctxt "editor_warn_train_speed_too_high"
-msgid "Trains might be unable to make up for delays at this cruise speed."
-msgstr "Es posible que los trenes no puedan superar retrasos en sus horarios con esta velocidad."
+#v1.5.41
+msgctxt "editor_select_add_platform"
+msgid "Click platform names in stations to add stops to the line"
+msgstr "Click en los nombres de andenes para añadir paradas a la línea"
 
-#v1.5.31
-msgctxt "lineeditor_min_stop_time"
-msgid "Stop time:"
-msgstr "Parada:"
+#v1.5.41
+msgctxt "editor_select_alt_stop"
+msgid "Click platform names in stations to add a secondary platform to the stop"
+msgstr "Selecciona andenes para asignarlos como andenes secundarios"
 
-#v1.5.31
-msgctxt "lineeditor_min_stop_time_desc"
-msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time. Trains might wait longer if pax are still leaving or boarding."
-msgstr "Formato: (hh:)mm:ss\nEl horario del tren programará una parada con esta duración. Puede aumentar si todavía hay pax entrando o saliendo."
+#v1.5.41
+msgctxt "editor_select_change_platform"
+msgid "Click platform names in stations to change the stop main platform"
+msgstr "Selecciona un andén para asignarlo como andén principal"
 
-#v1.5.31
-msgctxt "lineeditor_service_level_full"
-msgid "Passenger service"
-msgstr "Pasajeros"
+#v1.5.41
+msgctxt "kb_track_flip_signal"
+msgid "Tracks: flip track side"
+msgstr "Tracks: cambiar lado o dirección"
 
-#v1.5.31
-msgctxt "lineeditor_service_level_only_trains"
-msgid "Technical maneuvers"
-msgstr "Maniobras técnicas"
+#v1.5.41
+msgctxt "lineeditor_cruise_speed_desc"
+msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
+msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
 
-#v1.5.31
-msgctxt "lineeditor_tooltip_down_stop"
-msgid "Move down selected stop\nHold shift to shift down"
-msgstr "Mover la parada abajo\nPresiona shift para desplazar la línea"
-
-#v1.5.31
-msgctxt "lineeditor_tooltip_up_stop"
-msgid "Move up selected stop\nHold shift to shift up"
-msgstr "Mover la parada arriba\nPresiona shift para desplazar la línea"
-
-#v1.5.31
-msgctxt "paxlist_groupby_plan"
-msgid "Show best current trip"
-msgstr "Itinerarios"
-
-#v1.5.31
-msgctxt "rtstat_leg_s"
-msgid "Time to scheduled arrival"
-msgstr "Tiempo hasta la llegada"
-
-#v1.5.31
-msgctxt "train_intervention_dialog_desc"
-msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
-msgstr "Esta intervención programa el recorrido actual correcto, coloca al tren en la parada vigente, y desplaza a los pax a sus siguientes paradas. El precio es ${}."
-
-#v1.5.31
-msgctxt "train_list_filter_alert"
-msgid "Only with warnings"
-msgstr "Solo con alertas"
+#v1.5.41
+msgctxt "order_error_two_arrival_by"
+msgid "Arrive No Later orders cannot appear one after the other"
+msgstr "Órdenes con <Llegar antes de> no pueden aparecer seguidas"
 
 
 
@@ -1251,6 +361,11 @@ msgctxt "accounting_construction_tracks"
 msgid "Tracks"
 msgstr "Vías"
 
+#v1.5.31
+msgctxt "accounting_events_post"
+msgid "events"
+msgstr "eventos"
+
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
@@ -1290,6 +405,11 @@ msgstr "Entrado tren"
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
 msgstr "Compensado"
+
+#v1.5.31
+msgctxt "accounting_pax_found_train_too_full"
+msgid "Boarding failed: full train"
+msgstr "Tren lleno, imposible subir"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
@@ -1555,6 +675,11 @@ msgstr "Estaciones"
 msgctxt "asset_trains"
 msgid "Trains"
 msgstr "Trenes"
+
+#v1.5.31
+msgctxt "auto_platform_scroll"
+msgid "Automatically track and scroll the list based on the time of day"
+msgstr "Sigue la hora del día automaticamente"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
@@ -1846,6 +971,26 @@ msgctxt "buildings_total"
 msgid "Buildings total"
 msgstr "Total edificios"
 
+#v1.5.31
+msgctxt "bulk_keep_straight"
+msgid "Platform keep straight:"
+msgstr "Andén recto:"
+
+#v1.5.31
+msgctxt "bulk_keep_straight_disable"
+msgid "Disable"
+msgstr "Desactivar"
+
+#v1.5.31
+msgctxt "bulk_keep_straight_enable"
+msgid "Enable"
+msgstr "Activar"
+
+#v1.5.31
+msgctxt "bulk_label_mode"
+msgid "Station label:"
+msgstr "Etiqueta estación:"
+
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
@@ -1920,6 +1065,16 @@ msgstr "Color:"
 msgctxt "company_tab_info"
 msgid "Info"
 msgstr "Info"
+
+#v1.5.31
+msgctxt "company_tab_loans"
+msgid "Loans"
+msgstr "Crédito"
+
+#v1.5.31
+msgctxt "company_tab_options"
+msgid "Options"
+msgstr "Opciones"
 
 #v1.1.31
 msgctxt "confirm_bp"
@@ -1996,6 +1151,16 @@ msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
 msgstr "Confirmas que quieres borrar la línea de nombre {}?"
 
+#v1.5.31
+msgctxt "confirm_intervention_line"
+msgid "Confirm line intervention"
+msgstr "Confirmar intervención de línea"
+
+#v1.5.31
+msgctxt "confirm_intervention_line_desc"
+msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
+msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
@@ -2046,10 +1211,25 @@ msgctxt "constraint_flip"
 msgid "Flip"
 msgstr "Rotar"
 
+#v1.5.31
+msgctxt "constraint_max_speed"
+msgid "Custom max speed:"
+msgstr "Velocidad max. manual:"
+
+#v1.5.31
+msgctxt "constraint_max_speed_tip"
+msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
+msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
 msgstr "Desplazar:"
+
+#v1.5.31
+msgctxt "constraint_offset2"
+msgid "Parallel offset:"
+msgstr "Desplazar paralelo:"
 
 #v1.2.22
 msgctxt "constraint_pick"
@@ -2060,6 +1240,16 @@ msgstr "Elegir padre"
 msgctxt "constraint_remove"
 msgid "Remove constraint"
 msgstr "Quitar restricción"
+
+#v1.5.31
+msgctxt "constraint_remove_parent"
+msgid "Parallel constraint:"
+msgstr "Restricción paralela:"
+
+#v1.5.31
+msgctxt "constraint_remove_parent_action"
+msgid "Remove"
+msgstr "Eliminar"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -2346,15 +1536,15 @@ msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
 msgstr "Click en punto de control para hacerlo el padre de la restricción"
 
-#v1.1.58
-msgctxt "editor_select_add_platform"
-msgid "Click platform letters in stations to add stops to the line"
-msgstr "Click en los nombres de andenes para añadir paradas a la línea"
-
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
 msgid "Click track segments to add waypoints to the line"
 msgstr "Click en los segmentos de vías para añadir puntos de ruta"
+
+#v1.5.31
+msgctxt "editor_select_alt_signal"
+msgid "Click signal controls to set a signal as the secondary path signal for the stop"
+msgstr "Selecciona una señal para asignarla como el discriminador de andén"
 
 #v1.2.22
 msgctxt "editor_station"
@@ -2621,20 +1811,40 @@ msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
 msgstr "Aumenta el zoom para poder editar"
 
+#v1.5.31
+msgctxt "editor_warn_closed"
+msgid "Remember to set the service level to passenger service to allow pax to use this line."
+msgstr "Recuerda cambiar el nivel de servicio a pasajeros para permitir que los pax utilicen esta línea."
+
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and schedule at least one train to this line."
 msgstr "Programa al menos un tren en esta línea."
 
-#v1.1.58
-msgctxt "editor_warn_zero_interval"
-msgid "At least one interval time is set to 0. Use the timing calculator after you are done editing the line."
-msgstr "Al menos un intervalo tiene tiempo 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
+#v1.5.31
+msgctxt "editor_warn_only_trains"
+msgid "Pax will leave and won't board trains running this line."
+msgstr "Los pax ignorarán los trenes asignados a esta línea."
 
-#v1.1.58
-msgctxt "editor_warn_zero_leg"
-msgid "At least one leg travel time is set to 0. Use the timing calculator after you are done editing the line."
-msgstr "Al menos uno de los tiempos de viaje está a 0. Utiliza la calculadora de tiempos una vez termines de editar las paradas."
+#v1.5.31
+msgctxt "editor_warn_too_long_manual_interval"
+msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
+msgstr "El intervalo excede la duración de la línea. Será ignorado o funcionará incorrectamente.\nAumenta la duración manual de la línea hasta como mínimo el valor del intervalo."
+
+#v1.5.31
+msgctxt "editor_warn_train_speed_too_high"
+msgid "Trains might be unable to make up for delays at this cruise speed."
+msgstr "Es posible que los trenes no puedan superar retrasos en sus horarios con esta velocidad."
+
+#v1.5.31
+msgctxt "effective_game_speed"
+msgid "Speed: {:.1f}x"
+msgstr "Velocidad: {:.1f}x"
+
+#v1.5.31
+msgctxt "effective_game_speed_handicap"
+msgid "Speed: {0:.1f}x\nHandicap: {1}%"
+msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -3076,6 +2286,16 @@ msgctxt "info_table_pax_total_tp"
 msgid "Trip total elapsed time"
 msgstr "Tiempo total de viaje hasta el momento"
 
+#v1.5.31
+msgctxt "info_table_pax_waiting"
+msgid "Waiting for"
+msgstr "Esperando a"
+
+#v1.5.31
+msgctxt "info_table_pax_waiting_tp"
+msgid "Expected to depart with this line and stop number, based on timetables"
+msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
+
 #v1.1.31
 msgctxt "info_train_pax"
 msgid "Pax: {0} / {1}"
@@ -3090,6 +2310,21 @@ msgstr "Vel.: {} km/h"
 msgctxt "info_train_speed_short"
 msgid "{} km/h"
 msgstr "{} km/h"
+
+#v1.5.31
+msgctxt "input_range"
+msgid "{}{} to {}{}"
+msgstr "{}{} a {}{}"
+
+#v1.5.31
+msgctxt "intervene_all_trains"
+msgid "Intervene all trains"
+msgstr "Intervenir todos los trenes"
+
+#v1.5.31
+msgctxt "intervene_line"
+msgid "Intervene line"
+msgstr "Intervenir línea"
 
 #v1.1.31
 msgctxt "intervention"
@@ -3222,11 +2457,6 @@ msgid "Tracks: new depot"
 msgstr "Vías: nuevo depósito"
 
 #v1.2.29
-msgctxt "kb_track_flip_signal"
-msgid "Tracks: flip selected signal"
-msgstr "Tracks: cambiar dir. señal"
-
-#v1.2.29
 msgctxt "kb_track_layer_down"
 msgid "Tracks: decr. new track layer"
 msgstr "Tracks: decr. capa de vía"
@@ -3290,6 +2520,11 @@ msgstr "S"
 msgctxt "line_0_stops"
 msgid "0 stops"
 msgstr "0 paradas"
+
+#v1.5.31
+msgctxt "line_editor_tip_zoom_pick"
+msgid "Zoom in to pick"
+msgstr "Ampliar para elegir"
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -3371,6 +2606,66 @@ msgctxt "line_stops"
 msgid "Stops"
 msgstr "Paradas"
 
+#v1.5.31
+msgctxt "line_timetable"
+msgid "Timetable"
+msgstr "Horario"
+
+#v1.5.31
+msgctxt "line_to2"
+msgid "{} [{}] to"
+msgstr "{} [{}] a"
+
+#v1.5.31
+msgctxt "lineeditor_alt_platforms"
+msgid "Secondary platforms:"
+msgstr "Andenes secundarios:"
+
+#v1.5.31
+msgctxt "lineeditor_alt_platforms_n"
+msgid "(Total: {})"
+msgstr "(Total: {})"
+
+#v1.5.31
+msgctxt "lineeditor_alt_signal"
+msgid "Secondary plat. signal:"
+msgstr "Señal disc. andenes:"
+
+#v1.5.31
+msgctxt "lineeditor_alt_signal_label"
+msgid "Signal {}"
+msgstr "Señal {}"
+
+#v1.5.31
+msgctxt "lineeditor_auto_interval_auto"
+msgid "Auto interval:"
+msgstr "Auto intervalo:"
+
+#v1.5.31
+msgctxt "lineeditor_auto_interval_auto_no_trains"
+msgid "Add one or more auto run trains"
+msgstr "Añade uno o más trenes en auto recorrido"
+
+#v1.5.31
+msgctxt "lineeditor_auto_interval_kind2"
+msgid "Launch trains:"
+msgstr "Lanzamiento:"
+
+#v1.5.31
+msgctxt "lineeditor_auto_interval_kind2_fit"
+msgid "Evenly spaced to fit one line loop"
+msgstr "Espaciados uniformemente en un recorrido"
+
+#v1.5.31
+msgctxt "lineeditor_auto_interval_kind2_manual"
+msgid "On a fixed, manual interval"
+msgstr "En intervalo manual y fijo"
+
+#v1.5.31
+msgctxt "lineeditor_auto_timings"
+msgid "Auto run line"
+msgstr "Auto recorrido de línea"
+
 #v1.2.22
 msgctxt "lineeditor_auto_value"
 msgid "Auto"
@@ -3401,25 +2696,135 @@ msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
 msgstr "Vel. crucero (km/h):"
 
-#v1.2.22
-msgctxt "lineeditor_cruise_speed_desc"
-msgid "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
-msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
+#v1.5.31
+msgctxt "lineeditor_custom_duration"
+msgid "Custom duration:"
+msgstr "Duración manual:"
+
+#v1.5.31
+msgctxt "lineeditor_custom_duration_desc"
+msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
+msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
+
+#v1.5.31
+msgctxt "lineeditor_custom_period"
+msgid "Custom period:"
+msgstr "Periodo manual:"
+
+#v1.5.31
+msgctxt "lineeditor_custom_period_desc"
+msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
+msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
+
+#v1.5.31
+msgctxt "lineeditor_custom_wait_here"
+msgid "Custom duration wait in this stop"
+msgstr "Permitir parada de duración manual"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
 msgstr "Tiempos por defecto"
 
+#v1.5.31
+msgctxt "lineeditor_duration_custom"
+msgid "Custom"
+msgstr "Manual"
+
+#v1.5.31
+msgctxt "lineeditor_duration_fit_period"
+msgid "Fit a period"
+msgstr "Encajar un periodo"
+
+#v1.5.31
+msgctxt "lineeditor_duration_mode"
+msgid "Line duration:"
+msgstr "Duración de línea:"
+
+#v1.5.31
+msgctxt "lineeditor_duration_mode_minimal"
+msgid "Minimal"
+msgstr "Mínima"
+
+#v1.5.31
+msgctxt "lineeditor_duration_period"
+msgid "Period:"
+msgstr "Periodo:"
+
+#v1.5.31
+msgctxt "lineeditor_duration_period_custom"
+msgid "Custom"
+msgstr "Manual"
+
+#v1.5.31
+msgctxt "lineeditor_duration_period_day"
+msgid "Day"
+msgstr "Día"
+
+#v1.5.31
+msgctxt "lineeditor_duration_period_week"
+msgid "Week"
+msgstr "Semana"
+
+#v1.5.31
+msgctxt "lineeditor_duration_waiters"
+msgid "Extra stop time on:"
+msgstr "Espera extra en:"
+
+#v1.5.31
+msgctxt "lineeditor_duration_waiters_all"
+msgid "Evenly on all stops"
+msgstr "Uniforme en todas las paradas"
+
+#v1.5.31
+msgctxt "lineeditor_duration_waiters_custom"
+msgid "Manually picked stops"
+msgstr "Paradas elegidas manualmente"
+
 #v1.2.22
 msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
 msgstr "{0}, {1} km, {2}, {3} km/h media"
 
+#v1.5.31
+msgctxt "lineeditor_header_full_tooltip"
+msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
+msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
+
 #v1.2.22
 msgctxt "lineeditor_header_l"
 msgid "{0}, {1} km"
 msgstr "{0}, {1} km"
+
+#v1.5.31
+msgctxt "lineeditor_launch_time"
+msgid "First train departure:"
+msgstr "Salida del primer tren:"
+
+#v1.5.31
+msgctxt "lineeditor_launch_time_desc"
+msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
+msgstr "Formato: hh:mm:ss\nHora de la salida del primer tren de recorrido automático.\nEsta opción solo se aplica a trenes de recorrido automático.\nLos trenes en modo manual o en modo copia ignoran esta opción."
+
+#v1.5.31
+msgctxt "lineeditor_main_platform"
+msgid "Main platform:"
+msgstr "Andén principal:"
+
+#v1.5.31
+msgctxt "lineeditor_manual_interval"
+msgid "Manual interval:"
+msgstr "Intervalo manual:"
+
+#v1.5.31
+msgctxt "lineeditor_min_stop_time"
+msgid "Stop time:"
+msgstr "Parada:"
+
+#v1.5.31
+msgctxt "lineeditor_min_stop_time_desc"
+msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time. Trains might wait longer if pax are still leaving or boarding."
+msgstr "Formato: (hh:)mm:ss\nEl horario del tren programará una parada con esta duración. Puede aumentar si todavía hay pax entrando o saliendo."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3461,6 +2866,21 @@ msgctxt "lineeditor_service_level_closed"
 msgid "Closed"
 msgstr "Cerrado"
 
+#v1.5.31
+msgctxt "lineeditor_service_level_full"
+msgid "Passenger service"
+msgstr "Pasajeros"
+
+#v1.5.31
+msgctxt "lineeditor_service_level_only_trains"
+msgid "Technical maneuvers"
+msgstr "Maniobras técnicas"
+
+#v1.5.31
+msgctxt "lineeditor_stop_panel_editor2"
+msgid "Stop {}"
+msgstr "Parada {}"
+
 #v1.3.13
 msgctxt "lineeditor_tags"
 msgid "Tags:"
@@ -3476,6 +2896,11 @@ msgctxt "lineeditor_tooltip_add_waypoint_mode"
 msgid "Add waypoints to line"
 msgstr "Añadir puntos de paso a la línea"
 
+#v1.5.31
+msgctxt "lineeditor_tooltip_clone"
+msgid "Clone selected line"
+msgstr "Clonar línea seleccionada"
+
 #v1.1.31
 msgctxt "lineeditor_tooltip_del"
 msgid "Delete selected line"
@@ -3486,6 +2911,26 @@ msgctxt "lineeditor_tooltip_del_stop"
 msgid "Delete selected stop"
 msgstr "Eliminar parada seleccionada"
 
+#v1.5.31
+msgctxt "lineeditor_tooltip_depot_new"
+msgid "Create a new depot line"
+msgstr "Crear nueva línea de depósito"
+
+#v1.5.31
+msgctxt "lineeditor_tooltip_down_shift"
+msgid "Shift down all line stops"
+msgstr "Desplazar abajo todas las paradas"
+
+#v1.5.31
+msgctxt "lineeditor_tooltip_down_stop"
+msgid "Move down selected stop\nHold shift to shift down"
+msgstr "Mover la parada abajo\nPresiona shift para desplazar la línea"
+
+#v1.5.31
+msgctxt "lineeditor_tooltip_intervention"
+msgid "Issue an intervention to all trains currently running the selected line"
+msgstr "Intervenir todos los trenes recorriendo la línea"
+
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
 msgid "Create a new line"
@@ -3495,6 +2940,51 @@ msgstr "Crear nueva línea"
 msgctxt "lineeditor_tooltip_purchase_trains"
 msgid "Purchase new trains for this line"
 msgstr "Comprar nuevos trenes para esta línea"
+
+#v1.5.31
+msgctxt "lineeditor_tooltip_up_shift"
+msgid "Shift up all line stops"
+msgstr "Desplazar arriba todas las paradas"
+
+#v1.5.31
+msgctxt "lineeditor_tooltip_up_stop"
+msgid "Move up selected stop\nHold shift to shift up"
+msgstr "Mover la parada arriba\nPresiona shift para desplazar la línea"
+
+#v1.5.31
+msgctxt "lineeditor_tz"
+msgid "Time zone:"
+msgstr "Zona horaria:"
+
+#v1.5.31
+msgctxt "lineeditor_tz_desc"
+msgid "Time zone of the first train departure time input."
+msgstr "Zona horaria de la hora de salida del primer tren."
+
+#v1.5.31
+msgctxt "lineeditor_tz_first_stop"
+msgid "First stop station time zone"
+msgstr "Zona horaria de la primera estación"
+
+#v1.5.31
+msgctxt "lineeditor_tz_line"
+msgid "Line"
+msgstr "Línea"
+
+#v1.5.31
+msgctxt "lineeditor_wait_kind"
+msgid "Stop behavior:"
+msgstr "Tipo de parada:"
+
+#v1.5.31
+msgctxt "lineeditor_wait_kind_limbo"
+msgid "Black hole main, wait secondary"
+msgstr "Desaparece principal, espera secundaria"
+
+#v1.5.31
+msgctxt "lineeditor_wait_kind_normal"
+msgid "Wait on platforms"
+msgstr "Espera en andenes"
 
 #v1.1.31
 msgctxt "lines"
@@ -3590,6 +3080,11 @@ msgstr "Preparando cargador"
 msgctxt "loader_stations_n"
 msgid "Validating stations, {} to go"
 msgstr "Validando estaciones, {} restantes"
+
+#v1.5.31
+msgctxt "loader_timetables_init"
+msgid "Initializing timetables"
+msgstr "Inicializando horarios"
 
 #v1.4.15
 msgctxt "loader_tracks_n"
@@ -3725,6 +3220,56 @@ msgstr "Nativo"
 msgctxt "map_names_prio"
 msgid "Map names priority:"
 msgstr "Prioridad nombres mapa:"
+
+#v1.5.31
+msgctxt "mass_del_lines_but"
+msgid "Delete all lines"
+msgstr "Borrar todas las líneas"
+
+#v1.5.31
+msgctxt "mass_del_lines_desc"
+msgid "Do you want to delete all lines?"
+msgstr "Quieres borrar todas las líneas?"
+
+#v1.5.31
+msgctxt "mass_del_lines_title"
+msgid "Delete all lines"
+msgstr "Borrar todas las líneas"
+
+#v1.5.31
+msgctxt "mass_del_lines_yes"
+msgid "Delete all"
+msgstr "Borrar todas"
+
+#v1.5.31
+msgctxt "mass_del_trains_but"
+msgid "Sell all trains"
+msgstr "Vender todos los trenes"
+
+#v1.5.31
+msgctxt "mass_del_trains_desc"
+msgid "Do you want to sell all trains?"
+msgstr "Quieres vender todos los trenes?"
+
+#v1.5.31
+msgctxt "mass_del_trains_title"
+msgid "Sell all trains"
+msgstr "Vender todos los trenes"
+
+#v1.5.31
+msgctxt "mass_intervention_trains_but"
+msgid "All trains intervention"
+msgstr "Intervenir todos los trenes"
+
+#v1.5.31
+msgctxt "mass_intervention_trains_desc"
+msgid "Do you want to issue an intervention to all trains for a price of ${}?"
+msgstr "Quieres intervenir todos los trenes con un precio de ${}?"
+
+#v1.5.31
+msgctxt "mass_intervention_trains_title"
+msgid "Confirm all trains intervention"
+msgstr "Confirmar intervención de todos los trenes"
 
 #v1.1.37
 msgctxt "max_speed_desc"
@@ -4361,6 +3906,16 @@ msgctxt "option_company_name"
 msgid "Company name:"
 msgstr "Nombre empresa:"
 
+#v1.5.31
+msgctxt "option_company_parallel_offset"
+msgid "New track par. off.:"
+msgstr "Nueva vía desp. par.:"
+
+#v1.5.31
+msgctxt "option_company_station_label"
+msgid "New station label:"
+msgstr "Etiqueta estación nueva:"
+
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
@@ -4395,6 +3950,26 @@ msgstr "Teclas"
 msgctxt "options_mods_upload"
 msgid "Uploader"
 msgstr "Her. mods"
+
+#v1.5.31
+msgctxt "order_error_empty_line"
+msgid "Empty line"
+msgstr "Línea vacía"
+
+#v1.5.31
+msgctxt "order_error_invalid_line"
+msgid "Invalid line"
+msgstr "Línea inválida"
+
+#v1.5.31
+msgctxt "order_error_not_fit"
+msgid "Runs do not fit between previous and next order"
+msgstr "No hay suficiente tiempo para crear recorridos entre esta orden y la siguiente"
+
+#v1.5.31
+msgctxt "order_invalid_line"
+msgid "Invalid line"
+msgstr "Línea inválida"
 
 #v1.1.31
 msgctxt "osm_admin_level_10"
@@ -4491,10 +4066,50 @@ msgctxt "paste"
 msgid "Paste"
 msgstr "Pegar"
 
+#v1.5.31
+msgctxt "path2_arrive"
+msgid "Arrive at {}"
+msgstr "Llegada a {}"
+
+#v1.5.31
+msgctxt "path2_ride"
+msgid "Ride {0} for {1}"
+msgstr "Recorre {0} durante {1}"
+
+#v1.5.31
+msgctxt "path2_take2"
+msgid " Up to {0} [{1}]"
+msgstr " Hasta {0} [{1}]"
+
+#v1.5.31
+msgctxt "path2_wait_at"
+msgid " Wait {0} at {1}"
+msgstr " Espera {0} en {1}"
+
+#v1.5.31
+msgctxt "path2_wait_line2"
+msgid " For the departure of {0} [{1}]"
+msgstr " Para la salida de {0} [{1}]"
+
+#v1.5.31
+msgctxt "path_not_found_trip"
+msgid "Path not found between {0} and {1}"
+msgstr "Camino no encontrado entre {0} y {1}"
+
 #v1.1.58
 msgctxt "path_pax_train_warn"
 msgid "Path starts at pax next stop"
 msgstr "El camino empieza la siguiente parada del pax"
+
+#v1.5.31
+msgctxt "path_stale_warn"
+msgid "Stale data detected, ignoring step"
+msgstr "Datos obsoletos, ignorando el paso"
+
+#v1.5.31
+msgctxt "pax_new_time"
+msgid "New"
+msgstr "Nuevo"
 
 #v1.1.31
 msgctxt "pax_tab"
@@ -4511,6 +4126,11 @@ msgctxt "paxlist_groupby_dest"
 msgid "Group by destination"
 msgstr "Agrupados por destino"
 
+#v1.5.31
+msgctxt "paxlist_groupby_dominating"
+msgid "Show dominating trips"
+msgstr "Caminos dominantes"
+
 #v1.1.37
 msgctxt "paxlist_groupby_next"
 msgid "Group by next stop"
@@ -4526,10 +4146,25 @@ msgctxt "paxlist_groupby_origin"
 msgid "Group by origin"
 msgstr "Agrupados por origen"
 
+#v1.5.31
+msgctxt "paxlist_groupby_plan"
+msgid "Show best current trip"
+msgstr "Itinerarios"
+
+#v1.5.31
+msgctxt "paxlist_groupby_waiting"
+msgid "Group by waited line stop"
+msgstr "Esperando a parada de línea"
+
 #v1.1.31
 msgctxt "paxlist_n_pax"
 msgid "{} pax"
 msgstr "{} pax"
+
+#v1.5.31
+msgctxt "paxlist_other_win"
+msgid "(window)"
+msgstr "(ventana)"
 
 #v1.1.58
 msgctxt "paxlist_waiting_pax"
@@ -4540,6 +4175,11 @@ msgstr "Esperando pax..."
 msgctxt "pending_validations"
 msgid "Validating tracks, {} to go"
 msgstr "Validando vías, {} restantes"
+
+#v1.5.31
+msgctxt "pick"
+msgid "Pick"
+msgstr "Elegir"
 
 #v1.4.22
 msgctxt "pick_a_local_collection"
@@ -4731,6 +4371,11 @@ msgctxt "rtstat_leg_m"
 msgid "Leg remaining distance"
 msgstr "Distancia segmento restante"
 
+#v1.5.31
+msgctxt "rtstat_leg_s"
+msgid "Time to scheduled arrival"
+msgstr "Tiempo hasta la llegada"
+
 #v1.1.72
 msgctxt "rtstat_pax_avg_leg_time"
 msgid "Avg. leg time of contained pax"
@@ -4795,6 +4440,31 @@ msgstr "Ritmo de nuevos pax"
 msgctxt "rtstat_speed"
 msgid "Speed"
 msgstr "Velocidad"
+
+#v1.5.31
+msgctxt "run_panel_pad_stop"
+msgid "Train will wait an extra {} in this stop to start the next run at its scheduled time"
+msgstr "El tren esperará un tiempo extra {} en esta parada para empezar el siguiente recorrido en la hora correcta"
+
+#v1.5.31
+msgctxt "run_panel_start"
+msgid "{0}: Start path to {1}"
+msgstr "{0}: Empezar recorrido a {1}"
+
+#v1.5.31
+msgctxt "run_panel_train"
+msgid "{0} Run {1}"
+msgstr "{0} Recorrido {1}"
+
+#v1.5.31
+msgctxt "run_view_tooltip"
+msgid "{0} Run {1}"
+msgstr "{0} Recorrido {1}"
+
+#v1.5.31
+msgctxt "run_view_tooltip_full"
+msgid "{0} Run {1}\n{2}"
+msgstr "{0} Recorrido {1}\n{2}"
 
 #v1.1.31
 msgctxt "save"
@@ -4915,6 +4585,11 @@ msgstr "Factura de planos seleccionados"
 msgctxt "selection_blueprint_bill_short"
 msgid "Selected"
 msgstr "Selección"
+
+#v1.5.31
+msgctxt "sell_all_trains_yes"
+msgid "Sell all"
+msgstr "Vender todos"
 
 #v1.1.31
 msgctxt "settings"
@@ -5126,6 +4801,16 @@ msgctxt "sort_sep_real_time"
 msgid "--- Real time ---"
 msgstr "--- Tiempo real ---"
 
+#v1.5.31
+msgctxt "stale_run"
+msgid "Stale run"
+msgstr "Recorrido obsoleto"
+
+#v1.5.31
+msgctxt "stale_run_tooltip"
+msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
+msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
+
 #v1.1.31
 msgctxt "start_game"
 msgid "Start game"
@@ -5135,6 +4820,36 @@ msgstr "Empezar partida"
 msgctxt "station_editor"
 msgid "Station properties"
 msgstr "Propiedades de estación"
+
+#v1.5.31
+msgctxt "station_label_mode"
+msgid "Label:"
+msgstr "Etiqueta:"
+
+#v1.5.31
+msgctxt "station_label_mode_dot_only"
+msgid "Dot only"
+msgstr "Solo un punto"
+
+#v1.5.31
+msgctxt "station_label_mode_full"
+msgid "Full"
+msgstr "Completa"
+
+#v1.5.31
+msgctxt "station_label_mode_icon_only"
+msgid "Icon only"
+msgstr "Solo un icono"
+
+#v1.5.31
+msgctxt "station_label_mode_name_only"
+msgid "Name only"
+msgstr "Solo el nombre"
+
+#v1.5.31
+msgctxt "station_label_mode_name_pop"
+msgid "Name and pax"
+msgstr "Nombre y pax"
 
 #v1.1.31
 msgctxt "station_name_edit"
@@ -5195,6 +4910,11 @@ msgstr "Steamworks ID:"
 msgctxt "stop_idx"
 msgid "Stop {}"
 msgstr "Parada {}"
+
+#v1.5.31
+msgctxt "stop_leg_full2"
+msgid "{0}m at {1} km/h avg."
+msgstr "{0}m a {1} km/h media"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -5611,10 +5331,45 @@ msgctxt "time_s"
 msgid "{}s"
 msgstr "{}s"
 
+#v1.5.31
+msgctxt "timetable_1day"
+msgid "One day"
+msgstr "Un día"
+
+#v1.5.31
+msgctxt "timetable_3days"
+msgid "Three days"
+msgstr "Tres días"
+
+#v1.5.31
+msgctxt "timetable_heuristic_building_tp"
+msgid "Refreshing pathfind heuristic..."
+msgstr "Actualizando heurísitca de caminos..."
+
+#v1.5.31
+msgctxt "timetable_rebuild_tp"
+msgid "Rebuilding timetables..."
+msgstr "Actualizando horarios..."
+
+#v1.5.31
+msgctxt "timetable_week"
+msgid "Week"
+msgstr "Semana"
+
 #v1.1.31
 msgctxt "title"
 msgid "Title:"
 msgstr "Título:"
+
+#v1.5.31
+msgctxt "too_many_collections"
+msgid "Too many clips"
+msgstr "Demasiados clips"
+
+#v1.5.31
+msgctxt "too_many_collections_body"
+msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
+msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
 
 #v1.2.22
 msgctxt "tooltip_demand"
@@ -5736,6 +5491,11 @@ msgctxt "train_clone"
 msgid "Clone"
 msgstr "Clonar"
 
+#v1.5.31
+msgctxt "train_clone_copier"
+msgid "Clone as copier"
+msgstr "Clonar como copiador"
+
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
@@ -5760,6 +5520,116 @@ msgstr "Elige una decor."
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
 msgstr "Usa color línea"
+
+#v1.5.31
+msgctxt "train_editor_basics"
+msgid "Basics"
+msgstr "Básico"
+
+#v1.5.31
+msgctxt "train_editor_group"
+msgid "Group"
+msgstr "Grupo"
+
+#v1.5.31
+msgctxt "train_editor_orders"
+msgid "Orders"
+msgstr "Órdenes"
+
+#v1.5.31
+msgctxt "train_group_duration"
+msgid "Duration:"
+msgstr "Duración:"
+
+#v1.5.31
+msgctxt "train_group_fixed_shift_by"
+msgid "Interval:"
+msgstr "Intervalo:"
+
+#v1.5.31
+msgctxt "train_group_fixed_shift_by_desc"
+msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
+msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
+
+#v1.5.31
+msgctxt "train_group_interval"
+msgid "Interval:"
+msgstr "Intervalo:"
+
+#v1.5.31
+msgctxt "train_group_line_duration_pick"
+msgid "Duration of:"
+msgstr "Duración de:"
+
+#v1.5.31
+msgctxt "train_group_manual_duration_amount"
+msgid "Duration:"
+msgstr "Duración:"
+
+#v1.5.31
+msgctxt "train_group_manual_duration_amount_desc"
+msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
+msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
+
+#v1.5.31
+msgctxt "train_group_migrate_but"
+msgid "Set as copiers"
+msgstr "Cambiar a copiadores"
+
+#v1.5.31
+msgctxt "train_group_migrate_line"
+msgid "Migrate auto run trains"
+msgstr "Migrar trenes automáticos"
+
+#v1.5.31
+msgctxt "train_group_migrate_line_pick"
+msgid "Auto trains of:"
+msgstr "Trenes auto de:"
+
+#v1.5.31
+msgctxt "train_group_mode"
+msgid "Shift mode:"
+msgstr "Distribución:"
+
+#v1.5.31
+msgctxt "train_group_mode_fixed"
+msgid "Fixed interval"
+msgstr "Intervalo fijo"
+
+#v1.5.31
+msgctxt "train_group_mode_line"
+msgid "Evenly over line duration"
+msgstr "Uniforme en la duración de una línea"
+
+#v1.5.31
+msgctxt "train_group_mode_manual_duration"
+msgid "Evenly over manual duration"
+msgstr "Uniforme en una duración manual"
+
+#v1.5.31
+msgctxt "train_group_n_name"
+msgid "Trains:"
+msgstr "Trenes:"
+
+#v1.5.31
+msgctxt "train_group_n_value"
+msgid "{0} copying, {1} managed"
+msgstr "{0} copiando, {1} controlados"
+
+#v1.5.31
+msgctxt "train_group_shift_matching"
+msgid "Shift orders:"
+msgstr "Distribuir órdenes:"
+
+#v1.5.31
+msgctxt "train_group_shift_matching_all"
+msgid "All orders"
+msgstr "Todas"
+
+#v1.5.31
+msgctxt "train_group_shift_matching_only_pax_service"
+msgid "Only pax service orders"
+msgstr "Solo las de líneas de pax"
 
 #v1.1.58
 msgctxt "train_info_arrives"
@@ -5926,6 +5796,11 @@ msgctxt "train_info_status_signal_wait"
 msgid "Waiting at signal"
 msgstr "Esperando señal"
 
+#v1.5.31
+msgctxt "train_info_status_waiting_spawn"
+msgid "Waiting for scheduled spawn"
+msgstr "Esperando según el horario"
+
 #v1.1.31
 msgctxt "train_info_storing"
 msgid "Storing in:"
@@ -5936,6 +5811,11 @@ msgctxt "train_info_total_power"
 msgid "Total power:"
 msgstr "Potencia total"
 
+#v1.5.31
+msgctxt "train_intervention_dialog_desc"
+msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
+msgstr "Esta intervención programa el recorrido actual correcto, coloca al tren en la parada vigente, y desplaza a los pax a sus siguientes paradas. El precio es ${}."
+
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
 msgid "Train intervention"
@@ -5945,6 +5825,26 @@ msgstr "Intervenir tren"
 msgctxt "train_invalid_order"
 msgid "Invalid order"
 msgstr "Orden inválida"
+
+#v1.5.31
+msgctxt "train_list_filter_alert"
+msgid "Only with warnings"
+msgstr "Solo con alertas"
+
+#v1.5.31
+msgctxt "train_list_filter_alert_short"
+msgid "Warnings"
+msgstr "Alertas"
+
+#v1.5.31
+msgctxt "train_list_filter_all"
+msgid "All trains"
+msgstr "Todos los trenes"
+
+#v1.5.31
+msgctxt "train_list_filter_all_short"
+msgid "All"
+msgstr "Todos"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
@@ -5960,6 +5860,31 @@ msgstr "Agrupar por tags de línea"
 msgctxt "train_list_filter_by_model"
 msgid "Group by model"
 msgstr "Agrupar por modelo"
+
+#v1.5.31
+msgctxt "train_list_filter_flat"
+msgid "Flat listing"
+msgstr "Listado plano"
+
+#v1.5.31
+msgctxt "train_list_filter_manual"
+msgid "Only with manual orders"
+msgstr "Solo con órdenes manuales"
+
+#v1.5.31
+msgctxt "train_list_filter_manual_short"
+msgid "Manual orders"
+msgstr "Órdenes manuales"
+
+#v1.5.31
+msgctxt "train_list_filter_mothballed"
+msgid "Only mothballed"
+msgstr "Solo retirados"
+
+#v1.5.31
+msgctxt "train_list_filter_mothballed_short"
+msgid "Mothballed"
+msgstr "Retirados"
 
 #v1.3.13
 msgctxt "train_list_filter_tags"
@@ -5981,6 +5906,66 @@ msgctxt "train_name_edit"
 msgid "Name:"
 msgstr "Nombre:"
 
+#v1.5.31
+msgctxt "train_orders_auto_copy"
+msgid "Auto copy from:"
+msgstr "Auto copia de:"
+
+#v1.5.31
+msgctxt "train_orders_auto_copy_mode"
+msgid "Shift:"
+msgstr "Distribuir:"
+
+#v1.5.31
+msgctxt "train_orders_auto_copy_mode_auto"
+msgid "Managed by parent group"
+msgstr "Controlador por el original"
+
+#v1.5.31
+msgctxt "train_orders_auto_copy_mode_manual"
+msgid "Shift by manual amount"
+msgstr "Desplazar con valor manual"
+
+#v1.5.31
+msgctxt "train_orders_auto_run"
+msgid "Auto run line:"
+msgstr "Linea automática"
+
+#v1.5.31
+msgctxt "train_orders_keep_line"
+msgid "< Keep current line >"
+msgstr "< Mantener actual >"
+
+#v1.5.31
+msgctxt "train_orders_mode"
+msgid "Orders:"
+msgstr "Órdenes:"
+
+#v1.5.31
+msgctxt "train_orders_mode_auto_copy"
+msgid "Auto copy manual orders"
+msgstr "Auto copiar órdenes manuales"
+
+#v1.5.31
+msgctxt "train_orders_mode_auto_line"
+msgid "Auto run a line"
+msgstr "Auto recorrer línea"
+
+#v1.5.31
+msgctxt "train_orders_mode_manual"
+msgid "Manual orders"
+msgstr "Órdenes manules"
+
+#v1.5.31
+msgctxt "train_orders_mode_mothballed"
+msgid "Mothballed"
+msgstr "Retirado"
+
+#v1.5.31
+msgctxt "train_orders_run_short"
+msgid "Run line:"
+msgstr "Línea:"
+
 #v1.1.72
 msgctxt "train_price"
 msgid "Train price:"
@@ -5995,6 +5980,31 @@ msgstr "No hay suficiente dinero para la compra"
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
 msgstr "No hay suficiente dinero para comprar los trenes. Elige un tren más barato, menos trenes, menos coches, o consigue más dinero."
+
+#v1.5.31
+msgctxt "train_run"
+msgid "Run"
+msgstr "Recorrido"
+
+#v1.5.31
+msgctxt "train_sort_alpha"
+msgid "Alphabetically"
+msgstr "Alfabético"
+
+#v1.5.31
+msgctxt "train_spawn_at"
+msgid "Spawns in {}"
+msgstr "Aparece en {}"
+
+#v1.5.31
+msgctxt "train_spawn_late"
+msgid "Spawns late by {}"
+msgstr "Aparece tarde por {}"
+
+#v1.5.31
+msgctxt "train_status_mothballed"
+msgid "Mothballed"
+msgstr "Retirado"
 
 #v1.1.58
 msgctxt "train_texture_info"
@@ -6021,6 +6031,11 @@ msgctxt "train_units_inst"
 msgid "Units:"
 msgstr "Unidades:"
 
+#v1.5.31
+msgctxt "traineditor_auto_shift_time_desc"
+msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
+msgstr "Formato: (-)hh:mm:ss\nDesplazar la auto copia por este valor."
+
 #v1.1.31
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
@@ -6030,6 +6045,136 @@ msgstr "Limpiar selección"
 msgctxt "traineditor_move_camera"
 msgid "Focus camera when selecting a train"
 msgstr "Centrar la cámara al seleccionar un tren"
+
+#v1.5.31
+msgctxt "traineditor_order_append"
+msgid "Append new order"
+msgstr "Añadir nueva orden"
+
+#v1.5.31
+msgctxt "traineditor_order_append_action"
+msgid "Append new order"
+msgstr "Añadir nueva orden"
+
+#v1.5.31
+msgctxt "traineditor_order_bulk_edit"
+msgid "Bulk edit orders"
+msgstr "Editar múltiples órdenes"
+
+#v1.5.31
+msgctxt "traineditor_order_edit"
+msgid "Edit orders"
+msgstr "Editar órdenes"
+
+#v1.5.31
+msgctxt "traineditor_order_edit_action_multi"
+msgid "Bulk shift and change"
+msgstr "Desplazar y cambiar"
+
+#v1.5.31
+msgctxt "traineditor_order_edit_action_single"
+msgid "Change one order"
+msgstr "Cambiar orden"
+
+#v1.5.31
+msgctxt "traineditor_order_enter"
+msgid "Enter:"
+msgstr "Entrada:"
+
+#v1.5.31
+msgctxt "traineditor_order_enter_first_stop"
+msgid "<First line stop>"
+msgstr "<Primera parada>"
+
+#v1.5.31
+msgctxt "traineditor_order_exit"
+msgid "Exit:"
+msgstr "Salida:"
+
+#v1.5.31
+msgctxt "traineditor_order_exit_last_stop"
+msgid "<Last line stop>"
+msgstr "<Última parada>"
+
+#v1.5.31
+msgctxt "traineditor_order_loops"
+msgid "Loop until next order"
+msgstr "Repetir hasta siguiente orden"
+
+#v1.5.31
+msgctxt "traineditor_order_select_all"
+msgid "Select all orders"
+msgstr "Seleccionar todas las órdenes"
+
+#v1.5.31
+msgctxt "traineditor_order_select_copy"
+msgid "Copy selected orders"
+msgstr "Copiar órdenes seleccionadas"
+
+#v1.5.31
+msgctxt "traineditor_order_select_del"
+msgid "Delete selected orders"
+msgstr "Borrar órdenes seleccionadas"
+
+#v1.5.31
+msgctxt "traineditor_order_select_none"
+msgid "Clear selection"
+msgstr "Cancelar selección"
+
+#v1.5.31
+msgctxt "traineditor_order_select_paste"
+msgid "Paste orders"
+msgstr "Pegar órdenes"
+
+#v1.5.31
+msgctxt "traineditor_order_shift_by"
+msgid "By:"
+msgstr "Por:"
+
+#v1.5.31
+msgctxt "traineditor_order_shift_time"
+msgid "Shift:"
+msgstr "Desplazar:"
+
+#v1.5.31
+msgctxt "traineditor_order_shift_time_desc"
+msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
+msgstr "Formato: (-)hh:mm:ss\nDesplazar el inicio de las órdenes por este valor."
+
+#v1.5.31
+msgctxt "traineditor_order_start_event"
+msgid "Enter event:"
+msgstr "Ev. entrada:"
+
+#v1.5.31
+msgctxt "traineditor_order_start_event_arrival"
+msgid "Arrive exactly at"
+msgstr "Llegar exactamente"
+
+#v1.5.31
+msgctxt "traineditor_order_start_event_arrival_by"
+msgid "Arrive no later than"
+msgstr "Llegar antes de"
+
+#v1.5.31
+msgctxt "traineditor_order_start_event_departure"
+msgid "Depart exactly at"
+msgstr "Salir exactamente"
+
+#v1.5.31
+msgctxt "traineditor_order_start_time_at"
+msgid "At:"
+msgstr "A:"
+
+#v1.5.31
+msgctxt "traineditor_order_start_time_by"
+msgid "Than:"
+msgstr "Las:"
+
+#v1.5.31
+msgctxt "traineditor_order_start_time_desc"
+msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
+msgstr "Formato: hh:mm:ss\nMomento del día para empezar los recorridos de la línea seleccionada."
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -6060,6 +6205,36 @@ msgstr "Editar la programación de múltiples trenes simultaneamente"
 msgctxt "traineditor_tooltip_sell"
 msgid "Sell selected train"
 msgstr "Vender tren seleccionado"
+
+#v1.5.31
+msgctxt "traineditor_tz"
+msgid "Time zone:"
+msgstr "Zona horaria:"
+
+#v1.5.31
+msgctxt "traineditor_tz_desc"
+msgid "Time zone used for order time/day input."
+msgstr "Zona horaria utilizada para introducir las horas y días."
+
+#v1.5.31
+msgctxt "traineditor_tz_first_line"
+msgid "First line time zone"
+msgstr "Zona horaria de la primera línea"
+
+#v1.5.31
+msgctxt "traineditor_tz_map"
+msgid "Map"
+msgstr "Mapa"
+
+#v1.5.31
+msgctxt "traineditor_tz_orders"
+msgid "Orders"
+msgstr "Órdenes"
+
+#v1.5.31
+msgctxt "traineditor_tz_station"
+msgid "Station"
+msgstr "Estación"
 
 #v1.1.31
 msgctxt "trains"
@@ -6211,6 +6386,11 @@ msgctxt "vsync_mode"
 msgid "VSync:"
 msgstr "VSync:"
 
+#v1.5.31
+msgctxt "waiting_expired"
+msgid "Expired"
+msgstr "Caducado"
+
 #v1.2.29
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
@@ -6240,6 +6420,11 @@ msgstr "Tranvía"
 msgctxt "waypoint"
 msgid "Waypoint"
 msgstr "Punto de paso"
+
+#v1.5.31
+msgctxt "wedge_mode"
+msgid "Show trip legs as rhombus to better reflect the initial wait time"
+msgstr "Mostrar los pasos del camino como rombos para reflejar la espera inicial"
 
 #v1.1.31
 msgctxt "weekday_friday"
@@ -6290,6 +6475,41 @@ msgstr "Mar"
 msgctxt "weekday_short_wednesday"
 msgid "Wed"
 msgstr "Mié"
+
+#v1.5.31
+msgctxt "weekday_shorter_friday"
+msgid "Fr"
+msgstr "Vi"
+
+#v1.5.31
+msgctxt "weekday_shorter_monday"
+msgid "Mo"
+msgstr "Lu"
+
+#v1.5.31
+msgctxt "weekday_shorter_saturday"
+msgid "Sa"
+msgstr "Sá"
+
+#v1.5.31
+msgctxt "weekday_shorter_sunday"
+msgid "Su"
+msgstr "Do"
+
+#v1.5.31
+msgctxt "weekday_shorter_thursday"
+msgid "Th"
+msgstr "Ju"
+
+#v1.5.31
+msgctxt "weekday_shorter_tuesday"
+msgid "Tu"
+msgstr "Ma"
+
+#v1.5.31
+msgctxt "weekday_shorter_wednesday"
+msgid "We"
+msgstr "Mi"
 
 #v1.1.31
 msgctxt "weekday_sunday"
