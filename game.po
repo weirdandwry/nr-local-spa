@@ -1,350 +1,771 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.6.13
-msgctxt "constraint_demote_platforms"
-msgid "Demote into normal track"
-msgstr "Convertir a vía normal"
-
-#v1.6.13
-msgctxt "delete_only_bp"
-msgid "Delete only blueprints"
-msgstr "Borrar solo planos"
-
-#v1.6.13
-msgctxt "editor_sat_building_tape"
-msgid "Building tape"
-msgstr "Cinta de edificio"
-
-#v1.6.13
-msgctxt "editor_sat_parallel_tape"
-msgid "Parallel track tape"
-msgstr "Cinta paralela"
-
-#v1.6.13
-msgctxt "editor_sat_platform_tape"
-msgid "Station platform tape"
-msgstr "Cinta de andén"
-
-#v1.6.13
-msgctxt "editor_sat_promote_station"
-msgid "Promote tracks into station platforms"
-msgstr "Convertir en andén"
-
-#v1.6.13
-msgctxt "editor_sat_split"
-msgid "Split tracks"
-msgstr "Partir la vía"
-
-#v1.6.13
-msgctxt "editor_sat_track_tape"
-msgid "Track tape"
-msgstr "Cinta de vía"
-
-#v1.6.13
-msgctxt "editor_tip_create_del_inline"
-msgid "Shift-Del to delete selected inner tracks"
-msgstr "Shift-Del para borrar las vías interiores"
-
-#v1.6.13
-msgctxt "editor_tip_sat_building_tape_alt"
-msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "Alt para crear edificios simétricos a ambos lados de la vía"
-
-#v1.6.13
-msgctxt "editor_tip_sat_building_tape_left"
-msgid "Click near tracks to create new attached buildings"
-msgstr "Click cerca de las vías para crear edificios"
-
-#v1.6.13
-msgctxt "editor_tip_sat_building_tape_shift"
-msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr "Shift para crear edificios en todas las vías paralelas"
-
-#v1.6.13
-msgctxt "editor_tip_sat_esc"
-msgid "Esc to go to edit mode"
-msgstr "Esc to go para volver a modo de edición"
-
-#v1.6.13
-msgctxt "editor_tip_sat_parallel_tape_left"
-msgid "Click on tracks to attach new parallel tracks"
-msgstr "Click en vías para añadir nuevas vías paralelas"
-
-#v1.6.13
-msgctxt "editor_tip_sat_platform_tape_left"
-msgid "Click on tracks to tape them over with a new station platform"
-msgstr "UNUSED Click on tracks to tape them over with a new station platform"
-
-#v1.6.13
-msgctxt "editor_tip_sat_promote_station_left"
-msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Click en vías para convertirlas en andenes"
-
-#v1.6.13
-msgctxt "editor_tip_sat_split_left"
-msgid "Click on tracks to split them at the point of click"
-msgstr "Click en vías para partirlas en el punto del click"
-
-#v1.6.13
-msgctxt "editor_tip_sat_station_tape_left"
-msgid "Click on tracks to tape them over with a new station"
-msgstr "UNUSED Click on tracks to tape them over with a new station"
-
-#v1.6.13
-msgctxt "editor_tip_sat_track_tape_left"
-msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr "Click en vías para cubrirlas con otro tipo de vía"
-
-#v1.6.13
-msgctxt "editor_tip_weight_left"
-msgid "Release left button to stop moving the track weighting"
-msgstr "Suelta el botón izquierdo para dejar de mover el control de curva"
-
-#v1.6.13
-msgctxt "game_wiki"
-msgid "NIMBY Rails Wiki"
-msgstr "NIMBY Rails Wiki"
-
-#v1.6.13
-msgctxt "host_server_bad_ip"
-msgid "Cannot detect public IP, use Steam Relay"
-msgstr "No se puede detectar una IP pública, utiliza Steam Relay"
-
-#v1.6.13
-msgctxt "host_server_direct_warn"
-msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Tu PC o router necesita una conexión directa a internet con IP pública. Tienes que hacer forward del puerto UDP {} a tu PC y abrirlo en el firewall para aceptar conexiones. VPNs, proxies y CG-NAT son incompatibles con este modo de conexión. Weird and Wry no puede ofrecer soporte técnico si este modo no funciona."
-
-#v1.6.13
-msgctxt "host_server_ipv4"
-msgid "Detected public IPv4:"
-msgstr "IPv4 detectada:"
-
-#v1.6.13
-msgctxt "host_server_ipv6"
-msgid "Detected public IPv6:"
-msgstr "IPv6 detectada:"
-
-#v1.6.13
-msgctxt "host_server_mode"
-msgid "Connection:"
-msgstr "Conexión:"
-
-#v1.6.13
-msgctxt "host_server_mode_direct"
-msgid "Direct"
-msgstr "Directa"
-
-#v1.6.13
-msgctxt "host_server_mode_direct_desc"
-msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "Los clientes intentarán conectarse directamente a tu PC mediante tu IP pública.\nPermite hospedar partidas muy grandes si tu conexión tiene suficiente subida."
-
-#v1.6.13
-msgctxt "host_server_mode_relay"
-msgid "Steam Relay Network"
-msgstr "Steam Relay Network"
-
-#v1.6.13
-msgctxt "host_server_mode_relay_desc"
-msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Los clientes se conectarán mediante Steam Relay Network.\nEste es un método seguro que oculta tu IP pero tiene límites de ancho de banda."
-
-#v1.6.13
-msgctxt "host_server_port"
-msgid "UDP Port:"
-msgstr "Puerto UDP:"
-
-#v1.6.13
-msgctxt "host_server_wait_ip"
-msgid "Detecting public IP..."
-msgstr "Detectando IP pública..."
-
-#v1.6.13
-msgctxt "host_sim_mode"
-msgid "Simulation:"
-msgstr "Simulación:"
-
-#v1.6.13
-msgctxt "host_sim_mode_private"
-msgid "Private"
-msgstr "Privada"
-
-#v1.6.13
-msgctxt "host_sim_mode_private_desc"
-msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
-
-#v1.6.13
-msgctxt "host_sim_mode_shared"
-msgid "Shared"
-msgstr "Compartida"
-
-#v1.6.13
-msgctxt "host_sim_mode_shared_desc"
-msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "El reloj, el movimiento de trenes y los pax se comparten y sincronizan entre todos los clientes.\nVías, líneas y trenes se editan cooperativamente."
-
-#v1.6.13
-msgctxt "kb_track_sat_building_tape"
-msgid "Tracks: building tape"
-msgstr "Vías: cinta de edificios"
-
-#v1.6.13
-msgctxt "kb_track_sat_parallel_tape"
-msgid "Tracks: parallel tape"
-msgstr "Vías: cinta paralela"
-
-#v1.6.13
-msgctxt "kb_track_sat_split"
-msgid "Tracks: split"
-msgstr "Vías: partir vía"
-
-#v1.6.13
-msgctxt "kb_track_sat_station_tape"
-msgid "Tracks: station tape"
-msgstr "Vías: cambiar a andén"
-
-#v1.6.13
-msgctxt "kb_track_sat_track_tape"
-msgid "Tracks: track tape"
-msgstr "Vías: cinta de vías"
-
-#v1.6.13
-msgctxt "key_info_hold"
-msgid "[Hold: {}]"
-msgstr "[Mantén: {}]"
-
-#v1.6.13
-msgctxt "key_info_hold_missing"
-msgid "[Missing key bind]"
-msgstr "[No tiene tecla asignada]"
-
-#v1.6.13
-msgctxt "loader_loading_db"
-msgid "Loading database"
-msgstr "Cargando base de datos"
-
-#v1.6.13
-msgctxt "loader_loading_sim"
-msgid "Loading simulation state"
-msgstr "Cargando estado de simulación"
-
-#v1.6.13
-msgctxt "loader_validating_db"
-msgid "Validating database"
-msgstr "Validando base de datos"
-
-#v1.6.13
-msgctxt "mod_open_folder"
-msgid "Open mod.txt"
-msgstr "UNUSED Open mod.txt"
-
-#v1.6.13
-msgctxt "station_platform_demote"
-msgid "Demote platform into normal track"
-msgstr "Convertir andén a vía normal"
-
-#v1.6.13
-msgctxt "stream_waiting_for_player"
-msgid "Waiting for player {}"
-msgstr "Esperando a jugador {}"
-
-#v1.6.13
-msgctxt "tape_building_props"
-msgid "Tape building properties"
-msgstr "Propiedades de cinta de edificio"
-
-#v1.6.13
-msgctxt "tape_warn_built"
-msgid "Already built"
-msgstr "Ya construido"
-
-#v1.6.13
-msgctxt "tape_warn_invalid_elements"
-msgid "Invalid geometry or elements"
-msgstr "Elemntos de vía o geometría inválida"
-
-#v1.6.13
-msgctxt "tape_warn_invalid_length"
-msgid "Invalid length"
-msgstr "Longitud inválida"
-
-#v1.6.13
-msgctxt "tape_warn_too_complex"
-msgid "Too complex"
-msgstr "Demasiado complejo"
-
-#v1.6.13
-msgctxt "tape_warn_too_long"
-msgid "Too long"
-msgstr "Demasiado largo"
-
-#v1.6.13
-msgctxt "track_sat_tools"
-msgid "Split and tape tools"
-msgstr "Partir y encintar"
-
-#v1.6.13
-msgctxt "trackeditor_hold_keybinds"
-msgid "Track tool keybind hold mode"
-msgstr "Mantener pulsadas teclas en editor"
-
-#v1.6.13
-msgctxt "train_bulk_change_orders"
-msgid "Change orders in selection"
-msgstr "Cambiar órdenes en la selección"
-
-#v1.6.13
-msgctxt "train_bulk_intervention"
-msgid "Intervene selection"
-msgstr "Intervenir la selección"
-
-#v1.6.13
-msgctxt "train_bulk_sell"
-msgid "Sell selection"
-msgstr "Vender selección"
-
-#v1.6.13
-msgctxt "train_info_camera"
-msgid "Auto scroll map following train position"
-msgstr "Mover el mapa siguiendo la posición del tren"
-
-#v1.6.13
-msgctxt "train_info_path_probe"
-msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr "Mostrar camino potencial del tren hasta la posición del ratón\nClick para fijar la posición"
-
-#v1.6.13
-msgctxt "train_info_path_probe_dest"
-msgid "Pathfind probe from train to its current destination"
-msgstr "Mostrar camino potencial del tren hasta su destino actual"
-
-#v1.6.13
-msgctxt "train_info_pin"
-msgid "Scroll map to train position"
-msgstr "Centrar el mapa en la posición del tren"
-
-#v1.6.13
-msgctxt "train_list_filter_alert_stale"
-msgid "Stale"
-msgstr "Caducado"
-
-#v1.6.13
-msgctxt "train_orders_mode_ignore"
-msgid "< Do not change >"
-msgstr "< No cambiar >"
+#v1.7.15
+msgctxt "accounting_trains_departure"
+msgid "Departures"
+msgstr "Salidas"
+
+#v1.7.15
+msgctxt "accounting_trains_running_distance"
+msgid "Running distance"
+msgstr "Distancia recorrida"
+
+#v1.7.15
+msgctxt "accounting_trains_running_time"
+msgid "Running time"
+msgstr "Tiempo recorrido"
+
+#v1.7.15
+msgctxt "accounting_trains_stop_time"
+msgid "Stop time"
+msgstr "Tiempo parada"
+
+#v1.7.15
+msgctxt "back_to_main_menu"
+msgid "Back to main menu"
+msgstr "volver a menú principal"
+
+#v1.7.15
+msgctxt "banner_prompt_load_cmd_line"
+msgid "Load saved game {}?"
+msgstr "Cargar partida {}?"
+
+#v1.7.15
+msgctxt "banner_prompt_quit_load_cmd_line"
+msgid "Quit current game and load saved game {}?"
+msgstr "Salir de la partida para cargar {}?"
+
+#v1.7.15
+msgctxt "browse_shared_games"
+msgid "Browse shared games"
+msgstr "Ver partidas compartidas"
+
+#v1.7.15
+msgctxt "cancel_replace"
+msgid "Cancel replacement"
+msgstr "Cancelar reemplazo"
+
+#v1.7.15
+msgctxt "cars_uncategorized"
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#v1.7.15
+msgctxt "cat_train_interior"
+msgid "Interior"
+msgstr "Interior"
+
+#v1.7.15
+msgctxt "confirm_set_no_couplers"
+msgid "Confirm switching to unrestricted coupling"
+msgstr "Confirma el cambio a acople sin restricciones"
+
+#v1.7.15
+msgctxt "confirm_set_no_couplers_desc"
+msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
+msgstr "El cambio a acople sin restricciones no tiene vuelta atrás. Estás seguro?"
+
+#v1.7.15
+msgctxt "constraint_select_parent"
+msgid "Select parent track"
+msgstr "Selecciona la vía padre"
+
+#v1.7.15
+msgctxt "effective_leg_time"
+msgid "Middle point to middle point effective leg time: {}\nPrev. stop arrival braking time: -{}s\nThis stop braking time: +{}s"
+msgstr "Tramo efectivo de centro a centro: {}\nFrenada en parada previa: -{}s\nFrenada en estas parada: +{}s"
+
+#v1.7.15
+msgctxt "effective_leg_time_desc"
+msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
+msgstr "Tramo de tiempo en cruzar del centro del andén al centro del andén de la siguiente parada, sin contar el tiempo de espera"
+
+#v1.7.15
+msgctxt "effective_times_desc"
+msgid "Showing effective leg times: arrival matches the time of train crossing the middle of platform.\nLeg time matches the time from crossing the middle of one platform to the middle of the next one, minus stop time."
+msgstr "Mostrando tramo efectivo: la llegada se interpreta como cruzar el centro del andén.\nEl tiempo de tramo es la diferencia de tiempos entre cruzar el centro del andén de la parada y de la anterior parada,\nmenos el tiempo de espera."
+
+#v1.7.15
+msgctxt "file_picker_file_size"
+msgid "Size:"
+msgstr "Tamaño:"
+
+#v1.7.15
+msgctxt "file_picker_sort_date"
+msgid "Date"
+msgstr "Fecha"
+
+#v1.7.15
+msgctxt "file_picker_sort_name"
+msgid "Name"
+msgstr "Nombre"
+
+#v1.7.15
+msgctxt "file_picker_sort_size"
+msgid "Size"
+msgstr "Tamaño"
+
+#v1.7.15
+msgctxt "file_picker_stats"
+msgid "Stats:"
+msgstr "Estadísticas:"
+
+#v1.7.15
+msgctxt "file_picker_stats_values"
+msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
+msgstr "{} vías, {} edificios, {} estaciones, {} trenes, {} líneas"
+
+#v1.7.15
+msgctxt "game_sharing"
+msgid "Game sharing"
+msgstr "Compartir partida"
+
+#v1.7.15
+msgctxt "geo_export_desc"
+msgid "Tracks and buildings GeoJSON has been exported to {}"
+msgstr "Las vías y edificios se han exportado en formato GeoJSON a {}"
+
+#v1.7.15
+msgctxt "geo_export_title"
+msgid "Exported GeoJSON"
+msgstr "GeoJSON exportado"
+
+#v1.7.15
+msgctxt "intuitive_times_desc"
+msgid "Showing intuitive leg times: arrival and departure matches the time of train stop and start.\nLeg time matches the running time between train start and stop."
+msgstr "Mostrando tramo intuitivo: las llegadas y salidas coinciden con el momento de frenar y arrancar.\nEl tiempo de tramo coincide con la diferencia entre arrancar y frenar."
+
+#v1.7.15
+msgctxt "line_warn_custom_duration_too_short"
+msgid "Custom duration is too short and it is ignored"
+msgstr "La duración es demasiado cortra y se ignora"
+
+#v1.7.15
+msgctxt "line_warn_no_custom_duration_stops"
+msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
+msgstr "La función de duración necesita de al menos una parada con tiempo de espera después de la última parada en modo de salida fija"
+
+#v1.7.15
+msgctxt "line_warn_unachievable_fixed_departure"
+msgid "One or more fixed departure stops are unachievable"
+msgstr "Una o mas salidas fijas son imposibles"
+
+#v1.7.15
+msgctxt "lineeditor_default_timings_go_ref_train"
+msgid "Edit reference train"
+msgstr "Editar tren de referencia"
+
+#v1.7.15
+msgctxt "lineeditor_display_in_map"
+msgid "Display in map:"
+msgstr "Mostrar en mapa:"
+
+#v1.7.15
+msgctxt "lineeditor_display_in_map_v"
+msgid "Display in map"
+msgstr "Mostrar en mapa"
+
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_at"
+msgid "Depart at:"
+msgstr "Salida:"
+
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_at_shift"
+msgid "Shift click to also apply the time delta to all following fixed departures"
+msgstr "Shift click para aplicar el delta de tiempo a todas las salidas fijas que siguen a esta parada"
+
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_desc"
+msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr "Formato: (hh:)mm:ss\nEl tren saldrá en exactamente este momento, contando desde el inicio de la línea.\nEsta hora puede ignorarse si todavía hay pax entrando o saliendo del tren."
+
+#v1.7.15
+msgctxt "lineeditor_implied_stop_time"
+msgid "Implied stop time:"
+msgstr "Parada implícita:"
+
+#v1.7.15
+msgctxt "lineeditor_intuitive"
+msgid "Intuitive arrival at:"
+msgstr "Llegada intuitiva:"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode"
+msgid "Stop time mode:"
+msgstr "Modo de parada:"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_auto"
+msgid "Automatic"
+msgstr "Automático"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_custom"
+msgid "Custom time"
+msgstr "Tiempo manual"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_fixed_departure"
+msgid "Fixed departure"
+msgstr "Salida fija"
+
+#v1.7.15
+msgctxt "lineeditor_unachievable_depart"
+msgid "Unachievable departure"
+msgstr "Salida imposible"
+
+#v1.7.15
+msgctxt "loader_downloading"
+msgid "Downloading"
+msgstr "Descargando"
+
+#v1.7.15
+msgctxt "loader_http_error"
+msgid "Error downloading shared game file"
+msgstr "Error descargando partida compartida"
+
+#v1.7.15
+msgctxt "mod_contents"
+msgid "Mod contents: {} rules"
+msgstr "Contenido mod: {} reglas"
+
+#v1.7.15
+msgctxt "mod_disable_all_unused"
+msgid "Disable all unused mods"
+msgstr "Desactivar todos los mods sin uso"
+
+#v1.7.15
+msgctxt "mod_panel_list_only_enabled"
+msgid "Enabled mods in this game"
+msgstr "Mods activados en esta partida"
+
+#v1.7.15
+msgctxt "mod_remove_all_orphaned"
+msgid "Remove all orphaned and unused rules"
+msgstr "Quitar todas las reglas sin uso"
+
+#v1.7.15
+msgctxt "my_shared_games"
+msgid "My shared games"
+msgstr "Mis partidas compartidas"
+
+#v1.7.15
+msgctxt "option_company_geo_export"
+msgid "Export GeoJSON"
+msgstr "Exportar GeoJSON"
+
+#v1.7.15
+msgctxt "option_company_switch_no_couplers"
+msgid "Switch to unrestricted coupling"
+msgstr "Activar acople sin restricciones"
+
+#v1.7.15
+msgctxt "option_no_couplers"
+msgid "Unrestricted coupling"
+msgstr "Acople sin restricciones"
+
+#v1.7.15
+msgctxt "purchase_trains"
+msgid "Purchase new train(s)"
+msgstr "Comprar nuevos trenes"
+
+#v1.7.15
+msgctxt "replace_trains"
+msgid "Replace existing train(s)"
+msgstr "Reemplazar trenes existentes"
+
+#v1.7.15
+msgctxt "right_bar_like"
+msgid "Like this shared save"
+msgstr "Like esta partida compartida"
+
+#v1.7.15
+msgctxt "run_view_tooltip_click"
+msgid "Click to see all {} stops"
+msgstr "Click para ver las {} paradas"
+
+#v1.7.15
+msgctxt "share_deleting"
+msgid "Deleting slot"
+msgstr "Borrar slot"
+
+#v1.7.15
+msgctxt "share_empty_slot"
+msgid "< Empty slot >"
+msgstr "< Slot disponible >"
+
+#v1.7.15
+msgctxt "share_game"
+msgid "Share game"
+msgstr "Compartir partida"
+
+#v1.7.15
+msgctxt "share_game_attribution"
+msgid "Attribution:"
+msgstr "Atribución:"
+
+#v1.7.15
+msgctxt "share_game_attribution_anon"
+msgid "Anonymous"
+msgstr "Anónimo"
+
+#v1.7.15
+msgctxt "share_game_attribution_name"
+msgid "Steam user name"
+msgstr "Nombre de Steam"
+
+#v1.7.15
+msgctxt "share_game_attribution_profile"
+msgid "Steam user name and profile link"
+msgstr "Nombre de Steam y link al perfil"
+
+#v1.7.15
+msgctxt "share_game_copy_link"
+msgid "Copy link"
+msgstr "Copiar link"
+
+#v1.7.15
+msgctxt "share_game_copy_link_desc"
+msgid "Copy game link into clipboard"
+msgstr "Copiar link de la partida al portapapeles"
+
+#v1.7.15
+msgctxt "share_game_delete_desc"
+msgid "Delete the existing uploaded game"
+msgstr "Borrar la partida existente"
+
+#v1.7.15
+msgctxt "share_game_open_link"
+msgid "Open link"
+msgstr "Abrir link"
+
+#v1.7.15
+msgctxt "share_game_open_link_desc"
+msgid "Open game link in a web browser"
+msgstr "Abrir el link a la partida en un navegador web"
+
+#v1.7.15
+msgctxt "share_game_own_likes"
+msgid "Likes:"
+msgstr "Likes:"
+
+#v1.7.15
+msgctxt "share_game_replace"
+msgid "Replace with current game"
+msgstr "Reemplazar con la partida actual"
+
+#v1.7.15
+msgctxt "share_game_replace_desc"
+msgid "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
+msgstr "Borrar la partida existente y subir la partida actual a nimbyrails.com para crear un link"
+
+#v1.7.15
+msgctxt "share_game_upload"
+msgid "Upload current game"
+msgstr "Subir partida actual"
+
+#v1.7.15
+msgctxt "share_game_upload_desc"
+msgid "Upload current game to nimbyrails.com and create a link to share it"
+msgstr "Subir la partida actual a nimbyrails.com para crear un link"
+
+#v1.7.15
+msgctxt "share_home_by"
+msgid "By {}"
+msgstr "Por {}"
+
+#v1.7.15
+msgctxt "share_home_click_load"
+msgid "Click to load game"
+msgstr "Click para cargar partida"
+
+#v1.7.15
+msgctxt "share_listing"
+msgid "Listing slots"
+msgstr "Listando slots"
+
+#v1.7.15
+msgctxt "share_net_error_api"
+msgid "Sharing API error {}"
+msgstr "Error de API {}"
+
+#v1.7.15
+msgctxt "share_net_error_cannot_connect"
+msgid "Cannot connect to sharing service"
+msgstr "No se puede conectar al servicio de compartir partida"
+
+#v1.7.15
+msgctxt "share_querying_slot"
+msgid "< Loading... >"
+msgstr "< Cargando... >"
+
+#v1.7.15
+msgctxt "share_upload_map_preview"
+msgid "Uploading map preview {}%"
+msgstr "Subiendo mapa {}%"
+
+#v1.7.15
+msgctxt "share_upload_save"
+msgid "Uploading saved game {}%"
+msgstr "Subiendo partida {}%"
+
+#v1.7.15
+msgctxt "share_upload_screenshot"
+msgid "Uploading screenshot {}%"
+msgstr "Subiendo screenshot {}%"
+
+#v1.7.15
+msgctxt "stop_times_tp_line0"
+msgid "Leg time from middle to middle w/o wait time"
+msgstr "Tramo de mitad a mitad sin la espera"
+
+#v1.7.15
+msgctxt "stop_times_tp_line2"
+msgid "Brake to a halt"
+msgstr "Frenar hasta parar"
+
+#v1.7.15
+msgctxt "stop_times_tp_line3"
+msgid "Intuitive arrival at"
+msgstr "Llegada intuitiva"
+
+#v1.7.15
+msgctxt "stop_times_tp_line5"
+msgid "Depart at"
+msgstr "Salida"
+
+#v1.7.15
+msgctxt "stop_times_tp_reach"
+msgid "Stop {} reach middle of platform at"
+msgstr "Parada {} alcanza mitad de andén"
+
+#v1.7.15
+msgctxt "stop_times_tp_wait"
+msgid "Stop {} wait time"
+msgstr "Espera de parada {}"
+
+#v1.7.15
+msgctxt "switch_no_couplers"
+msgid "Switch to unrestricted"
+msgstr "Cambiar a sin restricciones"
+
+#v1.7.15
+msgctxt "tag_couchette"
+msgid "Couchette"
+msgstr "Compartimentos"
+
+#v1.7.15
+msgctxt "tag_kitchen"
+msgid "Kitchen"
+msgstr "Cocina"
+
+#v1.7.15
+msgctxt "tag_open_coach"
+msgid "Open coach"
+msgstr "Asientos abiertos"
+
+#v1.7.15
+msgctxt "tag_toilet"
+msgid "Toilet"
+msgstr "Baño"
+
+#v1.7.15
+msgctxt "tag_vending"
+msgid "Vending"
+msgstr "Vending"
+
+#v1.7.15
+msgctxt "tags_interior"
+msgid "Interior"
+msgstr "Interior"
+
+#v1.7.15
+msgctxt "train_bulk_replace"
+msgid "Replace selection"
+msgstr "Reemplazar selección"
+
+#v1.7.15
+msgctxt "train_car_append"
+msgid "Append {} car(s)"
+msgstr "Añadir {} coche(s)"
+
+#v1.7.15
+msgctxt "train_car_append_listing_cursor"
+msgid "Append here"
+msgstr "Añadir aquí"
+
+#v1.7.15
+msgctxt "train_car_base_color_edit"
+msgid "Base color:"
+msgstr "Color base:"
+
+#v1.7.15
+msgctxt "train_car_decal_color_edit"
+msgid "Decal color:"
+msgstr "Color decor:"
+
+#v1.7.15
+msgctxt "train_car_decal_edit"
+msgid "Decal:"
+msgstr "Decar:"
+
+#v1.7.15
+msgctxt "train_car_default"
+msgid "Default"
+msgstr "Defecto"
+
+#v1.7.15
+msgctxt "train_car_flip"
+msgid "Flip"
+msgstr "Espejar"
+
+#v1.7.15
+msgctxt "train_car_n_cars"
+msgid "{} cars"
+msgstr "{} coches"
+
+#v1.7.15
+msgctxt "train_car_replace"
+msgid "Replace {} car(s)"
+msgstr "Reemplazar {} coche(s)"
+
+#v1.7.15
+msgctxt "train_cars_inst"
+msgid "Cars:"
+msgstr "Coches:"
+
+#v1.7.15
+msgctxt "train_cars_new_cars"
+msgid "New cars"
+msgstr "Nuevos coches"
+
+#v1.7.15
+msgctxt "train_create_order_from_run"
+msgid "Create new order from this run"
+msgstr "Crear nueva order a partir de este recorrido"
+
+#v1.7.15
+msgctxt "train_decal_change"
+msgid "Change"
+msgstr "Cambiar"
+
+#v1.7.15
+msgctxt "train_decal_change_desc"
+msgid "This feature only works properly if all cars are from the same mod and train composition"
+msgstr "Esta feature solo funciona correctamente si todos los coches son del mismo mod y de la misma composición"
+
+#v1.7.15
+msgctxt "train_final_price"
+msgid "Final price:"
+msgstr "Precio final:"
+
+#v1.7.15
+msgctxt "train_info_coupler_back"
+msgid "Back coupling:"
+msgstr "Acople trasero:"
+
+#v1.7.15
+msgctxt "train_info_coupler_front"
+msgid "Front coupling:"
+msgstr "Acople frontal:"
+
+#v1.7.15
+msgctxt "train_info_coupler_mandatory"
+msgid "mandatory"
+msgstr "obligatorio"
+
+#v1.7.15
+msgctxt "train_info_coupler_none"
+msgid "none"
+msgstr "ninguno"
+
+#v1.7.15
+msgctxt "train_info_coupler_optional"
+msgid "optional"
+msgstr "opcional"
+
+#v1.7.15
+msgctxt "train_info_coupler_universal"
+msgid "universal"
+msgstr "universal"
+
+#v1.7.15
+msgctxt "train_info_description"
+msgid "Description:"
+msgstr "Descripción:"
+
+#v1.7.15
+msgctxt "train_info_running_cost_f2"
+msgid "${0:.2} per km, ${1:.2} per km per pax"
+msgstr "${0:.2} por km, ${1:.2} por km por pax"
+
+#v1.7.15
+msgctxt "train_list_filter_alert_only_stale"
+msgid "Only stale"
+msgstr "Solo caducados"
+
+#v1.7.15
+msgctxt "train_list_filter_alert_only_warning"
+msgid "Only with warnings"
+msgstr "Solo con alertas"
+
+#v1.7.15
+msgctxt "train_model_edit_custom"
+msgid "Custom"
+msgstr "Propio"
+
+#v1.7.15
+msgctxt "train_recompo_apply"
+msgid "Apply changes"
+msgstr "Aplicar cambios"
+
+#v1.7.15
+msgctxt "train_recompo_disabled"
+msgid "Editing disabled by mod author"
+msgstr "Edición no permitida por el autor del mod"
+
+#v1.7.15
+msgctxt "train_recompo_error_cash"
+msgid "Cannot afford new car(s)"
+msgstr "No hay dinero para los coche(s)"
+
+#v1.7.15
+msgctxt "train_recompo_error_coupling"
+msgid "Invalid coupling"
+msgstr "Acople inválido"
+
+#v1.7.15
+msgctxt "train_recompo_error_empty"
+msgid "Empty train"
+msgstr "Tren vacío"
+
+#v1.7.15
+msgctxt "train_recompo_error_long"
+msgid "Too many cars"
+msgstr "Demasiados coches"
+
+#v1.7.15
+msgctxt "train_recompo_error_unpowered"
+msgid "Unpowered"
+msgstr "Sin tracción"
+
+#v1.7.15
+msgctxt "train_recompo_price"
+msgid "Price: ${}"
+msgstr "Precio: ${}"
+
+#v1.7.15
+msgctxt "train_recompo_refund"
+msgid "Refund: ${}"
+msgstr "Devolución: ${}"
+
+#v1.7.15
+msgctxt "train_recompo_reset"
+msgid "Reset changes"
+msgstr "Descartar cambios"
+
+#v1.7.15
+msgctxt "train_refund"
+msgid "Total refund:"
+msgstr "Devolución total:"
+
+#v1.7.15
+msgctxt "train_replace"
+msgid "Replace"
+msgstr "Reemplazar"
+
+#v1.7.15
+msgctxt "train_tmu_as_custom"
+msgid "Edit as custom train"
+msgstr "Editar como propio"
+
+#v1.7.15
+msgctxt "train_tmu_copy_custom"
+msgid "Copy for custom train"
+msgstr "Copiar como propio"
+
+#v1.7.15
+msgctxt "traineditor_buy_custom_mode"
+msgid "Purchase custom train"
+msgstr "Comprar tren propio"
+
+#v1.7.15
+msgctxt "traineditor_buy_tmu_mode"
+msgid "Purchase preconfigured train"
+msgstr "Comprar tren preconfigurado"
+
+#v1.7.15
+msgctxt "traineditor_replace_custom_mode"
+msgid "Replacing with custom train"
+msgstr "Reemplazar con tren propio"
+
+#v1.7.15
+msgctxt "traineditor_replace_tmu_mode"
+msgid "Replacing with preconfigured train"
+msgstr "Reemplazar con tren preconfigurado"
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_custom_mode"
+msgid "Purchase custom train"
+msgstr "Comprar tren propio"
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_tmu_mode"
+msgid "Purchase preconfigured train"
+msgstr "Comprar tren preconfigurado"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.6.13
-msgctxt "editor_station"
-msgid "Create stations"
-msgstr "Crear nuevas estaciones"
+#v1.7.15
+msgctxt "file_picker_file_modified"
+msgid "Modified:"
+msgstr "Modificado:"
+
+#v1.7.15
+msgctxt "lineeditor_header_full_tooltip"
+msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
+msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}El tiempo de vuelta es la suma de todos los tramos y todas las paradas, incluyendo el tramo de la última a la primera parada.\nEl tiempo sin vuelta es lo mismo, menos el tramo de la última a la primera parada."
+
+#v1.7.15
+msgctxt "lineeditor_min_stop_time_desc"
+msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr "Formato: (hh:)mm:ss\nEl horario del tren programará una parada con esta duración.\nPuede aumentar si todavía hay pax entrando o saliendo."
+
+#v1.7.15
+msgctxt "mod_panel_list_title"
+msgid "All subscribed mods"
+msgstr "Todos los mods suscritos"
+
+#v1.7.15
+msgctxt "train_base_color_edit"
+msgid "Default base color:"
+msgstr "Color base por defecto:"
+
+#v1.7.15
+msgctxt "train_decal_color_edit"
+msgid "Default decal color:"
+msgstr "Color decor por defecto:"
+
+#v1.7.15
+msgctxt "train_decal_edit"
+msgid "Change all decals:"
+msgstr "Cambiar todos decor:"
+
+#v1.7.15
+msgctxt "train_info_dim_d"
+msgid "{0} cars / {1:.2f}m / {2:.2f}m"
+msgstr "{0} coches / {1:.2f}m / {2:.2f}m"
+
+#v1.7.15
+msgctxt "train_price"
+msgid "Per train price:"
+msgstr "Precio por tren:"
+
 
 
 # ----------------------------------------------------------
@@ -1270,6 +1691,11 @@ msgctxt "connection_denied"
 msgid "Connection denied"
 msgstr "Conexión denegada"
 
+#v1.6.13
+msgctxt "constraint_demote_platforms"
+msgid "Demote into normal track"
+msgstr "Convertir a vía normal"
+
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
@@ -1520,6 +1946,11 @@ msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
 msgstr "Borrar y vender trenes"
 
+#v1.6.13
+msgctxt "delete_only_bp"
+msgid "Delete only blueprints"
+msgstr "Borrar solo planos"
+
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
@@ -1635,6 +2066,36 @@ msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
 msgstr "Click en punto de control para hacerlo el padre de la restricción"
 
+#v1.6.13
+msgctxt "editor_sat_building_tape"
+msgid "Building tape"
+msgstr "Cinta de edificio"
+
+#v1.6.13
+msgctxt "editor_sat_parallel_tape"
+msgid "Parallel track tape"
+msgstr "Cinta paralela"
+
+#v1.6.13
+msgctxt "editor_sat_platform_tape"
+msgid "Station platform tape"
+msgstr "Cinta de andén"
+
+#v1.6.13
+msgctxt "editor_sat_promote_station"
+msgid "Promote tracks into station platforms"
+msgstr "Convertir en andén"
+
+#v1.6.13
+msgctxt "editor_sat_split"
+msgid "Split tracks"
+msgstr "Partir la vía"
+
+#v1.6.13
+msgctxt "editor_sat_track_tape"
+msgid "Track tape"
+msgstr "Cinta de vía"
+
 #v1.5.41
 msgctxt "editor_select_add_platform"
 msgid "Click platform names in stations to add stops to the line"
@@ -1659,6 +2120,11 @@ msgstr "Selecciona andenes para asignarlos como andenes secundarios"
 msgctxt "editor_select_change_platform"
 msgid "Click platform names in stations to change the stop main platform"
 msgstr "Selecciona un andén para asignarlo como andén principal"
+
+#v1.6.13
+msgctxt "editor_station"
+msgid "Create stations"
+msgstr "Crear nuevas estaciones"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1724,6 +2190,11 @@ msgstr "Ctrl-C para copiar la selección al portapapeles"
 msgctxt "editor_tip_create_del"
 msgid "Del to delete selected objects"
 msgstr "Del para borrar los objetos seleccionados"
+
+#v1.6.13
+msgctxt "editor_tip_create_del_inline"
+msgid "Shift-Del to delete selected inner tracks"
+msgstr "Shift-Del para borrar las vías interiores"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag"
@@ -1855,6 +2326,56 @@ msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
 msgstr "Suelta el botón izquierdo para parar de rotar la selección"
 
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_alt"
+msgid "Alt to create symmetrical buildings on both sides of the track"
+msgstr "Alt para crear edificios simétricos a ambos lados de la vía"
+
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_left"
+msgid "Click near tracks to create new attached buildings"
+msgstr "Click cerca de las vías para crear edificios"
+
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_shift"
+msgid "Shift to create buildings in all children when starting in a parent track"
+msgstr "Shift para crear edificios en todas las vías paralelas"
+
+#v1.6.13
+msgctxt "editor_tip_sat_esc"
+msgid "Esc to go to edit mode"
+msgstr "Esc to go para volver a modo de edición"
+
+#v1.6.13
+msgctxt "editor_tip_sat_parallel_tape_left"
+msgid "Click on tracks to attach new parallel tracks"
+msgstr "Click en vías para añadir nuevas vías paralelas"
+
+#v1.6.13
+msgctxt "editor_tip_sat_platform_tape_left"
+msgid "Click on tracks to tape them over with a new station platform"
+msgstr "UNUSED Click on tracks to tape them over with a new station platform"
+
+#v1.6.13
+msgctxt "editor_tip_sat_promote_station_left"
+msgid "Click on tracks to promote them and their nearest sibling into a station platform"
+msgstr "Click en vías para convertirlas en andenes"
+
+#v1.6.13
+msgctxt "editor_tip_sat_split_left"
+msgid "Click on tracks to split them at the point of click"
+msgstr "Click en vías para partirlas en el punto del click"
+
+#v1.6.13
+msgctxt "editor_tip_sat_station_tape_left"
+msgid "Click on tracks to tape them over with a new station"
+msgstr "UNUSED Click on tracks to tape them over with a new station"
+
+#v1.6.13
+msgctxt "editor_tip_sat_track_tape_left"
+msgid "Click on tracks to tape them over with new kind and layer of track"
+msgstr "Click en vías para cubrirlas con otro tipo de vía"
+
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
 msgid "Del to delete selected signals"
@@ -1924,6 +2445,11 @@ msgstr "Click izquierdo para crear los andenes de estación"
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
 msgstr "Ctrl-Z para hacer deshacer la última edición"
+
+#v1.6.13
+msgctxt "editor_tip_weight_left"
+msgid "Release left button to stop moving the track weighting"
+msgstr "Suelta el botón izquierdo para dejar de mover el control de curva"
 
 #v1.1.31
 msgctxt "editor_tip_zoom"
@@ -2010,11 +2536,6 @@ msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
 msgstr "Error interno mientras se guardaba el juego"
 
-#v1.1.31
-msgctxt "error_too_new_save"
-msgid "The game version that created this save file is newer than your game version. Update the game to load this file."
-msgstr "La versión del juego que ha creado esta partida es más nueva que tu versión del juego. Actualiza el juego para cargar este fichero."
-
 #v1.1.37
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
@@ -2024,11 +2545,6 @@ msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada 
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded. Try the older v1.1 legacy branches in Steam."
 msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.1 de Steam."
-
-#v1.1.37
-msgctxt "error_too_old_save_v"
-msgid "The game version ({}.{}.{}.{}) that created this save file is too old and it cannot be loaded. Try the legacy branches in Steam."
-msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es demasiado vieja y no se puede cargar. Puedes utilizar las ramas de versiones antiguas en Steam."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2050,16 +2566,6 @@ msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
 msgstr "Parada demasiado corta y/o tren lleno"
 
-#v1.1.31
-msgctxt "file_header_date"
-msgid "Date"
-msgstr "Fecha"
-
-#v1.1.31
-msgctxt "file_header_name"
-msgid "Name"
-msgstr "Nombre"
-
 #v1.1.37
 msgctxt "file_picker_company"
 msgid "Company:"
@@ -2071,11 +2577,6 @@ msgid "In-game date:"
 msgstr "Fecha en juego:"
 
 #v1.1.37
-msgctxt "file_picker_file_modified"
-msgid "File modified:"
-msgstr "Archivo modificado:"
-
-#v1.1.37
 msgctxt "file_picker_file_name"
 msgid "File name:"
 msgstr "Nombre de archivo:"
@@ -2084,11 +2585,6 @@ msgstr "Nombre de archivo:"
 msgctxt "file_picker_version"
 msgid "Game version:"
 msgstr "Versión juego:"
-
-#v1.1.37
-msgctxt "file_picker_version_old"
-msgid "1.1.35 or earlier (model v{})"
-msgstr "1.1.35 o anterior (model v{})"
 
 #v1.1.58
 msgctxt "filter_all_matches"
@@ -2235,6 +2731,11 @@ msgctxt "game_speed_up"
 msgid "Game speed up"
 msgstr "incrementar velocidad del juego"
 
+#v1.6.13
+msgctxt "game_wiki"
+msgid "NIMBY Rails Wiki"
+msgstr "NIMBY Rails Wiki"
+
 #v1.1.31
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
@@ -2284,6 +2785,86 @@ msgstr "Velocidad juego:"
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
 msgstr "Partidas grandes y complejas, con muchos trenes y estaciones, podrían no ser jugables a más de velocidad 1x en multijugador."
+
+#v1.6.13
+msgctxt "host_server_bad_ip"
+msgid "Cannot detect public IP, use Steam Relay"
+msgstr "No se puede detectar una IP pública, utiliza Steam Relay"
+
+#v1.6.13
+msgctxt "host_server_direct_warn"
+msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
+msgstr "Tu PC o router necesita una conexión directa a internet con IP pública. Tienes que hacer forward del puerto UDP {} a tu PC y abrirlo en el firewall para aceptar conexiones. VPNs, proxies y CG-NAT son incompatibles con este modo de conexión. Weird and Wry no puede ofrecer soporte técnico si este modo no funciona."
+
+#v1.6.13
+msgctxt "host_server_ipv4"
+msgid "Detected public IPv4:"
+msgstr "IPv4 detectada:"
+
+#v1.6.13
+msgctxt "host_server_ipv6"
+msgid "Detected public IPv6:"
+msgstr "IPv6 detectada:"
+
+#v1.6.13
+msgctxt "host_server_mode"
+msgid "Connection:"
+msgstr "Conexión:"
+
+#v1.6.13
+msgctxt "host_server_mode_direct"
+msgid "Direct"
+msgstr "Directa"
+
+#v1.6.13
+msgctxt "host_server_mode_direct_desc"
+msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
+msgstr "Los clientes intentarán conectarse directamente a tu PC mediante tu IP pública.\nPermite hospedar partidas muy grandes si tu conexión tiene suficiente subida."
+
+#v1.6.13
+msgctxt "host_server_mode_relay"
+msgid "Steam Relay Network"
+msgstr "Steam Relay Network"
+
+#v1.6.13
+msgctxt "host_server_mode_relay_desc"
+msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
+msgstr "Los clientes se conectarán mediante Steam Relay Network.\nEste es un método seguro que oculta tu IP pero tiene límites de ancho de banda."
+
+#v1.6.13
+msgctxt "host_server_port"
+msgid "UDP Port:"
+msgstr "Puerto UDP:"
+
+#v1.6.13
+msgctxt "host_server_wait_ip"
+msgid "Detecting public IP..."
+msgstr "Detectando IP pública..."
+
+#v1.6.13
+msgctxt "host_sim_mode"
+msgid "Simulation:"
+msgstr "Simulación:"
+
+#v1.6.13
+msgctxt "host_sim_mode_private"
+msgid "Private"
+msgstr "Privada"
+
+#v1.6.13
+msgctxt "host_sim_mode_private_desc"
+msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
+msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
+
+#v1.6.13
+msgctxt "host_sim_mode_shared"
+msgid "Shared"
+msgstr "Compartida"
+
+#v1.6.13
+msgctxt "host_sim_mode_shared_desc"
+msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
+msgstr "El reloj, el movimiento de trenes y los pax se comparten y sincronizan entre todos los clientes.\nVías, líneas y trenes se editan cooperativamente."
 
 #v1.1.31
 msgctxt "icon_file"
@@ -2610,6 +3191,31 @@ msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
 msgstr "Vías: nueva señal"
 
+#v1.6.13
+msgctxt "kb_track_sat_building_tape"
+msgid "Tracks: building tape"
+msgstr "Vías: cinta de edificios"
+
+#v1.6.13
+msgctxt "kb_track_sat_parallel_tape"
+msgid "Tracks: parallel tape"
+msgstr "Vías: cinta paralela"
+
+#v1.6.13
+msgctxt "kb_track_sat_split"
+msgid "Tracks: split"
+msgstr "Vías: partir vía"
+
+#v1.6.13
+msgctxt "kb_track_sat_station_tape"
+msgid "Tracks: station tape"
+msgstr "Vías: cambiar a andén"
+
+#v1.6.13
+msgctxt "kb_track_sat_track_tape"
+msgid "Tracks: track tape"
+msgstr "Vías: cinta de vías"
+
 #v1.2.22
 msgctxt "kb_track_sel_signal"
 msgid "Tracks: select signal"
@@ -2629,6 +3235,16 @@ msgstr "Vías: convertir a planos"
 msgctxt "key_info2"
 msgid "[Key: {}]"
 msgstr "[Tecla: {}]"
+
+#v1.6.13
+msgctxt "key_info_hold"
+msgid "[Hold: {}]"
+msgstr "[Mantén: {}]"
+
+#v1.6.13
+msgctxt "key_info_hold_missing"
+msgid "[Missing key bind]"
+msgstr "[No tiene tecla asignada]"
 
 #v1.1.31
 msgctxt "language_pick"
@@ -2955,11 +3571,6 @@ msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
 msgstr "{0}, {1} km, {2}, {3} km/h media"
 
-#v1.5.31
-msgctxt "lineeditor_header_full_tooltip"
-msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
-msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
-
 #v1.2.22
 msgctxt "lineeditor_header_l"
 msgid "{0}, {1} km"
@@ -3029,11 +3640,6 @@ msgstr "Intervalo manual:"
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
 msgstr "Parada:"
-
-#v1.5.31
-msgctxt "lineeditor_min_stop_time_desc"
-msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time. Trains might wait longer if pax are still leaving or boarding."
-msgstr "Formato: (hh:)mm:ss\nEl horario del tren programará una parada con esta duración. Puede aumentar si todavía hay pax entrando o saliendo."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3290,6 +3896,16 @@ msgctxt "loader_final"
 msgid "Finalizing"
 msgstr "Finalizando"
 
+#v1.6.13
+msgctxt "loader_loading_db"
+msgid "Loading database"
+msgstr "Cargando base de datos"
+
+#v1.6.13
+msgctxt "loader_loading_sim"
+msgid "Loading simulation state"
+msgstr "Cargando estado de simulación"
+
 #v1.1.58
 msgctxt "loader_parsing_header"
 msgid "Parsing header"
@@ -3324,6 +3940,11 @@ msgstr "Inicializando horarios"
 msgctxt "loader_tracks_n"
 msgid "Validating tracks, {} to go"
 msgstr "Validando vías, {} restantes"
+
+#v1.6.13
+msgctxt "loader_validating_db"
+msgid "Validating database"
+msgstr "Validando base de datos"
 
 #v1.1.31
 msgctxt "loading_elip"
@@ -3595,10 +4216,10 @@ msgctxt "mod_name"
 msgid "Name:"
 msgstr "Nombre:"
 
-#v1.1.37
-msgctxt "mod_panel_list_title"
-msgid "Subscribed mods:"
-msgstr "Mods suscritos:"
+#v1.6.13
+msgctxt "mod_open_folder"
+msgid "Open mod.txt"
+msgstr "UNUSED Open mod.txt"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -4556,11 +5177,6 @@ msgid "Public"
 msgstr "Público"
 
 #v1.1.31
-msgctxt "purchase"
-msgid "Purchase"
-msgstr "Comprar"
-
-#v1.1.31
 msgctxt "quit_desktop"
 msgid "Quit to desktop"
 msgstr "Salir a escritorio"
@@ -4729,11 +5345,6 @@ msgstr "Ritmo de nuevos pax"
 msgctxt "rtstat_speed"
 msgid "Speed"
 msgstr "Velocidad"
-
-#v1.5.31
-msgctxt "run_panel_pad_stop"
-msgid "Train will wait an extra {} in this stop to start the next run at its scheduled time"
-msgstr "El tren esperará un tiempo extra {} en esta parada para empezar el siguiente recorrido en la hora correcta"
 
 #v1.5.31
 msgctxt "run_panel_start"
@@ -5160,6 +5771,11 @@ msgctxt "station_platform_auto_name"
 msgid "Platform auto name"
 msgstr "Auto nombre de andén"
 
+#v1.6.13
+msgctxt "station_platform_demote"
+msgid "Demote platform into normal track"
+msgstr "Convertir andén a vía normal"
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
@@ -5239,6 +5855,11 @@ msgstr "Vas por delante del anfitrión. Parando tu reloj para esperarlo."
 msgctxt "stream_catch_up_desc2"
 msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
 msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alcanzarlo. Lag: {}"
+
+#v1.6.13
+msgctxt "stream_waiting_for_player"
+msgid "Waiting for player {}"
+msgstr "Esperando a jugador {}"
 
 #v1.1.31
 msgctxt "subs_in_workshop"
@@ -5590,6 +6211,36 @@ msgctxt "tags_units"
 msgid "Units"
 msgstr "Unidades"
 
+#v1.6.13
+msgctxt "tape_building_props"
+msgid "Tape building properties"
+msgstr "Propiedades de cinta de edificio"
+
+#v1.6.13
+msgctxt "tape_warn_built"
+msgid "Already built"
+msgstr "Ya construido"
+
+#v1.6.13
+msgctxt "tape_warn_invalid_elements"
+msgid "Invalid geometry or elements"
+msgstr "Elemntos de vía o geometría inválida"
+
+#v1.6.13
+msgctxt "tape_warn_invalid_length"
+msgid "Invalid length"
+msgstr "Longitud inválida"
+
+#v1.6.13
+msgctxt "tape_warn_too_complex"
+msgid "Too complex"
+msgstr "Demasiado complejo"
+
+#v1.6.13
+msgctxt "tape_warn_too_long"
+msgid "Too long"
+msgstr "Demasiado largo"
+
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
@@ -5725,6 +6376,11 @@ msgctxt "track_not_favorited"
 msgid "Not favorited"
 msgstr "No favorito"
 
+#v1.6.13
+msgctxt "track_sat_tools"
+msgid "Split and tape tools"
+msgstr "Partir y encintar"
+
 #v1.2.29
 msgctxt "track_sort_alpha"
 msgid "Alphabetical"
@@ -5744,6 +6400,11 @@ msgstr "Vel. máxima"
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
 msgstr "Esconder puntos de control en zoom bajo"
+
+#v1.6.13
+msgctxt "trackeditor_hold_keybinds"
+msgid "Track tool keybind hold mode"
+msgstr "Mantener pulsadas teclas en editor"
 
 #v1.4.15
 msgctxt "tracks_total"
@@ -5766,14 +6427,24 @@ msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
 msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
 
 #v1.1.31
-msgctxt "train_base_color_edit"
-msgid "Base color:"
-msgstr "Color base:"
-
-#v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
 msgstr "Factura de trenes"
+
+#v1.6.13
+msgctxt "train_bulk_change_orders"
+msgid "Change orders in selection"
+msgstr "Cambiar órdenes en la selección"
+
+#v1.6.13
+msgctxt "train_bulk_intervention"
+msgid "Intervene selection"
+msgstr "Intervenir la selección"
+
+#v1.6.13
+msgctxt "train_bulk_sell"
+msgid "Sell selection"
+msgstr "Vender selección"
 
 #v1.1.31
 msgctxt "train_clone"
@@ -5789,16 +6460,6 @@ msgstr "Clonar como copiador"
 msgctxt "train_code_edit"
 msgid "Serial:"
 msgstr "N. serie:"
-
-#v1.1.31
-msgctxt "train_decal_color_edit"
-msgid "Decal color:"
-msgstr "Color decor.:"
-
-#v1.1.31
-msgctxt "train_decal_edit"
-msgid "Decal:"
-msgstr "Decoración:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
@@ -5925,6 +6586,11 @@ msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
 
+#v1.6.13
+msgctxt "train_info_camera"
+msgid "Auto scroll map following train position"
+msgstr "Mover el mapa siguiendo la posición del tren"
+
 #v1.1.58
 msgctxt "train_info_car_name"
 msgid "Car:"
@@ -5954,11 +6620,6 @@ msgstr "Dimensiones:"
 msgctxt "train_info_dim_car"
 msgid "{0:.2f}m / {1:.2f}m"
 msgstr "{0:.2f}m / {1:.2f}m"
-
-#v1.1.58
-msgctxt "train_info_dim_d"
-msgid "{0} units / {1:.2f}m / {2:.2f}m"
-msgstr "{0} unidades / {1:.2f}m / {2:.2f}m"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
@@ -6015,10 +6676,25 @@ msgctxt "train_info_max_speed"
 msgid "Max speed:"
 msgstr "Max velocidad:"
 
+#v1.6.13
+msgctxt "train_info_path_probe"
+msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
+msgstr "Mostrar camino potencial del tren hasta la posición del ratón\nClick para fijar la posición"
+
+#v1.6.13
+msgctxt "train_info_path_probe_dest"
+msgid "Pathfind probe from train to its current destination"
+msgstr "Mostrar camino potencial del tren hasta su destino actual"
+
 #v1.1.31
 msgctxt "train_info_pax"
 msgid "Pax / max:"
 msgstr "Pax / max:"
+
+#v1.6.13
+msgctxt "train_info_pin"
+msgid "Scroll map to train position"
+msgstr "Centrar el mapa en la posición del tren"
 
 #v1.1.58
 msgctxt "train_info_power"
@@ -6034,11 +6710,6 @@ msgstr "Precio:"
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
 msgstr "Coste circulación:"
-
-#v1.1.31
-msgctxt "train_info_running_cost_f"
-msgid "${:.4} per km per pax"
-msgstr "${:.4} por km por pax"
 
 #v1.1.31
 msgctxt "train_info_speed"
@@ -6129,6 +6800,11 @@ msgstr "Compacto"
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
 msgstr "Alertas"
+
+#v1.6.13
+msgctxt "train_list_filter_alert_stale"
+msgid "Stale"
+msgstr "Caducado"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
@@ -6255,6 +6931,11 @@ msgctxt "train_orders_mode_auto_line"
 msgid "Auto run a line"
 msgstr "Auto recorrer línea"
 
+#v1.6.13
+msgctxt "train_orders_mode_ignore"
+msgid "< Do not change >"
+msgstr "< No cambiar >"
+
 #v1.5.31
 msgctxt "train_orders_mode_manual"
 msgid "Manual orders"
@@ -6269,11 +6950,6 @@ msgstr "Retirado"
 msgctxt "train_orders_run_short"
 msgid "Run line:"
 msgstr "Línea:"
-
-#v1.1.72
-msgctxt "train_price"
-msgid "Train price:"
-msgstr "Precio del tren:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -6329,11 +7005,6 @@ msgstr "Total para 1 tren:"
 msgctxt "train_total_price_many"
 msgid "Total for %d trains:"
 msgstr "Total para %d trenes:"
-
-#v1.1.58
-msgctxt "train_units_inst"
-msgid "Units:"
-msgstr "Unidades:"
 
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
@@ -6496,19 +7167,9 @@ msgid "Sell selected trains"
 msgstr "Vender trenes seleccionados"
 
 #v1.1.31
-msgctxt "traineditor_tooltip_buy_mode"
-msgid "Purchase new trains"
-msgstr "Comprar nuevos trenes"
-
-#v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
 msgstr "Listar trenes y editar sus detalles y programación"
-
-#v1.1.31
-msgctxt "traineditor_tooltip_sched_mode"
-msgid "Edit the schedule of multiple trains simultaneously"
-msgstr "Editar la programación de múltiples trenes simultaneamente"
 
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
