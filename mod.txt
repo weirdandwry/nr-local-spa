@@ -6,7 +6,7 @@ version=0.1.0
 
 [Language]
 code_iso_639_2=bel
-name=Беларуская
+name=Belarusian
 
 [LanguageDict]
 code_iso_639_2=bel
