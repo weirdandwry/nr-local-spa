@@ -39,7 +39,7 @@ msgstr ""
 #v1.7.15
 msgctxt "browse_shared_games"
 msgid "Browse shared games"
-msgstr ""
+msgstr "Агляд абагуленых гульняў"
 
 #v1.7.15
 msgctxt "cancel_replace"
@@ -119,7 +119,7 @@ msgstr ""
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr ""
+msgstr "Абагульванне гульні"
 
 #v1.7.15
 msgctxt "geo_export_desc"
@@ -249,7 +249,7 @@ msgstr ""
 #v1.7.15
 msgctxt "my_shared_games"
 msgid "My shared games"
-msgstr ""
+msgstr "Мае абагуленыя гульні"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -1824,7 +1824,7 @@ msgstr ""
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr ""
+msgstr "Працягнуць гульню"
 
 #v1.4.15
 msgctxt "copied_from_coll"
@@ -1839,7 +1839,7 @@ msgstr ""
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr ""
+msgstr "Удзельнікі"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
@@ -2774,7 +2774,7 @@ msgstr ""
 #v1.1.31
 msgctxt "host_game"
 msgid "Host game"
-msgstr ""
+msgstr "Арганізаваць гульню"
 
 #v1.1.37
 msgctxt "host_game_speed"
@@ -3049,7 +3049,7 @@ msgstr ""
 #v1.1.31
 msgctxt "join_game"
 msgid "Join game"
-msgstr ""
+msgstr "Далучыцца да гульні"
 
 #v1.1.31
 msgctxt "joincode_client_info"
@@ -3864,7 +3864,7 @@ msgstr ""
 #v1.1.31
 msgctxt "load_game"
 msgid "Load game"
-msgstr ""
+msgstr "Загрузіць гульню"
 
 #v1.1.58
 msgctxt "loader_cancelling"
@@ -4054,7 +4054,7 @@ msgstr ""
 #v1.1.31
 msgctxt "main_options"
 msgid "Options"
-msgstr ""
+msgstr "Параметры"
 
 #v1.1.31
 msgctxt "map_names_eng"
@@ -4599,7 +4599,7 @@ msgstr ""
 #v1.1.31
 msgctxt "multiplayer"
 msgid "Multiplayer"
-msgstr ""
+msgstr "Шматкарыстальніцкая гульня"
 
 #v1.4.15
 msgctxt "mvo_user_labels"
@@ -4699,7 +4699,7 @@ msgstr ""
 #v1.1.31
 msgctxt "new_game"
 msgid "New game"
-msgstr ""
+msgstr "Новая гульня"
 
 #v1.1.31
 msgctxt "new_game_options"
@@ -5179,7 +5179,7 @@ msgstr ""
 #v1.1.31
 msgctxt "quit_desktop"
 msgid "Quit to desktop"
-msgstr ""
+msgstr "Выйсці на працоўны стол"
 
 #v1.1.31
 msgctxt "quit_game"
@@ -5689,7 +5689,7 @@ msgstr ""
 #v1.1.31
 msgctxt "single_player"
 msgid "Single player"
-msgstr ""
+msgstr "Адзіночная гульня"
 
 #v1.1.72
 msgctxt "sort_sep_accounting"
