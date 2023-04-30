@@ -1699,7 +1699,7 @@ msgstr ""
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
-msgstr ""
+msgstr "Кірунак:"
 
 #v1.4.22
 msgctxt "constraint_disp"
@@ -1709,7 +1709,7 @@ msgstr ""
 #v1.2.22
 msgctxt "constraint_flip"
 msgid "Flip"
-msgstr ""
+msgstr "Пераварот"
 
 #v1.5.31
 msgctxt "constraint_max_speed"
@@ -1724,7 +1724,7 @@ msgstr ""
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
-msgstr ""
+msgstr "Зрух:"
 
 #v1.5.31
 msgctxt "constraint_offset2"
@@ -1749,7 +1749,7 @@ msgstr ""
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr ""
+msgstr "Выдаліць"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1834,7 +1834,7 @@ msgstr ""
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr ""
+msgstr "Капіяваць"
 
 #v1.1.31
 msgctxt "credits"
@@ -1859,7 +1859,7 @@ msgstr ""
 #v1.1.31
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr ""
+msgstr "Падзякі"
 
 #v1.1.31
 msgctxt "crossings_n_0"
@@ -1884,7 +1884,7 @@ msgstr ""
 #v1.1.31
 msgctxt "custom_admin_level_transport"
 msgid "Transportation"
-msgstr ""
+msgstr "Перавозка"
 
 #v1.1.31
 msgctxt "default_han_font"
@@ -1894,27 +1894,27 @@ msgstr ""
 #v1.1.31
 msgctxt "default_han_font_chi"
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "Кітайская спрошчаная"
 
 #v1.1.31
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr ""
+msgstr "Японская"
 
 #v1.1.31
 msgctxt "default_han_font_kor"
 msgid "Korean"
-msgstr ""
+msgstr "Карэйская"
 
 #v1.1.31
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Кітайская традыцыйная"
 
 #v1.1.31
 msgctxt "default_train_name"
 msgid "Train {}"
-msgstr ""
+msgstr "Цягнік {}"
 
 #v1.4.15
 msgctxt "default_user_label"
@@ -1929,7 +1929,7 @@ msgstr ""
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr ""
+msgstr "Выдаліць калекцыю"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
@@ -1939,12 +1939,12 @@ msgstr ""
 #v1.1.58
 msgctxt "delete_line"
 msgid "Delete line"
-msgstr ""
+msgstr "Выдаліць лінію"
 
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr ""
+msgstr "Выдаліць і прадаць цягнікі"
 
 #v1.6.13
 msgctxt "delete_only_bp"
@@ -1954,7 +1954,7 @@ msgstr ""
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
-msgstr ""
+msgstr "Выдаліць аб'екты"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
@@ -1964,22 +1964,22 @@ msgstr ""
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr ""
+msgstr "Глыбіня {}"
 
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
-msgstr ""
+msgstr "Апісанне:"
 
 #v1.1.31
 msgctxt "disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Адключаны"
 
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr ""
+msgstr "Рэжым:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
@@ -2009,7 +2009,7 @@ msgstr ""
 #v1.1.31
 msgctxt "done"
 msgid "Done"
-msgstr ""
+msgstr "Гатова"
 
 #v1.4.15
 msgctxt "edit_clip_name"
@@ -2029,12 +2029,12 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr ""
+msgstr "Стварыць новыя галіны пуцей"
 
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
-msgstr ""
+msgstr "Стварыць новыя будынкі"
 
 #v1.2.22
 msgctxt "editor_edit_signal"
@@ -2049,7 +2049,7 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr ""
+msgstr "Стварыць новыя сігналы"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
@@ -2089,7 +2089,7 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr ""
+msgstr "Падзяліць пуці"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
@@ -2124,7 +2124,7 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
-msgstr ""
+msgstr "Стварыць станцыі"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -2504,7 +2504,7 @@ msgstr ""
 #v1.1.31
 msgctxt "enabled"
 msgid "Enabled"
-msgstr ""
+msgstr "Уключаны"
 
 #v1.1.31
 msgctxt "error_cannot_open_file"
@@ -2584,7 +2584,7 @@ msgstr ""
 #v1.1.37
 msgctxt "file_picker_version"
 msgid "Game version:"
-msgstr ""
+msgstr "Версія гульні:"
 
 #v1.1.58
 msgctxt "filter_all_matches"
@@ -2619,12 +2619,12 @@ msgstr ""
 #v1.1.58
 msgctxt "filter_max_speed"
 msgid "Max speed"
-msgstr ""
+msgstr "Максімальная хуткасць"
 
 #v1.1.58
 msgctxt "filter_price"
 msgid "Price"
-msgstr ""
+msgstr "Цана"
 
 #v1.1.58
 msgctxt "filter_range_high"
@@ -2694,12 +2694,12 @@ msgstr ""
 #v1.1.31
 msgctxt "friend_state_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Па-за сеткай"
 
 #v1.1.31
 msgctxt "friend_state_online"
 msgid "Online"
-msgstr ""
+msgstr "У сетцы"
 
 #v1.1.31
 msgctxt "friend_state_snooze"
@@ -2709,32 +2709,32 @@ msgstr ""
 #v1.1.31
 msgctxt "friends"
 msgid "Friends"
-msgstr ""
+msgstr "Сябры"
 
 #v1.1.37
 msgctxt "full_date_time"
 msgid "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
-msgstr ""
+msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 
 #v1.2.22
 msgctxt "game_restart_req"
 msgid "Game restart is required"
-msgstr ""
+msgstr "Патрабуецца перазапуск гульні"
 
 #v1.2.29
 msgctxt "game_speed_down"
 msgid "Game speed down"
-msgstr ""
+msgstr "Паменшыць хуткасць гульні"
 
 #v1.2.29
 msgctxt "game_speed_up"
 msgid "Game speed up"
-msgstr ""
+msgstr "Паскорыць гульню"
 
 #v1.6.13
 msgctxt "game_wiki"
 msgid "NIMBY Rails Wiki"
-msgstr ""
+msgstr "NIMBY Rails Wiki (англ.)"
 
 #v1.1.31
 msgctxt "global_blueprint_bill"
@@ -2749,22 +2749,22 @@ msgstr ""
 #v1.2.29
 msgctxt "height_layer_n"
 msgid "Height {}"
-msgstr ""
+msgstr "Вышыня {}"
 
 #v1.4.15
 msgctxt "help_show_full"
 msgid "Show help"
-msgstr ""
+msgstr "Паказаць даведку"
 
 #v1.2.29
 msgctxt "horizon_ground"
 msgid "Ground"
-msgstr ""
+msgstr "Зямля"
 
 #v1.2.29
 msgctxt "horizon_tunnel"
 msgid "Tunnel"
-msgstr ""
+msgstr "Тунэль"
 
 #v1.2.29
 msgctxt "horizon_viaduct"
@@ -2779,7 +2779,7 @@ msgstr "Арганізаваць гульню"
 #v1.1.37
 msgctxt "host_game_speed"
 msgid "Game speed:"
-msgstr ""
+msgstr "Хуткасць гульні:"
 
 #v1.1.37
 msgctxt "host_game_speed_warn"
@@ -2834,22 +2834,22 @@ msgstr ""
 #v1.6.13
 msgctxt "host_server_port"
 msgid "UDP Port:"
-msgstr ""
+msgstr "Порт UDP:"
 
 #v1.6.13
 msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
-msgstr ""
+msgstr "Выяўленне публічнага IP..."
 
 #v1.6.13
 msgctxt "host_sim_mode"
 msgid "Simulation:"
-msgstr ""
+msgstr "Сімуляцыя:"
 
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr ""
+msgstr "Прыватны"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
@@ -2874,22 +2874,22 @@ msgstr ""
 #v1.1.31
 msgctxt "ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ігнараваць"
 
 #v1.4.15
 msgctxt "info_company_buildings"
 msgid "Buildings:"
-msgstr ""
+msgstr "Будынкі:"
 
 #v1.4.15
 msgctxt "info_company_lines"
 msgid "Lines:"
-msgstr ""
+msgstr "Лініі:"
 
 #v1.4.15
 msgctxt "info_company_stations"
 msgid "Stations:"
-msgstr ""
+msgstr "Станцыі:"
 
 #v1.4.15
 msgctxt "info_company_tracks"
@@ -2899,17 +2899,17 @@ msgstr ""
 #v1.4.15
 msgctxt "info_company_trains"
 msgid "Trains:"
-msgstr ""
+msgstr "Цягнікі:"
 
 #v1.2.22
 msgctxt "info_mode_tp"
 msgid "Info"
-msgstr ""
+msgstr "Звесткі"
 
 #v1.1.37
 msgctxt "info_table_count"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #v1.1.37
 msgctxt "info_table_count_tp"
@@ -2919,17 +2919,17 @@ msgstr ""
 #v1.1.31
 msgctxt "info_table_pax_destination"
 msgid "Destination"
-msgstr ""
+msgstr "Месца прызначэння"
 
 #v1.1.37
 msgctxt "info_table_pax_destination_tp"
 msgid "Destination station"
-msgstr ""
+msgstr "Станцыя прызначэння"
 
 #v1.1.37
 msgctxt "info_table_pax_fare"
 msgid "Paid"
-msgstr ""
+msgstr "Заплачана"
 
 #v1.1.37
 msgctxt "info_table_pax_fare_tp"
@@ -2949,22 +2949,22 @@ msgstr ""
 #v1.1.37
 msgctxt "info_table_pax_next"
 msgid "Next stop"
-msgstr ""
+msgstr "Наступны прыпынак"
 
 #v1.1.37
 msgctxt "info_table_pax_next_tp"
 msgid "Next stop station"
-msgstr ""
+msgstr "Станцыя наступнага прыпынку"
 
 #v1.1.31
 msgctxt "info_table_pax_origin"
 msgid "Origin"
-msgstr ""
+msgstr "Пачатак"
 
 #v1.1.37
 msgctxt "info_table_pax_origin_tp"
 msgid "Origin station"
-msgstr ""
+msgstr "Пачатковая станцыя"
 
 #v1.1.31
 msgctxt "info_table_pax_sax"
@@ -2974,12 +2974,12 @@ msgstr ""
 #v1.1.37
 msgctxt "info_table_pax_sax_tp"
 msgid "Satisfaction"
-msgstr ""
+msgstr "Задавальненне"
 
 #v1.1.31
 msgctxt "info_table_pax_total"
 msgid "Total"
-msgstr ""
+msgstr "Усяго"
 
 #v1.1.37
 msgctxt "info_table_pax_total_tp"
@@ -2989,7 +2989,7 @@ msgstr ""
 #v1.5.31
 msgctxt "info_table_pax_waiting"
 msgid "Waiting for"
-msgstr ""
+msgstr "Чакае"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting_tp"
@@ -3044,7 +3044,7 @@ msgstr ""
 #v1.1.31
 msgctxt "join"
 msgid "Join"
-msgstr ""
+msgstr "Далучыцца"
 
 #v1.1.31
 msgctxt "join_game"
@@ -3064,7 +3064,7 @@ msgstr ""
 #v1.1.31
 msgctxt "joint_multiplayer_name"
 msgid "Join multiplayer game"
-msgstr ""
+msgstr "Далучыцца да шматкарыстальніцкай гульні"
 
 #v1.2.22
 msgctxt "kb_map_down"
@@ -3084,12 +3084,12 @@ msgstr ""
 #v1.2.22
 msgctxt "kb_map_toggle_layer"
 msgid "Map: toggle layers"
-msgstr ""
+msgstr "Карта: пераключыць слаі"
 
 #v1.2.22
 msgctxt "kb_map_toggle_tracks"
 msgid "Map: track mode"
-msgstr ""
+msgstr "Карта: рэжым пуцей"
 
 #v1.2.22
 msgctxt "kb_map_up"
@@ -3099,67 +3099,67 @@ msgstr ""
 #v1.2.22
 msgctxt "kb_map_zoom_in"
 msgid "Map: zoom in"
-msgstr ""
+msgstr "Карта: павялічыць"
 
 #v1.2.22
 msgctxt "kb_map_zoom_out"
 msgid "Map: zoom out"
-msgstr ""
+msgstr "Карта: паменшыць"
 
 #v1.2.22
 msgctxt "kb_mode_info"
 msgid "Mode: info"
-msgstr ""
+msgstr "Рэжым: звесткі"
 
 #v1.2.22
 msgctxt "kb_mode_lines"
 msgid "Mode: lines"
-msgstr ""
+msgstr "Рэжым: лініі"
 
 #v1.2.22
 msgctxt "kb_mode_tracks"
 msgid "Mode: tracks"
-msgstr ""
+msgstr "Рэжым: пуці"
 
 #v1.2.22
 msgctxt "kb_mode_trains"
 msgid "Mode: trains"
-msgstr ""
+msgstr "Рэжым: цягнікі"
 
 #v1.2.22
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr ""
+msgstr "Паменшыць хуткасць"
 
 #v1.2.22
 msgctxt "kb_speed_toggle"
 msgid "Pause"
-msgstr ""
+msgstr "Паўза"
 
 #v1.2.22
 msgctxt "kb_speed_up"
 msgid "Speed up"
-msgstr ""
+msgstr "Паскорыць"
 
 #v1.2.22
 msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
-msgstr ""
+msgstr "Пуці: двайныя пуці"
 
 #v1.2.22
 msgctxt "kb_track_branch"
 msgid "Tracks: new branch"
-msgstr ""
+msgstr "Пуці: новая галіна"
 
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
-msgstr ""
+msgstr "Пуці: новы будынак"
 
 #v1.2.22
 msgctxt "kb_track_depot"
 msgid "Tracks: new depot"
-msgstr ""
+msgstr "Пуці: новае дэпо"
 
 #v1.5.41
 msgctxt "kb_track_flip_signal"
@@ -3179,17 +3179,17 @@ msgstr ""
 #v1.2.22
 msgctxt "kb_track_move"
 msgid "Tracks: selection"
-msgstr ""
+msgstr "Пуці: выбар"
 
 #v1.2.22
 msgctxt "kb_track_new"
 msgid "Tracks: new tracks"
-msgstr ""
+msgstr "Пуці: новыя пуці"
 
 #v1.2.22
 msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
-msgstr ""
+msgstr "Пуці: новы сігнал"
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
@@ -3219,12 +3219,12 @@ msgstr ""
 #v1.2.22
 msgctxt "kb_track_sel_signal"
 msgid "Tracks: select signal"
-msgstr ""
+msgstr "Пуці: выбраць сігнал"
 
 #v1.2.22
 msgctxt "kb_track_station"
 msgid "Tracks: new station"
-msgstr ""
+msgstr "Пуці: новая станцыя"
 
 #v1.2.22
 msgctxt "kb_tracks_unbp"
@@ -3234,7 +3234,7 @@ msgstr ""
 #v1.2.22
 msgctxt "key_info2"
 msgid "[Key: {}]"
-msgstr ""
+msgstr "[Клавіша: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold"
@@ -3249,27 +3249,27 @@ msgstr ""
 #v1.1.31
 msgctxt "language_pick"
 msgid "Language:"
-msgstr ""
+msgstr "Мова:"
 
 #v1.2.29
 msgctxt "layer_ground"
 msgid "Ground"
-msgstr ""
+msgstr "Зямля"
 
 #v1.4.15
 msgctxt "layer_ground_g"
 msgid "G"
-msgstr ""
+msgstr "З"
 
 #v1.1.31
 msgctxt "line_0_stops"
 msgid "0 stops"
-msgstr ""
+msgstr "0 прыпынкаў"
 
 #v1.5.41
 msgctxt "line_alert_closed"
 msgid "Line is closed"
-msgstr ""
+msgstr "Лінія закрыта"
 
 #v1.5.41
 msgctxt "line_alert_invalid_legs"
@@ -3339,7 +3339,7 @@ msgstr ""
 #v1.1.31
 msgctxt "line_n_stops"
 msgid "{0}, {1} stops"
-msgstr ""
+msgstr "{0}, {1} прыпынкаў"
 
 #v1.1.31
 msgctxt "line_new_stop_cell"
@@ -3349,12 +3349,12 @@ msgstr ""
 #v1.5.41
 msgctxt "line_skip_parent_stop"
 msgid "Skip [{0}] {1}"
-msgstr ""
+msgstr "Прапусціць [{0}] {1}"
 
 #v1.1.31
 msgctxt "line_state"
 msgid "State"
-msgstr ""
+msgstr "Стан"
 
 #v1.1.31
 msgctxt "line_stop_passthru_short"
@@ -3364,12 +3364,12 @@ msgstr ""
 #v1.1.31
 msgctxt "line_stops"
 msgid "Stops"
-msgstr ""
+msgstr "Прыпынкі"
 
 #v1.5.31
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr ""
+msgstr "Расклад"
 
 #v1.5.31
 msgctxt "line_to2"
@@ -3394,7 +3394,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr ""
+msgstr "Сігнал {}"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto"
@@ -3404,12 +3404,12 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr ""
+msgstr "Дадаць адзін ці больш цягнікоў для аўтазапуску"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr ""
+msgstr "Запуск цягнікоў:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
@@ -3424,17 +3424,17 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr ""
+msgstr "Аўтаматычны запуск лініі"
 
 #v1.2.22
 msgctxt "lineeditor_auto_value"
 msgid "Auto"
-msgstr ""
+msgstr "Аўтаматычна"
 
 #v1.2.22
 msgctxt "lineeditor_basics"
 msgid "Basics"
-msgstr ""
+msgstr "Асноўнае"
 
 #v1.1.31
 msgctxt "lineeditor_bp_station"
@@ -3459,12 +3459,12 @@ msgstr ""
 #v1.1.31
 msgctxt "lineeditor_code"
 msgid "Code:"
-msgstr ""
+msgstr "Код:"
 
 #v1.1.31
 msgctxt "lineeditor_color"
 msgid "Color:"
-msgstr ""
+msgstr "Колер:"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
@@ -3484,7 +3484,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr ""
+msgstr "Карыстальніцкая працягласць:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
@@ -3494,7 +3494,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr ""
+msgstr "Карыстальніцкі перыяд:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
@@ -3514,7 +3514,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr ""
+msgstr "Карыстальніцкая"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
@@ -3524,12 +3524,12 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr ""
+msgstr "Працягласць лініі:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode_minimal"
 msgid "Minimal"
-msgstr ""
+msgstr "Мінімальны"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period"
@@ -3539,17 +3539,17 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
-msgstr ""
+msgstr "Карыстальніцкая"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_day"
 msgid "Day"
-msgstr ""
+msgstr "Дзень"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr ""
+msgstr "Тыдзень"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
@@ -3579,7 +3579,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr ""
+msgstr "Адпраўленне першага цягніка:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
@@ -3599,7 +3599,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time"
 msgid "Custom time:"
-msgstr ""
+msgstr "Карыстальніцкі час:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
@@ -3614,22 +3614,22 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
 msgid "Automatic"
-msgstr ""
+msgstr "Аўтаматычна"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_speed"
 msgid "Custom speed"
-msgstr ""
+msgstr "Карыстальніцкая хуткасць"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_time"
 msgid "Custom time"
-msgstr ""
+msgstr "Карыстальніцкі час"
 
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr ""
+msgstr "Галоўная платформа:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
@@ -3639,7 +3639,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
-msgstr ""
+msgstr "Час прыпынку:"
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3649,7 +3649,7 @@ msgstr ""
 #v1.1.31
 msgctxt "lineeditor_name"
 msgid "Name:"
-msgstr ""
+msgstr "Назва:"
 
 #v1.1.31
 msgctxt "lineeditor_price_base"
@@ -3664,7 +3664,7 @@ msgstr ""
 #v1.2.22
 msgctxt "lineeditor_reference_train"
 msgid "Reference train:"
-msgstr ""
+msgstr "Апорны цягнік:"
 
 #v1.2.22
 msgctxt "lineeditor_reference_train_desc"
@@ -3689,7 +3689,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_service_level_only_trains"
 msgid "Technical maneuvers"
-msgstr ""
+msgstr "Тэхнічныя манеўры"
 
 #v1.5.41
 msgctxt "lineeditor_service_of"
@@ -3699,7 +3699,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
-msgstr ""
+msgstr "Прыпынак {}"
 
 #v1.5.41
 msgctxt "lineeditor_stop_panel_leg_title"
@@ -3714,7 +3714,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_suffix"
 msgid "Suffix:"
-msgstr ""
+msgstr "Суфікс:"
 
 #v1.3.13
 msgctxt "lineeditor_tags"
@@ -3739,22 +3739,22 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_tooltip_clone"
 msgid "Clone selected line"
-msgstr ""
+msgstr "Кланіраваць выбраную лінію"
 
 #v1.5.41
 msgctxt "lineeditor_tooltip_create_line_service"
 msgid "Create a new line service"
-msgstr ""
+msgstr "Стварыць новы сэрвіс для лініі"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_del"
 msgid "Delete selected line"
-msgstr ""
+msgstr "Выдаліць выбраную лінію"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_del_stop"
 msgid "Delete selected stop"
-msgstr ""
+msgstr "Выдаліць выбраны прыпынак"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_depot_new"
@@ -3779,7 +3779,7 @@ msgstr ""
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
 msgid "Create a new line"
-msgstr ""
+msgstr "Стварыць новую лінію"
 
 #v1.1.72
 msgctxt "lineeditor_tooltip_purchase_trains"
@@ -3799,7 +3799,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
-msgstr ""
+msgstr "Часавы пояс:"
 
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
@@ -3814,7 +3814,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_tz_line"
 msgid "Line"
-msgstr ""
+msgstr "Лінія"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
@@ -3829,27 +3829,27 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
 msgid "Wait on platforms"
-msgstr ""
+msgstr "Чакаць на платформах"
 
 #v1.1.31
 msgctxt "lines"
 msgid "Lines"
-msgstr ""
+msgstr "Лініі"
 
 #v1.1.31
 msgctxt "lines_n_0"
 msgid "0 lines"
-msgstr ""
+msgstr "0 ліній"
 
 #v1.1.31
 msgctxt "lines_n_1"
 msgid "1 line"
-msgstr ""
+msgstr "1 лінія"
 
 #v1.1.31
 msgctxt "lines_n_many"
 msgid "%d lines"
-msgstr ""
+msgstr "%d ліній"
 
 #v1.5.41
 msgctxt "list_sort_compact"
@@ -3889,7 +3889,7 @@ msgstr ""
 #v1.1.58
 msgctxt "loader_error_invalid"
 msgid "Invalid state"
-msgstr ""
+msgstr "Недапушчальны стан"
 
 #v1.1.58
 msgctxt "loader_final"
@@ -3949,12 +3949,12 @@ msgstr ""
 #v1.1.31
 msgctxt "loading_elip"
 msgid "Loading..."
-msgstr ""
+msgstr "Загрузка..."
 
 #v1.1.31
 msgctxt "loan_balance"
 msgid "Balance:"
-msgstr ""
+msgstr "Баланс:"
 
 #v1.1.31
 msgctxt "loan_contract_accept"
@@ -3989,7 +3989,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_contract_years"
 msgid "Years:"
-msgstr ""
+msgstr "Гадоў:"
 
 #v1.1.31
 msgctxt "loan_created_on"
@@ -4019,7 +4019,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_payments"
 msgid "Payments:"
-msgstr ""
+msgstr "Плацяжы:"
 
 #v1.1.31
 msgctxt "loan_payments_fmt"
@@ -4039,12 +4039,12 @@ msgstr ""
 #v1.4.22
 msgctxt "local_bp_collection"
 msgid "Collection to upload:"
-msgstr ""
+msgstr "Калекцыя для запампоўкі:"
 
 #v1.1.31
 msgctxt "local_mod"
 msgid "Local mod to upload:"
-msgstr ""
+msgstr "Лакальны мод для запампоўкі:"
 
 #v1.1.31
 msgctxt "lonely_station"
@@ -4059,7 +4059,7 @@ msgstr "Параметры"
 #v1.1.31
 msgctxt "map_names_eng"
 msgid "English"
-msgstr ""
+msgstr "Англійская"
 
 #v1.1.31
 msgctxt "map_names_native"
@@ -4149,7 +4149,7 @@ msgstr ""
 #v1.3.13
 msgctxt "minutes"
 msgid "minutes"
-msgstr ""
+msgstr "хвіліны"
 
 #v1.1.37
 msgctxt "missing_mod"
@@ -4159,17 +4159,17 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_author"
 msgid "Author:"
-msgstr ""
+msgstr "Аўтар:"
 
 #v1.4.22
 msgctxt "mod_category_label"
 msgid "Category:"
-msgstr ""
+msgstr "Катэгорыя:"
 
 #v1.1.31
 msgctxt "mod_desc"
 msgid "Description:"
-msgstr ""
+msgstr "Апісанне:"
 
 #v1.1.37
 msgctxt "mod_disable_in_game"
@@ -4214,12 +4214,12 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_name"
 msgid "Name:"
-msgstr ""
+msgstr "Назва:"
 
 #v1.6.13
 msgctxt "mod_open_folder"
 msgid "Open mod.txt"
-msgstr ""
+msgstr "Адкрыць mod.txt"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -4229,17 +4229,17 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_source"
 msgid "Source:"
-msgstr ""
+msgstr "Крыніца:"
 
 #v1.1.31
 msgctxt "mod_source_builtin"
 msgid "Built-in"
-msgstr ""
+msgstr "Убудаваны"
 
 #v1.1.31
 msgctxt "mod_source_local"
 msgid "Local"
-msgstr ""
+msgstr "Лакальны"
 
 #v1.1.31
 msgctxt "mod_source_steamworks_ugc"
@@ -4284,7 +4284,7 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_uploader_new_mod"
 msgid "New mod"
-msgstr ""
+msgstr "Новы мод"
 
 #v1.1.31
 msgctxt "mod_uploader_not_in_game"
@@ -4294,7 +4294,7 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_uploader_update_mod"
 msgid "Update mod"
-msgstr ""
+msgstr "Абнавіць мод"
 
 #v1.1.31
 msgctxt "mod_uploader_view_ws_mod"
@@ -4304,7 +4304,7 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_version"
 msgid "Version:"
-msgstr ""
+msgstr "Версія:"
 
 #v1.3.13
 msgctxt "mode_map_layer_regions"
@@ -4339,27 +4339,27 @@ msgstr ""
 #v1.1.31
 msgctxt "mods"
 msgid "Mods"
-msgstr ""
+msgstr "Моды"
 
 #v1.1.31
 msgctxt "month_april"
 msgid "April"
-msgstr ""
+msgstr "Красавік"
 
 #v1.1.31
 msgctxt "month_august"
 msgid "August"
-msgstr ""
+msgstr "Жнівень"
 
 #v1.1.31
 msgctxt "month_december"
 msgid "December"
-msgstr ""
+msgstr "Снежань"
 
 #v1.1.31
 msgctxt "month_february"
 msgid "February"
-msgstr ""
+msgstr "Люты"
 
 #v1.1.31
 msgctxt "month_january"
@@ -4369,37 +4369,37 @@ msgstr ""
 #v1.1.31
 msgctxt "month_july"
 msgid "July"
-msgstr ""
+msgstr "Ліпень"
 
 #v1.1.31
 msgctxt "month_june"
 msgid "June"
-msgstr ""
+msgstr "Чэрвень"
 
 #v1.1.31
 msgctxt "month_march"
 msgid "March"
-msgstr ""
+msgstr "Сакавік"
 
 #v1.1.31
 msgctxt "month_may"
 msgid "May"
-msgstr ""
+msgstr "Май"
 
 #v1.1.31
 msgctxt "month_november"
 msgid "November"
-msgstr ""
+msgstr "Лістапад"
 
 #v1.1.31
 msgctxt "month_october"
 msgid "October"
-msgstr ""
+msgstr "Кастрычнік"
 
 #v1.1.31
 msgctxt "month_september"
 msgid "September"
-msgstr ""
+msgstr "Верасень"
 
 #v1.1.31
 msgctxt "month_short_april"
@@ -4489,27 +4489,27 @@ msgstr ""
 #v1.1.31
 msgctxt "mp_action_allow"
 msgid "Allow"
-msgstr ""
+msgstr "Дазволіць"
 
 #v1.1.31
 msgctxt "mp_action_block"
 msgid "Block"
-msgstr ""
+msgstr "Заблакаваць"
 
 #v1.1.31
 msgctxt "mp_action_deny"
 msgid "Deny"
-msgstr ""
+msgstr "Адмовіць"
 
 #v1.1.31
 msgctxt "mp_action_disconnect"
 msgid "Disconnect"
-msgstr ""
+msgstr "Адлучыцца"
 
 #v1.1.31
 msgctxt "mp_action_forget"
 msgid "Forget"
-msgstr ""
+msgstr "Забыць"
 
 #v1.1.31
 msgctxt "mp_action_host_to_invite"
@@ -4519,7 +4519,7 @@ msgstr ""
 #v1.1.31
 msgctxt "mp_action_invite"
 msgid "Invite"
-msgstr ""
+msgstr "Запрасіць"
 
 #v1.1.31
 msgctxt "mp_action_req_join"
@@ -4534,22 +4534,22 @@ msgstr ""
 #v1.1.31
 msgctxt "mp_host_label"
 msgid "Host"
-msgstr ""
+msgstr "Хост"
 
 #v1.1.31
 msgctxt "mp_info_acl"
 msgid "Access"
-msgstr ""
+msgstr "Доступ"
 
 #v1.1.31
 msgctxt "mp_info_connected"
 msgid "Connected"
-msgstr ""
+msgstr "Злучэнне усталявана"
 
 #v1.1.31
 msgctxt "mp_info_invite"
 msgid "Invite"
-msgstr ""
+msgstr "Запрасіць"
 
 #v1.1.31
 msgctxt "mp_server_info"
@@ -4574,7 +4574,7 @@ msgstr ""
 #v1.1.31
 msgctxt "msaa_mode"
 msgid "MSAA:"
-msgstr ""
+msgstr "MSAA:"
 
 #v1.1.58
 msgctxt "msg_loading_error"
@@ -4594,7 +4594,7 @@ msgstr ""
 #v1.1.58
 msgctxt "msg_loading_game_title"
 msgid "Loading game"
-msgstr ""
+msgstr "Загрузка гульні"
 
 #v1.1.31
 msgctxt "multiplayer"
@@ -4644,12 +4644,12 @@ msgstr ""
 #v1.2.22
 msgctxt "mvo_user_signals"
 msgid "Signals"
-msgstr ""
+msgstr "Сігналы"
 
 #v1.1.37
 msgctxt "mvo_user_station_event"
 msgid "Station events"
-msgstr ""
+msgstr "Падзеі станцый"
 
 #v1.1.37
 msgctxt "mvo_user_station_icons"
@@ -4659,7 +4659,7 @@ msgstr ""
 #v1.1.37
 msgctxt "mvo_user_station_names"
 msgid "Station names"
-msgstr ""
+msgstr "Назвы станцый"
 
 #v1.4.15
 msgctxt "mvo_user_track_depth"
@@ -4744,7 +4744,7 @@ msgstr ""
 #v1.1.31
 msgctxt "ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #v1.1.37
 msgctxt "open"
@@ -4809,7 +4809,7 @@ msgstr ""
 #v1.1.31
 msgctxt "options_graphics"
 msgid "Graphics"
-msgstr ""
+msgstr "Графіка"
 
 #v1.2.22
 msgctxt "options_keybinds"
@@ -4819,7 +4819,7 @@ msgstr ""
 #v1.1.31
 msgctxt "options_mods_upload"
 msgid "Uploader"
-msgstr ""
+msgstr "Запампавальнік"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -4909,12 +4909,12 @@ msgstr ""
 #v1.1.31
 msgctxt "overwrite"
 msgid "Overwrite"
-msgstr ""
+msgstr "Перазапісаць"
 
 #v1.1.31
 msgctxt "overwrite_file"
 msgid "Overwrite file"
-msgstr ""
+msgstr "Перазапісаць файл"
 
 #v1.1.37
 msgctxt "overwrite_other_version_file"
@@ -4939,7 +4939,7 @@ msgstr ""
 #v1.1.31
 msgctxt "paste"
 msgid "Paste"
-msgstr ""
+msgstr "Уставіць"
 
 #v1.5.31
 msgctxt "path2_arrive"
@@ -4989,7 +4989,7 @@ msgstr ""
 #v1.1.31
 msgctxt "pax_tab"
 msgid "Passengers"
-msgstr ""
+msgstr "Пасажыры"
 
 #v1.1.31
 msgctxt "pax_waiting"
@@ -5069,7 +5069,7 @@ msgstr ""
 #v1.1.31
 msgctxt "pick_placeholder"
 msgid "< Pick >"
-msgstr ""
+msgstr "< Выберыце >"
 
 #v1.5.41
 msgctxt "picker_mode_flat"
@@ -5084,7 +5084,7 @@ msgstr ""
 #v1.5.41
 msgctxt "picker_mode_lines"
 msgid "Lines"
-msgstr ""
+msgstr "Лініі"
 
 #v1.5.41
 msgctxt "picker_mode_recent"
@@ -5164,17 +5164,17 @@ msgstr ""
 #v1.1.31
 msgctxt "private"
 msgid "Private"
-msgstr ""
+msgstr "Прыватны"
 
 #v1.1.31
 msgctxt "profile"
 msgid "Profile"
-msgstr ""
+msgstr "Профіль"
 
 #v1.1.31
 msgctxt "public"
 msgid "Public"
-msgstr ""
+msgstr "Публічны"
 
 #v1.1.31
 msgctxt "quit_desktop"
@@ -5184,7 +5184,7 @@ msgstr "Выйсці на працоўны стол"
 #v1.1.31
 msgctxt "quit_game"
 msgid "Quit game"
-msgstr ""
+msgstr "Выйсці з гульні"
 
 #v1.1.37
 msgctxt "rename_save"
@@ -5199,12 +5199,12 @@ msgstr ""
 #v1.1.31
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
-msgstr ""
+msgstr "DirectX 11"
 
 #v1.2.29
 msgctxt "renderer_opengl"
 msgid "OpenGL 3.3"
-msgstr ""
+msgstr "OpenGL 3.3"
 
 #v1.1.31
 msgctxt "reset_train"
@@ -5234,7 +5234,7 @@ msgstr ""
 #v1.1.37
 msgctxt "right_bar_main"
 msgid "Main menu"
-msgstr ""
+msgstr "Галоўнае меню"
 
 #v1.1.37
 msgctxt "right_bar_map"
@@ -5244,7 +5244,7 @@ msgstr ""
 #v1.1.37
 msgctxt "right_bar_mods"
 msgid "Mods"
-msgstr ""
+msgstr "Моды"
 
 #v1.1.37
 msgctxt "right_bar_online"
@@ -5254,7 +5254,7 @@ msgstr ""
 #v1.1.37
 msgctxt "right_bar_search"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #v1.3.13
 msgctxt "right_bar_tags"
@@ -5294,7 +5294,7 @@ msgstr ""
 #v1.1.72
 msgctxt "rtstat_pax_capacity"
 msgid "Capacity"
-msgstr ""
+msgstr "Ёмістасць"
 
 #v1.1.72
 msgctxt "rtstat_pax_capactity_usage"
@@ -5344,7 +5344,7 @@ msgstr ""
 #v1.1.72
 msgctxt "rtstat_speed"
 msgid "Speed"
-msgstr ""
+msgstr "Хуткасць"
 
 #v1.5.31
 msgctxt "run_panel_start"
@@ -5384,7 +5384,7 @@ msgstr ""
 #v1.1.31
 msgctxt "save_game"
 msgid "Save game"
-msgstr ""
+msgstr "Захаваць гульню"
 
 #v1.1.31
 msgctxt "sax_0"
@@ -5399,27 +5399,27 @@ msgstr ""
 #v1.1.31
 msgctxt "sax_m2"
 msgid "Bad"
-msgstr ""
+msgstr "Дрэнна"
 
 #v1.1.31
 msgctxt "sax_m3"
 msgid "Very bad"
-msgstr ""
+msgstr "Вельмі дрэнна"
 
 #v1.1.31
 msgctxt "sax_p1"
 msgid "Good"
-msgstr ""
+msgstr "Добра"
 
 #v1.1.31
 msgctxt "sax_p2"
 msgid "Very good"
-msgstr ""
+msgstr "Вельмі добра"
 
 #v1.1.31
 msgctxt "sax_p3"
 msgid "Excellent"
-msgstr ""
+msgstr "Выдатна"
 
 #v1.1.37
 msgctxt "sax_refund_warn_fare"
@@ -5454,12 +5454,12 @@ msgstr ""
 #v1.1.31
 msgctxt "search_section_lines"
 msgid "Lines"
-msgstr ""
+msgstr "Лініі"
 
 #v1.1.31
 msgctxt "search_section_stations"
 msgid "Stations"
-msgstr ""
+msgstr "Станцыі"
 
 #v1.1.58
 msgctxt "search_section_train_models"
@@ -5469,12 +5469,12 @@ msgstr ""
 #v1.1.31
 msgctxt "search_section_trains"
 msgid "Trains"
-msgstr ""
+msgstr "Цягнікі"
 
 #v1.1.31
 msgctxt "search_section_world"
 msgid "World"
-msgstr ""
+msgstr "Свет"
 
 #v1.1.31
 msgctxt "selection_blueprint_bill"
@@ -5519,17 +5519,17 @@ msgstr ""
 #v1.2.22
 msgctxt "signal_dir_m1"
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #v1.2.22
 msgctxt "signal_dir_p1"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 #v1.2.22
 msgctxt "signal_direction"
 msgid "Direction:"
-msgstr ""
+msgstr "Кірунак:"
 
 #v1.4.15
 msgctxt "signal_edit_invalid_track"
@@ -5554,7 +5554,7 @@ msgstr ""
 #v1.2.22
 msgctxt "signal_editor_title_new"
 msgid "New signal"
-msgstr ""
+msgstr "Новы сігнал"
 
 #v1.3.13
 msgctxt "signal_filter_applies"
@@ -5564,7 +5564,7 @@ msgstr ""
 #v1.3.13
 msgctxt "signal_filter_except"
 msgid "Except:"
-msgstr ""
+msgstr "Акрамя:"
 
 #v1.3.13
 msgctxt "signal_filter_ignored"
@@ -5629,7 +5629,7 @@ msgstr ""
 #v1.2.22
 msgctxt "signal_limits_block_always"
 msgid "Always"
-msgstr ""
+msgstr "Заўсёды"
 
 #v1.2.22
 msgctxt "signal_limits_block_same"
@@ -5644,17 +5644,17 @@ msgstr ""
 #v1.2.22
 msgctxt "signal_side_0"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #v1.2.22
 msgctxt "signal_side_m1"
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #v1.2.22
 msgctxt "signal_side_p1"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 #v1.2.22
 msgctxt "signal_stop_check_only_signals"
@@ -5669,12 +5669,12 @@ msgstr ""
 #v1.2.22
 msgctxt "signal_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Пераключыць"
 
 #v1.2.22
 msgctxt "signal_type"
 msgid "Type:"
-msgstr ""
+msgstr "Тып:"
 
 #v1.3.13
 msgctxt "signal_warn_max_length"
@@ -5684,7 +5684,7 @@ msgstr ""
 #v1.3.13
 msgctxt "signal_warn_too_close"
 msgid "Too close"
-msgstr ""
+msgstr "Занадта блізка"
 
 #v1.1.31
 msgctxt "single_player"
@@ -5714,7 +5714,7 @@ msgstr ""
 #v1.1.31
 msgctxt "start_game"
 msgid "Start game"
-msgstr ""
+msgstr "Пачаць гульню"
 
 #v1.2.22
 msgctxt "station_editor"
@@ -5734,17 +5734,17 @@ msgstr ""
 #v1.5.31
 msgctxt "station_label_mode_full"
 msgid "Full"
-msgstr ""
+msgstr "Поўнае"
 
 #v1.5.31
 msgctxt "station_label_mode_icon_only"
 msgid "Icon only"
-msgstr ""
+msgstr "Толькі значок"
 
 #v1.5.31
 msgctxt "station_label_mode_name_only"
 msgid "Name only"
-msgstr ""
+msgstr "Толькі назва"
 
 #v1.5.31
 msgctxt "station_label_mode_name_pop"
@@ -5754,12 +5754,12 @@ msgstr ""
 #v1.1.31
 msgctxt "station_name_edit"
 msgid "Name:"
-msgstr ""
+msgstr "Назва:"
 
 #v1.1.37
 msgctxt "station_name_empty"
 msgid "<Empty name>"
-msgstr ""
+msgstr "<Пустая назва>"
 
 #v1.1.31
 msgctxt "station_name_use_auto"
@@ -5779,7 +5779,7 @@ msgstr ""
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
-msgstr ""
+msgstr "Назва платформы:"
 
 #v1.1.31
 msgctxt "station_pop_area"
@@ -5829,17 +5829,17 @@ msgstr ""
 #v1.1.31
 msgctxt "stops_n_0"
 msgid "0 stops"
-msgstr ""
+msgstr "0 прыпынкаў"
 
 #v1.1.31
 msgctxt "stops_n_1"
 msgid "1 stop"
-msgstr ""
+msgstr "1 прыпынак"
 
 #v1.1.31
 msgctxt "stops_n_many"
 msgid "%d stops"
-msgstr ""
+msgstr "%d прыпынкаў"
 
 #v1.1.31
 msgctxt "strangers"
@@ -5859,7 +5859,7 @@ msgstr ""
 #v1.6.13
 msgctxt "stream_waiting_for_player"
 msgid "Waiting for player {}"
-msgstr ""
+msgstr "Чакаем гульца {}"
 
 #v1.1.31
 msgctxt "subs_in_workshop"
@@ -5869,7 +5869,7 @@ msgstr ""
 #v1.1.37
 msgctxt "subscribe_to_mods"
 msgid "Subscribe to new mods"
-msgstr ""
+msgstr "Падпісацца на новыя моды"
 
 #v1.1.72
 msgctxt "switch_no_cash"
@@ -6029,7 +6029,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_locomotive"
 msgid "Locomotive"
-msgstr ""
+msgstr "Лакаматыў"
 
 #v1.1.58
 msgctxt "tag_long_distance"
@@ -6049,7 +6049,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_metro"
 msgid "Metro"
-msgstr ""
+msgstr "Метро"
 
 #v1.1.58
 msgctxt "tag_minimum_gauge"
@@ -6094,7 +6094,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_prototype"
 msgid "Prototype"
-msgstr ""
+msgstr "Прататып"
 
 #v1.1.58
 msgctxt "tag_push_pull"
@@ -6109,7 +6109,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_regional"
 msgid "Regional"
-msgstr ""
+msgstr "Рэгіянальны"
 
 #v1.1.58
 msgctxt "tag_restaurant"
@@ -6134,7 +6134,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr ""
+msgstr "Стандартны"
 
 #v1.1.58
 msgctxt "tag_standing"
@@ -6169,7 +6169,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_tram"
 msgid "Tram"
-msgstr ""
+msgstr "Трамвай"
 
 #v1.1.58
 msgctxt "tag_turbine"
@@ -6199,12 +6199,12 @@ msgstr ""
 #v1.1.58
 msgctxt "tags_power"
 msgid "Power"
-msgstr ""
+msgstr "Магутнасць"
 
 #v1.1.58
 msgctxt "tags_role"
 msgid "Role"
-msgstr ""
+msgstr "Роля"
 
 #v1.1.58
 msgctxt "tags_units"
@@ -6229,17 +6229,17 @@ msgstr ""
 #v1.6.13
 msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
-msgstr ""
+msgstr "Недапушчальная даўжыня"
 
 #v1.6.13
 msgctxt "tape_warn_too_complex"
 msgid "Too complex"
-msgstr ""
+msgstr "Занадта складаны"
 
 #v1.6.13
 msgctxt "tape_warn_too_long"
 msgid "Too long"
-msgstr ""
+msgstr "Занадта доўгі"
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
@@ -6294,7 +6294,7 @@ msgstr ""
 #v1.5.31
 msgctxt "timetable_week"
 msgid "Week"
-msgstr ""
+msgstr "Тыдзень"
 
 #v1.1.31
 msgctxt "title"
@@ -6329,7 +6329,7 @@ msgstr ""
 #v1.1.31
 msgctxt "track_editor"
 msgid "Tracks"
-msgstr ""
+msgstr "Пуці"
 
 #v1.1.31
 msgctxt "track_hits"
@@ -6339,12 +6339,12 @@ msgstr ""
 #v1.2.29
 msgctxt "track_info_layer"
 msgid "Layer:"
-msgstr ""
+msgstr "Слой:"
 
 #v1.2.29
 msgctxt "track_info_max_speed"
 msgid "Max speed:"
-msgstr ""
+msgstr "Макс. хуткасць:"
 
 #v1.2.29
 msgctxt "track_info_multi"
@@ -6354,7 +6354,7 @@ msgstr ""
 #v1.2.29
 msgctxt "track_info_price"
 msgid "Price:"
-msgstr ""
+msgstr "Цана:"
 
 #v1.2.29
 msgctxt "track_info_price_f"
@@ -6389,12 +6389,12 @@ msgstr ""
 #v1.2.29
 msgctxt "track_sort_price"
 msgid "Price"
-msgstr ""
+msgstr "Цана"
 
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr ""
+msgstr "Макс. хуткасць"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
@@ -6409,7 +6409,7 @@ msgstr ""
 #v1.4.15
 msgctxt "tracks_total"
 msgid "Tracks total"
-msgstr ""
+msgstr "Усяго пуцей"
 
 #v1.3.13
 msgctxt "train_alert_banner"
@@ -6444,12 +6444,12 @@ msgstr ""
 #v1.6.13
 msgctxt "train_bulk_sell"
 msgid "Sell selection"
-msgstr ""
+msgstr "Прадаць выбранае"
 
 #v1.1.31
 msgctxt "train_clone"
 msgid "Clone"
-msgstr ""
+msgstr "Кланіраваць"
 
 #v1.5.31
 msgctxt "train_clone_copier"
@@ -6459,42 +6459,42 @@ msgstr ""
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
-msgstr ""
+msgstr "Серыйны нумар:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
 msgid "Pick a decal"
-msgstr ""
+msgstr "Выбраць дэкаль"
 
 #v1.1.31
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
-msgstr ""
+msgstr "Выкарыстоўваць колер лініі"
 
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr ""
+msgstr "Асноўнае"
 
 #v1.5.31
 msgctxt "train_editor_group"
 msgid "Group"
-msgstr ""
+msgstr "Група"
 
 #v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
-msgstr ""
+msgstr "Загады"
 
 #v1.5.31
 msgctxt "train_group_duration"
 msgid "Duration:"
-msgstr ""
+msgstr "Працяг:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by"
 msgid "Interval:"
-msgstr ""
+msgstr "Інтэрвал:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
@@ -6504,7 +6504,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
-msgstr ""
+msgstr "Інтэрвал:"
 
 #v1.5.31
 msgctxt "train_group_line_duration_pick"
@@ -6514,7 +6514,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
 msgid "Duration:"
-msgstr ""
+msgstr "Працяг:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
@@ -6544,7 +6544,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
-msgstr ""
+msgstr "Фіксаваны інтэрвал"
 
 #v1.5.31
 msgctxt "train_group_mode_line"
@@ -6559,7 +6559,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_n_name"
 msgid "Trains:"
-msgstr ""
+msgstr "Цягнікі:"
 
 #v1.5.31
 msgctxt "train_group_n_value"
@@ -6574,7 +6574,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_shift_matching_all"
 msgid "All orders"
-msgstr ""
+msgstr "Усе загады"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_only_pax_service"
@@ -6614,7 +6614,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_info_dim"
 msgid "Dimensions:"
-msgstr ""
+msgstr "Памеры:"
 
 #v1.1.58
 msgctxt "train_info_dim_car"
@@ -6644,12 +6644,12 @@ msgstr ""
 #v1.1.31
 msgctxt "train_info_line"
 msgid "Line:"
-msgstr ""
+msgstr "Лінія:"
 
 #v1.1.31
 msgctxt "train_info_location"
 msgid "Location:"
-msgstr ""
+msgstr "Месцазнаходжанне:"
 
 #v1.1.37
 msgctxt "train_info_maintenance_cost"
@@ -6674,7 +6674,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr ""
+msgstr "Максімальная хуткасць:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
@@ -6694,17 +6694,17 @@ msgstr ""
 #v1.6.13
 msgctxt "train_info_pin"
 msgid "Scroll map to train position"
-msgstr ""
+msgstr "Прагартаць карту да становішча цягніка"
 
 #v1.1.58
 msgctxt "train_info_power"
 msgid "Power:"
-msgstr ""
+msgstr "Магутнасць:"
 
 #v1.1.72
 msgctxt "train_info_price"
 msgid "Price:"
-msgstr ""
+msgstr "Цана:"
 
 #v1.1.31
 msgctxt "train_info_running_cost"
@@ -6714,12 +6714,12 @@ msgstr ""
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr ""
+msgstr "Хуткасць / макс"
 
 #v1.1.31
 msgctxt "train_info_status"
 msgid "Status:"
-msgstr ""
+msgstr "Статус:"
 
 #v1.3.13
 msgctxt "train_info_status_busy_track"
@@ -6754,7 +6754,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr ""
+msgstr "Няма шляху да месца прызначэння"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
@@ -6764,7 +6764,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_info_status_waiting_spawn"
 msgid "Waiting for scheduled spawn"
-msgstr ""
+msgstr "Чакае запланаванага спараджэння"
 
 #v1.1.31
 msgctxt "train_info_storing"
@@ -6789,7 +6789,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_invalid_order"
 msgid "Invalid order"
-msgstr ""
+msgstr "Недапушчальны загад"
 
 #v1.5.41
 msgctxt "train_list_compact"
@@ -6799,7 +6799,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
-msgstr ""
+msgstr "Папярэджанні"
 
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
@@ -6809,12 +6809,12 @@ msgstr ""
 #v1.5.31
 msgctxt "train_list_filter_all"
 msgid "All trains"
-msgstr ""
+msgstr "Усяго цягнікоў"
 
 #v1.5.31
 msgctxt "train_list_filter_all_short"
 msgid "All"
-msgstr ""
+msgstr "Усяго"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
@@ -6849,12 +6849,12 @@ msgstr ""
 #v1.5.31
 msgctxt "train_list_filter_mothballed"
 msgid "Only mothballed"
-msgstr ""
+msgstr "Толькі закансерваваныя"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed_short"
 msgid "Mothballed"
-msgstr ""
+msgstr "Закансерваваны"
 
 #v1.3.13
 msgctxt "train_list_filter_tags"
@@ -6869,7 +6869,7 @@ msgstr ""
 #v1.1.58
 msgctxt "train_n_copies"
 msgid "Trains:"
-msgstr ""
+msgstr "Цягнікі:"
 
 #v1.1.31
 msgctxt "train_name_edit"
@@ -6899,7 +6899,7 @@ msgstr ""
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift"
 msgid "Copy:"
-msgstr ""
+msgstr "Капіяваць:"
 
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift_go_parent"
@@ -6919,7 +6919,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_orders_mode"
 msgid "Orders:"
-msgstr ""
+msgstr "Загады:"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_copy"
@@ -6984,7 +6984,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_status_mothballed"
 msgid "Mothballed"
-msgstr ""
+msgstr "Закансерваваны"
 
 #v1.1.58
 msgctxt "train_texture_info"
@@ -7014,7 +7014,7 @@ msgstr ""
 #v1.1.31
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
-msgstr ""
+msgstr "Ачысціць выбранае"
 
 #v1.1.37
 msgctxt "traineditor_move_camera"
@@ -7024,22 +7024,22 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_order_append"
 msgid "Append new order"
-msgstr ""
+msgstr "Дадаць новы загад"
 
 #v1.5.31
 msgctxt "traineditor_order_append_action"
 msgid "Append new order"
-msgstr ""
+msgstr "Дадаць новы загад"
 
 #v1.5.31
 msgctxt "traineditor_order_bulk_edit"
 msgid "Bulk edit orders"
-msgstr ""
+msgstr "Групавое рэдагаванне загадаў"
 
 #v1.5.31
 msgctxt "traineditor_order_edit"
 msgid "Edit orders"
-msgstr ""
+msgstr "Рэдагаваць загады"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_multi"
@@ -7084,12 +7084,12 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_order_select_copy"
 msgid "Copy selected orders"
-msgstr ""
+msgstr "Капіяваць выбраныя загады"
 
 #v1.5.31
 msgctxt "traineditor_order_select_del"
 msgid "Delete selected orders"
-msgstr ""
+msgstr "Выдаліць выбраныя загады"
 
 #v1.5.31
 msgctxt "traineditor_order_select_none"
@@ -7099,7 +7099,7 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_order_select_paste"
 msgid "Paste orders"
-msgstr ""
+msgstr "Уставіць загады"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_by"
@@ -7109,7 +7109,7 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_order_shift_time"
 msgid "Shift:"
-msgstr ""
+msgstr "Зрух:"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_time_desc"
@@ -7164,7 +7164,7 @@ msgstr ""
 #v1.1.37
 msgctxt "traineditor_sell_all_selected"
 msgid "Sell selected trains"
-msgstr ""
+msgstr "Прадаць выбраныя цягнікі"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
@@ -7174,12 +7174,12 @@ msgstr ""
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
 msgid "Sell selected train"
-msgstr ""
+msgstr "Прадаць выбраны цягнік"
 
 #v1.5.31
 msgctxt "traineditor_tz"
 msgid "Time zone:"
-msgstr ""
+msgstr "Часавы пояс:"
 
 #v1.5.31
 msgctxt "traineditor_tz_desc"
@@ -7189,42 +7189,42 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
 msgid "First line time zone"
-msgstr ""
+msgstr "Часавы пояс першай лініі"
 
 #v1.5.31
 msgctxt "traineditor_tz_map"
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 #v1.5.31
 msgctxt "traineditor_tz_orders"
 msgid "Orders"
-msgstr ""
+msgstr "Загады"
 
 #v1.5.31
 msgctxt "traineditor_tz_station"
 msgid "Station"
-msgstr ""
+msgstr "Станцыя"
 
 #v1.1.31
 msgctxt "trains"
 msgid "Trains"
-msgstr ""
+msgstr "Цягнікі"
 
 #v1.1.31
 msgctxt "trains_n_0"
 msgid "0 trains"
-msgstr ""
+msgstr "0 цягнікоў"
 
 #v1.1.31
 msgctxt "trains_n_1"
 msgid "1 train"
-msgstr ""
+msgstr "1 цягнік"
 
 #v1.1.31
 msgctxt "trains_n_many"
 msgid "%d trains"
-msgstr ""
+msgstr "%d цягнікоў"
 
 #v1.1.58
 msgctxt "transfers_to"
@@ -7254,7 +7254,7 @@ msgstr ""
 #v1.1.31
 msgctxt "ugc_some_rule_req"
 msgid "Selected local mod is empty"
-msgstr ""
+msgstr "Выбраны лакальны мод пусты"
 
 #v1.1.31
 msgctxt "ugc_valid_desc_req"
@@ -7264,7 +7264,7 @@ msgstr ""
 #v1.1.31
 msgctxt "ugc_valid_desc_too_long"
 msgid "Description is too long"
-msgstr ""
+msgstr "Апісанне занадта доўгае"
 
 #v1.1.31
 msgctxt "ugc_valid_folder_req"
@@ -7304,17 +7304,17 @@ msgstr ""
 #v1.1.31
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Невядома"
 
 #v1.2.29
 msgctxt "unlimited_depth"
 msgid "Unlimited depth"
-msgstr ""
+msgstr "Неабмежаваная глыбіня"
 
 #v1.2.29
 msgctxt "unlimited_height"
 msgid "Unlimited height"
-msgstr ""
+msgstr "Неабмежаваная вышыня"
 
 #v1.1.31
 msgctxt "update_note"
@@ -7324,7 +7324,7 @@ msgstr ""
 #v1.1.31
 msgctxt "upload_mod"
 msgid "Upload mod"
-msgstr ""
+msgstr "Запампаваць мод"
 
 #v1.4.15
 msgctxt "use_placeholders"
@@ -7349,17 +7349,17 @@ msgstr ""
 #v1.1.31
 msgctxt "visibility"
 msgid "Visibility:"
-msgstr ""
+msgstr "Бачнасць:"
 
 #v1.1.31
 msgctxt "vsync_mode"
 msgid "VSync:"
-msgstr ""
+msgstr "VSync:"
 
 #v1.5.31
 msgctxt "waiting_expired"
 msgid "Expired"
-msgstr ""
+msgstr "Тэрмін дзеяння скончыўся"
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
@@ -7369,12 +7369,12 @@ msgstr ""
 #v1.1.31
 msgctxt "warning"
 msgid "Warning"
-msgstr ""
+msgstr "Папярэджанне"
 
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
 msgid "High speed"
-msgstr ""
+msgstr "Высокахуткасны"
 
 #v1.2.29
 msgctxt "waw_track_mid_1_name"
@@ -7384,12 +7384,12 @@ msgstr ""
 #v1.2.29
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr ""
+msgstr "Трамвайны"
 
 #v1.1.31
 msgctxt "waypoint"
 msgid "Waypoint"
-msgstr ""
+msgstr "Пункт маршруту"
 
 #v1.5.31
 msgctxt "wedge_mode"
@@ -7399,117 +7399,117 @@ msgstr ""
 #v1.1.31
 msgctxt "weekday_friday"
 msgid "Friday"
-msgstr ""
+msgstr "Пятніца"
 
 #v1.1.31
 msgctxt "weekday_monday"
 msgid "Monday"
-msgstr ""
+msgstr "Панядзелак"
 
 #v1.1.31
 msgctxt "weekday_saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Суб"
 
 #v1.1.31
 msgctxt "weekday_short_friday"
 msgid "Fri"
-msgstr ""
+msgstr "Пят"
 
 #v1.1.31
 msgctxt "weekday_short_monday"
 msgid "Mon"
-msgstr ""
+msgstr "Пнд"
 
 #v1.1.31
 msgctxt "weekday_short_saturday"
 msgid "Sat"
-msgstr ""
+msgstr "Суб"
 
 #v1.1.31
 msgctxt "weekday_short_sunday"
 msgid "Sun"
-msgstr ""
+msgstr "Няд"
 
 #v1.1.31
 msgctxt "weekday_short_thursday"
 msgid "Thu"
-msgstr ""
+msgstr "Чцв"
 
 #v1.1.31
 msgctxt "weekday_short_tuesday"
 msgid "Tue"
-msgstr ""
+msgstr "Аўт"
 
 #v1.1.31
 msgctxt "weekday_short_wednesday"
 msgid "Wed"
-msgstr ""
+msgstr "Сер"
 
 #v1.5.31
 msgctxt "weekday_shorter_friday"
 msgid "Fr"
-msgstr ""
+msgstr "Пт"
 
 #v1.5.31
 msgctxt "weekday_shorter_monday"
 msgid "Mo"
-msgstr ""
+msgstr "Пн"
 
 #v1.5.31
 msgctxt "weekday_shorter_saturday"
 msgid "Sa"
-msgstr ""
+msgstr "Сб"
 
 #v1.5.31
 msgctxt "weekday_shorter_sunday"
 msgid "Su"
-msgstr ""
+msgstr "Нд"
 
 #v1.5.31
 msgctxt "weekday_shorter_thursday"
 msgid "Th"
-msgstr ""
+msgstr "Чц"
 
 #v1.5.31
 msgctxt "weekday_shorter_tuesday"
 msgid "Tu"
-msgstr ""
+msgstr "Аў"
 
 #v1.5.31
 msgctxt "weekday_shorter_wednesday"
 msgid "We"
-msgstr ""
+msgstr "Ср"
 
 #v1.1.31
 msgctxt "weekday_sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Нядзеля"
 
 #v1.1.31
 msgctxt "weekday_thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Чацвер"
 
 #v1.1.31
 msgctxt "weekday_tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "Аўторак"
 
 #v1.1.31
 msgctxt "weekday_wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Серада"
 
 #v1.1.31
 msgctxt "workshop_more_langs"
 msgid "More languages"
-msgstr ""
+msgstr "Больш моў"
 
 #v1.1.31
 msgctxt "wrong_length"
 msgid "wrong length"
-msgstr ""
+msgstr "няправільная даўжыня"
 
 #v1.1.37
 msgctxt "wrong_protocol_desc"
