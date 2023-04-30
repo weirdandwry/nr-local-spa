@@ -3889,7 +3889,7 @@ msgstr ""
 #v1.1.58
 msgctxt "loader_error_invalid"
 msgid "Invalid state"
-msgstr "Памылковы стан"
+msgstr "Недапушчальны стан"
 
 #v1.1.58
 msgctxt "loader_final"
@@ -4544,7 +4544,7 @@ msgstr "Доступ"
 #v1.1.31
 msgctxt "mp_info_connected"
 msgid "Connected"
-msgstr "Усталяваў злучэнне"
+msgstr "Злучэнне усталявана"
 
 #v1.1.31
 msgctxt "mp_info_invite"
@@ -6229,7 +6229,7 @@ msgstr ""
 #v1.6.13
 msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
-msgstr "Памылковая даўжыня"
+msgstr "Недапушчальная даўжыня"
 
 #v1.6.13
 msgctxt "tape_warn_too_complex"
@@ -6789,7 +6789,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_invalid_order"
 msgid "Invalid order"
-msgstr "Памылковы загад"
+msgstr "Недапушчальны загад"
 
 #v1.5.41
 msgctxt "train_list_compact"
