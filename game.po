@@ -934,7 +934,7 @@ msgstr ""
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Дасягнуў месца прызначэння"
+msgstr "Дасягнулі месца прызначэння"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_transfer"
@@ -954,7 +954,7 @@ msgstr ""
 #v1.1.31
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Пачаў паездку"
+msgstr "Пачалі паездку"
 
 #v1.1.37
 msgctxt "accounting_pax_waited_too_long"
@@ -2044,7 +2044,7 @@ msgstr "Перамясціць, выдаліць і рэдагаваць сіг�
 #v1.2.22
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "Перамясціць, выдалісь і рэдагаваць пуці"
+msgstr "Перамясціць, выдаліць і рэдагаваць пуці"
 
 #v1.2.22
 msgctxt "editor_new_signal"
@@ -3994,7 +3994,7 @@ msgstr "Гадоў:"
 #v1.1.31
 msgctxt "loan_created_on"
 msgid "Created on:"
-msgstr "Створаны ў:"
+msgstr "Створаны:"
 
 #v1.1.37
 msgctxt "loan_n"
@@ -5211,7 +5211,7 @@ msgstr "OpenGL 3.3"
 #v1.1.31
 msgctxt "reset_train"
 msgid "Reset train"
-msgstr "Скінуць цягнік"
+msgstr "Умяшацца"
 
 #v1.4.22
 msgctxt "return_game"
