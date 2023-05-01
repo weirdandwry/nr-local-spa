@@ -219,7 +219,7 @@ msgstr ""
 #v1.7.15
 msgctxt "loader_downloading"
 msgid "Downloading"
-msgstr "Спампоўка"
+msgstr "Спампоўванне"
 
 #v1.7.15
 msgctxt "loader_http_error"
@@ -269,12 +269,12 @@ msgstr ""
 #v1.7.15
 msgctxt "purchase_trains"
 msgid "Purchase new train(s)"
-msgstr "Набыць новы цягнік(і)"
+msgstr "Набыць новы(я) цягнік(і)"
 
 #v1.7.15
 msgctxt "replace_trains"
 msgid "Replace existing train(s)"
-msgstr "Замяніць існуючы цягнік(і)"
+msgstr "Замяніць існуючы(я) цягнік(і)"
 
 #v1.7.15
 msgctxt "right_bar_like"
@@ -619,7 +619,7 @@ msgstr "Карыстальніцкі"
 #v1.7.15
 msgctxt "train_recompo_apply"
 msgid "Apply changes"
-msgstr "Прымяніць змены"
+msgstr ""
 
 #v1.7.15
 msgctxt "train_recompo_disabled"
@@ -742,14 +742,16 @@ msgid "All subscribed mods"
 msgstr ""
 
 #v1.7.15
+# Слова "стандартны" скарочана, каб умясціць сказ у подпіс
 msgctxt "train_base_color_edit"
 msgid "Default base color:"
-msgstr "Стандартны базавы колер:"
+msgstr "Базавы колер (ст.):"
 
 #v1.7.15
+# Слова "стандартны" скарочана, каб умясціць сказ у подпіс
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr "Стандартны колер дэкалі:"
+msgstr "Колер дэкалі (ст.):"
 
 #v1.7.15
 msgctxt "train_decal_edit"
@@ -1149,7 +1151,7 @@ msgstr ""
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Прымяніць"
+msgstr ""
 
 #v1.1.72
 msgctxt "asset_lines"
@@ -1649,7 +1651,7 @@ msgstr ""
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Пацвердзіце умяшанне ў лінію"
+msgstr "Пацвердзіце ўмяшанне ў лінію"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
@@ -2917,6 +2919,7 @@ msgid "How many pax match this grouping criteria"
 msgstr ""
 
 #v1.1.31
+# "Прызначэнне" замест "Месца прызначэння", каб трошкі скараціць і ўмясціць тэкст у подпіс
 msgctxt "info_table_pax_destination"
 msgid "Destination"
 msgstr "Прызначэнне"
@@ -2947,6 +2950,7 @@ msgid "Elapsed time of the current trip leg, including station waits"
 msgstr ""
 
 #v1.1.37
+# Скарочана, каб умясціць тэкст у подпіс
 msgctxt "info_table_pax_next"
 msgid "Next stop"
 msgstr "Наст. прыпынак"
@@ -4639,6 +4643,8 @@ msgid "Map labels"
 msgstr ""
 
 #v1.4.15
+# Дапускаецца таксама ужываць форму "...платформаў", але вырашанана выбраць варыянт "...платформ"
+# https://starnik.by/pravapis/57145
 msgctxt "mvo_user_platform_names"
 msgid "Platform names"
 msgstr "Назвы платформ"
@@ -4819,6 +4825,7 @@ msgid "Keybinds"
 msgstr "Клавішы"
 
 #v1.1.31
+# Лепей перакласці як "Запампавальнік", але вырашана скараціць да "Мае моды", как умясціць тэкст у кнопку
 msgctxt "options_mods_upload"
 msgid "Uploader"
 msgstr "Мае моды"
@@ -5129,6 +5136,8 @@ msgid "Platforms"
 msgstr "Платформы"
 
 #v1.4.15
+# Дапускаецца таксама ужываць форму "...платформаў", але вырашанана выбраць варыянт "...платформ"
+# https://starnik.by/pravapis/57145
 msgctxt "plats_n_0"
 msgid "0 platforms"
 msgstr "0 платформ"
@@ -5139,6 +5148,8 @@ msgid "1 platform"
 msgstr "1 платформа"
 
 #v1.4.15
+# Дапускаецца таксама ужываць форму "...платформаў", але вырашанана выбраць варыянт "...платформ"
+# https://starnik.by/pravapis/57145
 msgctxt "plats_n_many"
 msgid "%d platforms"
 msgstr "%d платформ"
