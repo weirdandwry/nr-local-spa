@@ -444,7 +444,7 @@ msgstr ""
 #v1.7.15
 msgctxt "stop_times_tp_wait"
 msgid "Stop {} wait time"
-msgstr "Чак чакання на прыпынку {}"
+msgstr "Час чакання на прыпынку {}"
 
 #v1.7.15
 msgctxt "switch_no_couplers"
@@ -629,7 +629,7 @@ msgstr "Рэдагаванне адключана аўтарам мода"
 #v1.7.15
 msgctxt "train_recompo_error_cash"
 msgid "Cannot afford new car(s)"
-msgstr "Не хапае грошаў на новыя вагоны"
+msgstr "Не хапае грошаў на новы(я) вагон(ы)"
 
 #v1.7.15
 msgctxt "train_recompo_error_coupling"
@@ -1181,7 +1181,7 @@ msgstr ""
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Аўтаматычнае экспартаванне уліку:"
+msgstr "Аўтаматычнае экспартаванне ўліку:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
@@ -1231,12 +1231,12 @@ msgstr ""
 #v1.1.31
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} хочу далучыцца да вашай гульні."
+msgstr "{} жадае далучыцца да вашай гульні."
 
 #v1.1.31
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (не сябар) хоча далучыцца да вашай гульні."
+msgstr "{} (не ў сябрах) жадае далучыцца да вашай гульні."
 
 #v1.1.31
 msgctxt "banner_new_join"
