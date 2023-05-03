@@ -1786,17 +1786,17 @@ msgstr ""
 #v1.5.41
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
-msgstr ""
+msgstr "Паварот:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr ""
+msgstr "Павярнуць канец пуці:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr ""
+msgstr "Перамясціць:"
 
 #v1.5.41
 msgctxt "constraints_bulk_editor"
@@ -1811,12 +1811,12 @@ msgstr "Уласцівасці пуці"
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr ""
+msgstr "Ніводны праект не чакае будаўніцтва"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr ""
+msgstr "Не хапае грошаў, каб пабудаваць"
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
@@ -1831,7 +1831,7 @@ msgstr "Працягнуць гульню"
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr ""
+msgstr "Капіявана! Устаўце з дапамогай Ctrl-V"
 
 #v1.1.31
 msgctxt "copy"
@@ -1856,7 +1856,7 @@ msgstr ""
 #v1.1.31
 msgctxt "credits_programming"
 msgid "Programming and design"
-msgstr ""
+msgstr "Праграмаванне і дызайн"
 
 #v1.1.31
 msgctxt "credits_thanks"
@@ -1936,7 +1936,7 @@ msgstr "Выдаліць калекцыю"
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr ""
+msgstr "Перамясціць выбраную гульню ў сметніцу"
 
 #v1.1.58
 msgctxt "delete_line"
@@ -1986,7 +1986,7 @@ msgstr "Рэжым:"
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
 msgid "Exclusive fullscreen"
-msgstr ""
+msgstr "Эксклюзіўны поўнаэкранны"
 
 #v1.1.31
 msgctxt "display_mode_windowed"
@@ -2006,7 +2006,7 @@ msgstr "Дысплэй:"
 #v1.1.31
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr ""
+msgstr "Не выбраны"
 
 #v1.1.31
 msgctxt "done"
@@ -2061,7 +2061,7 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr ""
+msgstr "Esc, каб скасаваць выбар"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
@@ -3028,7 +3028,7 @@ msgstr ""
 #v1.5.31
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Умяшацца ў рух усех цягнікоў"
+msgstr "Умяшацца"
 
 #v1.5.31
 msgctxt "intervene_line"
@@ -3288,12 +3288,12 @@ msgstr ""
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
 msgid "Cannot find path!"
-msgstr "Няздольны знайсці шлях!"
+msgstr "Немагчыма знайсці шлях!"
 
 #v1.1.31
 msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
-msgstr ""
+msgstr "Немагчыма знайсці шлях да пачатку лініі!"
 
 #v1.3.13
 msgctxt "line_list_group_all"
@@ -3313,12 +3313,12 @@ msgstr ""
 #v1.3.13
 msgctxt "line_list_sort_alpha"
 msgid "Sort by: Alphabetical"
-msgstr ""
+msgstr "Сартаванне: Алфавіт"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_Compensation"
 msgid "Sort by: Compensations"
-msgstr ""
+msgstr "Сартаванне: Кампенсацыі"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_board"
@@ -3393,7 +3393,7 @@ msgstr "(Усяго: {})"
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr ""
+msgstr "Сігнал пабочнай платформы:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
@@ -3423,7 +3423,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr ""
+msgstr "З фіксаваным ручным інтэрвалам"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
@@ -3443,7 +3443,7 @@ msgstr "Асноўнае"
 #v1.1.31
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr ""
+msgstr "Пабудуйце праект вашых пуцей, каб уключыць гэту платформу"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
@@ -3523,7 +3523,7 @@ msgstr "Карыстальніцкая"
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr ""
+msgstr "Адпавядаць перыяду"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
@@ -3593,7 +3593,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
 msgid "Effective time:"
-msgstr ""
+msgstr "Эфектыўны час:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_speed"
@@ -3723,12 +3723,12 @@ msgstr "Суфікс:"
 #v1.3.13
 msgctxt "lineeditor_tags"
 msgid "Tags:"
-msgstr ""
+msgstr "Цэтлікі:"
 
 #v1.5.41
 msgctxt "lineeditor_tags_inherit_parent"
 msgid "Parent line tags are also inherited by trains\n"
-msgstr ""
+msgstr "Цягнікі таксама атрымаюць цэтлікі бацькоўскай лініі\n"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
@@ -3778,7 +3778,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr ""
+msgstr "Умяшацца ў рух усіх цягнікоў, якія зараз запушчаны на выбранай лініі"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
@@ -3823,7 +3823,7 @@ msgstr "Лінія"
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
-msgstr ""
+msgstr "Спосаб прыпынку:"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
@@ -3863,7 +3863,7 @@ msgstr ""
 #v1.3.13
 msgctxt "list_sort_reverse"
 msgid "Reverse sorting"
-msgstr ""
+msgstr "Адваротнае сартаванне"
 
 #v1.1.31
 msgctxt "load_game"
@@ -3873,7 +3873,7 @@ msgstr "Загрузіць гульню"
 #v1.1.58
 msgctxt "loader_cancelling"
 msgid "Cancelling"
-msgstr ""
+msgstr "Скасаванне"
 
 #v1.1.58
 msgctxt "loader_db_snapshot"
@@ -3973,7 +3973,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_contract_ko"
 msgid "Not approved"
-msgstr ""
+msgstr "Не ўхвалены"
 
 #v1.1.31
 msgctxt "loan_contract_monthly_payment"
@@ -4073,7 +4073,7 @@ msgstr ""
 #v1.1.31
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr ""
+msgstr "Прыярытэт назваў на карце:"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4083,7 +4083,7 @@ msgstr "Прадаць усе лініі"
 #v1.5.31
 msgctxt "mass_del_lines_desc"
 msgid "Do you want to delete all lines?"
-msgstr ""
+msgstr "Ці жадаеце вы выдаліць усе лініі?"
 
 #v1.5.31
 msgctxt "mass_del_lines_title"
@@ -4103,7 +4103,7 @@ msgstr "Прадаць усе цягнікі"
 #v1.5.31
 msgctxt "mass_del_trains_desc"
 msgid "Do you want to sell all trains?"
-msgstr ""
+msgstr "Ці жадаеце вы прадаць усе цягнікі?"
 
 #v1.5.31
 msgctxt "mass_del_trains_title"
@@ -4128,17 +4128,17 @@ msgstr ""
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "Умяшанне ў рух усех цягнікоў"
+msgstr "Умяшанне ў рух усіх цягнікоў"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
 msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr ""
+msgstr "Ці жадаеце вы ўмяшацца ў рух усіх цягнікоў за ${}?"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_title"
 msgid "Confirm all trains intervention"
-msgstr "Падцвердзіце умяшанне ў рух усех цягнікоў"
+msgstr "Пацвердзіце ўмяшанне ў рух усіх цягнікоў"
 
 #v1.5.41
 msgctxt "mass_recalc_all_lines_but"
@@ -4158,7 +4158,7 @@ msgstr "хвіліны"
 #v1.1.37
 msgctxt "missing_mod"
 msgid "This mod data is enabled in the current game, but it is not installed in this PC. Some textures might be missing."
-msgstr ""
+msgstr "Даныя гэтага мода ўключаны ў бягучай гульні, але ён не ўсталяваны на гэты ПК. Некаторыя тэкстуры могуць адсутнічаць."
 
 #v1.1.31
 msgctxt "mod_author"
@@ -4178,17 +4178,17 @@ msgstr "Апісанне:"
 #v1.1.37
 msgctxt "mod_disable_in_game"
 msgid "Disable in this game"
-msgstr ""
+msgstr "Адключыць у гэтай гульні"
 
 #v1.1.37
 msgctxt "mod_enable_all_installed"
 msgid "Enable all installed mods"
-msgstr ""
+msgstr "Уключыць усе ўсталяваныя моды"
 
 #v1.1.37
 msgctxt "mod_enable_in_game"
 msgid "Enable in this game"
-msgstr ""
+msgstr "Уключыць у гэтай гульні"
 
 #v1.1.37
 msgctxt "mod_icon_hint"
@@ -4208,12 +4208,12 @@ msgstr "Захаваць значок з Steamworks"
 #v1.4.22
 msgctxt "mod_kind_assets"
 msgid "Assets"
-msgstr ""
+msgstr "Актывы"
 
 #v1.4.22
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
-msgstr "Праект"
+msgstr "Праекты"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -4228,7 +4228,7 @@ msgstr "Адкрыць mod.txt"
 #v1.1.37
 msgctxt "mod_panel_steamworks"
 msgid "Subscribe to new mods in the Workshop"
-msgstr ""
+msgstr "Падпісацца на новыя моды ў Майстэрні"
 
 #v1.1.31
 msgctxt "mod_source"
@@ -4248,17 +4248,17 @@ msgstr "Лакальны"
 #v1.1.31
 msgctxt "mod_source_steamworks_ugc"
 msgid "Steamworks UGC"
-msgstr ""
+msgstr "Steamworks UGC"
 
 #v1.1.37
 msgctxt "mod_sub_all_not_installed"
 msgid "Subscribe to all missing mods"
-msgstr ""
+msgstr "Падпісацца на ўсе моды, якія ў вас адсутнічаюць"
 
 #v1.1.31
 msgctxt "mod_uploader_busy"
 msgid "Uploading mod..."
-msgstr ""
+msgstr "Запампоўванне мода..."
 
 #v1.1.31
 msgctxt "mod_uploader_info"
@@ -4268,7 +4268,7 @@ msgstr ""
 #v1.1.31
 msgctxt "mod_uploader_info_guide"
 msgid "Mod development guide"
-msgstr ""
+msgstr "Інструкцыя па распрацоўцы модаў"
 
 #v1.1.31
 msgctxt "mod_uploader_info_open_browser"
