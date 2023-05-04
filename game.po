@@ -9,12 +9,12 @@ msgstr "Адпраўленні"
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Адлегласць прабегу"
+msgstr "Адлегласць рэйса"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Час прабегу"
+msgstr "Час рэйса"
 
 #v1.7.15
 msgctxt "accounting_trains_stop_time"
@@ -544,7 +544,7 @@ msgstr "Новыя вагоны"
 #v1.7.15
 msgctxt "train_create_order_from_run"
 msgid "Create new order from this run"
-msgstr "Стварыць новы загад з гэтага прабегу"
+msgstr "Стварыць новы загад з гэтага рэйса"
 
 #v1.7.15
 msgctxt "train_decal_change"
@@ -1071,7 +1071,7 @@ msgstr "Новыя цягнікі"
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Кошты прабегу"
+msgstr "Кошты рэйса"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
@@ -2176,7 +2176,7 @@ msgstr "Esc, каб скасаваць"
 #v1.1.31
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
-msgstr ""
+msgstr "ЛКМ, каб стварыць новы сегмент пуці. Утрымлівайце Shift, каб працягнуць стварэнне новых сегментаў."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
@@ -2186,7 +2186,7 @@ msgstr ""
 #v1.4.15
 msgctxt "editor_tip_copy"
 msgid "Ctrl-C to copy selected objects into clipboard"
-msgstr ""
+msgstr "Ctrl+C, каб капіяваць выбраныя аб'екты ў буфер абмену"
 
 #v1.4.15
 msgctxt "editor_tip_create_del"
@@ -2196,7 +2196,7 @@ msgstr "Del, каб выдаліць выбраныя аб'екты"
 #v1.6.13
 msgctxt "editor_tip_create_del_inline"
 msgid "Shift-Del to delete selected inner tracks"
-msgstr ""
+msgstr "Shift+Del, каб выдаліць выбраныя ўнутраныя пуці"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag"
@@ -2216,7 +2216,7 @@ msgstr "Esc, каб скасаваць выбар"
 #v1.4.15
 msgctxt "editor_tip_create_left1"
 msgid "Left click on object control points to select them"
-msgstr ""
+msgstr "ЛКМ па кантрольнай кропцы аб'екта, каб выбраць яе"
 
 #v1.1.37
 msgctxt "editor_tip_create_left2"
@@ -2226,27 +2226,27 @@ msgstr ""
 #v1.4.15
 msgctxt "editor_tip_create_left3"
 msgid "Left click on control points to reset selection"
-msgstr ""
+msgstr "ЛКМ па кантрольнай кропцы, каб скінуць выбранае"
 
 #v1.4.15
 msgctxt "editor_tip_create_prompt_sel"
 msgid "To move or delete objects, you must select their control points"
-msgstr ""
+msgstr "Каб перамясціць або выдаліць аб'екты, вам трэба выбраць іх кантрольныя кропкі"
 
 #v1.4.15
 msgctxt "editor_tip_create_rebp2"
 msgid "{} to change selected built object(s) into blueprint object(s)"
-msgstr ""
+msgstr "{}, каб ператварыць выбраны(я) пабудаваны(я) аб'ект(ы) ў праект аб'екта(ў)"
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
 msgid "Shift left click to add or remove points from selection"
-msgstr ""
+msgstr "Shift+ЛКМ, каб дадаць або выдаліць кропкі з выбранага"
 
 #v1.5.41
 msgctxt "editor_tip_dupe"
 msgid "Ctrl-B to duplicate selected objects in-place"
-msgstr ""
+msgstr "Ctrl+B, каб дубляваць выбраныя аб'екты на месцы"
 
 #v1.1.31
 msgctxt "editor_tip_link_esc"
@@ -2256,7 +2256,7 @@ msgstr "Esc, каб перайсці да рэжыму рэдагавання"
 #v1.1.31
 msgctxt "editor_tip_link_left"
 msgid "Left click to link tracks"
-msgstr ""
+msgstr "ЛКМ, каб звязаць пуці"
 
 #v1.1.31
 msgctxt "editor_tip_link_move"
@@ -2281,7 +2281,7 @@ msgstr ""
 #v1.1.31
 msgctxt "editor_tip_move_esc"
 msgid "Esc to cancel movement"
-msgstr ""
+msgstr "Esc, каб скасаваць перамяшчэнне"
 
 #v1.4.15
 msgctxt "editor_tip_move_left"
@@ -2301,22 +2301,22 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
 msgid "Esc to go to signal edit mode"
-msgstr ""
+msgstr "Esc, каб перайсці ў рэжым рэдагавання сігналаў"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_left"
 msgid "Left click to create signal"
-msgstr ""
+msgstr "ЛКМ, каб стварыць сігнал"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_shift"
 msgid "Shift to change signal facing direction"
-msgstr ""
+msgstr "Shift, каб змяніць напрамак сігналу"
 
 #v1.4.15
 msgctxt "editor_tip_paste"
 msgid "Ctrl-V to paste clipboard objects"
-msgstr ""
+msgstr "Ctrl+V, каб уставіць аб'екты з буфера абмену"
 
 #v1.1.31
 msgctxt "editor_tip_rect_left"
@@ -2346,7 +2346,7 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
 msgid "Esc to go to edit mode"
-msgstr ""
+msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
@@ -2381,7 +2381,7 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
 msgid "Del to delete selected signals"
-msgstr ""
+msgstr "Del, каб выдаліць выбраныя сігналы"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_drag"
@@ -2391,7 +2391,7 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_tip_sel_signal_esc"
 msgid "Esc to go to track edit mode"
-msgstr ""
+msgstr "Esc, каб перайсці ў рэжым рэдагавання пуцей"
 
 #v1.2.29
 msgctxt "editor_tip_sel_signal_flip"
@@ -2401,7 +2401,7 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
 msgid "Left click to select a signal"
-msgstr ""
+msgstr "ЛКМ, каб выбраць сігнал"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_move"
@@ -2411,12 +2411,12 @@ msgstr ""
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sel_esc"
 msgid "Esc to clear selection"
-msgstr ""
+msgstr "Esc, каб ачысціць выбранае"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sleft"
 msgid "Shift left click to select additional signals"
-msgstr ""
+msgstr "Shift+ЛКМ, каб выбраць дадатковыя сігналы"
 
 #v1.5.41
 msgctxt "editor_tip_sel_track_flip"
@@ -2426,12 +2426,12 @@ msgstr ""
 #v1.1.31
 msgctxt "editor_tip_station_esc"
 msgid "Esc to go to edit mode"
-msgstr ""
+msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.1.31
 msgctxt "editor_tip_station_fin_esc"
 msgid "Esc to cancel"
-msgstr ""
+msgstr "Esc, каб скасаваць"
 
 #v1.1.31
 msgctxt "editor_tip_station_fin_left"
@@ -2441,7 +2441,7 @@ msgstr ""
 #v1.1.31
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr ""
+msgstr "ЛКМ, каб стварыць новую платформу станцыі"
 
 #v1.1.31
 msgctxt "editor_tip_undo"
@@ -2501,7 +2501,7 @@ msgstr ""
 #v1.4.15
 msgctxt "enable_new_mods"
 msgid "Copy with new mods"
-msgstr ""
+msgstr "Капіяваць з новымі модамі"
 
 #v1.1.31
 msgctxt "enabled"
@@ -2516,7 +2516,7 @@ msgstr "Немагчыма адкрыць файл: "
 #v1.1.31
 msgctxt "error_corrupted_file"
 msgid "Corrupted file: "
-msgstr ""
+msgstr "Пашкоджаны файл: "
 
 #v1.1.31
 msgctxt "error_reading_file"
@@ -2531,7 +2531,7 @@ msgstr ""
 #v1.1.31
 msgctxt "error_save"
 msgid "Corrupted game state"
-msgstr ""
+msgstr "Пашкоджаны стан гульні"
 
 #v1.1.31
 msgctxt "error_saving_internal"
@@ -2566,7 +2566,7 @@ msgstr ""
 #v1.1.37
 msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
-msgstr ""
+msgstr "Занадтка кароткі час прыпынку і/або цягнік поўны"
 
 #v1.1.37
 msgctxt "file_picker_company"
@@ -2576,7 +2576,7 @@ msgstr "Кампанія:"
 #v1.1.37
 msgctxt "file_picker_date"
 msgid "In-game date:"
-msgstr ""
+msgstr "Дата ў гульні:"
 
 #v1.1.37
 msgctxt "file_picker_file_name"
@@ -2666,7 +2666,7 @@ msgstr ""
 #v1.1.31
 msgctxt "friend_state_busy"
 msgid "Busy"
-msgstr ""
+msgstr "Заняты"
 
 #v1.1.31
 msgctxt "friend_state_connected"
@@ -3026,6 +3026,7 @@ msgid "Intervene all stale"
 msgstr ""
 
 #v1.5.31
+# Поўны тэкст "Умяшацца ў рух усіх цягнікоў" не ўлазіць у кнопку
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
 msgstr "Умяшацца"
@@ -3508,7 +3509,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr ""
+msgstr "Карыстальніцкая працягласць чакання для гэтага прыпынку"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3558,7 +3559,7 @@ msgstr "Тыдзень"
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr ""
+msgstr "Дадатковы час чакання, калі:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
@@ -3768,12 +3769,12 @@ msgstr "Стварыць новую лінію ў дэпо"
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_shift"
 msgid "Shift down all line stops"
-msgstr ""
+msgstr "Зрушыць уніз усе прыпынкі станцыі"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_stop"
 msgid "Move down selected stop\nHold shift to shift down"
-msgstr ""
+msgstr "Перамясціць уніз выбраны прыпынак\nУтрымлівайце Shift, каб зрушыць уніз"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
@@ -3793,12 +3794,12 @@ msgstr "Набыць новыя цягнікі для гэтай лініі"
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
 msgid "Shift up all line stops"
-msgstr ""
+msgstr "Зрушыць уверх усе прыпынкі на лініі"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_stop"
 msgid "Move up selected stop\nHold shift to shift up"
-msgstr ""
+msgstr "Перамясціць уверх выбраны прыпынак\nУтрымлівайце Shift, каб зрушыць уверх"
 
 #v1.5.31
 msgctxt "lineeditor_tz"
@@ -3813,7 +3814,7 @@ msgstr ""
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
 msgid "First stop station time zone"
-msgstr ""
+msgstr "Часавы пояс першага прыпынку станцыі"
 
 #v1.5.31
 msgctxt "lineeditor_tz_line"
@@ -3968,7 +3969,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_contract_amount"
 msgid "$M Amount:"
-msgstr ""
+msgstr "Сума ($М):"
 
 #v1.1.31
 msgctxt "loan_contract_ko"
@@ -3978,7 +3979,7 @@ msgstr "Не ўхвалены"
 #v1.1.31
 msgctxt "loan_contract_monthly_payment"
 msgid "Monthly payment:"
-msgstr ""
+msgstr "Штомесячны плацёж:"
 
 #v1.1.31
 msgctxt "loan_contract_rate"
@@ -4033,7 +4034,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_subtitle"
 msgid "${} per month"
-msgstr ""
+msgstr "${} штомесяц"
 
 #v1.1.31
 msgctxt "loan_title"
@@ -5367,17 +5368,17 @@ msgstr ""
 #v1.5.31
 msgctxt "run_panel_train"
 msgid "{0} Run {1}"
-msgstr ""
+msgstr "{0} Рэйс {1}"
 
 #v1.5.31
 msgctxt "run_view_tooltip"
 msgid "{0} Run {1}"
-msgstr ""
+msgstr "{0} Рэйс {1}"
 
 #v1.5.31
 msgctxt "run_view_tooltip_full"
 msgid "{0} Run {1}\n{2}"
-msgstr ""
+msgstr "{0} Рэйс {1}\n{2}"
 
 #v1.1.31
 msgctxt "save"
@@ -7022,7 +7023,7 @@ msgstr "Усяго за %d цягнікоў:"
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr ""
+msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіяваных загадаў на гэту колькасць."
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
