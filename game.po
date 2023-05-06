@@ -239,7 +239,7 @@ msgstr ""
 #v1.7.15
 msgctxt "mod_panel_list_only_enabled"
 msgid "Enabled mods in this game"
-msgstr "Уключыць моды ў гэтай гульні"
+msgstr "Уключаныя ў гэтай гульні"
 
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
@@ -619,7 +619,7 @@ msgstr "Карыстальніцкі"
 #v1.7.15
 msgctxt "train_recompo_apply"
 msgid "Apply changes"
-msgstr "Прымяніць змены"
+msgstr "Ужыць змены"
 
 #v1.7.15
 msgctxt "train_recompo_disabled"
@@ -694,7 +694,7 @@ msgstr "Набыць карыстальніцкі цягнік"
 #v1.7.15
 msgctxt "traineditor_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr ""
+msgstr "Набыць загадзя сканфігураваны цягнік"
 
 #v1.7.15
 msgctxt "traineditor_replace_custom_mode"
@@ -714,7 +714,7 @@ msgstr "Набыць карыстальніцкі цягнік"
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr ""
+msgstr "Набыць загадзя сканфігураваны цягнік"
 
 
 
@@ -1151,7 +1151,7 @@ msgstr "Нават на самай высокай хуткасці"
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Прымяніць"
+msgstr "Ужыць"
 
 #v1.1.72
 msgctxt "asset_lines"
@@ -1511,7 +1511,7 @@ msgstr ""
 #v1.3.13
 msgctxt "cat_train_power"
 msgid "Train power"
-msgstr "Магутнасць цягніка"
+msgstr "Тып рухавіка"
 
 #v1.3.13
 msgctxt "cat_train_role"
@@ -2988,7 +2988,7 @@ msgstr "Усяго"
 #v1.1.37
 msgctxt "info_table_pax_total_tp"
 msgid "Trip total elapsed time"
-msgstr ""
+msgstr "Усяго прайшло з пачатку паездкі"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting"
@@ -3419,7 +3419,7 @@ msgstr "Запуск цягнікоў:"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr ""
+msgstr "Раўнамерна, каб умясціцца ў адзін цыкл лініі"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
@@ -3434,7 +3434,7 @@ msgstr "Аўтаматычны запуск лініі"
 #v1.2.22
 msgctxt "lineeditor_auto_value"
 msgid "Auto"
-msgstr "Аўтаматычна"
+msgstr "Аўта"
 
 #v1.2.22
 msgctxt "lineeditor_basics"
@@ -3472,14 +3472,15 @@ msgid "Color:"
 msgstr "Колер:"
 
 #v1.2.22
+# Скарочана, бо не ўмяшчаецца ў подпіс
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "Крэйсерская хуткасць (км/г):"
+msgstr "Крэйс. хуткасць (км/г):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
-msgstr ""
+msgstr "Цягнікі будуць спрабаваць паскарацца да гэтай хуткасці і прытрымлівацца яе, калі едуць паміж прыпынкамі.\nЯны могуць перавысіць гэту хуткасць, калі спазняюцца."
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
@@ -3504,7 +3505,7 @@ msgstr "Карыстальніцкі перыяд:"
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr ""
+msgstr "Фармат: гг:хх:сс.\nПрацяг лініі будзе выбраны, каб дасканала адпавядаць гэтаму часу. Адпавяданне дням або тыдням не гарантуецца."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
@@ -3514,7 +3515,7 @@ msgstr "Карыстальніцкая працягласць чакання д�
 #v1.2.22
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
-msgstr ""
+msgstr "Стандартныя таймінгі"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
@@ -3582,9 +3583,10 @@ msgid "{0}, {1} km"
 msgstr "{0}, {1} км"
 
 #v1.5.31
+# Скрочана, бо не ўмяшчаецца ў подпіс
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "Адпраўленне першага цягніка:"
+msgstr "Адпр. першага цягніка:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
@@ -3614,7 +3616,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr ""
+msgstr "Таймінг перагона:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
@@ -3699,7 +3701,7 @@ msgstr "Тэхнічныя манеўры"
 #v1.5.41
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
-msgstr ""
+msgstr "Абслугоўвае:"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -3709,7 +3711,7 @@ msgstr "Прыпынак {}"
 #v1.5.41
 msgctxt "lineeditor_stop_panel_leg_title"
 msgid "Leg {0} {1} {2}"
-msgstr ""
+msgstr "Перагон {0} {1} {2}"
 
 #v1.5.41
 msgctxt "lineeditor_stop_panel_line_service_stop"
@@ -4144,12 +4146,13 @@ msgstr "Пацвердзіце ўмяшанне ў рух усіх цягнік�
 #v1.5.41
 msgctxt "mass_recalc_all_lines_but"
 msgid "Refresh all line timings"
-msgstr ""
+msgstr "Абнавіць таймінгі ўсіх ліній"
 
 #v1.1.37
+# "Скасаваць" -> "Вярнуцца", таму што больш адпавядае кантэксту
 msgctxt "max_speed_desc"
 msgid "Map and UI is disabled in max speed mode. Slow down to cancel."
-msgstr ""
+msgstr "Карта і карыстальніцкі інтэрфейс выключаны ў рэжыме максімальнай хуткасці. Паменшыце яе, каб вярнуцца."
 
 #v1.3.13
 msgctxt "minutes"
@@ -4786,9 +4789,10 @@ msgid "Company name:"
 msgstr "Назва кампаніі:"
 
 #v1.5.31
+# Без скарачэння не ўмяшчаецца
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr ""
+msgstr "Водступ нов. пар. пуцей:"
 
 #v1.5.31
 msgctxt "option_company_station_label"
@@ -4798,12 +4802,12 @@ msgstr "Новы подпіс станцыі:"
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
-msgstr ""
+msgstr "Пераключыцца ў рэжым неабмежаванай колькасці грошай"
 
 #v1.1.31
 msgctxt "option_no_cash"
 msgid "Unlimited money"
-msgstr ""
+msgstr "Неабмежаваная колькасць грошай"
 
 #v1.1.31
 msgctxt "options"
@@ -4979,7 +4983,7 @@ msgstr ""
 #v1.5.31
 msgctxt "path_not_found_trip"
 msgid "Path not found between {0} and {1}"
-msgstr ""
+msgstr "Няма шляху паміж {0} і {1}"
 
 #v1.1.58
 msgctxt "path_pax_train_warn"
@@ -5034,7 +5038,7 @@ msgstr ""
 #v1.5.31
 msgctxt "paxlist_groupby_plan"
 msgid "Show best current trip"
-msgstr ""
+msgstr "Паказаць найлепшую бягучую паездку"
 
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
@@ -5059,7 +5063,7 @@ msgstr "Чакаем pax..."
 #v1.3.13
 msgctxt "pending_validations"
 msgid "Validating tracks, {} to go"
-msgstr ""
+msgstr "Праверка пуцей, засталося {}"
 
 #v1.5.31
 msgctxt "pick"
@@ -5084,7 +5088,7 @@ msgstr "< Выберыце >"
 #v1.5.41
 msgctxt "picker_mode_flat"
 msgid "Flat"
-msgstr ""
+msgstr "Роўны"
 
 #v1.5.41
 msgctxt "picker_mode_line_tags"
@@ -5173,7 +5177,7 @@ msgstr "Адкрыць акно дыяграм"
 #v1.1.31
 msgctxt "pop_reach"
 msgid "Reach: {}"
-msgstr ""
+msgstr "Ахоп: {}"
 
 #v1.1.31
 msgctxt "private"
@@ -5288,12 +5292,12 @@ msgstr ""
 #v1.1.72
 msgctxt "rtstat_leg_m"
 msgid "Leg remaining distance"
-msgstr ""
+msgstr "Адлегласць прабегу, якую засталося прайсці"
 
 #v1.5.31
 msgctxt "rtstat_leg_s"
 msgid "Time to scheduled arrival"
-msgstr ""
+msgstr "Час да запланаванага прыбыцця"
 
 #v1.1.72
 msgctxt "rtstat_pax_avg_leg_time"
@@ -5948,7 +5952,7 @@ msgstr ""
 #v1.3.13
 msgctxt "tag_del"
 msgid "Delete tag"
-msgstr ""
+msgstr "Выдаліць цэтлік"
 
 #v1.1.58
 msgctxt "tag_diesel"
@@ -6096,9 +6100,10 @@ msgid "Observation"
 msgstr ""
 
 #v1.1.58
+# Не літаральны пераклад, але ён больш адпавядае кантэксту
 msgctxt "tag_people_mover"
 msgid "People mover"
-msgstr ""
+msgstr "Пасажырскі"
 
 #v1.1.58
 msgctxt "tag_private"
@@ -6186,9 +6191,10 @@ msgid "Tram"
 msgstr "Трамвай"
 
 #v1.1.58
+# Паводле кантэксту, тут маецца на ўвазе менавіта газавая турбіна
 msgctxt "tag_turbine"
 msgid "Turbine"
-msgstr ""
+msgstr "Газавая турбіна"
 
 #v1.1.58
 msgctxt "tag_tyres"
@@ -6598,7 +6604,7 @@ msgstr "Толькі пасажырскія загады"
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr ""
+msgstr "Прыбывае праз {0}, {1:.1f} км з {2:.1f} км"
 
 #v1.6.13
 msgctxt "train_info_camera"
@@ -6633,7 +6639,7 @@ msgstr "Памеры:"
 #v1.1.58
 msgctxt "train_info_dim_car"
 msgid "{0:.2f}m / {1:.2f}m"
-msgstr ""
+msgstr "{0:.2f}м / {1:.2f}м"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
@@ -6673,17 +6679,17 @@ msgstr "Кошт абслугоўвання:"
 #v1.1.31
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
-msgstr ""
+msgstr "${} штодзень"
 
 #v1.1.31
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr ""
+msgstr "Маса / маса пустога:"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr ""
+msgstr "Пасажыраўмяшчальнасць:"
 
 #v1.1.31
 msgctxt "train_info_max_speed"
@@ -6738,7 +6744,7 @@ msgstr "Статус:"
 #v1.3.13
 msgctxt "train_info_status_busy_track"
 msgid "Track is occupied or reserved"
-msgstr ""
+msgstr "Пуць заняты або зарэзерваваны"
 
 #v1.1.31
 msgctxt "train_info_status_circulation"
@@ -6908,7 +6914,7 @@ msgstr "Кіруецца бацькоўскай групай"
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
 msgid "Shift by manual amount"
-msgstr ""
+msgstr "Зрушыць на ручную колькасць"
 
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift"
@@ -6936,9 +6942,10 @@ msgid "Orders:"
 msgstr "Загады:"
 
 #v1.5.31
+# Скарочнана, бо не ўлазіць
 msgctxt "train_orders_mode_auto_copy"
 msgid "Auto copy manual orders"
-msgstr "Аўтаматычна капіяваць ручныя загады"
+msgstr "Аўтам. капіяваць ручныя загады"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_line"
@@ -6978,7 +6985,7 @@ msgstr "Не хапае грошай, каб набыць цягнік(і). Вы
 #v1.5.31
 msgctxt "train_run"
 msgid "Run"
-msgstr "Прабег"
+msgstr "Рэйс"
 
 #v1.5.31
 msgctxt "train_sort_alpha"
@@ -7001,14 +7008,15 @@ msgid "Mothballed"
 msgstr "Закансерваваны"
 
 #v1.1.58
+# Скарочана, бо не ўлазіць
 msgctxt "train_texture_info"
 msgid "Train textures: {} of {} max"
-msgstr ""
+msgstr "Тэкстуры цягніка: {} з {}"
 
 #v1.1.58
 msgctxt "train_textures_option"
 msgid "Train textures:"
-msgstr "Тэкстуры цягнікоў:"
+msgstr "Тэкстуры цягніка:"
 
 #v1.1.72
 msgctxt "train_total_price_1"
@@ -7128,7 +7136,7 @@ msgstr "Зрух:"
 #v1.5.31
 msgctxt "traineditor_order_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
-msgstr ""
+msgstr "Фармат: (-)гг:хх:сс\nЗрушыць час пачатку выканання выбраных загадаў на гэту колькасць."
 
 #v1.5.31
 msgctxt "traineditor_order_start_event"
@@ -7168,7 +7176,7 @@ msgstr ""
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
-msgstr ""
+msgstr "Фармат: гг:мм:сс\nЧас сутак для пачатку аднаго ці большай колькасці рэйсаў на выбранай лініі."
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -7181,9 +7189,10 @@ msgid "Sell selected trains"
 msgstr "Прадаць выбраныя цягнікі"
 
 #v1.1.31
+# Больш вольны пераклад для большай яго дакладнасці
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr ""
+msgstr "Праглядзець спіс цягнікоў, кіраваць імі і іх раскладам"
 
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
