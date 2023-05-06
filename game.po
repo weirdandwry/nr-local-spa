@@ -1041,7 +1041,7 @@ msgstr "Кошты праезду"
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
 msgid "Profit"
-msgstr "Даход"
+msgstr "Прыбытак"
 
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
@@ -1471,7 +1471,7 @@ msgstr "Усяго будынкаў"
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Захаваць прамую платформу"
+msgstr "Захаваць прамую платформу:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
@@ -1576,12 +1576,12 @@ msgstr "Параметры"
 #v1.1.31
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Ці жадаеце вы пабудаваць бягучы праект?"
+msgstr "Ці жадаеце пабудаваць бягучы праект?"
 
 #v1.1.31
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Ці жадаеце вы пабудаваць бягучы праект за ${}?"
+msgstr "Ці жадаеце пабудаваць бягучы праект за ${}?"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown"
@@ -1646,7 +1646,7 @@ msgstr "Пацвердзіце выдаленне лініі"
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Ці жадаеце вы выдаліць лінію {}?"
+msgstr "Ці жадаеце выдаліць лінію {}?"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
@@ -2131,7 +2131,7 @@ msgstr "Стварыць станцыі"
 #v1.1.31
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc, каб перайсці да рэжыму рэдагавання"
+msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.1.31
 msgctxt "editor_tip_add_left1"
@@ -2146,7 +2146,7 @@ msgstr ""
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc, каб перайсці да рэжыму рэдагавання"
+msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.1.31
 msgctxt "editor_tip_branch_left"
@@ -2251,7 +2251,7 @@ msgstr "Ctrl+B, каб дубляваць выбраныя аб'екты на м
 #v1.1.31
 msgctxt "editor_tip_link_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc, каб перайсці да рэжыму рэдагавання"
+msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.1.31
 msgctxt "editor_tip_link_left"
@@ -2566,7 +2566,7 @@ msgstr ""
 #v1.1.37
 msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
-msgstr "Занадтка кароткі час прыпынку і/або цягнік поўны"
+msgstr "Занадта кароткі час прыпынку і/або цягнік поўны"
 
 #v1.1.37
 msgctxt "file_picker_company"
@@ -4084,7 +4084,7 @@ msgstr "Прадаць усе лініі"
 #v1.5.31
 msgctxt "mass_del_lines_desc"
 msgid "Do you want to delete all lines?"
-msgstr "Ці жадаеце вы выдаліць усе лініі?"
+msgstr "Ці жадаеце выдаліць усе лініі?"
 
 #v1.5.31
 msgctxt "mass_del_lines_title"
@@ -4104,7 +4104,7 @@ msgstr "Прадаць усе цягнікі"
 #v1.5.31
 msgctxt "mass_del_trains_desc"
 msgid "Do you want to sell all trains?"
-msgstr "Ці жадаеце вы прадаць усе цягнікі?"
+msgstr "Ці жадаеце прадаць усе цягнікі?"
 
 #v1.5.31
 msgctxt "mass_del_trains_title"
@@ -4134,7 +4134,7 @@ msgstr "Умяшанне ў рух усіх цягнікоў"
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
 msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr "Ці жадаеце вы ўмяшацца ў рух усіх цягнікоў за ${}?"
+msgstr "Ці жадаеце ўмяшацца ў рух усіх цягнікоў за ${}?"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_title"
@@ -4264,7 +4264,7 @@ msgstr "Запампоўванне мода..."
 #v1.1.31
 msgctxt "mod_uploader_info"
 msgid "The mod uploader is a tool for mod developers. If you want to use mods when playing the game, subscribe to them in the Steam Workshop and enable them when creating a new game."
-msgstr "Запампавальнік - гэта інструмент для распрацоўшчыкаў модаў. Калі вы жадаеце гуляць з модамі, спачатку падпішыцеся на іх у Майстэрні Steam, потом уключыце неабходныя моды пры стварэнні новай гульні."
+msgstr "Запампавальнік - гэта інструмент для распрацоўшчыкаў модаў. Калі вы жадаеце гуляць з модамі, спачатку падпішыцеся на іх у Майстэрні Steam, потым уключыце неабходныя моды пры стварэнні новай гульні."
 
 #v1.1.31
 msgctxt "mod_uploader_info_guide"
@@ -4954,7 +4954,7 @@ msgstr "Уставіць"
 #v1.5.31
 msgctxt "path2_arrive"
 msgid "Arrive at {}"
-msgstr "Прыбыць ў {}"
+msgstr "Прыбыць у {}"
 
 #v1.5.31
 msgctxt "path2_ride"
@@ -5009,7 +5009,7 @@ msgstr "Pax: {0} / {1}"
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
 msgid "Group by destination"
-msgstr "Згрупаваць па месцу прызначэння"
+msgstr "Згрупаваць па месцы прызначэння"
 
 #v1.5.31
 msgctxt "paxlist_groupby_dominating"
@@ -6973,7 +6973,7 @@ msgstr "Не хапае грошай, каб набыць"
 #v1.1.31
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
-msgstr "Не хапае грошай, каб набыць цягнік(і). Выберыце таннейшы цягнік, менш цягнікоў, менш вагонаў або зарабіць больш грошай."
+msgstr "Не хапае грошай, каб набыць цягнік(і). Выберыце таннейшы цягнік, менш цягнікоў, менш вагонаў або зарабіце больш грошай."
 
 #v1.5.31
 msgctxt "train_run"
