@@ -9,12 +9,12 @@ msgstr "Адпраўленні"
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Адлегласць рэйса"
+msgstr "Пройдзеная адлегласць"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Час рэйса"
+msgstr "Час працы"
 
 #v1.7.15
 msgctxt "accounting_trains_stop_time"
@@ -1071,7 +1071,7 @@ msgstr "Новыя цягнікі"
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Кошты рэйса"
+msgstr "Эксплуатацыйныя выдаткі"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
@@ -1101,7 +1101,7 @@ msgstr "Ігнараваць"
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Спытаць у мяне"
+msgstr "Запытацца ў мяне"
 
 #v1.1.31
 msgctxt "acl_allowed"
@@ -1786,7 +1786,7 @@ msgstr ""
 #v1.5.41
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
-msgstr "Паварот:"
+msgstr "Павярнуць:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
@@ -1831,7 +1831,7 @@ msgstr "Працягнуць гульню"
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Капіявана! Устаўце з дапамогай Ctrl-V"
+msgstr "Капіявана! Устаўце з дапамогай Ctrl+V"
 
 #v1.1.31
 msgctxt "copy"
