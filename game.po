@@ -14,7 +14,7 @@ msgstr "Пройдзеная адлегласць"
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Час працы"
+msgstr "Час курсіравання"
 
 #v1.7.15
 msgctxt "accounting_trains_stop_time"
@@ -419,27 +419,27 @@ msgstr "Запампоўванне здымку экрана {}%"
 #v1.7.15
 msgctxt "stop_times_tp_line0"
 msgid "Leg time from middle to middle w/o wait time"
-msgstr ""
+msgstr "Час руху з сярэдзіны да сярэдзіны па перагону без часу чакання"
 
 #v1.7.15
 msgctxt "stop_times_tp_line2"
 msgid "Brake to a halt"
-msgstr "Тармазіць да поўнага прыпынку"
+msgstr "Тармажэнне да поўнага прыпынку"
 
 #v1.7.15
 msgctxt "stop_times_tp_line3"
 msgid "Intuitive arrival at"
-msgstr ""
+msgstr "Час інтуітыўна зразумелага прыбыцця"
 
 #v1.7.15
 msgctxt "stop_times_tp_line5"
 msgid "Depart at"
-msgstr "Адпраўляцца ў"
+msgstr "Час адпраўлення"
 
 #v1.7.15
 msgctxt "stop_times_tp_reach"
 msgid "Stop {} reach middle of platform at"
-msgstr ""
+msgstr "Час дасягнення сярэдзіны платформы прыпынку {}"
 
 #v1.7.15
 msgctxt "stop_times_tp_wait"
@@ -901,7 +901,7 @@ msgstr "Атрымалі кампенсацыю"
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Пасадка не ўдалася: поўны цягнік"
+msgstr "Не селі на поўны цягнік"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
@@ -921,7 +921,7 @@ msgstr "Ніколі не абслугоўваліся"
 #v1.1.72
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Новы pax"
+msgstr "Новыя пасажыры"
 
 #v1.1.31
 msgctxt "accounting_pax_post"
@@ -1079,9 +1079,10 @@ msgid "Train sales"
 msgstr "Продажы цягнікоў"
 
 #v1.1.72
+# Дазволіў больш вольны пераклад для большай дакладнасці
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC0"
-msgstr "Час уліку: {} UTC0"
+msgstr "Улік за: {} UTC0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -1179,9 +1180,10 @@ msgid "Automatically track and scroll the list based on the time of day"
 msgstr "Аўтаматычна сачыць за спісам і прагортваць яго ў залежнасці ад часу сутак"
 
 #v1.3.13
+# Скарочана, бо не ўлазіць
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Аўтаэкспартаванне ўліку:"
+msgstr "Аўтаэкспарт. ўліку:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
@@ -1286,7 +1288,7 @@ msgstr "{0} прапанук вам далучыцца да гульні, яку
 #v1.4.15
 msgctxt "bill_show_full"
 msgid "Show full billing details"
-msgstr ""
+msgstr "Паказаць падрабязнасці рахунка"
 
 #v1.1.31
 msgctxt "bill_tab_client"
@@ -1661,7 +1663,7 @@ msgstr "Ці жадаеце ўмяшацца ў рух усіх цягнікоў
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Пацвердзіце пераключэнне ў рэжым неабмежаванай колькасці грошай"
+msgstr "Пацвердзіце пераключэнне"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
@@ -1889,9 +1891,10 @@ msgid "Transportation"
 msgstr "Перавозка"
 
 #v1.1.31
+# Скарочана, бо не ўлазіць
 msgctxt "default_han_font"
 msgid "Default Han font:"
-msgstr "Стандартны Ханскі шрыфт:"
+msgstr "Ханскі шрыфт (ст.):"
 
 #v1.1.31
 msgctxt "default_han_font_chi"
@@ -2386,7 +2389,7 @@ msgstr "Del, каб выдаліць выбраныя сігналы"
 #v1.2.22
 msgctxt "editor_tip_sel_signal_drag"
 msgid "Drag to move selected signal"
-msgstr "Перацягніце, каб перамясціць выбраны сігнал"
+msgstr "Перацягніце выбраны сігнал, каб перамясціць яго"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_esc"
@@ -2937,7 +2940,7 @@ msgstr "Заплачана"
 #v1.1.37
 msgctxt "info_table_pax_fare_tp"
 msgid "Fare(s) paid so far"
-msgstr "Колькі ўжо заплацілі за праезд"
+msgstr "Колькі пасажыры ўжо заплацілі за праезд"
 
 #v1.1.31
 msgctxt "info_table_pax_leg"
@@ -3021,9 +3024,10 @@ msgid "{}{} to {}{}"
 msgstr ""
 
 #v1.5.41
+# Поўны тэкст "Умяшацца ў рух усіх цягнікоў з састарэлымі рэйсамі" не ўлазіць у кнопку
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "Умяшацца ў рух усіх цягнікоў з састарэлымі рэйсамі"
+msgstr "Умяшацца"
 
 #v1.5.31
 # Поўны тэкст "Умяшацца ў рух усіх цягнікоў" не ўлазіць у кнопку
@@ -5368,7 +5372,7 @@ msgstr "Хуткасць"
 #v1.5.31
 msgctxt "run_panel_start"
 msgid "{0}: Start path to {1}"
-msgstr ""
+msgstr "{0}: Пачатак шляху да {1}"
 
 #v1.5.31
 msgctxt "run_panel_train"
@@ -5628,7 +5632,7 @@ msgstr "Аднабокавы рух"
 #v1.2.22
 msgctxt "signal_kind_name_platform_stop"
 msgid "Platform train stop point"
-msgstr ""
+msgstr "Месца прыпынку цягніка на платформе"
 
 #v1.2.22
 msgctxt "signal_kind_path"
@@ -5891,9 +5895,10 @@ msgid "Subscribe to new mods"
 msgstr "Падпісацца на новыя моды"
 
 #v1.1.72
+# Поўны тэкст "Пераключыцца на неабмежаваную" не ўлазіць у кнопку
 msgctxt "switch_no_cash"
 msgid "Switch to unlimited"
-msgstr "Пераключыцца на неабмежаваную"
+msgstr "Пераключыцца"
 
 #v1.1.58
 msgctxt "tag_autorack"
@@ -5923,7 +5928,7 @@ msgstr "Тармазны"
 #v1.1.58
 msgctxt "tag_broad"
 msgid "Broad"
-msgstr ""
+msgstr "Шырокакалейны"
 
 #v1.1.58
 msgctxt "tag_cable"
@@ -5996,9 +6001,10 @@ msgid "Generator"
 msgstr "Генератар"
 
 #v1.1.58
+# Вольны пераклад для большай дакладнасці
 msgctxt "tag_heritage"
 msgid "Heritage"
-msgstr "Спадчына"
+msgstr "Музейны"
 
 #v1.1.58
 msgctxt "tag_high_speed"
@@ -6088,7 +6094,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr ""
+msgstr "Вузкакалейка"
 
 #v1.3.13
 msgctxt "tag_new"
@@ -6124,7 +6130,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_railbus"
 msgid "Railbus"
-msgstr ""
+msgstr "Рэйкавы аўтобус"
 
 #v1.1.58
 msgctxt "tag_regional"
@@ -6154,7 +6160,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr "Стандартны"
+msgstr "Стандартная каляя"
 
 #v1.1.58
 msgctxt "tag_standing"
@@ -6195,7 +6201,7 @@ msgstr "Трамвай"
 # Паводле кантэксту, тут маецца на ўвазе менавіта газавая турбіна
 msgctxt "tag_turbine"
 msgid "Turbine"
-msgstr "Газавая турбіна"
+msgstr "Газаватурбінны"
 
 #v1.1.58
 msgctxt "tag_tyres"
@@ -6395,7 +6401,7 @@ msgstr "Ігнаруе дарогі"
 #v1.2.29
 msgctxt "track_not_favorited"
 msgid "Not favorited"
-msgstr ""
+msgstr "Не ў любімых"
 
 #v1.6.13
 msgctxt "track_sat_tools"
@@ -6450,7 +6456,7 @@ msgstr ""
 #v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
-msgstr ""
+msgstr "Рахунак цягніка"
 
 #v1.6.13
 msgctxt "train_bulk_change_orders"
@@ -6550,7 +6556,7 @@ msgstr ""
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr ""
+msgstr "Перанесці аўтаматычна запушчаныя цягнікі"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
@@ -6620,12 +6626,12 @@ msgstr "Вагон:"
 #v1.1.58
 msgctxt "train_info_departs"
 msgid "Departs in {}"
-msgstr "Адпраўляецца ў {}"
+msgstr "Адпраўляецца праз {}"
 
 #v1.1.58
 msgctxt "train_info_departs_from"
 msgid "Departs in {0} from {1}"
-msgstr "Адпраўляецца ў {0} з {1}"
+msgstr "Адпраўляецца праз {0} з {1}"
 
 #v1.1.31
 msgctxt "train_info_destination"
@@ -6660,7 +6666,7 @@ msgstr ""
 #v1.5.41
 msgctxt "train_info_late_predicted"
 msgid "Est. late by {}"
-msgstr ""
+msgstr "Прыбл. спазняецца на {}"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -6700,7 +6706,7 @@ msgstr "Максімальная хуткасць:"
 #v1.6.13
 msgctxt "train_info_path_probe"
 msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr ""
+msgstr "Спроба знайсці шлях ад становішча цягніка да становішча мышы\nНацісніце для фіксаванага становішча мышы"
 
 #v1.6.13
 msgctxt "train_info_path_probe_dest"
@@ -6750,7 +6756,7 @@ msgstr "Пуць заняты або зарэзерваваны"
 #v1.1.31
 msgctxt "train_info_status_circulation"
 msgid "Running"
-msgstr "Запушчаны"
+msgstr "Курсіруе"
 
 #v1.2.22
 msgctxt "train_info_status_collision"
@@ -6971,7 +6977,7 @@ msgstr "Закансерваваны"
 #v1.5.31
 msgctxt "train_orders_run_short"
 msgid "Run line:"
-msgstr ""
+msgstr "Курсіраваць па лініі:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -7343,7 +7349,7 @@ msgstr "Неабмежаваная вышыня"
 #v1.1.31
 msgctxt "update_note"
 msgid "Update note:"
-msgstr ""
+msgstr "Нататка да абнаўлення:"
 
 #v1.1.31
 msgctxt "upload_mod"
