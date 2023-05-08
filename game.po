@@ -169,7 +169,7 @@ msgstr "Паказваць на карце"
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at"
 msgid "Depart at:"
-msgstr "Адпраўляцца ў:"
+msgstr "Адпраўляцца праз:"
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at_shift"
@@ -214,7 +214,7 @@ msgstr "Фіксаванае адпраўленне"
 #v1.7.15
 msgctxt "lineeditor_unachievable_depart"
 msgid "Unachievable departure"
-msgstr "Недасяжнае адпраўленне"
+msgstr "Немагчымае адпраўленне"
 
 #v1.7.15
 msgctxt "loader_downloading"
@@ -3411,9 +3411,10 @@ msgid "Auto interval:"
 msgstr "Аўтаматычны інтэрвал:"
 
 #v1.5.31
+# Скарочаны вольны пераклад, каб умясціцца ў подпіс
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Дадаць адзін ці больш цягнікоў для аўтазапуску"
+msgstr "Патрэбны хаця б адзін цягнік"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
@@ -3830,12 +3831,13 @@ msgstr "Лінія"
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
-msgstr "Спосаб прыпынку:"
+msgstr "Паводзіны прыпынку:"
 
 #v1.5.31
+# Вольны пераклад для большай дакладнасці па-беларуску
 msgctxt "lineeditor_wait_kind_limbo"
 msgid "Black hole main, wait secondary"
-msgstr ""
+msgstr "Знікаць падчас прыпынку"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
@@ -6975,9 +6977,10 @@ msgid "Mothballed"
 msgstr "Закансерваваны"
 
 #v1.5.31
+# Тут дастаткова кароткага перакладу
 msgctxt "train_orders_run_short"
 msgid "Run line:"
-msgstr "Курсіраваць па лініі:"
+msgstr "Лінія:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -7002,7 +7005,7 @@ msgstr "У алфавітным парадку"
 #v1.5.31
 msgctxt "train_spawn_at"
 msgid "Spawns in {}"
-msgstr "Спарадзіцца ў {}"
+msgstr "Спарадзіцца праз {}"
 
 #v1.5.31
 msgctxt "train_spawn_late"
@@ -7103,7 +7106,7 @@ msgstr "<Апошні прыпынак лініі>"
 #v1.5.31
 msgctxt "traineditor_order_loops"
 msgid "Loop until next order"
-msgstr "Зацыкліць да наступнага загаду"
+msgstr "Паўтараць да наст. загаду"
 
 #v1.5.31
 msgctxt "traineditor_order_select_all"
@@ -7146,9 +7149,10 @@ msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this 
 msgstr "Фармат: (-)гг:хх:сс\nЗрушыць час пачатку выканання выбраных загадаў на гэту колькасць."
 
 #v1.5.31
+# Тут дастаткова кароткага перакладу
 msgctxt "traineditor_order_start_event"
 msgid "Enter event:"
-msgstr "Увядзіце падзею:"
+msgstr "Падзея:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival"
