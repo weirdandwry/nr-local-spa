@@ -234,7 +234,7 @@ msgstr "Змесціва мода: {} правіл"
 #v1.7.15
 msgctxt "mod_disable_all_unused"
 msgid "Disable all unused mods"
-msgstr "Адключыць усе неўжываныя моды"
+msgstr "Адключыць усе неўжывальныя моды"
 
 #v1.7.15
 msgctxt "mod_panel_list_only_enabled"
@@ -242,10 +242,10 @@ msgid "Enabled mods in this game"
 msgstr "Уключаныя ў гэтай гульні"
 
 #v1.7.15
-# TODO: orphaned rules -> "асірацелыя правілы"?
+# Не здолеў знайсці адпаведнае слова ў беларускай для orhpaned (менавіта для гэтага выпадку), але тут па сутнасці дастаткова і unused
 msgctxt "mod_remove_all_orphaned"
 msgid "Remove all orphaned and unused rules"
-msgstr "Выдаліць усе неўжываныя правілы"
+msgstr "Выдаліць усе неўжывальныя правілы"
 
 #v1.7.15
 msgctxt "my_shared_games"
@@ -2493,7 +2493,7 @@ msgid "Speed: {:.1f}x"
 msgstr "Хуткасць: {:.1f}x"
 
 #v1.5.31
-# TODO: handicap -> перашкоды (помехи), памылкі, хіба (погрешность), страты (потери)?
+# Ёсць некалькі варыянтаў перакладу handicap, але тут маецца на ўвазе працэнт страт у сімуляцыі з-за павольнага злучэння ў шматкарыстальніцкай гульні
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
 msgstr "Хуткасць: {0:.1f}x\nПерашкоды: {1}%"
@@ -7370,7 +7370,7 @@ msgstr ""
 #v1.1.37
 msgctxt "used_active_mod"
 msgid "This mod is used by one or more objects in the game, and cannot be disabled."
-msgstr "Гэты мод выкарыстоўваецца аднім або некалькімі аб'ектамі ў гэтай гульні і не можа быць адключаны."
+msgstr "Гэты мод выкарыстоўваецца адным або некалькімі аб'ектамі ў гэтай гульні і не можа быць адключаны."
 
 #v1.2.22
 msgctxt "user_signal_light_cones"
