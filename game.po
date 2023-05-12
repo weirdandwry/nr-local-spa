@@ -224,7 +224,7 @@ msgstr "Спампоўванне"
 #v1.7.15
 msgctxt "loader_http_error"
 msgid "Error downloading shared game file"
-msgstr ""
+msgstr "Памылка пры спампаванні файла абагуленай гульні"
 
 #v1.7.15
 msgctxt "mod_contents"
@@ -234,7 +234,7 @@ msgstr "Змесціва мода: {} правіл"
 #v1.7.15
 msgctxt "mod_disable_all_unused"
 msgid "Disable all unused mods"
-msgstr ""
+msgstr "Адключыць усе неўжывальныя моды"
 
 #v1.7.15
 msgctxt "mod_panel_list_only_enabled"
@@ -242,9 +242,10 @@ msgid "Enabled mods in this game"
 msgstr "Уключаныя ў гэтай гульні"
 
 #v1.7.15
+# Не здолеў знайсці адпаведнае слова ў беларускай для orhpaned (менавіта для гэтага выпадку), але тут па сутнасці дастаткова і unused
 msgctxt "mod_remove_all_orphaned"
 msgid "Remove all orphaned and unused rules"
-msgstr ""
+msgstr "Выдаліць усе неўжывальныя правілы"
 
 #v1.7.15
 msgctxt "my_shared_games"
@@ -324,12 +325,12 @@ msgstr "Імя карыстальніка ў Steam і спасылка на пр
 #v1.7.15
 msgctxt "share_game_copy_link"
 msgid "Copy link"
-msgstr "Капіяваць спасылку"
+msgstr "Капіраваць спасылку"
 
 #v1.7.15
 msgctxt "share_game_copy_link_desc"
 msgid "Copy game link into clipboard"
-msgstr "Скапіяваць спасылку на гульню ў буфер абмену"
+msgstr "Скапіраваць спасылку на гульню ў буфер абмену"
 
 #v1.7.15
 msgctxt "share_game_delete_desc"
@@ -394,7 +395,7 @@ msgstr "Памылка ў API абагульвання: {}"
 #v1.7.15
 msgctxt "share_net_error_cannot_connect"
 msgid "Cannot connect to sharing service"
-msgstr ""
+msgstr "Немагчыма злучыцца з сэрвісам абагульвання"
 
 #v1.7.15
 msgctxt "share_querying_slot"
@@ -684,7 +685,7 @@ msgstr "Рэдагаваць як карыстальніцкі цягнік"
 #v1.7.15
 msgctxt "train_tmu_copy_custom"
 msgid "Copy for custom train"
-msgstr "Капіяваць для карыстальніцкага цягніка"
+msgstr "Капіраваць для карыстальніцкага цягніка"
 
 #v1.7.15
 msgctxt "traineditor_buy_custom_mode"
@@ -806,12 +807,12 @@ msgstr "60 хвілін"
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr ""
+msgstr "Даныя ўліку былі экспартаваны ў {}"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr ""
+msgstr "Даныя ўліку былі экспартаваны"
 
 #v1.1.31
 msgctxt "accounting"
@@ -871,7 +872,7 @@ msgstr ""
 #v1.1.31
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr ""
+msgstr "Працэнтная стаўка"
 
 #v1.1.37
 msgctxt "accounting_found_station_too_full"
@@ -1338,7 +1339,7 @@ msgstr "Ніжні бок:"
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr ""
+msgstr "Адсочваць крывую пуці"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
@@ -1403,7 +1404,7 @@ msgstr "Вышыня:"
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr ""
+msgstr "${} за м\xC2\xB2"
 
 #v1.4.15
 msgctxt "building_label"
@@ -1533,7 +1534,7 @@ msgstr "Дыяграмы"
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr ""
+msgstr "Рахунак за мае праекты"
 
 #v1.4.15
 msgctxt "client_blueprint_bill_short"
@@ -1743,7 +1744,7 @@ msgstr "Выбраць бацькоўскі"
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr ""
+msgstr "Выдаліць абмежаванне"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
@@ -1833,12 +1834,12 @@ msgstr "Працягнуць гульню"
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Капіявана! Устаўце з дапамогай Ctrl+V"
+msgstr "Капіравана! Устаўце з дапамогай Ctrl+V"
 
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr "Капіяваць"
+msgstr "Капіраваць"
 
 #v1.1.31
 msgctxt "credits"
@@ -2089,7 +2090,7 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr ""
+msgstr "Ператварыць пуці ў платформы станцыі"
 
 #v1.6.13
 msgctxt "editor_sat_split"
@@ -2189,7 +2190,7 @@ msgstr ""
 #v1.4.15
 msgctxt "editor_tip_copy"
 msgid "Ctrl-C to copy selected objects into clipboard"
-msgstr "Ctrl+C, каб капіяваць выбраныя аб'екты ў буфер абмену"
+msgstr "Ctrl+C, каб капіраваць выбраныя аб'екты ў буфер абмену"
 
 #v1.4.15
 msgctxt "editor_tip_create_del"
@@ -2204,7 +2205,7 @@ msgstr "Shift+Del, каб выдаліць выбраныя ўнутраныя �
 #v1.4.15
 msgctxt "editor_tip_create_drag"
 msgid "Drag any selected control point to move the selection"
-msgstr ""
+msgstr "Перацягніце любую выбраную кантрольную кропку, каб перамясціць выбранае"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag_alt"
@@ -2459,7 +2460,7 @@ msgstr ""
 #v1.1.31
 msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
-msgstr ""
+msgstr "Павялічце, каб рэдагаваць"
 
 #v1.5.31
 msgctxt "editor_warn_closed"
@@ -2492,19 +2493,20 @@ msgid "Speed: {:.1f}x"
 msgstr "Хуткасць: {:.1f}x"
 
 #v1.5.31
+# Ёсць некалькі варыянтаў перакладу handicap, але тут маецца на ўвазе працэнт страт у сімуляцыі з-за павольнага злучэння ў шматкарыстальніцкай гульні
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr ""
+msgstr "Хуткасць: {0:.1f}x\nПерашкоды: {1}%"
 
 #v1.4.15
 msgctxt "empty_clipboard"
 msgid "<Empty clipboard>"
-msgstr ""
+msgstr "<Пусты буфер абмену>"
 
 #v1.4.15
 msgctxt "enable_new_mods"
 msgid "Copy with new mods"
-msgstr "Капіяваць з новымі модамі"
+msgstr "Капіраваць з новымі модамі"
 
 #v1.1.31
 msgctxt "enabled"
@@ -2794,7 +2796,7 @@ msgstr ""
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr ""
+msgstr "Немагчыма вызначыць публічны IP-адрас, выкарыстоўвайце Steam Relay"
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
@@ -3459,7 +3461,7 @@ msgstr "Уласцівасці прыпынку:"
 #v1.5.41
 msgctxt "lineeditor_clone_parent_clone"
 msgid "Copy from parent line"
-msgstr "Капіяваць з бацькоўскай лініі"
+msgstr "Капіраваць з бацькоўскай лініі"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_custom"
@@ -5274,7 +5276,7 @@ msgstr "Моды"
 #v1.1.37
 msgctxt "right_bar_online"
 msgid "Multiplayer status"
-msgstr ""
+msgstr "Статус шматкарыстальніцкай гульні"
 
 #v1.1.37
 msgctxt "right_bar_search"
@@ -5534,7 +5536,7 @@ msgstr "Карыстальніцкі час чакання"
 #v1.3.13
 msgctxt "signal_alert_opt_default"
 msgid "Same wait time as global option"
-msgstr ""
+msgstr "Аднолькавы час чакання ў якасці глабальнага параметра"
 
 #v1.3.13
 msgctxt "signal_alert_opts"
@@ -5704,7 +5706,7 @@ msgstr "Тып:"
 #v1.3.13
 msgctxt "signal_warn_max_length"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr ""
+msgstr "Блок-участак, абаронены гэтым сігналам, занадта доўгі. Дадайце больш такіх сігналаў як еўрабаліза (мяжа блок-участка), каб зрабіць яго карацей."
 
 #v1.3.13
 msgctxt "signal_warn_too_close"
@@ -6273,12 +6275,12 @@ msgstr "Занадта доўгі"
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
-msgstr ""
+msgstr "Левабаковы рух для двайных платформ"
 
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr ""
+msgstr "Аўтаматычна дадаваць перакрыжаванні і сігналы шляху для двайных платформ"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
@@ -6428,7 +6430,7 @@ msgstr "Макс. хуткасць"
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr ""
+msgstr "Хаваць кантрольныя кропцы пры аддаленні"
 
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
@@ -6663,7 +6665,7 @@ msgstr "Маса пустога:"
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr ""
+msgstr "Спазняецца на {0}, {1:.1f} км з {2:.1f} км"
 
 #v1.5.41
 msgctxt "train_info_late_predicted"
@@ -6763,7 +6765,7 @@ msgstr "Запушчаны"
 #v1.2.22
 msgctxt "train_info_status_collision"
 msgid "Collision"
-msgstr ""
+msgstr "Сутыкненне"
 
 #v1.1.31
 msgctxt "train_info_status_in_storage"
@@ -6908,7 +6910,7 @@ msgstr "Назва:"
 #v1.5.31
 msgctxt "train_orders_auto_copy"
 msgid "Auto copy from:"
-msgstr "Аўтаматычна капіяваць з:"
+msgstr "Аўтаматычна капіраваць з:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode"
@@ -6928,7 +6930,7 @@ msgstr "Зрушыць на ручную колькасць"
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift"
 msgid "Copy:"
-msgstr "Капіяваць:"
+msgstr "Капіраваць:"
 
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift_go_parent"
@@ -6954,7 +6956,7 @@ msgstr "Загады:"
 # Скарочнана, бо не ўлазіць
 msgctxt "train_orders_mode_auto_copy"
 msgid "Auto copy manual orders"
-msgstr "Аўтам. капіяваць ручныя загады"
+msgstr "Аўтам. капіраваць ручныя загады"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_line"
@@ -7041,7 +7043,7 @@ msgstr "Усяго за %d цягнікоў:"
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіяваных загадаў на гэту колькасць."
+msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіраваных загадаў на гэту колькасць."
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
@@ -7116,7 +7118,7 @@ msgstr "Выбраць усе загады"
 #v1.5.31
 msgctxt "traineditor_order_select_copy"
 msgid "Copy selected orders"
-msgstr "Капіяваць выбраныя загады"
+msgstr "Капіраваць выбраныя загады"
 
 #v1.5.31
 msgctxt "traineditor_order_select_del"
@@ -7368,7 +7370,7 @@ msgstr ""
 #v1.1.37
 msgctxt "used_active_mod"
 msgid "This mod is used by one or more objects in the game, and cannot be disabled."
-msgstr ""
+msgstr "Гэты мод выкарыстоўваецца адным або некалькімі аб'ектамі ў гэтай гульні і не можа быць адключаны."
 
 #v1.2.22
 msgctxt "user_signal_light_cones"
