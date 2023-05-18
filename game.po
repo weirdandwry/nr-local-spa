@@ -335,7 +335,7 @@ msgstr "Скапіраваць спасылку на гульню ў буфер 
 #v1.7.15
 msgctxt "share_game_delete_desc"
 msgid "Delete the existing uploaded game"
-msgstr ""
+msgstr "Выдаліць ужо запампаваную гульню"
 
 #v1.7.15
 msgctxt "share_game_open_link"
@@ -1374,7 +1374,7 @@ msgstr "Колер дэкалі:"
 #v1.4.22
 msgctxt "building_decal_none"
 msgid "<None>"
-msgstr ""
+msgstr "<Няма>"
 
 #v1.4.15
 msgctxt "building_draw_layer_0"
@@ -1717,14 +1717,15 @@ msgid "Flip"
 msgstr "Пераварот"
 
 #v1.5.31
+# Скарочана, бо не ўлазіць у подпіс
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Карыстальніцкая максімальная хуткасць:"
+msgstr "Карыст. макс. хутк.:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr ""
+msgstr "Значэнні больш за максімальную канструктыўную хуткасць пуці будуць праігнараваныя. Задайце 0, каб адключыць карыстальніцкую максімальную хуткасць."
 
 #v1.4.22
 msgctxt "constraint_offset"
@@ -1749,7 +1750,7 @@ msgstr "Выдаліць абмежаванне"
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr ""
+msgstr "Абмежаванне паралельных:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
@@ -1769,17 +1770,17 @@ msgstr "Сегмент t (з 0 да 1)"
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr ""
+msgstr "Замкнуць кантрольную кропку:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr ""
+msgstr "На кантрольнай кропцы"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr ""
+msgstr "На кропцы пуці"
 
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
@@ -2070,22 +2071,22 @@ msgstr "Esc, каб скасаваць выбар"
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr ""
+msgstr "Націсніце на кантрольную кропку, каб зрабіць яе бацькоўскай для абмежавання"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr ""
+msgstr "Склейванне будынкаў"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr ""
+msgstr "Склейванне паралельных пуцей"
 
 #v1.6.13
 msgctxt "editor_sat_platform_tape"
 msgid "Station platform tape"
-msgstr ""
+msgstr "Склейванне платформ станцый"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
@@ -2100,7 +2101,7 @@ msgstr "Падзяліць пуці"
 #v1.6.13
 msgctxt "editor_sat_track_tape"
 msgid "Track tape"
-msgstr ""
+msgstr "Склейванне пуцей"
 
 #v1.5.41
 msgctxt "editor_select_add_platform"
@@ -2290,7 +2291,7 @@ msgstr "Esc, каб скасаваць перамяшчэнне"
 #v1.4.15
 msgctxt "editor_tip_move_left"
 msgid "Release left button to stop moving the selection"
-msgstr ""
+msgstr "Адпусціце ЛКМ, каб скончыць перамяшчэнне выбранага"
 
 #v1.4.15
 msgctxt "editor_tip_new_building_fin_left"
@@ -2335,17 +2336,17 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr ""
+msgstr "Alt, каб стварыць сіметрычныя будынкі на абодвух баках пуці"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
 msgid "Click near tracks to create new attached buildings"
-msgstr ""
+msgstr "Націсніце побач з пуцямі, каб стварыць новыя прымацаваныя будынкі"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
 msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr ""
+msgstr "Shift, каб стварыць будынкі ва ўсіх даччыных пуцях пры пачатку з бацькоўскага пуці"
 
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
@@ -2355,7 +2356,7 @@ msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
 msgid "Click on tracks to attach new parallel tracks"
-msgstr ""
+msgstr "Націсніце на пуці, каб прымацаваць новыя паралельныя пуці"
 
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
@@ -2365,12 +2366,12 @@ msgstr ""
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr ""
+msgstr "Націсніце на пуці, каб ператварыць іх і іх найбліжэйшых суседзяў у платформы станцыі"
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr ""
+msgstr "Націсніце на пуці, каб падзяліць іх у кропцы націскання"
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
@@ -2425,7 +2426,7 @@ msgstr "Shift+ЛКМ, каб выбраць дадатковыя сігналы"
 #v1.5.41
 msgctxt "editor_tip_sel_track_flip"
 msgid "{} to flip side of selected parallel tracks"
-msgstr ""
+msgstr "{}, каб перавярнуць бок выбраных паралельных пуцей"
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
@@ -2455,7 +2456,7 @@ msgstr "Ctrl+Z, каб адрабіць апошнюю праўку"
 #v1.6.13
 msgctxt "editor_tip_weight_left"
 msgid "Release left button to stop moving the track weighting"
-msgstr ""
+msgstr "Адпусціце ЛКМ, каб скончыць перамяшчэнне апорнай кропкі пуці"
 
 #v1.1.31
 msgctxt "editor_tip_zoom"
@@ -2485,7 +2486,7 @@ msgstr ""
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
 msgid "Trains might be unable to make up for delays at this cruise speed."
-msgstr ""
+msgstr "Цягнікі, магчыма, не змогуць кампенсаваць затрымкі пры гэтай крэйсерскай хуткасці."
 
 #v1.5.31
 msgctxt "effective_game_speed"
@@ -2621,7 +2622,7 @@ msgstr "Нізкі:"
 #v1.1.58
 msgctxt "filter_max_pax"
 msgid "Max pax"
-msgstr ""
+msgstr "Макс. пасажыраў"
 
 #v1.1.58
 msgctxt "filter_max_speed"
@@ -2791,7 +2792,7 @@ msgstr "Хуткасць гульні:"
 #v1.1.37
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
-msgstr ""
+msgstr "Вялікія і складаныя пабудовы з мноствам цягнікоў і станцый могуць быць непрыдатныя для гульні пры хуткасці больш за 1x у шматкарыстальніцкай сесіі."
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
@@ -2806,12 +2807,12 @@ msgstr ""
 #v1.6.13
 msgctxt "host_server_ipv4"
 msgid "Detected public IPv4:"
-msgstr ""
+msgstr "Выяўлены публічны IPv4-адрас:"
 
 #v1.6.13
 msgctxt "host_server_ipv6"
 msgid "Detected public IPv6:"
-msgstr ""
+msgstr "Выяўлены публічны IPv6-адрас:"
 
 #v1.6.13
 msgctxt "host_server_mode"
@@ -2831,7 +2832,7 @@ msgstr ""
 #v1.6.13
 msgctxt "host_server_mode_relay"
 msgid "Steam Relay Network"
-msgstr ""
+msgstr "Сетка Steam Relay"
 
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
@@ -2866,7 +2867,7 @@ msgstr ""
 #v1.6.13
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr ""
+msgstr "Абагуленая"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -3305,17 +3306,17 @@ msgstr "Немагчыма знайсці шлях да пачатку ліні�
 #v1.3.13
 msgctxt "line_list_group_all"
 msgid "Group by: All lines"
-msgstr ""
+msgstr "Групаванне: Усе лініі"
 
 #v1.3.13
 msgctxt "line_list_group_no_tags"
 msgid "Group by: Untagged"
-msgstr ""
+msgstr "Групаванне: Без цэтлікаў"
 
 #v1.3.13
 msgctxt "line_list_group_tags"
 msgid "Group by: Tags"
-msgstr ""
+msgstr "Групаванне: Цэтлікі"
 
 #v1.3.13
 msgctxt "line_list_sort_alpha"
@@ -3914,12 +3915,12 @@ msgstr ""
 #v1.6.13
 msgctxt "loader_loading_db"
 msgid "Loading database"
-msgstr ""
+msgstr "Загрузка базы даных"
 
 #v1.6.13
 msgctxt "loader_loading_sim"
 msgid "Loading simulation state"
-msgstr ""
+msgstr "Загрузка стану сімуляцыі"
 
 #v1.1.58
 msgctxt "loader_parsing_header"
@@ -3929,7 +3930,7 @@ msgstr ""
 #v1.1.58
 msgctxt "loader_prep_import"
 msgid "Preparing database import"
-msgstr ""
+msgstr "Падрыхтоўка да імпартавання базы даных"
 
 #v1.1.58
 msgctxt "loader_scrubbing"
@@ -4039,7 +4040,7 @@ msgstr "Плацяжы:"
 #v1.1.31
 msgctxt "loan_payments_fmt"
 msgid "{0} out of {1}, next on {2}"
-msgstr ""
+msgstr "{0} з {1}, наступны ў {2}"
 
 #v1.1.31
 msgctxt "loan_subtitle"
@@ -6410,7 +6411,7 @@ msgstr "Не ў абраных"
 #v1.6.13
 msgctxt "track_sat_tools"
 msgid "Split and tape tools"
-msgstr ""
+msgstr "Інструменты для падзялення і склейвання"
 
 #v1.2.29
 msgctxt "track_sort_alpha"
