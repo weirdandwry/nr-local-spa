@@ -4130,7 +4130,7 @@ msgstr "Прадаць усе цягнікі"
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "Умяшанне ў рух усіх цягнікоў з састарэлымі рэйсамі"
+msgstr "Умяшацца ў рух усіх цягнікоў з састарэлымі рэйсамі"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
@@ -4145,7 +4145,7 @@ msgstr "Пацвердзіце ўмяшанне ў рух усіх цягнік�
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "Умяшанне ў рух усіх цягнікоў"
+msgstr "Умяшацца ў рух усіх цягнікоў"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
