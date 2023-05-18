@@ -2071,7 +2071,7 @@ msgstr "Esc, каб скасаваць выбар"
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Націсніце на кантрольную кропку, каб зрабіць яе бацькам абмежавання"
+msgstr "Націсніце на кантрольную кропку, каб зрабіць яе бацькоўскай для абмежавання"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
