@@ -3143,7 +3143,7 @@ msgstr "Рэжым: цягнікі"
 #v1.2.22
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr "Паменшыць хуткасаць гульні"
+msgstr "Паменшыць хуткасць гульні"
 
 #v1.2.22
 msgctxt "kb_speed_toggle"
@@ -6874,7 +6874,7 @@ msgstr "Згрупаваць па мадэлі"
 #v1.5.31
 msgctxt "train_list_filter_flat"
 msgid "Flat listing"
-msgstr "Роўнае пералічэнне"
+msgstr ""
 
 #v1.5.31
 msgctxt "train_list_filter_manual"
