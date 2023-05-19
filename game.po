@@ -59,12 +59,12 @@ msgstr "Інтэр'ер"
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr ""
+msgstr "Пацвердзіце пераключэнне ў рэжым неабмежаванай счэпкі"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr ""
+msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў рэжым неабмежаванай счэпкі? Гэта дзеянне не можа быць адроблена."
 
 #v1.7.15
 msgctxt "constraint_select_parent"
@@ -260,12 +260,12 @@ msgstr "Экспартаваць GeoJSON"
 #v1.7.15
 msgctxt "option_company_switch_no_couplers"
 msgid "Switch to unrestricted coupling"
-msgstr ""
+msgstr "Пераключыцца ў рэжым неабмежаванай счэпкі"
 
 #v1.7.15
 msgctxt "option_no_couplers"
 msgid "Unrestricted coupling"
-msgstr ""
+msgstr "Неабмежаваная счэпка"
 
 #v1.7.15
 msgctxt "purchase_trains"
@@ -448,9 +448,10 @@ msgid "Stop {} wait time"
 msgstr "Час чакання на прыпынку {}"
 
 #v1.7.15
+# Скарочана, бо не ўлазіць у кнопку
 msgctxt "switch_no_couplers"
 msgid "Switch to unrestricted"
-msgstr ""
+msgstr "Пераключыцца"
 
 #v1.7.15
 msgctxt "tag_couchette"
@@ -565,32 +566,32 @@ msgstr "Канчатковая цана:"
 #v1.7.15
 msgctxt "train_info_coupler_back"
 msgid "Back coupling:"
-msgstr ""
+msgstr "Задняя счэпка:"
 
 #v1.7.15
 msgctxt "train_info_coupler_front"
 msgid "Front coupling:"
-msgstr ""
+msgstr "Пярэдняя счэпка:"
 
 #v1.7.15
 msgctxt "train_info_coupler_mandatory"
 msgid "mandatory"
-msgstr "абавязкова"
+msgstr "абавязковая"
 
 #v1.7.15
 msgctxt "train_info_coupler_none"
 msgid "none"
-msgstr ""
+msgstr "ніякая"
 
 #v1.7.15
 msgctxt "train_info_coupler_optional"
 msgid "optional"
-msgstr "неабавязкова"
+msgstr "неабавязковая"
 
 #v1.7.15
 msgctxt "train_info_coupler_universal"
 msgid "universal"
-msgstr "універсальны"
+msgstr "універсальная"
 
 #v1.7.15
 msgctxt "train_info_description"
@@ -635,7 +636,7 @@ msgstr "Не хапае грошай на новы(я) вагон(ы)"
 #v1.7.15
 msgctxt "train_recompo_error_coupling"
 msgid "Invalid coupling"
-msgstr ""
+msgstr "Недапушчальная счэпка"
 
 #v1.7.15
 msgctxt "train_recompo_error_empty"
@@ -660,7 +661,7 @@ msgstr "Цана: ${}"
 #v1.7.15
 msgctxt "train_recompo_refund"
 msgid "Refund: ${}"
-msgstr "Зварот: ${}"
+msgstr "Зварот грошай: ${}"
 
 #v1.7.15
 msgctxt "train_recompo_reset"
@@ -670,7 +671,7 @@ msgstr "Скінуць змены"
 #v1.7.15
 msgctxt "train_refund"
 msgid "Total refund:"
-msgstr "Усяго зваротаў:"
+msgstr "Усяго зваротаў грошай:"
 
 #v1.7.15
 msgctxt "train_replace"
@@ -705,7 +706,7 @@ msgstr "Замяніць карыстальніцкім цягніком"
 #v1.7.15
 msgctxt "traineditor_replace_tmu_mode"
 msgid "Replacing with preconfigured train"
-msgstr ""
+msgstr "Замяніць загадзя сканфігураваным цягніком"
 
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_custom_mode"
@@ -867,7 +868,7 @@ msgstr "Фінансаванне"
 #v1.1.31
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr ""
+msgstr "Крэдыт"
 
 #v1.1.31
 msgctxt "accounting_financing_interest"
@@ -932,7 +933,7 @@ msgstr "pax"
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr ""
+msgstr "Звароты грошай: дасягнуў дэпо"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
@@ -947,12 +948,12 @@ msgstr "Дасягнулі перасадкі"
 #v1.1.37
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Звароты (з кампенсацыяй)"
+msgstr "Звароты грошай (з кампенсацыяй)"
 
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Звароты: занадта высокі кошт праезду"
+msgstr "Звароты грошай: занадта высокі тарыф"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
@@ -1037,7 +1038,7 @@ msgstr "Кампенсацыі"
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Кошты праезду"
+msgstr "Тарыфы"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
@@ -1047,7 +1048,7 @@ msgstr "Прыбытак"
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Звароты"
+msgstr "Звароты грошай"
 
 #v1.1.31
 msgctxt "accounting_trains"
@@ -1057,7 +1058,7 @@ msgstr "Цягнікі"
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Умяшанні"
+msgstr "Умяшанні ў рух"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
@@ -1083,7 +1084,7 @@ msgstr "Продажы цягнікоў"
 # Дазволіў больш вольны пераклад для большай дакладнасці
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC0"
-msgstr "Улік за: {} UTC0"
+msgstr "Улік за: {} UTC+0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -1986,22 +1987,22 @@ msgstr "Адключана"
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Рэжым:"
+msgstr "Рэжым адлюстравання:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
 msgid "Exclusive fullscreen"
-msgstr "Эксклюзіўны поўнаэкранны"
+msgstr "Поўнаэкранны"
 
 #v1.1.31
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Аконны рэжым"
+msgstr "Аконны"
 
 #v1.1.31
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Аконны поўнаэкранны рэжым"
+msgstr "Аконны поўнаэкранны"
 
 #v1.1.31
 msgctxt "display_screen"
@@ -2076,17 +2077,17 @@ msgstr "Націсніце на кантрольную кропку, каб зр
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Склейванне будынкаў"
+msgstr "Склеіць будынкі"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr "Склейванне паралельных пуцей"
+msgstr "Склеіць паралельныя пуці"
 
 #v1.6.13
 msgctxt "editor_sat_platform_tape"
 msgid "Station platform tape"
-msgstr "Склейванне платформ станцый"
+msgstr "Склеіць платформы станцыі"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
@@ -2567,7 +2568,7 @@ msgstr "Сістэма не дазваляе запісаць у выбраны 
 #v1.1.31
 msgctxt "ev_refunds"
 msgid "{} refunds"
-msgstr "{} зваротаў"
+msgstr "{} зваротаў грошай"
 
 #v1.1.37
 msgctxt "ev_too_short_warn"
@@ -2712,7 +2713,7 @@ msgstr "У сетцы"
 #v1.1.31
 msgctxt "friend_state_snooze"
 msgid "Snooze"
-msgstr ""
+msgstr "Спіць"
 
 #v1.1.31
 msgctxt "friends"
@@ -2822,7 +2823,7 @@ msgstr "Злучэнне:"
 #v1.6.13
 msgctxt "host_server_mode_direct"
 msgid "Direct"
-msgstr "Прамы"
+msgstr "Прамое"
 
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
@@ -2865,9 +2866,10 @@ msgid "Time, train motion and pax simulation is independent for each client.\nTr
 msgstr ""
 
 #v1.6.13
+# Літаральна "абагуленая", але тут маецца на ўвазе "common"
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr "Абагуленая"
+msgstr "Агульная"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -3024,7 +3026,7 @@ msgstr "{} км/г"
 #v1.5.31
 msgctxt "input_range"
 msgid "{}{} to {}{}"
-msgstr ""
+msgstr "{}{} да {}{}"
 
 #v1.5.41
 # Поўны тэкст "Умяшацца ў рух усіх цягнікоў з састарэлымі рэйсамі" не ўлазіць у кнопку
@@ -3111,12 +3113,12 @@ msgstr "Карта: прагартаць уверх"
 #v1.2.22
 msgctxt "kb_map_zoom_in"
 msgid "Map: zoom in"
-msgstr "Карта: павялічыць"
+msgstr "Карта: павялічыць маштаб"
 
 #v1.2.22
 msgctxt "kb_map_zoom_out"
 msgid "Map: zoom out"
-msgstr "Карта: паменшыць"
+msgstr "Карта: паменшыць маштаб"
 
 #v1.2.22
 msgctxt "kb_mode_info"
@@ -3141,7 +3143,7 @@ msgstr "Рэжым: цягнікі"
 #v1.2.22
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr "Паменшыць хуткасць"
+msgstr "Паменшыць хуткасць гульні"
 
 #v1.2.22
 msgctxt "kb_speed_toggle"
@@ -3151,12 +3153,12 @@ msgstr "Паўза"
 #v1.2.22
 msgctxt "kb_speed_up"
 msgid "Speed up"
-msgstr "Паскорыць"
+msgstr "Паскорыць гульню"
 
 #v1.2.22
 msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
-msgstr "Пуці: двайныя пуці"
+msgstr "Пуці: рэжым падвойных пуцей"
 
 #v1.2.22
 msgctxt "kb_track_branch"
@@ -3179,14 +3181,16 @@ msgid "Tracks: flip track side"
 msgstr ""
 
 #v1.2.29
+# Скарочана, бо не ўлазіць у подпіс
 msgctxt "kb_track_layer_down"
 msgid "Tracks: decr. new track layer"
-msgstr "Пуці: панізіць слой новага пуці"
+msgstr "Пуці: - слой новага пуці"
 
 #v1.2.29
+# Скарочана, бо не ўлазіць у подпіс
 msgctxt "kb_track_layer_up"
 msgid "Tracks: incr. new track layer"
-msgstr "Пуці: павысіць слой новага пуці"
+msgstr "Пуці: + слой новага пуці"
 
 #v1.2.22
 msgctxt "kb_track_move"
@@ -3206,12 +3210,12 @@ msgstr "Пуці: новы сігнал"
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
-msgstr ""
+msgstr "Пуці: склейванне будынкаў"
 
 #v1.6.13
 msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
-msgstr ""
+msgstr "Пуці: склейванне парал. пуцей"
 
 #v1.6.13
 msgctxt "kb_track_sat_split"
@@ -3221,12 +3225,12 @@ msgstr "Пуці: падзяліць"
 #v1.6.13
 msgctxt "kb_track_sat_station_tape"
 msgid "Tracks: station tape"
-msgstr ""
+msgstr "Пуці: склейванне станцый"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
 msgid "Tracks: track tape"
-msgstr ""
+msgstr "Пуці: склейванне пуцей"
 
 #v1.2.22
 msgctxt "kb_track_sel_signal"
@@ -3239,9 +3243,10 @@ msgid "Tracks: new station"
 msgstr "Пуці: новая станцыя"
 
 #v1.2.22
+# Літаральны пераклад "скасаваць праект", "распланаваць", але больш падыходзіць такі вольны пераклад
 msgctxt "kb_tracks_unbp"
 msgid "Tracks: unblueprint"
-msgstr ""
+msgstr "Пуці: ператварыць у праект"
 
 #v1.2.22
 msgctxt "key_info2"
@@ -3336,7 +3341,7 @@ msgstr "Сартаванне: Селі на цягнік"
 #v1.3.13
 msgctxt "line_list_sort_pax_fares"
 msgid "Sort by: Fares"
-msgstr ""
+msgstr "Сартаванне: Тарыф"
 
 #v1.3.13
 msgctxt "line_list_sort_pax_profit"
@@ -3346,7 +3351,7 @@ msgstr "Сартаванне: Прыбытак"
 #v1.3.13
 msgctxt "line_list_sort_pax_refunds"
 msgid "Sort by: Refunds"
-msgstr "Сартаванне: Звароты"
+msgstr "Сартаванне: Звароты грошай"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -3910,7 +3915,7 @@ msgstr "Недапушчальны стан"
 #v1.1.58
 msgctxt "loader_final"
 msgid "Finalizing"
-msgstr ""
+msgstr "Завяршэнне"
 
 #v1.6.13
 msgctxt "loader_loading_db"
@@ -3925,7 +3930,7 @@ msgstr "Загрузка стану сімуляцыі"
 #v1.1.58
 msgctxt "loader_parsing_header"
 msgid "Parsing header"
-msgstr ""
+msgstr "Аналіз загалоўка"
 
 #v1.1.58
 msgctxt "loader_prep_import"
@@ -3940,7 +3945,7 @@ msgstr ""
 #v1.1.58
 msgctxt "loader_spawn"
 msgid "Spawning game loader"
-msgstr ""
+msgstr "Спараджэнне загрузчыка гульні"
 
 #v1.3.13
 msgctxt "loader_stations_n"
@@ -3975,7 +3980,7 @@ msgstr "Баланс:"
 #v1.1.31
 msgctxt "loan_contract_accept"
 msgid "Take new loan"
-msgstr ""
+msgstr "Пазычыць"
 
 #v1.1.31
 msgctxt "loan_contract_amount"
@@ -4030,7 +4035,7 @@ msgstr ""
 #v1.1.31
 msgctxt "loan_pay_early"
 msgid "Pay early ${}"
-msgstr ""
+msgstr "Выплаціць датэрмінова ${}"
 
 #v1.1.31
 msgctxt "loan_payments"
@@ -4125,7 +4130,7 @@ msgstr "Прадаць усе цягнікі"
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "Умяшанне ў рух усіх цягнікоў з састарэлымі рэйсамі"
+msgstr "Умяшацца ў рух усіх цягнікоў з састарэлымі рэйсамі"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
@@ -4140,7 +4145,7 @@ msgstr "Пацвердзіце ўмяшанне ў рух усіх цягнік�
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "Умяшанне ў рух усіх цягнікоў"
+msgstr "Умяшацца ў рух усіх цягнікоў"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
@@ -4541,7 +4546,7 @@ msgstr "Запрасіць"
 #v1.1.31
 msgctxt "mp_action_req_join"
 msgid "Request join"
-msgstr ""
+msgstr "Запытаць далучэнне"
 
 #v1.1.31
 msgctxt "mp_client_info"
@@ -4802,7 +4807,7 @@ msgstr "Назва кампаніі:"
 # Без скарачэння не ўмяшчаецца
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "Водступ нов. пар. пуцей:"
+msgstr "Водст. нов. пар. пуцей:"
 
 #v1.5.31
 msgctxt "option_company_station_label"
@@ -4888,7 +4893,7 @@ msgstr ""
 #v1.1.31
 msgctxt "osm_admin_level_4"
 msgid "State"
-msgstr ""
+msgstr "Штат/вобласць"
 
 #v1.1.31
 msgctxt "osm_admin_level_5"
@@ -4898,7 +4903,7 @@ msgstr "Рэгіён"
 #v1.1.31
 msgctxt "osm_admin_level_6"
 msgid "County"
-msgstr ""
+msgstr "Акруга"
 
 #v1.1.31
 msgctxt "osm_admin_level_7"
@@ -4983,7 +4988,7 @@ msgstr ""
 #v1.5.31
 msgctxt "path2_wait_at"
 msgid " Wait {0} at {1}"
-msgstr ""
+msgstr " Чакае {0} у {1}"
 
 #v1.5.31
 msgctxt "path2_wait_line2"
@@ -5003,7 +5008,7 @@ msgstr "Шлях пачнецца з наступнага прыпынку па�
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr ""
+msgstr "Выяўлены састарэлыя даныя, крок ігнаруецца"
 
 #v1.5.31
 msgctxt "pax_new_time"
@@ -5247,7 +5252,7 @@ msgstr "Вярнуцца да гульні"
 #v1.1.72
 msgctxt "ridership"
 msgid "Ridership"
-msgstr "Колькасць пасажыраў"
+msgstr "Пасажырапаток"
 
 #v1.1.72
 msgctxt "right_bar_assets"
@@ -5402,7 +5407,7 @@ msgstr "Захаваць"
 #v1.4.15
 msgctxt "save_clipboard"
 msgid "Save clipboard"
-msgstr ""
+msgstr "Захаваць буфер абмену"
 
 #v1.1.31
 msgctxt "save_file_name"
@@ -5452,7 +5457,7 @@ msgstr "Выдатна"
 #v1.1.37
 msgctxt "sax_refund_warn_fare"
 msgid "Refund risk due to fare"
-msgstr ""
+msgstr "Рызыка звароту грошай з-за тарыфу"
 
 #v1.1.31
 msgctxt "sax_score"
@@ -5467,12 +5472,12 @@ msgstr ""
 #v1.1.37
 msgctxt "sax_tooltip_new"
 msgid "Expects {0}, ${1:.2f}"
-msgstr ""
+msgstr "Чакае {0}, ${1:.2f}"
 
 #v1.1.31
 msgctxt "scaling_mode"
 msgid "Scaling:"
-msgstr ""
+msgstr "Маштабаванне:"
 
 #v1.1.31
 msgctxt "scaling_mode_auto"
@@ -5847,12 +5852,12 @@ msgstr "Прыпынак {}"
 #v1.5.31
 msgctxt "stop_leg_full2"
 msgid "{0}m at {1} km/h avg."
-msgstr ""
+msgstr "{0}м пры {1} км/г сяр."
 
 #v1.2.22
 msgctxt "stop_leg_l"
 msgid "{0}m"
-msgstr ""
+msgstr "{0}м"
 
 #v1.1.31
 msgctxt "stops_n_0"
@@ -5983,7 +5988,7 @@ msgstr "Хвост цягніка"
 #v1.1.58
 msgctxt "tag_fantasy"
 msgid "Fantasy"
-msgstr ""
+msgstr "Фантастычны"
 
 #v1.1.58
 msgctxt "tag_filter_any"
@@ -6446,7 +6451,7 @@ msgstr "Усяго пуцей"
 #v1.3.13
 msgctxt "train_alert_banner"
 msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr ""
+msgstr "{} ({})\n{}\nЗ: {} UTC+{}"
 
 #v1.3.13
 msgctxt "train_alert_center_train"
@@ -6456,7 +6461,7 @@ msgstr "Перайсці да цягніка"
 #v1.3.13
 msgctxt "train_alert_line_banner"
 msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr ""
+msgstr "{} ({} / {})\n{}\nЗ: {} UTC+{}"
 
 #v1.1.31
 msgctxt "train_bill"
@@ -6596,7 +6601,7 @@ msgstr "Цягнікі:"
 #v1.5.31
 msgctxt "train_group_n_value"
 msgid "{0} copying, {1} managed"
-msgstr ""
+msgstr "{0} капіруюць, {1} кіруюцца"
 
 #v1.5.31
 msgctxt "train_group_shift_matching"
@@ -6699,14 +6704,16 @@ msgid "Mass / empty:"
 msgstr "Маса / маса пустога:"
 
 #v1.1.31
+# Без скарачэння не ўлазіць
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr "Пасажыраўмяшчальнасць:"
+msgstr "Макс. пасажыраў:"
 
 #v1.1.31
+# Без скарачэння не ўлазіць
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "Максімальная хуткасць:"
+msgstr "Макс. хуткасць:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
@@ -6739,9 +6746,10 @@ msgid "Price:"
 msgstr "Цана:"
 
 #v1.1.31
+# Без скарачэння не ўлазіць
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr ""
+msgstr "Эксплуатац. выдаткі:"
 
 #v1.1.31
 msgctxt "train_info_speed"
@@ -6811,7 +6819,7 @@ msgstr "Агульная магутнасць:"
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
-msgstr ""
+msgstr "Гэта ўмяшанне скіне бягучы загад цягніка, адрадзіць яго на наступным месцы прызначэння і перамясціць пасажыраў на іх наступныя прыпынкі. Цана: ${}."
 
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
@@ -7266,7 +7274,7 @@ msgstr "%d цягнікоў"
 #v1.1.58
 msgctxt "transfers_to"
 msgid "Transfers to {}"
-msgstr ""
+msgstr "Перасадкі да {}"
 
 #v1.1.31
 msgctxt "ugc_error_conn"
@@ -7366,7 +7374,7 @@ msgstr "Запампаваць мод"
 #v1.4.15
 msgctxt "use_placeholders"
 msgid "Copy with built-in"
-msgstr ""
+msgstr "Капіраваць з убудаванымі"
 
 #v1.1.37
 msgctxt "used_active_mod"
