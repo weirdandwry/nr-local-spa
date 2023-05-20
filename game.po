@@ -3234,7 +3234,7 @@ msgstr "{0}, {1} км"
 #v1.7.15
 msgctxt "lineeditor_implied_stop_time"
 msgid "Implied stop time:"
-msgstr "Меркаваны час прыпынку:"
+msgstr "Меркаваны час прып.:"
 
 #v1.5.31
 # Скрочана, бо не ўмяшчаецца ў подпіс
@@ -3711,7 +3711,7 @@ msgstr "Пазычыць грошы могуць толькі адміністр
 #v1.1.31
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
-msgstr "Заплачаныя працэнты:"
+msgstr "Заплач. па працэнтам:"
 
 #v1.1.31
 msgctxt "loan_pay_early"
@@ -3726,7 +3726,7 @@ msgstr "Плацяжы:"
 #v1.1.31
 msgctxt "loan_payments_fmt"
 msgid "{0} out of {1}, next on {2}"
-msgstr "{0} з {1}, наступны ў {2}"
+msgstr "{0} з {1}, наступны {2}"
 
 #v1.1.31
 msgctxt "loan_subtitle"
