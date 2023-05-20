@@ -1,776 +1,268 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.7.15
-msgctxt "accounting_trains_departure"
-msgid "Departures"
-msgstr "Адпраўленні"
-
-#v1.7.15
-msgctxt "accounting_trains_running_distance"
-msgid "Running distance"
-msgstr "Пройдзеная адлегласць"
-
-#v1.7.15
-msgctxt "accounting_trains_running_time"
-msgid "Running time"
-msgstr "Час курсіравання"
-
-#v1.7.15
-msgctxt "accounting_trains_stop_time"
-msgid "Stop time"
-msgstr "Час прыпынку"
-
-#v1.7.15
-msgctxt "back_to_main_menu"
-msgid "Back to main menu"
-msgstr "Назад у галоўнае меню"
-
-#v1.7.15
-msgctxt "banner_prompt_load_cmd_line"
-msgid "Load saved game {}?"
-msgstr "Загрузіць захаваную гульню {}?"
-
-#v1.7.15
-msgctxt "banner_prompt_quit_load_cmd_line"
-msgid "Quit current game and load saved game {}?"
-msgstr "Выйсці з бягучай гульні і загрузіць захаваную гульню {}?"
-
-#v1.7.15
-msgctxt "browse_shared_games"
-msgid "Browse shared games"
-msgstr "Агляд абагуленых гульняў"
-
-#v1.7.15
-msgctxt "cancel_replace"
-msgid "Cancel replacement"
-msgstr "Скасаваць замену"
-
-#v1.7.15
-msgctxt "cars_uncategorized"
-msgid "Uncategorized"
-msgstr "Без катэгорыі"
-
-#v1.7.15
-msgctxt "cat_train_interior"
-msgid "Interior"
-msgstr "Інтэр'ер"
-
-#v1.7.15
-msgctxt "confirm_set_no_couplers"
-msgid "Confirm switching to unrestricted coupling"
-msgstr "Пацвердзіце пераключэнне ў рэжым неабмежаванай счэпкі"
-
-#v1.7.15
-msgctxt "confirm_set_no_couplers_desc"
-msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў рэжым неабмежаванай счэпкі? Гэта дзеянне не можа быць адроблена."
-
-#v1.7.15
-msgctxt "constraint_select_parent"
-msgid "Select parent track"
-msgstr "Выбраць бацькоўскі пуць"
-
-#v1.7.15
-msgctxt "effective_leg_time"
-msgid "Middle point to middle point effective leg time: {}\nPrev. stop arrival braking time: -{}s\nThis stop braking time: +{}s"
+#v1.8.24
+msgctxt "accounting_trains_collisions"
+msgid "Collisions"
 msgstr ""
 
-#v1.7.15
-msgctxt "effective_leg_time_desc"
-msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
+#v1.8.24
+msgctxt "accounting_trains_extra_stop_time"
+msgid "Extra stop"
 msgstr ""
 
-#v1.7.15
-msgctxt "effective_times_desc"
-msgid "Showing effective leg times: arrival matches the time of train crossing the middle of platform.\nLeg time matches the time from crossing the middle of one platform to the middle of the next one, minus stop time."
+#v1.8.24
+msgctxt "accounting_trains_late_arrival_time"
+msgid "Late arrival >10s"
 msgstr ""
 
-#v1.7.15
-msgctxt "file_picker_file_size"
-msgid "Size:"
-msgstr "Памер:"
-
-#v1.7.15
-msgctxt "file_picker_sort_date"
-msgid "Date"
-msgstr "Дата"
-
-#v1.7.15
-msgctxt "file_picker_sort_name"
-msgid "Name"
-msgstr "Назва"
-
-#v1.7.15
-msgctxt "file_picker_sort_size"
-msgid "Size"
-msgstr "Памер"
-
-#v1.7.15
-msgctxt "file_picker_stats"
-msgid "Stats:"
-msgstr "Статыстыка:"
-
-#v1.7.15
-msgctxt "file_picker_stats_values"
-msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
-msgstr "{} пуцей, {} будынкаў, {} станцый, {} цягнікоў, {} ліній"
-
-#v1.7.15
-msgctxt "game_sharing"
-msgid "Game sharing"
-msgstr "Абагульванне гульні"
-
-#v1.7.15
-msgctxt "geo_export_desc"
-msgid "Tracks and buildings GeoJSON has been exported to {}"
-msgstr "GeoJSON пуцей і будынкаў экспартаваны ў {}"
-
-#v1.7.15
-msgctxt "geo_export_title"
-msgid "Exported GeoJSON"
-msgstr "GeoJSON экспартаваны"
-
-#v1.7.15
-msgctxt "intuitive_times_desc"
-msgid "Showing intuitive leg times: arrival and departure matches the time of train stop and start.\nLeg time matches the running time between train start and stop."
+#v1.8.24
+msgctxt "accounting_trains_signal_stop_time"
+msgid "Signal wait"
 msgstr ""
 
-#v1.7.15
-msgctxt "line_warn_custom_duration_too_short"
-msgid "Custom duration is too short and it is ignored"
-msgstr "Карыстальніцкая працягласць ігнаруецца, бо яна занадта кароткая"
-
-#v1.7.15
-msgctxt "line_warn_no_custom_duration_stops"
-msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
+#v1.8.24
+msgctxt "editor_branch_append"
+msgid "Start or merge branches when pointing on top of existing tracks"
 msgstr ""
 
-#v1.7.15
-msgctxt "line_warn_unachievable_fixed_departure"
-msgid "One or more fixed departure stops are unachievable"
+#v1.8.24
+msgctxt "editor_tip_add_left3"
+msgid "Left click on length of existing tracks to branch them"
 msgstr ""
 
-#v1.7.15
-msgctxt "lineeditor_default_timings_go_ref_train"
-msgid "Edit reference train"
-msgstr "Рэдагаваць апорны цягнік"
-
-#v1.7.15
-msgctxt "lineeditor_display_in_map"
-msgid "Display in map:"
-msgstr "Паказваць на карце:"
-
-#v1.7.15
-msgctxt "lineeditor_display_in_map_v"
-msgid "Display in map"
-msgstr "Паказваць на карце"
-
-#v1.7.15
-msgctxt "lineeditor_fixed_departure_at"
-msgid "Depart at:"
-msgstr "Адпраўляцца праз:"
-
-#v1.7.15
-msgctxt "lineeditor_fixed_departure_at_shift"
-msgid "Shift click to also apply the time delta to all following fixed departures"
+#v1.8.24
+msgctxt "editor_tip_cont_left_s1"
+msgid "Hold Shift to keep creating more segments."
 msgstr ""
 
-#v1.7.15
-msgctxt "lineeditor_fixed_departure_desc"
-msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
+#v1.8.24
+msgctxt "line_to3"
+msgid "{0} [{1}] at"
 msgstr ""
 
-#v1.7.15
-msgctxt "lineeditor_implied_stop_time"
-msgid "Implied stop time:"
-msgstr "Меркаваны час прыпынку:"
-
-#v1.7.15
-msgctxt "lineeditor_intuitive"
-msgid "Intuitive arrival at:"
+#v1.8.24
+msgctxt "lineeditor_display_in_map_disabled"
+msgid "Disabled"
 msgstr ""
 
-#v1.7.15
-msgctxt "lineeditor_stop_mode"
-msgid "Stop time mode:"
-msgstr "Рэжым часу прыпынку:"
-
-#v1.7.15
-msgctxt "lineeditor_stop_mode_auto"
-msgid "Automatic"
-msgstr "Аўтаматычны"
-
-#v1.7.15
-msgctxt "lineeditor_stop_mode_custom"
-msgid "Custom time"
-msgstr "Карыстальніцкі час"
-
-#v1.7.15
-msgctxt "lineeditor_stop_mode_fixed_departure"
-msgid "Fixed departure"
-msgstr "Фіксаванае адпраўленне"
-
-#v1.7.15
-msgctxt "lineeditor_unachievable_depart"
-msgid "Unachievable departure"
-msgstr "Немагчымы час адпраўлення"
-
-#v1.7.15
-msgctxt "loader_downloading"
-msgid "Downloading"
-msgstr "Спампоўванне"
-
-#v1.7.15
-msgctxt "loader_http_error"
-msgid "Error downloading shared game file"
-msgstr "Памылка пры спампаванні файла абагуленай гульні"
-
-#v1.7.15
-msgctxt "mod_contents"
-msgid "Mod contents: {} rules"
-msgstr "Змесціва мода: {} правіл"
-
-#v1.7.15
-msgctxt "mod_disable_all_unused"
-msgid "Disable all unused mods"
-msgstr "Адключыць усе неўжывальныя моды"
-
-#v1.7.15
-msgctxt "mod_panel_list_only_enabled"
-msgid "Enabled mods in this game"
-msgstr "Уключаныя ў гэтай гульні"
-
-#v1.7.15
-# Не здолеў знайсці адпаведнае слова ў беларускай для orhpaned (менавіта для гэтага выпадку), але тут па сутнасці дастаткова і unused
-msgctxt "mod_remove_all_orphaned"
-msgid "Remove all orphaned and unused rules"
-msgstr "Выдаліць усе неўжывальныя правілы"
-
-#v1.7.15
-msgctxt "my_shared_games"
-msgid "My shared games"
-msgstr "Мае абагуленыя гульні"
-
-#v1.7.15
-msgctxt "option_company_geo_export"
-msgid "Export GeoJSON"
-msgstr "Экспартаваць GeoJSON"
-
-#v1.7.15
-msgctxt "option_company_switch_no_couplers"
-msgid "Switch to unrestricted coupling"
-msgstr "Пераключыцца ў рэжым неабмежаванай счэпкі"
-
-#v1.7.15
-msgctxt "option_no_couplers"
-msgid "Unrestricted coupling"
-msgstr "Неабмежаваная счэпка"
-
-#v1.7.15
-msgctxt "purchase_trains"
-msgid "Purchase new train(s)"
-msgstr "Набыць новы(я) цягнік(і)"
-
-#v1.7.15
-msgctxt "replace_trains"
-msgid "Replace existing train(s)"
-msgstr "Замяніць існуючы(я) цягнік(і)"
-
-#v1.7.15
-msgctxt "right_bar_like"
-msgid "Like this shared save"
-msgstr "Паставіць падабайку гэтаму абагуленаму захаванню"
-
-#v1.7.15
-msgctxt "run_view_tooltip_click"
-msgid "Click to see all {} stops"
-msgstr "Націсніце, каб убачыць усе {} прыпынкаў"
-
-#v1.7.15
-msgctxt "share_deleting"
-msgid "Deleting slot"
-msgstr "Выдаліць слот"
-
-#v1.7.15
-msgctxt "share_empty_slot"
-msgid "< Empty slot >"
-msgstr "< Пусты слот >"
-
-#v1.7.15
-msgctxt "share_game"
-msgid "Share game"
-msgstr "Абагуліць гульню"
-
-#v1.7.15
-msgctxt "share_game_attribution"
-msgid "Attribution:"
+#v1.8.24
+msgctxt "lineeditor_display_in_map_loop"
+msgid "Loop"
 msgstr ""
 
-#v1.7.15
-msgctxt "share_game_attribution_anon"
-msgid "Anonymous"
-msgstr "Ананімна"
-
-#v1.7.15
-msgctxt "share_game_attribution_name"
-msgid "Steam user name"
-msgstr "Імя карыстальніка ў Steam"
-
-#v1.7.15
-msgctxt "share_game_attribution_profile"
-msgid "Steam user name and profile link"
-msgstr "Імя карыстальніка ў Steam і спасылка на профіль"
-
-#v1.7.15
-msgctxt "share_game_copy_link"
-msgid "Copy link"
-msgstr "Капіраваць спасылку"
-
-#v1.7.15
-msgctxt "share_game_copy_link_desc"
-msgid "Copy game link into clipboard"
-msgstr "Скапіраваць спасылку на гульню ў буфер абмену"
-
-#v1.7.15
-msgctxt "share_game_delete_desc"
-msgid "Delete the existing uploaded game"
-msgstr "Выдаліць ужо запампаваную гульню"
-
-#v1.7.15
-msgctxt "share_game_open_link"
-msgid "Open link"
-msgstr "Адкрыць спасылку"
-
-#v1.7.15
-msgctxt "share_game_open_link_desc"
-msgid "Open game link in a web browser"
-msgstr "Адкрыць спасылку на гульню ў веб-браўзеры"
-
-#v1.7.15
-msgctxt "share_game_own_likes"
-msgid "Likes:"
-msgstr "Падабайкі:"
-
-#v1.7.15
-msgctxt "share_game_replace"
-msgid "Replace with current game"
-msgstr "Замяніць бягучай гульнёй"
-
-#v1.7.15
-msgctxt "share_game_replace_desc"
-msgid "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
+#v1.8.24
+msgctxt "lineeditor_display_in_map_nonloop"
+msgid "Non-loop"
 msgstr ""
 
-#v1.7.15
-msgctxt "share_game_upload"
-msgid "Upload current game"
-msgstr "Запампаваць бягучую гульню"
-
-#v1.7.15
-msgctxt "share_game_upload_desc"
-msgid "Upload current game to nimbyrails.com and create a link to share it"
-msgstr "Запампаваць бягучую гульню на nimbyrails.com і стварыць спасылку, каб абагуліць яе"
-
-#v1.7.15
-msgctxt "share_home_by"
-msgid "By {}"
-msgstr "Ад {}"
-
-#v1.7.15
-msgctxt "share_home_click_load"
-msgid "Click to load game"
-msgstr "Націсніце, каб загрузіць гульню"
-
-#v1.7.15
-msgctxt "share_listing"
-msgid "Listing slots"
+#v1.8.24
+msgctxt "lineeditor_max_accel"
+msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
 msgstr ""
 
-#v1.7.15
-msgctxt "share_net_error_api"
-msgid "Sharing API error {}"
-msgstr "Памылка ў API абагульвання: {}"
-
-#v1.7.15
-msgctxt "share_net_error_cannot_connect"
-msgid "Cannot connect to sharing service"
-msgstr "Немагчыма злучыцца з сэрвісам абагульвання"
-
-#v1.7.15
-msgctxt "share_querying_slot"
-msgid "< Loading... >"
-msgstr "< Загрузка... >"
-
-#v1.7.15
-msgctxt "share_upload_map_preview"
-msgid "Uploading map preview {}%"
-msgstr "Запампоўванне перадпрагляду карты {}%"
-
-#v1.7.15
-msgctxt "share_upload_save"
-msgid "Uploading saved game {}%"
-msgstr "Запампоўванне захаванай гульні {}%"
-
-#v1.7.15
-msgctxt "share_upload_screenshot"
-msgid "Uploading screenshot {}%"
-msgstr "Запампоўванне здымку экрана {}%"
-
-#v1.7.15
-msgctxt "stop_times_tp_line0"
-msgid "Leg time from middle to middle w/o wait time"
-msgstr "Час руху з сярэдзіны да сярэдзіны па перагону без часу чакання"
-
-#v1.7.15
-msgctxt "stop_times_tp_line2"
-msgid "Brake to a halt"
-msgstr "Тармажэнне да поўнага прыпынку"
-
-#v1.7.15
-msgctxt "stop_times_tp_line3"
-msgid "Intuitive arrival at"
-msgstr "Інтуітыўны час прыбыцця"
-
-#v1.7.15
-msgctxt "stop_times_tp_line5"
-msgid "Depart at"
-msgstr "Час адпраўлення"
-
-#v1.7.15
-msgctxt "stop_times_tp_reach"
-msgid "Stop {} reach middle of platform at"
-msgstr "Час дасягнення сярэдзіны платформы прыпынку {}"
-
-#v1.7.15
-msgctxt "stop_times_tp_wait"
-msgid "Stop {} wait time"
-msgstr "Час чакання на прыпынку {}"
-
-#v1.7.15
-# Скарочана, бо не ўлазіць у кнопку
-msgctxt "switch_no_couplers"
-msgid "Switch to unrestricted"
-msgstr "Пераключыцца"
-
-#v1.7.15
-msgctxt "tag_couchette"
-msgid "Couchette"
-msgstr "Кушэтка"
-
-#v1.7.15
-msgctxt "tag_kitchen"
-msgid "Kitchen"
-msgstr "Кухня"
-
-#v1.7.15
-msgctxt "tag_open_coach"
-msgid "Open coach"
+#v1.8.24
+msgctxt "lineeditor_max_accel_desc"
+msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
 msgstr ""
 
-#v1.7.15
-msgctxt "tag_toilet"
-msgid "Toilet"
-msgstr "Туалет"
-
-#v1.7.15
-msgctxt "tag_vending"
-msgid "Vending"
+#v1.8.24
+msgctxt "lineeditor_max_brake"
+msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
 msgstr ""
 
-#v1.7.15
-msgctxt "tags_interior"
-msgid "Interior"
-msgstr "Інтэр'ер"
-
-#v1.7.15
-msgctxt "train_bulk_replace"
-msgid "Replace selection"
-msgstr "Замяніць выбранае"
-
-#v1.7.15
-msgctxt "train_car_append"
-msgid "Append {} car(s)"
-msgstr "Дадаць {} выгон(аў)"
-
-#v1.7.15
-msgctxt "train_car_append_listing_cursor"
-msgid "Append here"
-msgstr "Дадаць сюды"
-
-#v1.7.15
-msgctxt "train_car_base_color_edit"
-msgid "Base color:"
-msgstr "Базавы колер:"
-
-#v1.7.15
-msgctxt "train_car_decal_color_edit"
-msgid "Decal color:"
-msgstr "Колер дэкалі:"
-
-#v1.7.15
-msgctxt "train_car_decal_edit"
-msgid "Decal:"
-msgstr "Дэкаль:"
-
-#v1.7.15
-msgctxt "train_car_default"
-msgid "Default"
-msgstr "Стандартны"
-
-#v1.7.15
-msgctxt "train_car_flip"
-msgid "Flip"
-msgstr "Пераварот"
-
-#v1.7.15
-msgctxt "train_car_n_cars"
-msgid "{} cars"
-msgstr "{} вагонаў"
-
-#v1.7.15
-msgctxt "train_car_replace"
-msgid "Replace {} car(s)"
-msgstr "Замяніць {} вагон(аў)"
-
-#v1.7.15
-msgctxt "train_cars_inst"
-msgid "Cars:"
-msgstr "Вагоны:"
-
-#v1.7.15
-msgctxt "train_cars_new_cars"
-msgid "New cars"
-msgstr "Новыя вагоны"
-
-#v1.7.15
-msgctxt "train_create_order_from_run"
-msgid "Create new order from this run"
-msgstr "Стварыць новы загад з гэтага рэйса"
-
-#v1.7.15
-msgctxt "train_decal_change"
-msgid "Change"
-msgstr "Змяніць"
-
-#v1.7.15
-msgctxt "train_decal_change_desc"
-msgid "This feature only works properly if all cars are from the same mod and train composition"
+#v1.8.24
+msgctxt "lineeditor_max_brake_desc"
+msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
 msgstr ""
 
-#v1.7.15
-msgctxt "train_final_price"
-msgid "Final price:"
-msgstr "Канчатковая цана:"
+#v1.8.24
+msgctxt "lineeditor_stop_arrive"
+msgid "Arrive at:"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_back"
-msgid "Back coupling:"
-msgstr "Задняя счэпка:"
+#v1.8.24
+msgctxt "realtime"
+msgid "Realtime"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_front"
-msgid "Front coupling:"
-msgstr "Пярэдняя счэпка:"
+#v1.8.24
+msgctxt "rtstat_creation"
+msgid "Creation date"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_mandatory"
-msgid "mandatory"
-msgstr "абавязковая"
+#v1.8.24
+msgctxt "share_home_listing"
+msgid "Browse {} shared games"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_none"
-msgid "none"
-msgstr "ніякая"
+#v1.8.24
+msgctxt "signal_check_hit_occ"
+msgid "Occupied by {}"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_optional"
-msgid "optional"
-msgstr "неабавязковая"
+#v1.8.24
+msgctxt "signal_check_hit_res"
+msgid "Reserved by {}"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_coupler_universal"
-msgid "universal"
-msgstr "універсальная"
+#v1.8.24
+msgctxt "signal_warn_ignored"
+msgid "Ignored"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_description"
-msgid "Description:"
-msgstr "Апісанне:"
+#v1.8.24
+msgctxt "signal_warn_ignored_plat_desc"
+msgid "One way signals at platform dead ends are ignored"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_info_running_cost_f2"
-msgid "${0:.2} per km, ${1:.2} per km per pax"
-msgstr "${0:.2} за км, ${1:.2} за пасажыра-кіламетр"
+#v1.8.24
+msgctxt "signal_warn_max_length_desc"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr ""
 
-#v1.7.15
-msgctxt "train_list_filter_alert_only_stale"
-msgid "Only stale"
-msgstr "Толькі з састарэлымі рэйсамі"
+#v1.8.24
+msgctxt "signal_warn_too_close_desc"
+msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
+msgstr ""
 
-#v1.7.15
-msgctxt "train_list_filter_alert_only_warning"
-msgid "Only with warnings"
-msgstr "Толькі з папярэджаннямі"
+#v1.8.24
+msgctxt "stop_times_tp_arrival"
+msgid "Stop {} arrival"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_model_edit_custom"
-msgid "Custom"
-msgstr "Карыстальніцкі"
+#v1.8.24
+msgctxt "stop_times_tp_departure"
+msgid "Stop {} departure"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_apply"
-msgid "Apply changes"
-msgstr "Ужыць змены"
+#v1.8.24
+msgctxt "stop_times_tp_leg"
+msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_disabled"
-msgid "Editing disabled by mod author"
-msgstr "Рэдагаванне адключана аўтарам мода"
+#v1.8.24
+msgctxt "teo.append_continous"
+msgid "Continously append track segments until pressing Esc or merging/linking the track"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_error_cash"
-msgid "Cannot afford new car(s)"
-msgstr "Не хапае грошай на новы(я) вагон(ы)"
+#v1.8.24
+msgctxt "track_info_name"
+msgid "Name:"
+msgstr "Назва:"
 
-#v1.7.15
-msgctxt "train_recompo_error_coupling"
-msgid "Invalid coupling"
-msgstr "Недапушчальная счэпка"
+#v1.8.24
+msgctxt "train_car_append_tp"
+msgid "Shift clicking cars in the listing directly appends them"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_error_empty"
-msgid "Empty train"
-msgstr "Пусты цягнік"
+#v1.8.24
+msgctxt "train_departing_to"
+msgid "Departing to"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_error_long"
-msgid "Too many cars"
-msgstr "Занадта шмат вагонаў"
+#v1.8.24
+msgctxt "train_departing_to_connect"
+msgid "to"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_error_unpowered"
-msgid "Unpowered"
-msgstr "Не хапае лакаматыва"
+#v1.8.24
+msgctxt "train_editable_builtin_tags"
+msgid "Built-in tags:"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_price"
-msgid "Price: ${}"
-msgstr "Цана: ${}"
+#v1.8.24
+msgctxt "train_editable_builtin_tags_locked"
+msgid "Locked by mod"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_refund"
-msgid "Refund: ${}"
-msgstr "Зварот грошай: ${}"
+#v1.8.24
+msgctxt "train_info_future_pin"
+msgid "Scroll map to train spawn position"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_recompo_reset"
-msgid "Reset changes"
-msgstr "Скінуць змены"
+#v1.8.24
+msgctxt "train_info_late_predicted2"
+msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_refund"
-msgid "Total refund:"
-msgstr "Усяго зваротаў грошай:"
+#v1.8.24
+msgctxt "train_info_max_accel"
+msgid "Max acceleration:"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_replace"
-msgid "Replace"
-msgstr "Замяніць"
+#v1.8.24
+msgctxt "train_info_max_accel_v"
+msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_tmu_as_custom"
-msgid "Edit as custom train"
-msgstr "Рэдагаваць як карыстальніцкі цягнік"
+#v1.8.24
+msgctxt "train_info_total_power_v"
+msgid "{0} kW, {1} kN max tr. eff."
+msgstr ""
 
-#v1.7.15
-msgctxt "train_tmu_copy_custom"
-msgid "Copy for custom train"
-msgstr "Капіраваць для карыстальніцкага цягніка"
+#v1.8.24
+msgctxt "train_intervene_group"
+msgid "Intervene group"
+msgstr ""
 
-#v1.7.15
-msgctxt "traineditor_buy_custom_mode"
-msgid "Purchase custom train"
-msgstr "Набыць карыстальніцкі цягнік"
+#v1.8.24
+msgctxt "train_list_filter_alert_only_waiting_spawn"
+msgid "Only waiting to spawn"
+msgstr ""
 
-#v1.7.15
-msgctxt "traineditor_buy_tmu_mode"
-msgid "Purchase preconfigured train"
-msgstr "Набыць загадзя сканфігураваны цягнік"
+#v1.8.24
+msgctxt "train_list_filter_alert_waiting_spawn"
+msgid "Waiting spawn"
+msgstr ""
 
-#v1.7.15
-msgctxt "traineditor_replace_custom_mode"
-msgid "Replacing with custom train"
-msgstr "Замяніць карыстальніцкім цягніком"
+#v1.8.24
+msgctxt "train_rt_late"
+msgid "Est. lateness (s)"
+msgstr ""
 
-#v1.7.15
-msgctxt "traineditor_replace_tmu_mode"
-msgid "Replacing with preconfigured train"
-msgstr "Замяніць загадзя сканфігураваным цягніком"
+#v1.8.24
+msgctxt "train_rt_leg"
+msgid "Remaining leg (m)"
+msgstr ""
 
-#v1.7.15
-msgctxt "traineditor_tooltip_buy_custom_mode"
-msgid "Purchase custom train"
-msgstr "Набыць карыстальніцкі цягнік"
-
-#v1.7.15
-msgctxt "traineditor_tooltip_buy_tmu_mode"
-msgid "Purchase preconfigured train"
-msgstr "Набыць загадзя сканфігураваны цягнік"
-
-
+#v1.8.24
+msgctxt "train_rt_speed"
+msgid "Speed (km/h)"
+msgstr ""
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.7.15
-msgctxt "file_picker_file_modified"
-msgid "Modified:"
-msgstr "Зменена:"
-
-#v1.7.15
-msgctxt "lineeditor_header_full_tooltip"
-msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
+#v1.8.24
+msgctxt "accounting_trains_stop_time"
+msgid "Scheduled stop"
 msgstr ""
 
-#v1.7.15
-msgctxt "lineeditor_min_stop_time_desc"
-msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
+#v1.8.24
+msgctxt "editor_tip_add_left1"
+msgid "Left click on the end of track control points to continue an existing track"
 msgstr ""
 
-#v1.7.15
-msgctxt "mod_panel_list_title"
-msgid "All subscribed mods"
-msgstr "Усе моды, на якія вы падпісаліся"
+#v1.8.24
+msgctxt "editor_tip_cont_left"
+msgid "Left click to create a new track segment."
+msgstr ""
 
-#v1.7.15
-# Слова "стандартны" скарочана, каб умясціць сказ у подпіс
-msgctxt "train_base_color_edit"
-msgid "Default base color:"
-msgstr "Базавы колер (ст.):"
+#v1.8.24
+msgctxt "kb_track_branch"
+msgid "Tracks: allow branching"
+msgstr ""
 
-#v1.7.15
-# Слова "стандартны" скарочана, каб умясціць сказ у подпіс
-msgctxt "train_decal_color_edit"
-msgid "Default decal color:"
-msgstr "Колер дэкалі (ст.):"
+#v1.8.24
+msgctxt "line_warn_custom_duration_too_short"
+msgid "Custom line duration is too short and it is ignored"
+msgstr ""
 
-#v1.7.15
-msgctxt "train_decal_edit"
-msgid "Change all decals:"
-msgstr "Змяніць усе дэкалі:"
-
-#v1.7.15
-msgctxt "train_info_dim_d"
-msgid "{0} cars / {1:.2f}m / {2:.2f}m"
-msgstr "{0} вагонаў / {1:.2f}м / {2:.2f}м"
-
-#v1.7.15
-msgctxt "train_price"
-msgid "Per train price:"
-msgstr "Цана за цягнік:"
-
-
+#v1.8.24
+msgctxt "sort_sep_real_time"
+msgid "--- Realtime ---"
+msgstr ""
 
 # ----------------------------------------------------------
 # unmodified strings
@@ -1057,6 +549,11 @@ msgctxt "accounting_trains"
 msgid "Trains"
 msgstr "Цягнікі"
 
+#v1.7.15
+msgctxt "accounting_trains_departure"
+msgid "Departures"
+msgstr "Адпраўленні"
+
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
@@ -1076,6 +573,16 @@ msgstr "Новыя цягнікі"
 msgctxt "accounting_trains_running"
 msgid "Running costs"
 msgstr "Эксплуатацыйныя выдаткі"
+
+#v1.7.15
+msgctxt "accounting_trains_running_distance"
+msgid "Running distance"
+msgstr "Пройдзеная адлегласць"
+
+#v1.7.15
+msgctxt "accounting_trains_running_time"
+msgid "Running time"
+msgstr "Час курсіравання"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
@@ -1219,6 +726,11 @@ msgctxt "back"
 msgid "Back"
 msgstr "Назад"
 
+#v1.7.15
+msgctxt "back_to_main_menu"
+msgid "Back to main menu"
+msgstr "Назад у галоўнае меню"
+
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
@@ -1269,6 +781,11 @@ msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
 msgstr "{0} прапануе вам далучыцца да гульні, якую арганізаваў {1}. Ці жадаеце далучыцца? Бягучая гульня будзе аўтазахавана."
 
+#v1.7.15
+msgctxt "banner_prompt_load_cmd_line"
+msgid "Load saved game {}?"
+msgstr "Загрузіць захаваную гульню {}?"
+
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
@@ -1278,6 +795,11 @@ msgstr "Ці жадаеце далучыцца да гульні, якую ар�
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
 msgstr "{0} прапануе вам далучыцца да гульні, якую арганізаваў {1}. Ці жадаеце далучыцца?"
+
+#v1.7.15
+msgctxt "banner_prompt_quit_load_cmd_line"
+msgid "Quit current game and load saved game {}?"
+msgstr "Выйсці з бягучай гульні і загрузіць захаваную гульню {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
@@ -1308,6 +830,11 @@ msgstr "Усе"
 msgctxt "bill_tab_selection"
 msgid "Selection"
 msgstr "Выбраныя"
+
+#v1.7.15
+msgctxt "browse_shared_games"
+msgid "Browse shared games"
+msgstr "Агляд абагуленых гульняў"
 
 #v1.1.31
 msgctxt "build"
@@ -1505,10 +1032,25 @@ msgctxt "cancel_quit"
 msgid "Quit"
 msgstr "Выйсці"
 
+#v1.7.15
+msgctxt "cancel_replace"
+msgid "Cancel replacement"
+msgstr "Скасаваць замену"
+
+#v1.7.15
+msgctxt "cars_uncategorized"
+msgid "Uncategorized"
+msgstr "Без катэгорыі"
+
 #v1.3.13
 msgctxt "cat_track_gauge"
 msgid "Track gauge"
 msgstr "Шырыня каляі"
+
+#v1.7.15
+msgctxt "cat_train_interior"
+msgid "Interior"
+msgstr "Інтэр'ер"
 
 #v1.3.13
 msgctxt "cat_train_misc"
@@ -1675,6 +1217,16 @@ msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
 msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў рэжым неабмежаванай колькасці грошай? Гэта дзеянне не можа быць адроблена."
 
+#v1.7.15
+msgctxt "confirm_set_no_couplers"
+msgid "Confirm switching to unrestricted coupling"
+msgstr "Пацвердзіце пераключэнне ў рэжым неабмежаванай счэпкі"
+
+#v1.7.15
+msgctxt "confirm_set_no_couplers_desc"
+msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
+msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў рэжым неабмежаванай счэпкі? Гэта дзеянне не можа быць адроблена."
+
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
@@ -1760,6 +1312,11 @@ msgstr "Абмежаванне парал.:"
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
 msgstr "Выдаліць"
+
+#v1.7.15
+msgctxt "constraint_select_parent"
+msgid "Select parent track"
+msgstr "Выбраць бацькоўскі пуць"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -2037,11 +1594,6 @@ msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
 msgstr "Дадаць пуці або стварыць новыя"
 
-#v1.2.22
-msgctxt "editor_branch"
-msgid "Create new track branches"
-msgstr "Стварыць новыя галіны пуцей"
-
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
@@ -2144,11 +1696,6 @@ msgid "Esc to go to edit mode"
 msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
 #v1.1.31
-msgctxt "editor_tip_add_left1"
-msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr ""
-
-#v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
 msgstr "ЛКМ у любым іншым месцы, каб стварыць новы пуць"
@@ -2182,11 +1729,6 @@ msgstr ""
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
 msgstr "Esc, каб скасаваць"
-
-#v1.1.31
-msgctxt "editor_tip_cont_left"
-msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
-msgstr "ЛКМ, каб стварыць новы сегмент пуці. Утрымлівайце Shift, каб працягнуць стварэнне новых сегментаў."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
@@ -2504,6 +2046,11 @@ msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
 msgstr "Хуткасць: {0:.1f}x\nПерашкоды: {1}%"
 
+#v1.7.15
+msgctxt "effective_leg_time_desc"
+msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
+msgstr "Tramo de tiempo en cruzar del centro del andén al centro del andén de la siguiente parada, sin contar el tiempo de espera"
+
 #v1.4.15
 msgctxt "empty_clipboard"
 msgid "<Empty clipboard>"
@@ -2589,10 +2136,45 @@ msgctxt "file_picker_date"
 msgid "In-game date:"
 msgstr "Дата ў гульні:"
 
+#v1.7.15
+msgctxt "file_picker_file_modified"
+msgid "Modified:"
+msgstr ""
+
 #v1.1.37
 msgctxt "file_picker_file_name"
 msgid "File name:"
 msgstr "Імя файла:"
+
+#v1.7.15
+msgctxt "file_picker_file_size"
+msgid "Size:"
+msgstr "Памер:"
+
+#v1.7.15
+msgctxt "file_picker_sort_date"
+msgid "Date"
+msgstr "Дата"
+
+#v1.7.15
+msgctxt "file_picker_sort_name"
+msgid "Name"
+msgstr "Назва"
+
+#v1.7.15
+msgctxt "file_picker_sort_size"
+msgid "Size"
+msgstr "Памер"
+
+#v1.7.15
+msgctxt "file_picker_stats"
+msgid "Stats:"
+msgstr "Статыстыка:"
+
+#v1.7.15
+msgctxt "file_picker_stats_values"
+msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
+msgstr "{} пуцей, {} будынкаў, {} станцый, {} цягнікоў, {} ліній"
 
 #v1.1.37
 msgctxt "file_picker_version"
@@ -2734,6 +2316,11 @@ msgctxt "game_restart_req"
 msgid "Game restart is required"
 msgstr "Патрабуецца перазапуск гульні"
 
+#v1.7.15
+msgctxt "game_sharing"
+msgid "Game sharing"
+msgstr "Абагульванне гульні"
+
 #v1.2.29
 msgctxt "game_speed_down"
 msgid "Game speed down"
@@ -2748,6 +2335,16 @@ msgstr "Паскорыць гульню"
 msgctxt "game_wiki"
 msgid "NIMBY Rails Wiki"
 msgstr "NIMBY Rails Wiki (англ.)"
+
+#v1.7.15
+msgctxt "geo_export_desc"
+msgid "Tracks and buildings GeoJSON has been exported to {}"
+msgstr "GeoJSON пуцей і будынкаў экспартаваны ў {}"
+
+#v1.7.15
+msgctxt "geo_export_title"
+msgid "Exported GeoJSON"
+msgstr "GeoJSON экспартаваны"
 
 #v1.1.31
 msgctxt "global_blueprint_bill"
@@ -3164,11 +2761,6 @@ msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
 msgstr "Пуці: рэжым падвойных пуцей"
 
-#v1.2.22
-msgctxt "kb_track_branch"
-msgid "Tracks: new branch"
-msgstr "Пуці: новая галіна"
-
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
@@ -3392,10 +2984,15 @@ msgctxt "line_timetable"
 msgid "Timetable"
 msgstr "Расклад"
 
-#v1.5.31
-msgctxt "line_to2"
-msgid "{} [{}] to"
-msgstr "{} [{}] да"
+#v1.7.15
+msgctxt "line_warn_no_custom_duration_stops"
+msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
+msgstr ""
+
+#v1.7.15
+msgctxt "line_warn_unachievable_fixed_departure"
+msgid "One or more fixed departure stops are unachievable"
+msgstr ""
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
@@ -3535,6 +3132,16 @@ msgctxt "lineeditor_default_timings"
 msgid "Default timings"
 msgstr "Стандартныя таймінгі"
 
+#v1.7.15
+msgctxt "lineeditor_default_timings_go_ref_train"
+msgid "Edit reference train"
+msgstr "Рэдагаваць апорны цягнік"
+
+#v1.7.15
+msgctxt "lineeditor_display_in_map"
+msgid "Display in map:"
+msgstr "Паказваць на карце:"
+
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
@@ -3591,15 +3198,40 @@ msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
 msgstr "На уручную выбраных прыпынках"
 
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_at"
+msgid "Depart at:"
+msgstr "Адпраўляцца праз:"
+
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_at_shift"
+msgid "Shift click to also apply the time delta to all following fixed departures"
+msgstr ""
+
+#v1.7.15
+msgctxt "lineeditor_fixed_departure_desc"
+msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr ""
+
 #v1.2.22
 msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
 msgstr "{0}, {1} км, {2}, {3} км/г сяр."
 
+#v1.7.15
+msgctxt "lineeditor_header_full_tooltip"
+msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
+msgstr ""
+
 #v1.2.22
 msgctxt "lineeditor_header_l"
 msgid "{0}, {1} km"
 msgstr "{0}, {1} км"
+
+#v1.7.15
+msgctxt "lineeditor_implied_stop_time"
+msgid "Implied stop time:"
+msgstr "Меркаваны час прыпынку:"
 
 #v1.5.31
 # Скрочана, бо не ўмяшчаецца ў подпіс
@@ -3667,6 +3299,11 @@ msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
 msgstr "Час прыпынку:"
 
+#v1.7.15
+msgctxt "lineeditor_min_stop_time_desc"
+msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr ""
+
 #v1.1.37
 msgctxt "lineeditor_move_camera"
 msgid "Pan and zoom view when selecting a line or station"
@@ -3721,6 +3358,26 @@ msgstr "Тэхнічныя манеўры"
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
 msgstr "З'яўляецца сэрвісам лініі:"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode"
+msgid "Stop time mode:"
+msgstr "Рэжым часу прыпынку:"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_auto"
+msgid "Automatic"
+msgstr "Аўтаматычны"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_custom"
+msgid "Custom time"
+msgstr "Карыстальніцкі час"
+
+#v1.7.15
+msgctxt "lineeditor_stop_mode_fixed_departure"
+msgid "Fixed departure"
+msgstr "Фіксаванае адпраўленне"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -3842,6 +3499,11 @@ msgctxt "lineeditor_tz_line"
 msgid "Line"
 msgstr "Лінія"
 
+#v1.7.15
+msgctxt "lineeditor_unachievable_depart"
+msgid "Unachievable departure"
+msgstr "Немагчымы час адпраўлення"
+
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
@@ -3913,6 +3575,11 @@ msgctxt "loader_deserializing"
 msgid "Deserializing"
 msgstr ""
 
+#v1.7.15
+msgctxt "loader_downloading"
+msgid "Downloading"
+msgstr "Спампоўванне"
+
 #v1.1.58
 msgctxt "loader_error_invalid"
 msgid "Invalid state"
@@ -3922,6 +3589,11 @@ msgstr "Недапушчальны стан"
 msgctxt "loader_final"
 msgid "Finalizing"
 msgstr "Завяршэнне"
+
+#v1.7.15
+msgctxt "loader_http_error"
+msgid "Error downloading shared game file"
+msgstr "Памылка пры спампаванні файла абагуленай гульні"
 
 #v1.6.13
 msgctxt "loader_loading_db"
@@ -4195,10 +3867,20 @@ msgctxt "mod_category_label"
 msgid "Category:"
 msgstr "Катэгорыя:"
 
+#v1.7.15
+msgctxt "mod_contents"
+msgid "Mod contents: {} rules"
+msgstr "Змесціва мода: {} правіл"
+
 #v1.1.31
 msgctxt "mod_desc"
 msgid "Description:"
 msgstr "Апісанне:"
+
+#v1.7.15
+msgctxt "mod_disable_all_unused"
+msgid "Disable all unused mods"
+msgstr "Адключыць усе неўжывальныя моды"
 
 #v1.1.37
 msgctxt "mod_disable_in_game"
@@ -4250,10 +3932,26 @@ msgctxt "mod_open_folder"
 msgid "Open mod.txt"
 msgstr "Адкрыць mod.txt"
 
+#v1.7.15
+msgctxt "mod_panel_list_only_enabled"
+msgid "Enabled mods in this game"
+msgstr "Уключаныя ў гэтай гульні"
+
+#v1.7.15
+msgctxt "mod_panel_list_title"
+msgid "All subscribed mods"
+msgstr ""
+
 #v1.1.37
 msgctxt "mod_panel_steamworks"
 msgid "Subscribe to new mods in the Workshop"
 msgstr "Падпісацца на новыя моды ў Майстэрні"
+
+#v1.7.15
+# Не здолеў знайсці адпаведнае слова ў беларускай для orhpaned (менавіта для гэтага выпадку), але тут па сутнасці дастаткова і unused
+msgctxt "mod_remove_all_orphaned"
+msgid "Remove all orphaned and unused rules"
+msgstr "Выдаліць усе неўжывальныя правілы"
 
 #v1.1.31
 msgctxt "mod_source"
@@ -4720,6 +4418,11 @@ msgctxt "my_collection"
 msgid "My collection"
 msgstr "Мая калекцыя"
 
+#v1.7.15
+msgctxt "my_shared_games"
+msgid "My shared games"
+msgstr "Мае абагуленыя гульні"
+
 #v1.3.13
 msgctxt "name"
 msgid "Name:"
@@ -4805,6 +4508,11 @@ msgctxt "option_company_demand"
 msgid "Pax demand factor:"
 msgstr "Множнік запыту pax:"
 
+#v1.7.15
+msgctxt "option_company_geo_export"
+msgid "Export GeoJSON"
+msgstr "Экспартаваць GeoJSON"
+
 #v1.1.31
 msgctxt "option_company_name"
 msgid "Company name:"
@@ -4826,10 +4534,20 @@ msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
 msgstr "Пераключыцца ў рэжым неабмежаванай колькасці грошай"
 
+#v1.7.15
+msgctxt "option_company_switch_no_couplers"
+msgid "Switch to unrestricted coupling"
+msgstr "Пераключыцца ў рэжым неабмежаванай счэпкі"
+
 #v1.1.31
 msgctxt "option_no_cash"
 msgid "Unlimited money"
 msgstr "Неабмежаваная колькасць грошай"
+
+#v1.7.15
+msgctxt "option_no_couplers"
+msgid "Unrestricted coupling"
+msgstr "Неабмежаваная счэпка"
 
 #v1.1.31
 msgctxt "options"
@@ -5217,6 +4935,11 @@ msgctxt "public"
 msgid "Public"
 msgstr "Публічны"
 
+#v1.7.15
+msgctxt "purchase_trains"
+msgid "Purchase new train(s)"
+msgstr "Набыць новы(я) цягнік(і)"
+
 #v1.1.31
 msgctxt "quit_desktop"
 msgid "Quit to desktop"
@@ -5247,6 +4970,11 @@ msgctxt "renderer_opengl"
 msgid "OpenGL 3.3"
 msgstr "OpenGL 3.3"
 
+#v1.7.15
+msgctxt "replace_trains"
+msgid "Replace existing train(s)"
+msgstr "Замяніць існуючы(я) цягнік(і)"
+
 #v1.1.31
 msgctxt "reset_train"
 msgid "Reset train"
@@ -5271,6 +4999,11 @@ msgstr "Актывы"
 msgctxt "right_bar_company"
 msgid "Company and accounting"
 msgstr "Кампанія і улік"
+
+#v1.7.15
+msgctxt "right_bar_like"
+msgid "Like this shared save"
+msgstr "Паставіць падабайку гэтаму абагуленаму захаванню"
 
 #v1.1.37
 msgctxt "right_bar_main"
@@ -5401,6 +5134,11 @@ msgstr "{0} Рэйс {1}"
 msgctxt "run_view_tooltip"
 msgid "{0} Run {1}"
 msgstr "{0} Рэйс {1}"
+
+#v1.7.15
+msgctxt "run_view_tooltip_click"
+msgid "Click to see all {} stops"
+msgstr "Націсніце, каб убачыць усе {} прыпынкаў"
 
 #v1.5.31
 msgctxt "run_view_tooltip_full"
@@ -5536,6 +5274,136 @@ msgstr "Прадаць усе"
 msgctxt "settings"
 msgid "Settings"
 msgstr "Налады"
+
+#v1.7.15
+msgctxt "share_deleting"
+msgid "Deleting slot"
+msgstr ""
+
+#v1.7.15
+msgctxt "share_empty_slot"
+msgid "< Empty slot >"
+msgstr "< Пусты слот >"
+
+#v1.7.15
+msgctxt "share_game"
+msgid "Share game"
+msgstr "Абагуліць гульню"
+
+#v1.7.15
+msgctxt "share_game_attribution"
+msgid "Attribution:"
+msgstr ""
+
+#v1.7.15
+msgctxt "share_game_attribution_anon"
+msgid "Anonymous"
+msgstr "Ананімна"
+
+#v1.7.15
+msgctxt "share_game_attribution_name"
+msgid "Steam user name"
+msgstr "Імя карыстальніка ў Steam"
+
+#v1.7.15
+msgctxt "share_game_attribution_profile"
+msgid "Steam user name and profile link"
+msgstr "Імя карыстальніка ў Steam і спасылка на профіль"
+
+#v1.7.15
+msgctxt "share_game_copy_link"
+msgid "Copy link"
+msgstr "Капіраваць спасылку"
+
+#v1.7.15
+msgctxt "share_game_copy_link_desc"
+msgid "Copy game link into clipboard"
+msgstr "Скапіраваць спасылку на гульню ў буфер абмену"
+
+#v1.7.15
+msgctxt "share_game_delete_desc"
+msgid "Delete the existing uploaded game"
+msgstr "Выдаліць ужо запампаваную гульню"
+
+#v1.7.15
+msgctxt "share_game_open_link"
+msgid "Open link"
+msgstr "Адкрыць спасылку"
+
+#v1.7.15
+msgctxt "share_game_open_link_desc"
+msgid "Open game link in a web browser"
+msgstr "Адкрыць спасылку на гульню ў веб-браўзеры"
+
+#v1.7.15
+msgctxt "share_game_own_likes"
+msgid "Likes:"
+msgstr "Падабайкі:"
+
+#v1.7.15
+msgctxt "share_game_replace"
+msgid "Replace with current game"
+msgstr "Замяніць бягучай гульнёй"
+
+#v1.7.15
+msgctxt "share_game_replace_desc"
+msgid "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
+msgstr ""
+
+#v1.7.15
+msgctxt "share_game_upload"
+msgid "Upload current game"
+msgstr "Запампаваць бягучую гульню"
+
+#v1.7.15
+msgctxt "share_game_upload_desc"
+msgid "Upload current game to nimbyrails.com and create a link to share it"
+msgstr "Запампаваць бягучую гульню на nimbyrails.com і стварыць спасылку, каб абагуліць яе"
+
+#v1.7.15
+msgctxt "share_home_by"
+msgid "By {}"
+msgstr "Ад {}"
+
+#v1.7.15
+msgctxt "share_home_click_load"
+msgid "Click to load game"
+msgstr "Націсніце, каб загрузіць гульню"
+
+#v1.7.15
+msgctxt "share_listing"
+msgid "Listing slots"
+msgstr ""
+
+#v1.7.15
+msgctxt "share_net_error_api"
+msgid "Sharing API error {}"
+msgstr "Памылка ў API абагульвання: {}"
+
+#v1.7.15
+msgctxt "share_net_error_cannot_connect"
+msgid "Cannot connect to sharing service"
+msgstr "Немагчыма злучыцца з сэрвісам абагульвання"
+
+#v1.7.15
+msgctxt "share_querying_slot"
+msgid "< Loading... >"
+msgstr "< Загрузка... >"
+
+#v1.7.15
+msgctxt "share_upload_map_preview"
+msgid "Uploading map preview {}%"
+msgstr "Запампоўванне перадпрагляду карты {}%"
+
+#v1.7.15
+msgctxt "share_upload_save"
+msgid "Uploading saved game {}%"
+msgstr "Запампоўванне захаванай гульні {}%"
+
+#v1.7.15
+msgctxt "share_upload_screenshot"
+msgid "Uploading screenshot {}%"
+msgstr "Запампоўванне здымку экрана {}%"
 
 #v1.4.15
 msgctxt "show_all_clips"
@@ -5718,11 +5586,6 @@ msgid "Type:"
 msgstr "Тып:"
 
 #v1.3.13
-msgctxt "signal_warn_max_length"
-msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "Блок-участак, абаронены гэтым сігналам, занадта доўгі. Дадайце больш такіх сігналаў як еўрабаліза (мяжа блок-участка), каб зрабіць яго карацей."
-
-#v1.3.13
 msgctxt "signal_warn_too_close"
 msgid "Too close"
 msgstr "Занадта блізка"
@@ -5736,11 +5599,6 @@ msgstr "Адзіночная гульня"
 msgctxt "sort_sep_accounting"
 msgid "--- Accounting ---"
 msgstr "--- Улік ---"
-
-#v1.1.72
-msgctxt "sort_sep_real_time"
-msgid "--- Real time ---"
-msgstr "--- Рэальны час ---"
 
 #v1.5.31
 msgctxt "stale_run"
@@ -5867,6 +5725,11 @@ msgctxt "stop_leg_l"
 msgid "{0}m"
 msgstr "{0}м"
 
+#v1.7.15
+msgctxt "stop_times_tp_wait"
+msgid "Stop {} wait time"
+msgstr "Час чакання на прыпынку {}"
+
 #v1.1.31
 msgctxt "stops_n_0"
 msgid "0 stops"
@@ -5916,6 +5779,12 @@ msgstr "Падпісацца на новыя моды"
 # Поўны тэкст "Пераключыцца на неабмежаваную" не ўлазіць у кнопку
 msgctxt "switch_no_cash"
 msgid "Switch to unlimited"
+msgstr "Пераключыцца"
+
+#v1.7.15
+# Скарочана, бо не ўлазіць у кнопку
+msgctxt "switch_no_couplers"
+msgid "Switch to unrestricted"
 msgstr "Пераключыцца"
 
 #v1.1.58
@@ -5972,6 +5841,11 @@ msgstr ""
 msgctxt "tag_compartments"
 msgid "Compartments"
 msgstr "Купэ"
+
+#v1.7.15
+msgctxt "tag_couchette"
+msgid "Couchette"
+msgstr "Кушэтка"
 
 #v1.3.13
 msgctxt "tag_del"
@@ -6059,6 +5933,11 @@ msgctxt "tag_intercity"
 msgid "Intercity"
 msgstr "Унутрыгарадскі"
 
+#v1.7.15
+msgctxt "tag_kitchen"
+msgid "Kitchen"
+msgstr "Кухня"
+
 #v1.1.58
 msgctxt "tag_light_rail"
 msgid "Light rail"
@@ -6122,6 +6001,11 @@ msgstr "Новы цэтлік"
 #v1.1.58
 msgctxt "tag_observation"
 msgid "Observation"
+msgstr ""
+
+#v1.7.15
+msgctxt "tag_open_coach"
+msgid "Open coach"
 msgstr ""
 
 #v1.1.58
@@ -6210,6 +6094,11 @@ msgctxt "tag_tilting"
 msgid "Tilting"
 msgstr ""
 
+#v1.7.15
+msgctxt "tag_toilet"
+msgid "Toilet"
+msgstr "Туалет"
+
 #v1.1.58
 msgctxt "tag_tram"
 msgid "Tram"
@@ -6226,6 +6115,11 @@ msgctxt "tag_tyres"
 msgid "Tyres"
 msgstr "Шынны"
 
+#v1.7.15
+msgctxt "tag_vending"
+msgid "Vending"
+msgstr "Vending"
+
 #v1.3.13
 msgctxt "tags_empty"
 msgid "<No tags>"
@@ -6235,6 +6129,11 @@ msgstr "<Няма цэтлікаў>"
 msgctxt "tags_gauge"
 msgid "Gauge"
 msgstr ""
+
+#v1.7.15
+msgctxt "tags_interior"
+msgid "Interior"
+msgstr "Інтэр'ер"
 
 #v1.1.58
 msgctxt "tags_misc"
@@ -6471,6 +6370,11 @@ msgctxt "train_alert_line_banner"
 msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
 msgstr "{} ({} / {})\n{}\nЗ: {} UTC+{}"
 
+#v1.7.15
+msgctxt "train_base_color_edit"
+msgid "Default base color:"
+msgstr ""
+
 #v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
@@ -6486,10 +6390,70 @@ msgctxt "train_bulk_intervention"
 msgid "Intervene selection"
 msgstr "Умяшацца ў рух выбраных"
 
+#v1.7.15
+msgctxt "train_bulk_replace"
+msgid "Replace selection"
+msgstr "Замяніць выбранае"
+
 #v1.6.13
 msgctxt "train_bulk_sell"
 msgid "Sell selection"
 msgstr "Прадаць выбранае"
+
+#v1.7.15
+msgctxt "train_car_append"
+msgid "Append {} car(s)"
+msgstr "Дадаць {} выгон(аў)"
+
+#v1.7.15
+msgctxt "train_car_append_listing_cursor"
+msgid "Append here"
+msgstr "Дадаць сюды"
+
+#v1.7.15
+msgctxt "train_car_base_color_edit"
+msgid "Base color:"
+msgstr "Базавы колер:"
+
+#v1.7.15
+msgctxt "train_car_decal_color_edit"
+msgid "Decal color:"
+msgstr "Колер дэкалі:"
+
+#v1.7.15
+msgctxt "train_car_decal_edit"
+msgid "Decal:"
+msgstr "Дэкаль:"
+
+#v1.7.15
+msgctxt "train_car_default"
+msgid "Default"
+msgstr "Стандартны"
+
+#v1.7.15
+msgctxt "train_car_flip"
+msgid "Flip"
+msgstr "Пераварот"
+
+#v1.7.15
+msgctxt "train_car_n_cars"
+msgid "{} cars"
+msgstr "{} вагонаў"
+
+#v1.7.15
+msgctxt "train_car_replace"
+msgid "Replace {} car(s)"
+msgstr "Замяніць {} вагон(аў)"
+
+#v1.7.15
+msgctxt "train_cars_inst"
+msgid "Cars:"
+msgstr "Вагоны:"
+
+#v1.7.15
+msgctxt "train_cars_new_cars"
+msgid "New cars"
+msgstr "Новыя вагоны"
 
 #v1.1.31
 msgctxt "train_clone"
@@ -6505,6 +6469,26 @@ msgstr ""
 msgctxt "train_code_edit"
 msgid "Serial:"
 msgstr "Серыйны нумар:"
+
+#v1.7.15
+msgctxt "train_create_order_from_run"
+msgid "Create new order from this run"
+msgstr "Стварыць новы загад з гэтага рэйса"
+
+#v1.7.15
+msgctxt "train_decal_change_desc"
+msgid "This feature only works properly if all cars are from the same mod and train composition"
+msgstr ""
+
+#v1.7.15
+msgctxt "train_decal_color_edit"
+msgid "Default decal color:"
+msgstr ""
+
+#v1.7.15
+msgctxt "train_decal_edit"
+msgid "Change all decals:"
+msgstr ""
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
@@ -6530,6 +6514,11 @@ msgstr "Група"
 msgctxt "train_editor_orders"
 msgid "Orders"
 msgstr "Загады"
+
+#v1.7.15
+msgctxt "train_final_price"
+msgid "Final price:"
+msgstr "Канчатковая цана:"
 
 #v1.5.31
 msgctxt "train_group_duration"
@@ -6641,15 +6630,45 @@ msgctxt "train_info_car_name"
 msgid "Car:"
 msgstr "Вагон:"
 
+#v1.7.15
+msgctxt "train_info_coupler_back"
+msgid "Back coupling:"
+msgstr "Задняя счэпка:"
+
+#v1.7.15
+msgctxt "train_info_coupler_front"
+msgid "Front coupling:"
+msgstr "Пярэдняя счэпка:"
+
+#v1.7.15
+msgctxt "train_info_coupler_mandatory"
+msgid "mandatory"
+msgstr "абавязковая"
+
+#v1.7.15
+msgctxt "train_info_coupler_none"
+msgid "none"
+msgstr "ніякая"
+
+#v1.7.15
+msgctxt "train_info_coupler_optional"
+msgid "optional"
+msgstr "неабавязковая"
+
+#v1.7.15
+msgctxt "train_info_coupler_universal"
+msgid "universal"
+msgstr "універсальная"
+
 #v1.1.58
 msgctxt "train_info_departs"
 msgid "Departs in {}"
 msgstr "Адпраўляецца праз {}"
 
-#v1.1.58
-msgctxt "train_info_departs_from"
-msgid "Departs in {0} from {1}"
-msgstr "Адпраўляецца праз {0} з {1}"
+#v1.7.15
+msgctxt "train_info_description"
+msgid "Description:"
+msgstr "Апісанне:"
 
 #v1.1.31
 msgctxt "train_info_destination"
@@ -6666,6 +6685,11 @@ msgctxt "train_info_dim_car"
 msgid "{0:.2f}m / {1:.2f}m"
 msgstr "{0:.2f}м / {1:.2f}м"
 
+#v1.7.15
+msgctxt "train_info_dim_d"
+msgid "{0} cars / {1:.2f}m / {2:.2f}m"
+msgstr ""
+
 #v1.1.37
 msgctxt "train_info_dynamics"
 msgid "Dynamics:"
@@ -6680,11 +6704,6 @@ msgstr "Маса пустога:"
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Спазняецца на {0}, {1:.1f} км з {2:.1f} км"
-
-#v1.5.41
-msgctxt "train_info_late_predicted"
-msgid "Est. late by {}"
-msgstr "Прыбл. спазняецца на {}"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -6758,6 +6777,11 @@ msgstr "Цана:"
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
 msgstr "Эксплуатац. выдаткі:"
+
+#v1.7.15
+msgctxt "train_info_running_cost_f2"
+msgid "${0:.2} per km, ${1:.2} per km per pax"
+msgstr "${0:.2} за км, ${1:.2} за пасажыра-кіламетр"
 
 #v1.1.31
 msgctxt "train_info_speed"
@@ -6844,6 +6868,16 @@ msgctxt "train_list_compact"
 msgid "Compact"
 msgstr "Кампактны"
 
+#v1.7.15
+msgctxt "train_list_filter_alert_only_stale"
+msgid "Only stale"
+msgstr "Толькі з састарэлымі рэйсамі"
+
+#v1.7.15
+msgctxt "train_list_filter_alert_only_warning"
+msgid "Only with warnings"
+msgstr "Толькі з папярэджаннямі"
+
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
@@ -6913,6 +6947,11 @@ msgstr "Згрупаваць па лініям"
 msgctxt "train_model_edit"
 msgid "Model:"
 msgstr "Мадэль:"
+
+#v1.7.15
+msgctxt "train_model_edit_custom"
+msgid "Custom"
+msgstr "Карыстальніцкі"
 
 #v1.1.58
 msgctxt "train_n_copies"
@@ -7001,6 +7040,11 @@ msgctxt "train_orders_run_short"
 msgid "Run line:"
 msgstr "Лінія:"
 
+#v1.7.15
+msgctxt "train_price"
+msgid "Per train price:"
+msgstr ""
+
 #v1.1.31
 msgctxt "train_purchase_no_cash"
 msgid "Not enough money for purchase"
@@ -7011,6 +7055,66 @@ msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
 msgstr "Не хапае грошай, каб набыць цягнік(і). Выберыце таннейшы цягнік, менш цягнікоў, менш вагонаў або зарабіце больш грошай."
 
+#v1.7.15
+msgctxt "train_recompo_apply"
+msgid "Apply changes"
+msgstr "Ужыць змены"
+
+#v1.7.15
+msgctxt "train_recompo_disabled"
+msgid "Editing disabled by mod author"
+msgstr "Рэдагаванне адключана аўтарам мода"
+
+#v1.7.15
+msgctxt "train_recompo_error_cash"
+msgid "Cannot afford new car(s)"
+msgstr "Не хапае грошай на новы(я) вагон(ы)"
+
+#v1.7.15
+msgctxt "train_recompo_error_coupling"
+msgid "Invalid coupling"
+msgstr "Недапушчальная счэпка"
+
+#v1.7.15
+msgctxt "train_recompo_error_empty"
+msgid "Empty train"
+msgstr "Пусты цягнік"
+
+#v1.7.15
+msgctxt "train_recompo_error_long"
+msgid "Too many cars"
+msgstr "Занадта шмат вагонаў"
+
+#v1.7.15
+msgctxt "train_recompo_error_unpowered"
+msgid "Unpowered"
+msgstr "Не хапае лакаматыва"
+
+#v1.7.15
+msgctxt "train_recompo_price"
+msgid "Price: ${}"
+msgstr "Цана: ${}"
+
+#v1.7.15
+msgctxt "train_recompo_refund"
+msgid "Refund: ${}"
+msgstr "Зварот грошай: ${}"
+
+#v1.7.15
+msgctxt "train_recompo_reset"
+msgid "Reset changes"
+msgstr "Скінуць змены"
+
+#v1.7.15
+msgctxt "train_refund"
+msgid "Total refund:"
+msgstr "Усяго зваротаў грошай:"
+
+#v1.7.15
+msgctxt "train_replace"
+msgid "Replace"
+msgstr "Замяніць"
+
 #v1.5.31
 msgctxt "train_run"
 msgid "Run"
@@ -7020,16 +7124,6 @@ msgstr "Рэйс"
 msgctxt "train_sort_alpha"
 msgid "Alphabetically"
 msgstr "У алфавітным парадку"
-
-#v1.5.31
-msgctxt "train_spawn_at"
-msgid "Spawns in {}"
-msgstr "Спарадзіцца праз {}"
-
-#v1.5.31
-msgctxt "train_spawn_late"
-msgid "Spawns late by {}"
-msgstr "Спараджэнне затрымліваецца да {}"
 
 #v1.5.31
 msgctxt "train_status_mothballed"
@@ -7047,6 +7141,16 @@ msgctxt "train_textures_option"
 msgid "Train textures:"
 msgstr "Тэкстуры цягніка:"
 
+#v1.7.15
+msgctxt "train_tmu_as_custom"
+msgid "Edit as custom train"
+msgstr "Рэдагаваць як карыстальніцкі цягнік"
+
+#v1.7.15
+msgctxt "train_tmu_copy_custom"
+msgid "Copy for custom train"
+msgstr "Капіраваць для карыстальніцкага цягніка"
+
 #v1.1.72
 msgctxt "train_total_price_1"
 msgid "Total for 1 train:"
@@ -7061,6 +7165,16 @@ msgstr "Усяго за %d цягнікоў:"
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
 msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіраваных загадаў на гэту колькасць."
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_custom_mode"
+msgid "Purchase custom train"
+msgstr "Набыць карыстальніцкі цягнік"
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_tmu_mode"
+msgid "Purchase preconfigured train"
+msgstr "Набыць загадзя сканфігураваны цягнік"
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
@@ -7208,6 +7322,16 @@ msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
 msgstr "Фармат: гг:мм:сс\nЧас сутак для пачатку аднаго ці некалькіх рэйсаў на выбранай лініі."
 
+#v1.7.15
+msgctxt "traineditor_replace_custom_mode"
+msgid "Replacing with custom train"
+msgstr "Замяніць карыстальніцкім цягніком"
+
+#v1.7.15
+msgctxt "traineditor_replace_tmu_mode"
+msgid "Replacing with preconfigured train"
+msgstr "Замяніць загадзя сканфігураваным цягніком"
+
 #v1.1.58
 msgctxt "traineditor_select_all"
 msgid "Select all listed trains"
@@ -7217,6 +7341,16 @@ msgstr "Выбраць усе пералічаныя цягнікі"
 msgctxt "traineditor_sell_all_selected"
 msgid "Sell selected trains"
 msgstr "Прадаць выбраныя цягнікі"
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_custom_mode"
+msgid "Purchase custom train"
+msgstr ""
+
+#v1.7.15
+msgctxt "traineditor_tooltip_buy_tmu_mode"
+msgid "Purchase preconfigured train"
+msgstr ""
 
 #v1.1.31
 # Больш вольны пераклад для большай яго дакладнасці
@@ -7418,11 +7552,6 @@ msgstr "Тэрмін дзеяння скончыўся"
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
 msgstr "Мод выкарыстоўваецца"
-
-#v1.1.31
-msgctxt "warning"
-msgid "Warning"
-msgstr "Папярэджанне"
 
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
