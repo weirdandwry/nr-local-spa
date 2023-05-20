@@ -4,7 +4,7 @@
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr ""
+msgstr "Сутыкненні"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
@@ -14,12 +14,12 @@ msgstr ""
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr ""
+msgstr "Спазненне >10с"
 
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr ""
+msgstr "Чаканне сігналаў"
 
 #v1.8.24
 msgctxt "editor_branch_append"
@@ -34,7 +34,7 @@ msgstr ""
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr ""
+msgstr "Утрымлівайце Shift, каб працягнуць стварэнне сегментаў."
 
 #v1.8.24
 msgctxt "line_to3"
@@ -44,7 +44,7 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Адключана"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
@@ -59,7 +59,7 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_max_accel"
 msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr ""
+msgstr "Макс. паскарэнне (ms\xE2\x81\xBB\xC2\xB2):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
@@ -69,7 +69,7 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr ""
+msgstr "Макс. сіла тармажэння (ms\xE2\x81\xBB\xC2\xB2):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
@@ -79,7 +79,7 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_stop_arrive"
 msgid "Arrive at:"
-msgstr ""
+msgstr "Прыбываць праз:"
 
 #v1.8.24
 msgctxt "realtime"
@@ -89,7 +89,7 @@ msgstr ""
 #v1.8.24
 msgctxt "rtstat_creation"
 msgid "Creation date"
-msgstr ""
+msgstr "Дата стварэння"
 
 #v1.8.24
 msgctxt "share_home_listing"
@@ -99,17 +99,17 @@ msgstr ""
 #v1.8.24
 msgctxt "signal_check_hit_occ"
 msgid "Occupied by {}"
-msgstr ""
+msgstr "Заняты {}"
 
 #v1.8.24
 msgctxt "signal_check_hit_res"
 msgid "Reserved by {}"
-msgstr ""
+msgstr "Забраніраваны {}"
 
 #v1.8.24
 msgctxt "signal_warn_ignored"
 msgid "Ignored"
-msgstr ""
+msgstr "Ігнаруецца"
 
 #v1.8.24
 msgctxt "signal_warn_ignored_plat_desc"
@@ -129,12 +129,12 @@ msgstr ""
 #v1.8.24
 msgctxt "stop_times_tp_arrival"
 msgid "Stop {} arrival"
-msgstr ""
+msgstr "Прыбыццё на прыпынак {}"
 
 #v1.8.24
 msgctxt "stop_times_tp_departure"
 msgid "Stop {} departure"
-msgstr ""
+msgstr "Адпраўленне с прыпынку {}"
 
 #v1.8.24
 msgctxt "stop_times_tp_leg"
@@ -159,17 +159,17 @@ msgstr ""
 #v1.8.24
 msgctxt "train_departing_to"
 msgid "Departing to"
-msgstr ""
+msgstr "Адпраўляецца да"
 
 #v1.8.24
 msgctxt "train_departing_to_connect"
 msgid "to"
-msgstr ""
+msgstr "да"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags"
 msgid "Built-in tags:"
-msgstr ""
+msgstr "Убудаваныя цэтлікі:"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags_locked"
@@ -179,7 +179,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_info_future_pin"
 msgid "Scroll map to train spawn position"
-msgstr ""
+msgstr "Прагартаць карту да становішча спараджэння цягніка"
 
 #v1.8.24
 msgctxt "train_info_late_predicted2"
@@ -189,7 +189,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr ""
+msgstr "Макс. паскарэнне:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
@@ -204,22 +204,22 @@ msgstr ""
 #v1.8.24
 msgctxt "train_intervene_group"
 msgid "Intervene group"
-msgstr ""
+msgstr "Умяшацца ў рух групы"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
 msgid "Only waiting to spawn"
-msgstr ""
+msgstr "Толькі чакае спараджэння"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
 msgid "Waiting spawn"
-msgstr ""
+msgstr "Чакае спараджэння"
 
 #v1.8.24
 msgctxt "train_rt_late"
 msgid "Est. lateness (s)"
-msgstr ""
+msgstr "Прыбл. спазненне (с)"
 
 #v1.8.24
 msgctxt "train_rt_leg"
@@ -229,7 +229,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
-msgstr ""
+msgstr "Хуткасць (км/г)"
 
 # ----------------------------------------------------------
 # modified strings
@@ -237,7 +237,7 @@ msgstr ""
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr ""
+msgstr "Запланаваны прыпынак"
 
 #v1.8.24
 msgctxt "editor_tip_add_left1"
@@ -247,7 +247,7 @@ msgstr ""
 #v1.8.24
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment."
-msgstr ""
+msgstr "ЛКМ, каб стварыць новы сегмент пуці."
 
 #v1.8.24
 msgctxt "kb_track_branch"
@@ -257,7 +257,7 @@ msgstr ""
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr ""
+msgstr "Карыстальніцкая працягласць лініі ігнаруецца, бо яна занадта кароткая"
 
 #v1.8.24
 msgctxt "sort_sep_real_time"
@@ -1095,7 +1095,7 @@ msgstr ""
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr ""
+msgstr "Статыстыка трансляцыі кліента"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -1230,7 +1230,7 @@ msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr ""
+msgstr "пападанне ў ваду або дарогу"
 
 #v1.1.31
 msgctxt "conflicts"
@@ -1240,7 +1240,7 @@ msgstr "Канфлікты"
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr ""
+msgstr "Адзін або некалькі пуцей маюць канфлікты і не могуць быць пабудаваны, або ўсё яшчэ чакаюць праверкі. Перамясціце, рэдагуйце або выдаліце ўсе пуці, якія пазначаны чырвоным."
 
 #v1.1.31
 msgctxt "connecting_elip"
@@ -1758,7 +1758,7 @@ msgstr "Перацягніце любую выбраную кантрольну�
 #v1.4.15
 msgctxt "editor_tip_create_drag_alt"
 msgid "Alt and drag any selected control point to rotate the selection"
-msgstr ""
+msgstr "Націсніце Alt і перацягніце выбраную кантрольную кропку, каб варочаць выбранае"
 
 #v1.1.31
 msgctxt "editor_tip_create_esc"
@@ -1878,7 +1878,7 @@ msgstr ""
 #v1.4.15
 msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
-msgstr ""
+msgstr "Адпусціце ЛКМ, каб скончыць варочанне выбранага"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
@@ -1908,7 +1908,7 @@ msgstr "Націсніце на пуці, каб прымацаваць новы
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
 msgid "Click on tracks to tape them over with a new station platform"
-msgstr ""
+msgstr "Націсніце на пуці, каб склеіць іх у новую платформу станцыі"
 
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
@@ -1923,7 +1923,7 @@ msgstr "Націсніце на пуці, каб падзяліць іх у кр
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
 msgid "Click on tracks to tape them over with a new station"
-msgstr ""
+msgstr "Націсніце на пуці, каб склеіць іх у новую станцыю"
 
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
@@ -3708,7 +3708,7 @@ msgstr "Пазычыць грошы могуць толькі адміністр
 #v1.1.31
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
-msgstr ""
+msgstr "Заплачаныя працэнты:"
 
 #v1.1.31
 msgctxt "loan_pay_early"
@@ -3940,7 +3940,7 @@ msgstr "Уключаныя ў гэтай гульні"
 #v1.7.15
 msgctxt "mod_panel_list_title"
 msgid "All subscribed mods"
-msgstr ""
+msgstr "Усе моды, на якія вы падпісаліся"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -5830,7 +5830,7 @@ msgstr "Фунікулёр"
 #v1.1.58
 msgctxt "tag_coach"
 msgid "Coach"
-msgstr ""
+msgstr "Турыстычны"
 
 #v1.1.58
 msgctxt "tag_commuter"
@@ -5926,7 +5926,7 @@ msgstr "Немагчыма рэдагаваць у шматкарыстальн�
 #v1.3.13
 msgctxt "tag_info_top_level"
 msgid "<Top level>"
-msgstr ""
+msgstr "<Верхні ўзровень>"
 
 #v1.1.58
 msgctxt "tag_intercity"
@@ -6047,7 +6047,7 @@ msgstr "Рэстаран"
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr ""
+msgstr "Прыгарадны"
 
 #v1.1.58
 msgctxt "tag_sitting"
@@ -6688,7 +6688,7 @@ msgstr "{0:.2f}м / {1:.2f}м"
 #v1.7.15
 msgctxt "train_info_dim_d"
 msgid "{0} cars / {1:.2f}m / {2:.2f}m"
-msgstr ""
+msgstr "{0} вагонаў / {1:.2f}м / {2:.2f}м"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
@@ -7043,7 +7043,7 @@ msgstr "Лінія:"
 #v1.7.15
 msgctxt "train_price"
 msgid "Per train price:"
-msgstr ""
+msgstr "Цана за адзін цягнік:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -7345,12 +7345,12 @@ msgstr "Прадаць выбраныя цягнікі"
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_custom_mode"
 msgid "Purchase custom train"
-msgstr ""
+msgstr "Набыць карыстальніцкі цягнік"
 
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr ""
+msgstr "Набыць загадзя сканфігураваны цягнік"
 
 #v1.1.31
 # Больш вольны пераклад для большай яго дакладнасці
