@@ -49,17 +49,18 @@ msgstr "Адключана"
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
 msgid "Loop"
-msgstr ""
+msgstr "Пятля"
 
 #v1.8.24
+# Не літаральна, але адпавядае кантэксту
 msgctxt "lineeditor_display_in_map_nonloop"
 msgid "Non-loop"
-msgstr ""
+msgstr "Лінія"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel"
 msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Макс. паскарэнне (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Макс. паскарэнне (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
@@ -67,9 +68,10 @@ msgid "Upper bound for train acceleration. Actual acceleration may be lower depe
 msgstr ""
 
 #v1.8.24
+# Без скарачэння не ўлазіць
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Макс. сіла тармажэння (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Макс. тармаж. (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
@@ -134,12 +136,12 @@ msgstr "Прыбыццё на прыпынак {}"
 #v1.8.24
 msgctxt "stop_times_tp_departure"
 msgid "Stop {} departure"
-msgstr "Адпраўленне с прыпынку {}"
+msgstr "Адпраўленне з прыпынку {}"
 
 #v1.8.24
 msgctxt "stop_times_tp_leg"
 msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr ""
+msgstr "Рух па перагону {0} ▶ {1}"
 
 #v1.8.24
 msgctxt "teo.append_continous"
@@ -3138,9 +3140,10 @@ msgid "Edit reference train"
 msgstr "Рэдагаваць апорны цягнік"
 
 #v1.7.15
+# Без скарачэння не ўлазіць
 msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
-msgstr "Паказваць на карце:"
+msgstr "Адлюстр. на карце:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
@@ -5728,7 +5731,7 @@ msgstr "{0}м"
 #v1.7.15
 msgctxt "stop_times_tp_wait"
 msgid "Stop {} wait time"
-msgstr "Час чакання на прыпынку {}"
+msgstr "Чаканне на прыпынку {}"
 
 #v1.1.31
 msgctxt "stops_n_0"
