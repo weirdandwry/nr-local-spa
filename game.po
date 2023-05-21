@@ -2051,7 +2051,7 @@ msgstr "Хуткасць: {0:.1f}x\nПерашкоды: {1}%"
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "Tramo de tiempo en cruzar del centro del andén al centro del andén de la siguiente parada, sin contar el tiempo de espera"
+msgstr "Час руху з сярэдзіны адной да сярэдзіны наступнай платформы без уліку часу прыпынку"
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -2972,9 +2972,10 @@ msgid "State"
 msgstr "Стан"
 
 #v1.1.31
+# Магчыма лепш тут выкарыстаць "Прапусканне", але тады тэкст не ўлезе ў подпіс
 msgctxt "line_stop_passthru_short"
 msgid "Pass"
-msgstr ""
+msgstr "Пропуск"
 
 #v1.1.31
 msgctxt "line_stops"
@@ -3305,7 +3306,7 @@ msgstr "Час прыпынку:"
 #v1.7.15
 msgctxt "lineeditor_min_stop_time_desc"
 msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr ""
+msgstr "Фармат: (гг:)хх:сс\nПрыпынкі будуць запланаваны з гэтым часам чакання.\nЁн можа павялічыцца, калі пасадка або высадка пасажыраў затрымаецца."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3681,7 +3682,7 @@ msgstr "Штомесячны плацёж:"
 #v1.1.31
 msgctxt "loan_contract_rate"
 msgid "APR:"
-msgstr ""
+msgstr "Стаўка (% гадавых):"
 
 #v1.1.31
 msgctxt "loan_contract_total_interest"
@@ -3736,7 +3737,7 @@ msgstr "${} штомесяц"
 #v1.1.31
 msgctxt "loan_title"
 msgid "${0} at {1:.3}% APR in {2} years"
-msgstr ""
+msgstr "${0} пры {1:.3}% гадавых на {2} гадоў"
 
 #v1.4.22
 msgctxt "local_bp_collection"
@@ -6090,7 +6091,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr ""
+msgstr "З токапрыёмнікам"
 
 #v1.1.58
 msgctxt "tag_tilting"
@@ -6376,7 +6377,7 @@ msgstr "{} ({} / {})\n{}\nЗ: {} UTC+{}"
 #v1.7.15
 msgctxt "train_base_color_edit"
 msgid "Default base color:"
-msgstr ""
+msgstr "Базавы колер (ст.)"
 
 #v1.1.31
 msgctxt "train_bill"
@@ -6486,12 +6487,12 @@ msgstr ""
 #v1.7.15
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr ""
+msgstr "Колер дэкалі (ст.)"
 
 #v1.7.15
 msgctxt "train_decal_edit"
 msgid "Change all decals:"
-msgstr ""
+msgstr "Змяніць усе дэкалі:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
@@ -6544,9 +6545,10 @@ msgid "Interval:"
 msgstr "Інтэрвал:"
 
 #v1.5.31
+# Тут маецца на ўвазе "Выберыце лінію, працягласць якой выкарыстоўваць"
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Працягласць:"
+msgstr "Лінія:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
@@ -6586,12 +6588,12 @@ msgstr "Фіксаваны інтэрвал"
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr ""
+msgstr "Раўнамерны па працягласці лініі"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr ""
+msgstr "Раўнамерны на працягу ручной працягласці"
 
 #v1.5.31
 msgctxt "train_group_n_name"
