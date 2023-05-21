@@ -3126,9 +3126,10 @@ msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this le
 msgstr "Фармат: гг:хх:сс.\nПрацягласць лініі будзе выбрана, каб дасканала адпавядаць гэтаму часу. Адпавяданне дням або тыдням не гарантуецца."
 
 #v1.5.31
+# Скарочана, бо не ўлазіць
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Карыстальніцкая працягласць чакання для гэтага прыпынку"
+msgstr "Карыст. працягласць чакання"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3225,7 +3226,7 @@ msgstr "{0}, {1} км, {2}, {3} км/г сяр."
 #v1.7.15
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
-msgstr ""
+msgstr "Карыст. працягласць пятлі: {0}\nКарыст. працягласць лініі: {1}\nМін. працягласць пятлі: {2}\nМін. працягласць лініі: {3}\nПрацягласць пятлі - гэта сума часу руху па перагонам і чакання на прыпынках з улікам руху з апошняга да першага прыпынку.\nПрацягласць лініі - гэта працягласць пятлі без уліку руху з апошняга да першага прыпынку."
 
 #v1.2.22
 msgctxt "lineeditor_header_l"
@@ -3271,7 +3272,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr "Таймінг перагона:"
+msgstr "Час руху па перагону:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
