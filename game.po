@@ -3337,7 +3337,7 @@ msgstr "Апорны цягнік:"
 #v1.2.22
 msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
-msgstr ""
+msgstr "Унутраная сімуляцыя гэтага цягніка будзе выкарыстана для вылічэння часу руху па перагонам."
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
@@ -7173,12 +7173,12 @@ msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this am
 msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіраваных загадаў на гэту колькасць."
 
 #v1.7.15
-msgctxt "traineditor_tooltip_buy_custom_mode"
+msgctxt "traineditor_buy_custom_mode"
 msgid "Purchase custom train"
 msgstr "Набыць карыстальніцкі цягнік"
 
 #v1.7.15
-msgctxt "traineditor_tooltip_buy_tmu_mode"
+msgctxt "traineditor_buy_tmu_mode"
 msgid "Purchase preconfigured train"
 msgstr "Набыць загадзя сканфігураваны цягнік"
 
