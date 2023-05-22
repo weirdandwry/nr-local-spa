@@ -4,7 +4,7 @@
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr ""
+msgstr "Сутыкненні"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
@@ -14,12 +14,12 @@ msgstr ""
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr ""
+msgstr "Спазненне >10с"
 
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr ""
+msgstr "Чаканне сігналаў"
 
 #v1.8.24
 msgctxt "editor_branch_append"
@@ -34,7 +34,7 @@ msgstr ""
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr ""
+msgstr "Утрымлівайце Shift, каб працягнуць стварэнне сегментаў."
 
 #v1.8.24
 msgctxt "line_to3"
@@ -44,22 +44,23 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Адключана"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
 msgid "Loop"
-msgstr ""
+msgstr "Пятля"
 
 #v1.8.24
+# Не літаральна, але адпавядае кантэксту
 msgctxt "lineeditor_display_in_map_nonloop"
 msgid "Non-loop"
-msgstr ""
+msgstr "Лінія"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel"
 msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr ""
+msgstr "Макс. паскарэнне (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
@@ -67,9 +68,10 @@ msgid "Upper bound for train acceleration. Actual acceleration may be lower depe
 msgstr ""
 
 #v1.8.24
+# Без скарачэння не ўлазіць
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr ""
+msgstr "Макс. тармаж. (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
@@ -79,7 +81,7 @@ msgstr ""
 #v1.8.24
 msgctxt "lineeditor_stop_arrive"
 msgid "Arrive at:"
-msgstr ""
+msgstr "Прыбываць праз:"
 
 #v1.8.24
 msgctxt "realtime"
@@ -89,7 +91,7 @@ msgstr ""
 #v1.8.24
 msgctxt "rtstat_creation"
 msgid "Creation date"
-msgstr ""
+msgstr "Дата стварэння"
 
 #v1.8.24
 msgctxt "share_home_listing"
@@ -99,17 +101,17 @@ msgstr ""
 #v1.8.24
 msgctxt "signal_check_hit_occ"
 msgid "Occupied by {}"
-msgstr ""
+msgstr "Заняты {}"
 
 #v1.8.24
 msgctxt "signal_check_hit_res"
 msgid "Reserved by {}"
-msgstr ""
+msgstr "Забраніраваны {}"
 
 #v1.8.24
 msgctxt "signal_warn_ignored"
 msgid "Ignored"
-msgstr ""
+msgstr "Ігнаруецца"
 
 #v1.8.24
 msgctxt "signal_warn_ignored_plat_desc"
@@ -129,17 +131,17 @@ msgstr ""
 #v1.8.24
 msgctxt "stop_times_tp_arrival"
 msgid "Stop {} arrival"
-msgstr ""
+msgstr "Прыбыццё на прыпынак {}"
 
 #v1.8.24
 msgctxt "stop_times_tp_departure"
 msgid "Stop {} departure"
-msgstr ""
+msgstr "Адпраўленне з прыпынку {}"
 
 #v1.8.24
 msgctxt "stop_times_tp_leg"
 msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr ""
+msgstr "Рух па перагону {0} ▶ {1}"
 
 #v1.8.24
 msgctxt "teo.append_continous"
@@ -159,17 +161,17 @@ msgstr ""
 #v1.8.24
 msgctxt "train_departing_to"
 msgid "Departing to"
-msgstr ""
+msgstr "Адпраўляецца да"
 
 #v1.8.24
 msgctxt "train_departing_to_connect"
 msgid "to"
-msgstr ""
+msgstr "да"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags"
 msgid "Built-in tags:"
-msgstr ""
+msgstr "Убудаваныя цэтлікі:"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags_locked"
@@ -179,7 +181,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_info_future_pin"
 msgid "Scroll map to train spawn position"
-msgstr ""
+msgstr "Прагартаць карту да становішча спараджэння цягніка"
 
 #v1.8.24
 msgctxt "train_info_late_predicted2"
@@ -189,7 +191,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr ""
+msgstr "Макс. паскарэнне:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
@@ -204,22 +206,22 @@ msgstr ""
 #v1.8.24
 msgctxt "train_intervene_group"
 msgid "Intervene group"
-msgstr ""
+msgstr "Умяшацца ў рух групы"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
 msgid "Only waiting to spawn"
-msgstr ""
+msgstr "Толькі чакае спараджэння"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
 msgid "Waiting spawn"
-msgstr ""
+msgstr "Чакае спараджэння"
 
 #v1.8.24
 msgctxt "train_rt_late"
 msgid "Est. lateness (s)"
-msgstr ""
+msgstr "Прыбл. спазненне (с)"
 
 #v1.8.24
 msgctxt "train_rt_leg"
@@ -229,7 +231,7 @@ msgstr ""
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
-msgstr ""
+msgstr "Хуткасць (км/г)"
 
 # ----------------------------------------------------------
 # modified strings
@@ -237,7 +239,7 @@ msgstr ""
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr ""
+msgstr "Запланаваны прыпынак"
 
 #v1.8.24
 msgctxt "editor_tip_add_left1"
@@ -247,7 +249,7 @@ msgstr ""
 #v1.8.24
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment."
-msgstr ""
+msgstr "ЛКМ, каб стварыць новы сегмент пуці."
 
 #v1.8.24
 msgctxt "kb_track_branch"
@@ -257,7 +259,7 @@ msgstr ""
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr ""
+msgstr "Карыстальніцкая працягласць лініі ігнаруецца, бо яна занадта кароткая"
 
 #v1.8.24
 msgctxt "sort_sep_real_time"
@@ -1095,7 +1097,7 @@ msgstr ""
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr ""
+msgstr "Статыстыка трансляцыі кліента"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -1230,7 +1232,7 @@ msgstr "Вы ўпэўнены, што жадаеце пераключыцца ў
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr ""
+msgstr "пападанне ў ваду або дарогу"
 
 #v1.1.31
 msgctxt "conflicts"
@@ -1240,7 +1242,7 @@ msgstr "Канфлікты"
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr ""
+msgstr "Адзін або некалькі пуцей маюць канфлікты і не могуць быць пабудаваны, або ўсё яшчэ чакаюць праверкі. Перамясціце, адрэдагуйце або выдаліце ўсе пуці, якія пазначаны чырвоным."
 
 #v1.1.31
 msgctxt "connecting_elip"
@@ -1281,7 +1283,7 @@ msgstr "Карыст. макс. хутк.:"
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Значэнні больш за максімальную канструктыўную хуткасць пуці будуць праігнараваныя. Задайце 0, каб адключыць карыстальніцкую максімальную хуткасць."
+msgstr "Значэнні больш за максімальную канструктыўную хуткасць пуці будуць праігнараваны. Задайце 0, каб адключыць карыстальніцкую максімальную хуткасць."
 
 #v1.4.22
 msgctxt "constraint_offset"
@@ -1758,7 +1760,7 @@ msgstr "Перацягніце любую выбраную кантрольну�
 #v1.4.15
 msgctxt "editor_tip_create_drag_alt"
 msgid "Alt and drag any selected control point to rotate the selection"
-msgstr ""
+msgstr "Націсніце Alt і перацягніце выбраную кантрольную кропку, каб варочаць выбранае"
 
 #v1.1.31
 msgctxt "editor_tip_create_esc"
@@ -1878,7 +1880,7 @@ msgstr ""
 #v1.4.15
 msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
-msgstr ""
+msgstr "Адпусціце ЛКМ, каб скончыць варочанне выбранага"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
@@ -1908,7 +1910,7 @@ msgstr "Націсніце на пуці, каб прымацаваць новы
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
 msgid "Click on tracks to tape them over with a new station platform"
-msgstr ""
+msgstr "Націсніце на пуці, каб склеіць іх у новую платформу станцыі"
 
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
@@ -1923,7 +1925,7 @@ msgstr "Націсніце на пуці, каб падзяліць іх у кр
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
 msgid "Click on tracks to tape them over with a new station"
-msgstr ""
+msgstr "Націсніце на пуці, каб склеіць іх у новую станцыю"
 
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
@@ -2049,7 +2051,7 @@ msgstr "Хуткасць: {0:.1f}x\nПерашкоды: {1}%"
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "Tramo de tiempo en cruzar del centro del andén al centro del andén de la siguiente parada, sin contar el tiempo de espera"
+msgstr "Час руху з сярэдзіны адной да сярэдзіны наступнай платформы без уліку часу прыпынку"
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -2970,9 +2972,10 @@ msgid "State"
 msgstr "Стан"
 
 #v1.1.31
+# Магчыма лепш тут выкарыстаць "Прапусканне", але тады тэкст не ўлезе ў подпіс
 msgctxt "line_stop_passthru_short"
 msgid "Pass"
-msgstr ""
+msgstr "Пропуск"
 
 #v1.1.31
 msgctxt "line_stops"
@@ -3123,9 +3126,10 @@ msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this le
 msgstr "Фармат: гг:хх:сс.\nПрацягласць лініі будзе выбрана, каб дасканала адпавядаць гэтаму часу. Адпавяданне дням або тыдням не гарантуецца."
 
 #v1.5.31
+# Скарочана, бо не ўлазіць
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Карыстальніцкая працягласць чакання для гэтага прыпынку"
+msgstr "Карыст. працягласць чакання"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3138,9 +3142,10 @@ msgid "Edit reference train"
 msgstr "Рэдагаваць апорны цягнік"
 
 #v1.7.15
+# Без скарачэння не ўлазіць
 msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
-msgstr "Паказваць на карце:"
+msgstr "Адлюстр. на карце:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
@@ -3221,7 +3226,7 @@ msgstr "{0}, {1} км, {2}, {3} км/г сяр."
 #v1.7.15
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
-msgstr ""
+msgstr "Карыст. працягласць пятлі: {0}\nКарыст. працягласць лініі: {1}\nМін. працягласць пятлі: {2}\nМін. працягласць лініі: {3}\nПрацягласць пятлі - гэта сума часу руху па перагонам і чакання на прыпынках з улікам руху з апошняга да першага прыпынку.\nПрацягласць лініі - гэта працягласць пятлі без уліку руху з апошняга да першага прыпынку."
 
 #v1.2.22
 msgctxt "lineeditor_header_l"
@@ -3231,7 +3236,7 @@ msgstr "{0}, {1} км"
 #v1.7.15
 msgctxt "lineeditor_implied_stop_time"
 msgid "Implied stop time:"
-msgstr "Меркаваны час прыпынку:"
+msgstr "Меркаваны час прып.:"
 
 #v1.5.31
 # Скрочана, бо не ўмяшчаецца ў подпіс
@@ -3267,7 +3272,7 @@ msgstr ""
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr "Таймінг перагона:"
+msgstr "Час руху па перагону:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
@@ -3302,7 +3307,7 @@ msgstr "Час прыпынку:"
 #v1.7.15
 msgctxt "lineeditor_min_stop_time_desc"
 msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr ""
+msgstr "Фармат: (гг:)хх:сс\nПрыпынкі будуць запланаваны з гэтым часам чакання.\nЁн можа павялічыцца, калі пасадка або высадка пасажыраў затрымаецца."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3332,7 +3337,7 @@ msgstr "Апорны цягнік:"
 #v1.2.22
 msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
-msgstr ""
+msgstr "Унутраная сімуляцыя гэтага цягніка будзе выкарыстана для вылічэння часу руху па перагонам."
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
@@ -3678,7 +3683,7 @@ msgstr "Штомесячны плацёж:"
 #v1.1.31
 msgctxt "loan_contract_rate"
 msgid "APR:"
-msgstr ""
+msgstr "Стаўка (% гадавых):"
 
 #v1.1.31
 msgctxt "loan_contract_total_interest"
@@ -3708,7 +3713,7 @@ msgstr "Пазычыць грошы могуць толькі адміністр
 #v1.1.31
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
-msgstr ""
+msgstr "Заплач. па працэнтам:"
 
 #v1.1.31
 msgctxt "loan_pay_early"
@@ -3723,7 +3728,7 @@ msgstr "Плацяжы:"
 #v1.1.31
 msgctxt "loan_payments_fmt"
 msgid "{0} out of {1}, next on {2}"
-msgstr "{0} з {1}, наступны ў {2}"
+msgstr "{0} з {1}, наступны {2}"
 
 #v1.1.31
 msgctxt "loan_subtitle"
@@ -3733,7 +3738,7 @@ msgstr "${} штомесяц"
 #v1.1.31
 msgctxt "loan_title"
 msgid "${0} at {1:.3}% APR in {2} years"
-msgstr ""
+msgstr "${0} пры {1:.3}% гадавых на {2} гадоў"
 
 #v1.4.22
 msgctxt "local_bp_collection"
@@ -3940,7 +3945,7 @@ msgstr "Уключаныя ў гэтай гульні"
 #v1.7.15
 msgctxt "mod_panel_list_title"
 msgid "All subscribed mods"
-msgstr ""
+msgstr "Усе моды, на якія вы падпісаліся"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -5728,7 +5733,7 @@ msgstr "{0}м"
 #v1.7.15
 msgctxt "stop_times_tp_wait"
 msgid "Stop {} wait time"
-msgstr "Час чакання на прыпынку {}"
+msgstr "Чаканне на прыпынку {}"
 
 #v1.1.31
 msgctxt "stops_n_0"
@@ -5830,7 +5835,7 @@ msgstr "Фунікулёр"
 #v1.1.58
 msgctxt "tag_coach"
 msgid "Coach"
-msgstr ""
+msgstr "Турыстычны"
 
 #v1.1.58
 msgctxt "tag_commuter"
@@ -5926,7 +5931,7 @@ msgstr "Немагчыма рэдагаваць у шматкарыстальн�
 #v1.3.13
 msgctxt "tag_info_top_level"
 msgid "<Top level>"
-msgstr ""
+msgstr "<Верхні ўзровень>"
 
 #v1.1.58
 msgctxt "tag_intercity"
@@ -6047,7 +6052,7 @@ msgstr "Рэстаран"
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr ""
+msgstr "Прыгарадны"
 
 #v1.1.58
 msgctxt "tag_sitting"
@@ -6087,7 +6092,7 @@ msgstr ""
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr ""
+msgstr "З токапрыёмнікам"
 
 #v1.1.58
 msgctxt "tag_tilting"
@@ -6373,7 +6378,7 @@ msgstr "{} ({} / {})\n{}\nЗ: {} UTC+{}"
 #v1.7.15
 msgctxt "train_base_color_edit"
 msgid "Default base color:"
-msgstr ""
+msgstr "Базавы колер (ст.)"
 
 #v1.1.31
 msgctxt "train_bill"
@@ -6483,12 +6488,12 @@ msgstr ""
 #v1.7.15
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr ""
+msgstr "Колер дэкалі (ст.)"
 
 #v1.7.15
 msgctxt "train_decal_edit"
 msgid "Change all decals:"
-msgstr ""
+msgstr "Змяніць усе дэкалі:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
@@ -6541,9 +6546,10 @@ msgid "Interval:"
 msgstr "Інтэрвал:"
 
 #v1.5.31
+# Тут маецца на ўвазе "Выберыце лінію, працягласць якой выкарыстоўваць"
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Працягласць:"
+msgstr "Лінія:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
@@ -6583,12 +6589,12 @@ msgstr "Фіксаваны інтэрвал"
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr ""
+msgstr "Раўнамерны па працягласці лініі"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr ""
+msgstr "Раўнамерны на працягу ручной працягласці"
 
 #v1.5.31
 msgctxt "train_group_n_name"
@@ -6688,7 +6694,7 @@ msgstr "{0:.2f}м / {1:.2f}м"
 #v1.7.15
 msgctxt "train_info_dim_d"
 msgid "{0} cars / {1:.2f}m / {2:.2f}m"
-msgstr ""
+msgstr "{0} вагонаў / {1:.2f}м / {2:.2f}м"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
@@ -7043,7 +7049,7 @@ msgstr "Лінія:"
 #v1.7.15
 msgctxt "train_price"
 msgid "Per train price:"
-msgstr ""
+msgstr "Цана за адзін цягнік:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -7167,12 +7173,12 @@ msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this am
 msgstr "Фармат: (-)гг:хх:сс\nЗрушыць пачатак аўтаматычна капіраваных загадаў на гэту колькасць."
 
 #v1.7.15
-msgctxt "traineditor_tooltip_buy_custom_mode"
+msgctxt "traineditor_buy_custom_mode"
 msgid "Purchase custom train"
 msgstr "Набыць карыстальніцкі цягнік"
 
 #v1.7.15
-msgctxt "traineditor_tooltip_buy_tmu_mode"
+msgctxt "traineditor_buy_tmu_mode"
 msgid "Purchase preconfigured train"
 msgstr "Набыць загадзя сканфігураваны цягнік"
 
@@ -7345,12 +7351,12 @@ msgstr "Прадаць выбраныя цягнікі"
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_custom_mode"
 msgid "Purchase custom train"
-msgstr ""
+msgstr "Набыць карыстальніцкі цягнік"
 
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr ""
+msgstr "Набыць загадзя сканфігураваны цягнік"
 
 #v1.1.31
 # Больш вольны пераклад для большай яго дакладнасці
