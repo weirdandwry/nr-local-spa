@@ -1283,7 +1283,7 @@ msgstr "Карыст. макс. хутк.:"
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Значэнні больш за максімальную канструктыўную хуткасць пуці будуць праігнараваныя. Задайце 0, каб адключыць карыстальніцкую максімальную хуткасць."
+msgstr "Значэнні больш за максімальную канструктыўную хуткасць пуці будуць праігнараваны. Задайце 0, каб адключыць карыстальніцкую максімальную хуткасць."
 
 #v1.4.22
 msgctxt "constraint_offset"
