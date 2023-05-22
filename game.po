@@ -1242,7 +1242,7 @@ msgstr "Канфлікты"
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr "Адзін або некалькі пуцей маюць канфлікты і не могуць быць пабудаваны, або ўсё яшчэ чакаюць праверкі. Перамясціце, рэдагуйце або выдаліце ўсе пуці, якія пазначаны чырвоным."
+msgstr "Адзін або некалькі пуцей маюць канфлікты і не могуць быць пабудаваны, або ўсё яшчэ чакаюць праверкі. Перамясціце, адрэдагуйце або выдаліце ўсе пуці, якія пазначаны чырвоным."
 
 #v1.1.31
 msgctxt "connecting_elip"
