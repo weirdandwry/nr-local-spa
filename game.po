@@ -2398,7 +2398,7 @@ msgstr "Хуткасць гульні:"
 #v1.1.37
 msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
-msgstr "Вялікія колькасць складаных пабудоў з мноствам цягнікоў і станцый можа быць непрыдатная для гульні пры хуткасці больш за 1x у шматкарыстальніцкай сесіі."
+msgstr "Вялікая колькасць складаных пабудоў з мноствам цягнікоў і станцый можа быць непрыдатная для гульні пры хуткасці больш за 1x у шматкарыстальніцкай сесіі."
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
@@ -3116,7 +3116,7 @@ msgstr "Карыст. працягласць:"
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr ""
+msgstr "Фармат: гг:хх:сс\nКалі працягласць лініі карацей за гэту колькасць, да прыпынкаў з уключанай карыстальніцкай працягласцю чакання будзе дадавацца час чакання, пакуль працягласць лініі не супадзе з карыстальніцкай працягласцю.\nДадатковы час размеркаваны раўнамерна паміж прыпынкамі. Калі ніводны з прыпынкаў не мае уключанай карыстальніцкай працягласці чакання, то дадатковы час будзе даданы да апошняга прыпынку."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
@@ -3219,7 +3219,7 @@ msgstr ""
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_desc"
 msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr ""
+msgstr "Фармат: (гг:)хх:сс\nЦягнік адправіцца дакладна ў гэты час, калі лічыць з пачатку лініі.\nЁн можа павялічыцца, калі пасадка або высадка пасажыраў затрымаецца."
 
 #v1.2.22
 msgctxt "lineeditor_header_full"
@@ -3250,7 +3250,7 @@ msgstr "Адпр. першага цягніка:"
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr ""
+msgstr "Фармат: гг:хх:сс\nЧас сутак для першага адпраўлення першага аўтаматычнага цягніка з першага прыпынку.\nГэта налада ужываецца толькі для цягнікоў у рэжыме аўтаматычных загадаў.\nЦягнікі з ручнымі загадамі на гэтай лініі праігнаруюць яе і не будуць улічвацца пры вылічэнні інтэрвалу."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
@@ -3270,7 +3270,7 @@ msgstr "Карыстальніцкі час:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr ""
+msgstr "Фармат: (гг:)хх:сс\nГэты карыстальніцкі час будзе прыблізна вылічаны з улікам крэйсерскай хуткасці.\nЁн будзе праігнараваны, калі выяўленая хуткасць будзе занадта павольнай або хуткай.\nЦягнікі могуць перавысіць гэту хуткасць, калі спазняюцца."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
@@ -3315,7 +3315,7 @@ msgstr "Фармат: (гг:)хх:сс\nПрыпынкі будуць запла
 #v1.1.37
 msgctxt "lineeditor_move_camera"
 msgid "Pan and zoom view when selecting a line or station"
-msgstr ""
+msgstr "Зрушыць і маштабаваць выгляд пры выбары лініі або станцыі"
 
 #v1.1.31
 msgctxt "lineeditor_name"
@@ -3576,12 +3576,13 @@ msgstr "Загрузка хуткага здымка базы даных"
 #v1.1.58
 msgctxt "loader_decompressing"
 msgid "Decompressing"
-msgstr ""
+msgstr "Распакоўка"
 
 #v1.1.58
+# Не знайшоў адпаведнага слова ў слоўніках або іншых крыніцах, пераклаў літаральна
 msgctxt "loader_deserializing"
 msgid "Deserializing"
-msgstr ""
+msgstr "Десерыялізацыя"
 
 #v1.7.15
 msgctxt "loader_downloading"
@@ -4205,7 +4206,7 @@ msgstr "Паведамленне хоста"
 #v1.1.37
 msgctxt "motd_desc"
 msgid "Optionally write here a message to be shown to all clients on joining your game."
-msgstr ""
+msgstr "Па выбары напішыце тут паведамленне, якое будзе паказана ўсім кліентам, якія далучаюцца да вашай гульні."
 
 #v1.1.37
 msgctxt "motd_empty_text"
@@ -4215,12 +4216,12 @@ msgstr "< Паведамленне хоста пустое >"
 #v1.1.37
 msgctxt "motd_empty_url"
 msgid "< Host chat link is empty or invalid >"
-msgstr ""
+msgstr "< Спасылка на чат пустая або недапушчальная >"
 
 #v1.1.37
 msgctxt "motd_url_desc"
 msgid "Optionally paste here a URL that clients can visit to join your chat. For example, a Discord invite."
-msgstr ""
+msgstr "Па вабары ўстаўце тут спасылку, па якой кліенты змогуць перайсці ў ваш чат. Напрыклад, запрашэнне ў Discord."
 
 #v1.1.31
 msgctxt "mp_action_allow"
@@ -5097,7 +5098,7 @@ msgstr "Змяшчае ўсяго пасажыраў"
 #v1.1.72
 msgctxt "rtstat_pax_transfer"
 msgid "Contains transfer pax"
-msgstr ""
+msgstr "Змяшчае пасажыраў, якія чакаюць перасадку"
 
 #v1.1.72
 msgctxt "rtstat_pax_with_destination"
@@ -5287,7 +5288,7 @@ msgstr "Налады"
 #v1.7.15
 msgctxt "share_deleting"
 msgid "Deleting slot"
-msgstr ""
+msgstr "Выдаленне слота"
 
 #v1.7.15
 msgctxt "share_empty_slot"
@@ -5382,7 +5383,7 @@ msgstr "Націсніце, каб загрузіць гульню"
 #v1.7.15
 msgctxt "share_listing"
 msgid "Listing slots"
-msgstr ""
+msgstr "Пералічэнне слотаў"
 
 #v1.7.15
 msgctxt "share_net_error_api"
@@ -5844,7 +5845,7 @@ msgstr "Турыстычны"
 #v1.1.58
 msgctxt "tag_commuter"
 msgid "Commuter"
-msgstr ""
+msgstr "Прыгарадны"
 
 #v1.1.58
 msgctxt "tag_compartments"
@@ -5970,7 +5971,7 @@ msgstr "Адлеглы"
 #v1.1.58
 msgctxt "tag_lounge"
 msgid "Lounge"
-msgstr ""
+msgstr "Буфет"
 
 #v1.1.58
 msgctxt "tag_maglev"
@@ -5995,7 +5996,7 @@ msgstr "Манарэйкавы"
 #v1.1.58
 msgctxt "tag_mu"
 msgid "Multiple unit"
-msgstr ""
+msgstr "Сістэма многіх адзінак"
 
 #v1.1.58
 msgctxt "tag_narrow"
@@ -6015,7 +6016,7 @@ msgstr ""
 #v1.7.15
 msgctxt "tag_open_coach"
 msgid "Open coach"
-msgstr ""
+msgstr "Сядзячы"
 
 #v1.1.58
 # Не літаральны пераклад, але ён больш адпавядае кантэксту
@@ -6056,7 +6057,7 @@ msgstr "Рэстаран"
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr "Прыгарадны"
+msgstr "Чаўночны"
 
 #v1.1.58
 msgctxt "tag_sitting"
@@ -6091,7 +6092,7 @@ msgstr "Цыстэрна"
 #v1.1.58
 msgctxt "tag_tender"
 msgid "Tender"
-msgstr ""
+msgstr "Тэндар"
 
 #v1.1.58
 msgctxt "tag_third_rail"
@@ -6167,7 +6168,7 @@ msgstr "Адзінкі"
 #v1.6.13
 msgctxt "tape_building_props"
 msgid "Tape building properties"
-msgstr ""
+msgstr "Уласцівасці склейвання буданкаў"
 
 #v1.6.13
 msgctxt "tape_warn_built"
@@ -6287,7 +6288,7 @@ msgstr "Пуці"
 #v1.1.31
 msgctxt "track_hits"
 msgid "track hits"
-msgstr ""
+msgstr "пападанне ў пуці"
 
 #v1.2.29
 msgctxt "track_info_layer"
@@ -7011,7 +7012,7 @@ msgstr "Лінія для аўтазапуску:"
 #v1.5.31
 msgctxt "train_orders_keep_line"
 msgid "< Keep current line >"
-msgstr "< Захаваць бягучую лінію >"
+msgstr "< Пакінуць бягучую лінію >"
 
 #v1.5.31
 msgctxt "train_orders_mode"
@@ -7711,5 +7712,5 @@ msgstr ""
 #v1.1.37
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
-msgstr ""
+msgstr "Даныя гэтага мода ўключаны ў бягучай гульні, але ўсталёваныя файлы патрабуюць навейшую версію гульні. Абнавіце гульню."
 
