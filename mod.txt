@@ -2,7 +2,7 @@
 schema=1
 name=Пераклад на беларускую мову
 author=SampleText2k77
-version=1.0.3
+version=1.0.4
 
 [Language]
 code_iso_639_2=bel
