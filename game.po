@@ -2468,7 +2468,7 @@ msgstr "Прыватная"
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "Час, рух цягнікоў і сімуляцыя пасажыраў асобная для кожнага кліента.\nПуці, лініі і цягнікі рэдагуюцца сумесна.\nЛепш маштабуецца для вялікай колькасці складаных пабудоў, чым агульная сімуляцыя.\nРэжым неабмежаванай колькасці грошай заўсёды ўключаны ва ўсіх гульнях."
+msgstr "Час, рух цягнікоў і сімуляцыя пасажыраў асобныя для кожнага кліента.\nПуці, лініі і цягнікі рэдагуюцца сумесна.\nЛепш маштабуецца для вялікай колькасці складаных пабудоў, чым агульная сімуляцыя.\nРэжым неабмежаванай колькасці грошай заўсёды ўключаны ва ўсіх гульнях."
 
 #v1.6.13
 # Літаральна "абагуленая", але тут маецца на ўвазе "common"
@@ -2479,7 +2479,7 @@ msgstr "Агульная"
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
 msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "Час, рух цягнікоў і сімуляцыя пасажыраў агульная і сінхранізуецца паміж усімі кліентамі.\nПуці, лініі і цягнікі рэдагуюцца сумесна."
+msgstr "Час, рух цягнікоў і сімуляцыя пасажыраў агульныя і сінхранізуюцца паміж усімі кліентамі.\nПуці, лініі і цягнікі рэдагуюцца сумесна."
 
 #v1.1.31
 msgctxt "icon_file"
@@ -2679,7 +2679,7 @@ msgstr "Устаўце код далучэння, каб далучыцца да
 #v1.1.31
 msgctxt "joincode_server_info"
 msgid "This join code allows any player to join your hosted game, even if they are not in your friend list. Make sure your Access rules are set to Allow or to Ask, otherwise players will be ignored even if they have a correct join code."
-msgstr "Гэты код далучэння дазваляе любому гульцу далучыцца да гульні, якую вы арганізавалі, нават калі ён не ў вашых сябрах. Пераканайцеся, што правіла доступу мае значэнне «Дазволіць» або «Запытацца ў мяне», інакш любы гулец будзе ігнараваны, нават калі ён мае правільны код далучэння."
+msgstr "Гэты код далучэння дазваляе любому гульцу далучыцца да гульні, якую вы арганізавалі, нават калі ён не ў вашых сябрах. Пераканайцеся, што правіла доступу мае значэнне «Дазволіць» або «Запытацца ў мяне», інакш любы гулец будзе праігнараваны, нават калі ён мае правільны код далучэння."
 
 #v1.1.31
 msgctxt "joint_multiplayer_name"
@@ -3116,7 +3116,7 @@ msgstr "Карыст. працягласць:"
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Фармат: гг:хх:сс\nКалі працягласць лініі карацей за гэту колькасць, да прыпынкаў з уключанай карыстальніцкай працягласцю чакання будзе дадавацца час чакання, пакуль працягласць лініі не супадзе з карыстальніцкай працягласцю.\nДадатковы час размеркаваны раўнамерна паміж прыпынкамі. Калі ніводны з прыпынкаў не мае ўключанай карыстальніцкай працягласці чакання, то дадатковы час будзе даданы да апошняга прыпынку."
+msgstr "Фармат: гг:хх:сс\nКалі працягласць лініі карацей за гэту колькасць, да прыпынкаў з уключанай карыстальніцкай працягласцю чакання будзе дадавацца час чакання, пакуль працягласць лініі не супадзе з карыстальніцкай працягласцю.\nДадатковы час будзе размеркаваны раўнамерна паміж прыпынкамі. Калі ніводны з прыпынкаў не мае ўключанай карыстальніцкай працягласці чакання, то дадатковы час будзе даданы да апошняга прыпынку."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
@@ -3250,7 +3250,7 @@ msgstr "Адпр. першага цягніка:"
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Фармат: гг:хх:сс\nЧас сутак для першага адпраўлення першага аўтаматычнага цягніка з першага прыпынку.\nГэта налада ужываецца толькі для цягнікоў у рэжыме аўтаматычных загадаў.\nЦягнікі з ручнымі загадамі на гэтай лініі праігнаруюць яе і не будуць улічвацца пры вылічэнні інтэрвалу."
+msgstr "Фармат: гг:хх:сс\nЧас сутак для першага адпраўлення першага аўтаматычнага цягніка з першага прыпынку.\nГэта налада ўжываецца толькі для цягнікоў у рэжыме аўтаматычных загадаў.\nЦягнікі з ручнымі загадамі на гэтай лініі праігнаруюць яе і не будуць улічвацца пры разліку інтэрвалу."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
@@ -3258,9 +3258,10 @@ msgid "Effective time:"
 msgstr "Эфектыўны час:"
 
 #v1.5.41
+# Скарочана, каб умясціць у подпіс
 msgctxt "lineeditor_leg_eta_custom_speed"
 msgid "Custom speed (km/h):"
-msgstr "Карыстальніцкая хуткасць (км/г):"
+msgstr "Карыст. хуткасць (км/г):"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time"
@@ -4786,9 +4787,10 @@ msgid "Group by origin"
 msgstr "Згрупаваць па крыніцы"
 
 #v1.5.31
+# Скарочана, каб умясціць у подпіс
 msgctxt "paxlist_groupby_plan"
 msgid "Show best current trip"
-msgstr "Паказаць найлепшую бягучую паездку"
+msgstr "Паказаць найлепш. бягуч. паездку"
 
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
@@ -5854,7 +5856,7 @@ msgstr "Купэ"
 #v1.7.15
 msgctxt "tag_couchette"
 msgid "Couchette"
-msgstr "Кушэтка"
+msgstr "Плацкартны"
 
 #v1.3.13
 msgctxt "tag_del"
@@ -5995,7 +5997,7 @@ msgstr "Манарэйкавы"
 #v1.1.58
 msgctxt "tag_mu"
 msgid "Multiple unit"
-msgstr "Сістэма многіх адзінак"
+msgstr "Маторвагонны"
 
 #v1.1.58
 msgctxt "tag_narrow"
@@ -6387,7 +6389,7 @@ msgstr "Базавы колер (ст.)"
 #v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
-msgstr "Рахунак цягніка"
+msgstr "Рахунак за цягнік"
 
 #v1.6.13
 msgctxt "train_bulk_change_orders"
@@ -7157,9 +7159,10 @@ msgid "Edit as custom train"
 msgstr "Рэдагаваць як карыстальніцкі цягнік"
 
 #v1.7.15
+# Скарочана, каб умясціць у кнопку
 msgctxt "train_tmu_copy_custom"
 msgid "Copy for custom train"
-msgstr "Капіраваць для карыстальніцкага цягніка"
+msgstr "Капіраваць для карыст. цягніка"
 
 #v1.1.72
 msgctxt "train_total_price_1"
