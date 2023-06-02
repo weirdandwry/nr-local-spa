@@ -86,7 +86,7 @@ msgstr "Прыбываць праз:"
 #v1.8.24
 msgctxt "realtime"
 msgid "Realtime"
-msgstr ""
+msgstr "Рэальны час"
 
 #v1.8.24
 msgctxt "rtstat_creation"
@@ -121,12 +121,12 @@ msgstr "Сігналы аднабаковага руху ў тупіках пл�
 #v1.8.24
 msgctxt "signal_warn_max_length_desc"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr ""
+msgstr "Блок-участак, абмежаваны гэтым сігналам, занадта доўгі. Устаўце больш такіх сігналаў, як еўрабаліза (мяжа блок-участка), каб зрабіць яго карацей."
 
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr ""
+msgstr "Сігнал на гэтым пуці размешчаны занадта блізка да другога пуці. Перамясціце яго далей ад пуцей, якія перакрываюць адзін аднаго."
 
 #v1.8.24
 msgctxt "stop_times_tp_arrival"
@@ -146,7 +146,7 @@ msgstr "Рух па перагону {0} ▶ {1}"
 #v1.8.24
 msgctxt "teo.append_continous"
 msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr ""
+msgstr "Бесперапынна дадаваць сегменты пуці да націскання Esc або да аб'яднання/звязвання пуцей"
 
 #v1.8.24
 msgctxt "track_info_name"
@@ -156,7 +156,7 @@ msgstr "Назва:"
 #v1.8.24
 msgctxt "train_car_append_tp"
 msgid "Shift clicking cars in the listing directly appends them"
-msgstr ""
+msgstr "Націсканне на вагоны ў пералічэнні з утрыманнем Shift адразу дадае іх"
 
 #v1.8.24
 msgctxt "train_departing_to"
@@ -264,7 +264,7 @@ msgstr "Карыстальніцкая працягласць лініі ігн�
 #v1.8.24
 msgctxt "sort_sep_real_time"
 msgid "--- Realtime ---"
-msgstr ""
+msgstr "--- Рэальны час ---"
 
 # ----------------------------------------------------------
 # unmodified strings
@@ -1650,7 +1650,7 @@ msgstr "Прыклеіць платформу да станцыі"
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Ператварыць пуці ў платформы станцыі"
+msgstr "Ператварыць пуць у платформу станцыі"
 
 #v1.6.13
 msgctxt "editor_sat_split"
@@ -1676,7 +1676,7 @@ msgstr "Націсніце на сегменты пуцей, каб дадаць
 # Наўмысна прапусціў пераклад "controls", не ведаю як гэта перакласці і пераклад не занадта патрэбны
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Націсніце на сігнал, каб зрабіць яго пабочным сігналам шляху для прыпынку"
+msgstr "Націсніце на сігнал шляху, каб зрабіць яго пабочным для прыпынку"
 
 #v1.5.41
 msgctxt "editor_select_alt_stop"
@@ -1816,7 +1816,7 @@ msgstr "ЛКМ, каб звязаць пуці"
 #v1.1.31
 msgctxt "editor_tip_link_move"
 msgid "Move away the mouse cursor to cancel"
-msgstr ""
+msgstr "Перамясціце курсор мышы прэч, каб скасаваць"
 
 #v1.2.22
 msgctxt "editor_tip_move_branch_draw"
@@ -1874,9 +1874,10 @@ msgid "Ctrl-V to paste clipboard objects"
 msgstr "Ctrl+V, каб уставіць аб'екты з буфера абмену"
 
 #v1.1.31
+# TODO: у іншых месцах "выбранае" -> "вылучанае"
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr ""
+msgstr "Адпусціце ЛКМ, каб скончыць прамавугольнае вылучэнне"
 
 #v1.4.15
 msgctxt "editor_tip_rot_left"
@@ -2227,17 +2228,17 @@ msgstr "Цана"
 #v1.1.58
 msgctxt "filter_range_high"
 msgid "At most {0} {1}"
-msgstr ""
+msgstr "Максімум {0} {1}"
 
 #v1.1.58
 msgctxt "filter_range_low"
 msgid "At least {0} {1}"
-msgstr ""
+msgstr "Мінімум {0} {1}"
 
 #v1.1.58
 msgctxt "filter_range_low_high"
 msgid "{0} to {1} {2}"
-msgstr ""
+msgstr "{0} да {1} {2}"
 
 #v1.1.58
 msgctxt "filter_some_matches"
@@ -2247,12 +2248,12 @@ msgstr "{0} з {1} мадэлей"
 #v1.1.58
 msgctxt "filter_year_intro"
 msgid "Year introduced"
-msgstr ""
+msgstr "Уведзены ў эксплуатацыю"
 
 #v1.1.58
 msgctxt "filter_year_retired"
 msgid "Year retired"
-msgstr ""
+msgstr "Выведзены з эксплуатацыі"
 
 #v1.1.31
 msgctxt "friend_state_away"
@@ -2272,12 +2273,12 @@ msgstr "Злучаны"
 #v1.1.31
 msgctxt "friend_state_connected_here"
 msgid "Conn. here"
-msgstr ""
+msgstr "Злуч. сюды"
 
 #v1.1.31
 msgctxt "friend_state_connected_other"
 msgid "Conn. elsewhere"
-msgstr ""
+msgstr "Злуч. з іншым месцам"
 
 #v1.1.31
 msgctxt "friend_state_hosting"
@@ -2991,9 +2992,11 @@ msgid "Timetable"
 msgstr "Расклад"
 
 #v1.7.15
+# TODO: праверыць "fit" = "фіксаваны" ў гэтым кантэксце
+# TODO: праверыць сэнс
 msgctxt "line_warn_no_custom_duration_stops"
 msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
-msgstr ""
+msgstr "Карыстальніцкі або фіксаваны рэжым працягласці патрабуе як мінімум адзін прыпынак з некаторым часам чакання пасля апошняга фіксаванага прыпынку для адпраўлення"
 
 #v1.7.15
 msgctxt "line_warn_unachievable_fixed_departure"
@@ -4659,17 +4662,17 @@ msgstr "Раён"
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr ""
+msgstr "0 эстакад"
 
 #v1.1.31
 msgctxt "overpass_n_1"
 msgid "1 overpass"
-msgstr ""
+msgstr "1 эстакада"
 
 #v1.1.31
 msgctxt "overpass_n_many"
 msgid "%d overpasses"
-msgstr ""
+msgstr "%d эстакад"
 
 #v1.1.31
 msgctxt "overwrite"
@@ -4692,9 +4695,10 @@ msgid "Overwrite {}?"
 msgstr "Перазапісаць {}?"
 
 #v1.1.37
+# TODO: што
 msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
-msgstr ""
+msgstr "{} быў захаваны ў іншай версіі гульні. Ці жадаеце перазапісаць яго або спачатку перайменаваць, каб захаваць яго арыгінальны змест, потым захаваць гульню?"
 
 #v1.3.13
 msgctxt "parent"
@@ -4914,7 +4918,7 @@ msgstr "%d платформ"
 #v1.5.41
 msgctxt "plats_show_conflicts"
 msgid "Highlight overlapping train stops"
-msgstr ""
+msgstr "Падсвяціць прыпынкі цягніка, якія перакрываюць адзін аднаго"
 
 #v1.5.41
 msgctxt "plats_stacked_lines"
@@ -5067,14 +5071,15 @@ msgid "Time to scheduled arrival"
 msgstr "Час да запланаванага прыбыцця"
 
 #v1.1.72
+# "змешчаных" 50/50
 msgctxt "rtstat_pax_avg_leg_time"
 msgid "Avg. leg time of contained pax"
-msgstr ""
+msgstr "Сяр. час этапу змешчаных пасажыраў"
 
 #v1.1.72
 msgctxt "rtstat_pax_avg_time"
 msgid "Avg. total time of contained pax"
-msgstr ""
+msgstr "Сяр. агульны час змешчаных пасажыраў"
 
 #v1.1.72
 msgctxt "rtstat_pax_capacity"
@@ -5359,7 +5364,7 @@ msgstr "Замяніць бягучай гульнёй"
 #v1.7.15
 msgctxt "share_game_replace_desc"
 msgid "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
-msgstr ""
+msgstr "Выдаліць існуючую і запампаваць бягучую гульню на nimbyrails.com і стварыць спасылку, каб абагуліць яе"
 
 #v1.7.15
 msgctxt "share_game_upload"
@@ -5454,17 +5459,17 @@ msgstr "Кірунак:"
 #v1.4.15
 msgctxt "signal_edit_invalid_track"
 msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
-msgstr ""
+msgstr "Гэты сігнал не дазваляецца выкарыстоўваць з гэтым відам пуці пачыная з версіі 1.4. Ён усё яшчэ функцыянуе, але некаторыя манеўры цягніка могуць быць адключаны для гэтага пуці. Перамясціце яго на іншы пуць."
 
 #v1.4.15
 msgctxt "signal_edit_plat_stop_obsolete"
 msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
-msgstr ""
+msgstr "Гэты сігнал выйшаў з ужытку. Ён усё яшчэ функцыянуе, але некаторыя манеўры цягніка могуць быць адключаны для гэтага пуці."
 
 #v1.4.15
 msgctxt "signal_edit_simple_block_obsolete"
 msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
-msgstr ""
+msgstr "Гэты сігнал выйшаў з ужытку. Ён усё яшчэ функцыянуе, але яго трэба замяніць на сігнал шляху."
 
 #v1.2.22
 msgctxt "signal_editor_title_edit"
@@ -5524,7 +5529,7 @@ msgstr "Няма руху"
 #v1.2.22
 msgctxt "signal_kind_name_oneway"
 msgid "One way"
-msgstr "Аднабокавы рух"
+msgstr "Аднабаковы рух"
 
 #v1.2.22
 msgctxt "signal_kind_name_platform_stop"
@@ -5704,12 +5709,12 @@ msgstr "Чат і Сябры Steam"
 #v1.1.31
 msgctxt "steam_chat_client_info"
 msgid "The Join Game options in Steam Chat and Steam Friends can be used to request access to other player games."
-msgstr ""
+msgstr "Параметры далучэння да гульні ў Чаце Steam і Сябрах Steam можна выкрыстаць для запрашэння доступу да гульняў іншых гульцоў."
 
 #v1.1.31
 msgctxt "steam_chat_server_info"
 msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
-msgstr ""
+msgstr "Параметры запрашэння ў Чаце Steam і Сябрах Steam можна выкарыстаць для запрашэння іншых гульцоў у гульню, арганізаваную вамі. Вашы правілы доступу таксама ужываюцца для запрашэнняў праз Steam."
 
 #v1.1.31
 msgctxt "steam_friends"
@@ -5987,7 +5992,7 @@ msgstr "Метро"
 #v1.1.58
 msgctxt "tag_minimum_gauge"
 msgid "Minimum gauge"
-msgstr ""
+msgstr "З мінімальнай каляёй"
 
 #v1.1.58
 msgctxt "tag_monorail"
@@ -6012,7 +6017,7 @@ msgstr "Новы цэтлік"
 #v1.1.58
 msgctxt "tag_observation"
 msgid "Observation"
-msgstr ""
+msgstr "Назіральны"
 
 #v1.7.15
 msgctxt "tag_open_coach"
@@ -6103,7 +6108,7 @@ msgstr "З токапрыёмнікам"
 #v1.1.58
 msgctxt "tag_tilting"
 msgid "Tilting"
-msgstr ""
+msgstr "З нахіляемым кузавам"
 
 #v1.7.15
 msgctxt "tag_toilet"
@@ -6264,7 +6269,7 @@ msgstr "Занадта шмат кліпаў"
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr ""
+msgstr "Кліпы, якія вы захавалі і на якія вы падпісаліся, дасягнулі мяжы ў 50000 пуцей і будынкаў. Калі ласка, выдаліце некаторыя з іх або адпішыцеся ад часткі калекцый."
 
 #v1.2.22
 msgctxt "tooltip_demand"
@@ -6359,7 +6364,7 @@ msgstr "Хаваць кантрольныя кропцы пры аддаленн
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
-msgstr ""
+msgstr "Рэжым утрым. прывязкі клавіш інстр. пуцей"
 
 #v1.4.15
 msgctxt "tracks_total"
@@ -6474,7 +6479,7 @@ msgstr "Кланіраваць"
 #v1.5.31
 msgctxt "train_clone_copier"
 msgid "Clone as copier"
-msgstr ""
+msgstr "Кланіраваць як капіравальнік"
 
 #v1.1.31
 msgctxt "train_code_edit"
@@ -6489,7 +6494,7 @@ msgstr "Стварыць новы загад з гэтага рэйса"
 #v1.7.15
 msgctxt "train_decal_change_desc"
 msgid "This feature only works properly if all cars are from the same mod and train composition"
-msgstr ""
+msgstr "Гэта функцыя працуе адпаведна толькі калі ўсе вагоны з аднаго мода і чыгуначнага саставу"
 
 #v1.7.15
 msgctxt "train_decal_color_edit"
@@ -6544,7 +6549,7 @@ msgstr "Інтэрвал:"
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
 msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr ""
+msgstr "Фармат: (-)гг:хх:сс\nПаступова зрушваць пачаткі загадаў для цягнікоў-капіравальнікаў на гэту колькасць часу."
 
 #v1.5.31
 msgctxt "train_group_interval"
@@ -6565,7 +6570,7 @@ msgstr "Працягласць:"
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
 msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr ""
+msgstr "Фармат: гг:хх:сс\nРаўнамерна размеркаваць пачатак загадаў для цягнікоў-капіравальнікаў па гэтай працягласці."
 
 #v1.5.31
 msgctxt "train_group_migrate_but"
@@ -6578,9 +6583,10 @@ msgid "Migrate auto run trains"
 msgstr "Перанесці аўтаматычна запушчаныя цягнікі"
 
 #v1.5.31
+# Вольны пераклад, які адпавядае кантэксту
 msgctxt "train_group_migrate_line_pick"
 msgid "Auto trains of:"
-msgstr ""
+msgstr "Лінія:"
 
 #v1.5.31
 msgctxt "train_group_mode"
@@ -7316,9 +7322,10 @@ msgid "Depart exactly at"
 msgstr "Адпраўляцца дакладна ў"
 
 #v1.5.41
+# TODO: 2 і 3 сказ ?????????????
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr ""
+msgstr "Задаць ранейшы магчымы час, які дазволіць папярэдняму загаду пазбегнуць дадатковага чакання падчас апошняга рэйса\nЧакаючы дзень тыдня і час пачатку ігнаруецца\nЗагады на некалькі дзён будуць разглядаць только першы дзень"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
@@ -7439,17 +7446,17 @@ msgstr "Памылка пры злучэнні з Steamworks"
 #v1.1.31
 msgctxt "ugc_error_logged"
 msgid "Must be logged into Steam to perform this action"
-msgstr ""
+msgstr "Трэба ўвайсці ва ўліковы запіс Steam, каб выканаць гэта дзеянне"
 
 #v1.1.31
 msgctxt "ugc_error_priv"
 msgid "Not enough privileges with the current user account in Steam"
-msgstr ""
+msgstr "Бягучы ўліковы запіс у Steam мае замала прывілей"
 
 #v1.1.31
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr ""
+msgstr "Час чакання злучэння з Steam скончыўся"
 
 #v1.1.31
 msgctxt "ugc_some_rule_req"
@@ -7589,7 +7596,7 @@ msgstr "Пункт маршруту"
 #v1.5.31
 msgctxt "wedge_mode"
 msgid "Show trip legs as rhombus to better reflect the initial wait time"
-msgstr ""
+msgstr "Паказваць этапы паездкі ў форме ромба, каб лепш адлюстроўваць пачатковы час чакання"
 
 #v1.1.31
 msgctxt "weekday_friday"
@@ -7709,7 +7716,7 @@ msgstr "няправільная даўжыня"
 #v1.1.37
 msgctxt "wrong_protocol_desc"
 msgid "Your serialization and protocol do not match with the server. Make sure both your game and the server are running exactly the same game version, as displayed in the main menu."
-msgstr ""
+msgstr "Ваша гульня і сервер маюць розны фармат серыялізацыі і пратакол. Упэўніцеся, што версія вашай гульні, адлюстраваная ў галоўным меню, супадае з версіяй сервера."
 
 #v1.1.37
 msgctxt "wrong_schema_mod"
