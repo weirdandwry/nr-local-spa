@@ -1,270 +1,320 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.8.24
-msgctxt "accounting_trains_collisions"
-msgid "Collisions"
-msgstr "Colisiones"
+#v1.9.17
+msgctxt "alerts_pause_game_only_0_delay"
+msgid "Only if delay is 0"
+msgstr "Solo si pasados 0 minutos"
 
-#v1.8.24
-msgctxt "accounting_trains_extra_stop_time"
-msgid "Extra stop"
-msgstr "Parada extra"
-
-#v1.8.24
-msgctxt "accounting_trains_late_arrival_time"
-msgid "Late arrival >10s"
-msgstr "Llegada tardía >10s"
-
-#v1.8.24
-msgctxt "accounting_trains_signal_stop_time"
-msgid "Signal wait"
-msgstr "Espera en señal"
-
-#v1.8.24
-msgctxt "editor_branch_append"
-msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "Empezar o unir ramas al mover el cursor sobre las vías"
-
-#v1.8.24
-msgctxt "editor_tip_add_left3"
-msgid "Left click on length of existing tracks to branch them"
-msgstr "Click izquierdo sobre las vías para crear ramas"
-
-#v1.8.24
-msgctxt "editor_tip_cont_left_s1"
-msgid "Hold Shift to keep creating more segments."
-msgstr "Presionar shift para crear segmentos en secuencia."
-
-#v1.8.24
-msgctxt "line_to3"
-msgid "{0} [{1}] at"
-msgstr "{0} [{1}] a"
-
-#v1.8.24
-msgctxt "lineeditor_display_in_map_disabled"
-msgid "Disabled"
-msgstr "Desactivado"
-
-#v1.8.24
-msgctxt "lineeditor_display_in_map_loop"
-msgid "Loop"
-msgstr "Circular"
-
-#v1.8.24
-msgctxt "lineeditor_display_in_map_nonloop"
-msgid "Non-loop"
-msgstr "No circular"
-
-#v1.8.24
-msgctxt "lineeditor_max_accel"
-msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Aceleración máx. (ms⁻²):"
-
-#v1.8.24
-msgctxt "lineeditor_max_accel_desc"
-msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
-msgstr "Limite superior para aceleración del tren. La aceleración real puede ser inferior dependiendo de la fuerza tractora."
-
-#v1.8.24
-msgctxt "lineeditor_max_brake"
-msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Freno máx. (ms⁻²):"
-
-#v1.8.24
-msgctxt "lineeditor_max_brake_desc"
-msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
-msgstr "Limite superior para el freno del tren. El freno real puede ser inferior dependiendo de la capacidad del tren."
-
-#v1.8.24
-msgctxt "lineeditor_stop_arrive"
-msgid "Arrive at:"
-msgstr "Llega a:"
-
-#v1.8.24
-msgctxt "realtime"
-msgid "Realtime"
+#v1.9.17
+msgctxt "assets_live_update"
+msgid "Live updates"
 msgstr "Tiempo real"
 
-#v1.8.24
-msgctxt "rtstat_creation"
-msgid "Creation date"
-msgstr "Fecha creación"
+#v1.9.17
+msgctxt "built_bill"
+msgid "Built objects report"
+msgstr "Objetos construidos"
 
-#v1.8.24
-msgctxt "share_home_listing"
-msgid "Browse {} shared games"
-msgstr "Navegar {} partidas compartidas"
+#v1.9.17
+msgctxt "constraint_offset2_add"
+msgid "Add"
+msgstr "+"
 
-#v1.8.24
-msgctxt "signal_check_hit_occ"
-msgid "Occupied by {}"
-msgstr "Ocupado por {}"
+#v1.9.17
+msgctxt "constraint_offset2_mul"
+msgid "Mul"
+msgstr "*"
 
-#v1.8.24
-msgctxt "signal_check_hit_res"
-msgid "Reserved by {}"
-msgstr "Reservado por {}"
+#v1.9.17
+msgctxt "constraint_offset2_set"
+msgid "Set"
+msgstr "="
 
-#v1.8.24
-msgctxt "signal_warn_ignored"
-msgid "Ignored"
-msgstr "Ignorada"
+#v1.9.17
+msgctxt "constraint_platforms"
+msgid "Platforms:"
+msgstr "Andenes:"
 
-#v1.8.24
-msgctxt "signal_warn_ignored_plat_desc"
-msgid "One way signals at platform dead ends are ignored"
-msgstr "Se ignora la dirección única en plataformas con una salida"
+#v1.9.17
+msgctxt "constraint_platforms_demote"
+msgid "Demote"
+msgstr "Descender"
 
-#v1.8.24
-msgctxt "signal_warn_max_length_desc"
-msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "El bloque de vías protegido por esta señal es demasiado largo. Introduce más señales en el bloque, como las balizas, para hacerlo más corto."
+#v1.9.17
+msgctxt "constraint_platforms_promote"
+msgid "Promote"
+msgstr "Ascender"
 
-#v1.8.24
-msgctxt "signal_warn_too_close_desc"
-msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "La posición de la señal en la vía está demasiado cercana a otra vía. Desplázala a otra vía que no la solape."
+#v1.9.17
+msgctxt "dep_grp_destination"
+msgid "Destination"
+msgstr "Destino"
 
-#v1.8.24
-msgctxt "stop_times_tp_arrival"
-msgid "Stop {} arrival"
-msgstr "Llegada parada {}"
+#v1.9.17
+msgctxt "dep_grp_line"
+msgid "Line"
+msgstr "Línea"
 
-#v1.8.24
-msgctxt "stop_times_tp_departure"
-msgid "Stop {} departure"
-msgstr "Salida parada {}"
+#v1.9.17
+msgctxt "dep_grp_next_stop"
+msgid "Next stop"
+msgstr "Siguiente parada"
 
-#v1.8.24
-msgctxt "stop_times_tp_leg"
-msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr "Parada {0} ▶ {1} tiempo de recorrido"
+#v1.9.17
+msgctxt "dep_grp_train"
+msgid "Train"
+msgstr "Tren"
 
-#v1.8.24
-msgctxt "teo.append_continous"
-msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr "Crear segmentos continuamente hasta pulsar Esc o enlazar la vía"
+#v1.9.17
+msgctxt "dep_late"
+msgid "Max late"
+msgstr "Retraso max"
 
-#v1.8.24
-msgctxt "track_info_name"
-msgid "Name:"
-msgstr "Nombre:"
+#v1.9.17
+msgctxt "dep_sched"
+msgid "Scheduled"
+msgstr "Por horario"
 
-#v1.8.24
-msgctxt "train_car_append_tp"
-msgid "Shift clicking cars in the listing directly appends them"
-msgstr "Pulsando shift en los coches del listado se añade directamente"
+#v1.9.17
+msgctxt "destinations"
+msgid "Destinations"
+msgstr "Destinos"
 
-#v1.8.24
-msgctxt "train_departing_to"
-msgid "Departing to"
-msgstr "Saliendo a"
+#v1.9.17
+msgctxt "editor_sel_only_buildings"
+msgid "Keep only buildings in the selection"
+msgstr "Mantener solo los edificios en la selección"
 
-#v1.8.24
-msgctxt "train_departing_to_connect"
-msgid "to"
-msgstr "a"
+#v1.9.17
+msgctxt "editor_sel_only_child_tracks"
+msgid "Keep only parallel child tracks in the selection"
+msgstr "Mantener solo las vías paralelas hijas en la selección"
 
-#v1.8.24
-msgctxt "train_editable_builtin_tags"
-msgid "Built-in tags:"
-msgstr "Tags predefinidas:"
+#v1.9.17
+msgctxt "editor_sel_only_parent_tracks"
+msgid "Keep only parallel parent tracks in the selection"
+msgstr "Mantener solo las vías paralelas padres en la selección"
 
-#v1.8.24
-msgctxt "train_editable_builtin_tags_locked"
-msgid "Locked by mod"
-msgstr "Bloqueado por mod"
+#v1.9.17
+msgctxt "editor_sel_only_tracks"
+msgid "Keep only tracks in the selection"
+msgstr "Mantener solo las vías en la selección"
 
-#v1.8.24
-msgctxt "train_info_future_pin"
-msgid "Scroll map to train spawn position"
-msgstr "Desplazar mapa hasta la futura posición del tren"
+#v1.9.17
+msgctxt "editor_shapemode_full"
+msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
 
-#v1.8.24
-msgctxt "train_info_late_predicted2"
-msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Est. tardío {0}, {1:.1f} km de {2:.1f} km"
+#v1.9.17
+msgctxt "editor_shapemode_limited"
+msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
 
-#v1.8.24
-msgctxt "train_info_max_accel"
-msgid "Max acceleration:"
-msgstr "Aceleración máx.:"
+#v1.9.17
+msgctxt "editor_tangent_fix"
+msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr "NOT IN GAME - Keep last tangent: preserve previous track tangent and approximate a circle arc"
 
-#v1.8.24
-msgctxt "train_info_max_accel_v"
-msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} ms⁻², freno {1:.2f} ms⁻² a {2:.2f} ms⁻²"
+#v1.9.17
+msgctxt "editor_tangent_interp"
+msgid "Interpolate tangent: average previous track and current track tangents"
+msgstr "NOT IN GAME - Interpolate tangent: average previous track and current track tangents"
 
-#v1.8.24
-msgctxt "train_info_total_power_v"
-msgid "{0} kW, {1} kN max tr. eff."
-msgstr "{0} kW, {1} kN máx tracc."
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_click"
+msgid "Click to cancel"
+msgstr "Click para cancelar"
 
-#v1.8.24
-msgctxt "train_intervene_group"
-msgid "Intervene group"
-msgstr "Intervenir grupo"
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_dbl_click"
+msgid "Double click to cancel"
+msgstr "Doble click para cancelar"
 
-#v1.8.24
-msgctxt "train_list_filter_alert_only_waiting_spawn"
-msgid "Only waiting to spawn"
-msgstr "Solo esperando a aparecer"
+#v1.9.17
+msgctxt "editor_tip_cont_undo"
+msgid "Ctrl-Z to undo last track node"
+msgstr "Ctrl-Z para borrar el último nodo"
 
-#v1.8.24
-msgctxt "train_list_filter_alert_waiting_spawn"
-msgid "Waiting spawn"
-msgstr "Esperando aparecer"
+#v1.9.17
+msgctxt "editor_tip_tangent_left"
+msgid "Release left button to stop rotating the track tangent"
+msgstr "Soltar el botón izquierdo para parar de rotar la tangente de la vía"
 
-#v1.8.24
-msgctxt "train_rt_late"
-msgid "Est. lateness (s)"
-msgstr "Est. tardío (s)"
+#v1.9.17
+msgctxt "file_picker_corrupted"
+msgid "Corrupted file"
+msgstr "Archivo corrupto"
 
-#v1.8.24
-msgctxt "train_rt_leg"
-msgid "Remaining leg (m)"
-msgstr "Recorrido pendiente (m)"
+#v1.9.17
+msgctxt "kb_track_sat_platform_tape"
+msgid "Tracks: platform tape"
+msgstr "Vías: cinta de andén"
 
-#v1.8.24
-msgctxt "train_rt_speed"
-msgid "Speed (km/h)"
-msgstr "Velocidad (km/h)"
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_s1"
+msgid "Click on tracks to add a new secondary stop point"
+msgstr "Click sobre vías para añadir una nueva paradada secundaria"
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_title"
+msgid "Selecting secondary signal"
+msgstr "seleccionado señal secundaria"
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_basic"
+msgid "Click on station platform arrows to change the stop platform"
+msgstr "Click en las flechas de los andenes para cambiar el andén de parada"
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_s1"
+msgid "Click on tracks to change stop point"
+msgstr "Click en las vías para cambiar el punto de parada"
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_title"
+msgid "Changing stop point"
+msgstr "Cambiando el punto de parada"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_basic"
+msgid "Click on station platform arrows to create new line stops"
+msgstr "Click en las flechas de los andenes para crear nuevas paradas"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_s1"
+msgid "Click on tracks to set the stop point"
+msgstr "Click en las vías para elegir el punto de parada"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_title"
+msgid "Creating new stop"
+msgstr "Creando nueva parada"
+
+#v1.9.17
+msgctxt "lineeditor_facing_tip"
+msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr "Mueve el ratón para seleccionar la dirección de la parada, click para confirmar"
+
+#v1.9.17
+msgctxt "lineeditor_new_alt_stop_basic"
+msgid "Click on station platform arrows to create a new secondary platform stop"
+msgstr "Click en las flechas de los andenes para crear nuevas paradas secundarias"
+
+#v1.9.17
+msgctxt "loader_legacy_rebuild_19"
+msgid "Rebuilding pre-1.9 tracks"
+msgstr "Reconstruyendo vías pre-1.9"
+
+#v1.9.17
+msgctxt "node_mode"
+msgid "Node mode:"
+msgstr "Modo de nodo:"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching"
+msgid "Pax board trains:"
+msgstr "NOT IN GAME - Pax board trains:"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_line_stop"
+msgid "Matching line and stop"
+msgstr "NOT IN GAME - Matching line and stop"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_train_run_line_stop"
+msgid "Matching train, run, line and stop"
+msgstr "NOT IN GAME - Matching train, run, line and stop"
+
+#v1.9.17
+msgctxt "refresh_built_report"
+msgid "Refresh built objects report"
+msgstr "Actualizar informe de objetos"
+
+#v1.9.17
+msgctxt "report_no_built"
+msgid "There are no built objects"
+msgstr "No hay objetos construidos"
+
+#v1.9.17
+msgctxt "reset_boundary"
+msgid "Reset boundary"
+msgstr "Restablecer límite"
+
+#v1.9.17
+msgctxt "reset_boundary_radius"
+msgid "Reset for radius:"
+msgstr "Rest. para radio:"
+
+#v1.9.17
+msgctxt "reset_boundary_radius_tip"
+msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr "NOTA: el radio del círculo mostrado por el editor es una aproximación y puede tener un error de hasta el 5%"
+
+#v1.9.17
+msgctxt "reset_boundary_tan"
+msgid "Reset boundary to middle point"
+msgstr "Restablecer límite al punto medio"
+
+#v1.9.17
+msgctxt "reset_tangent"
+msgid "Reset tangent"
+msgstr "Restablecer tangente"
+
+#v1.9.17
+msgctxt "shape_mode"
+msgid "Tangent track shapes:"
+msgstr "Formas de vía:"
+
+#v1.9.17
+msgctxt "shape_mode_full"
+msgid "Full"
+msgstr "Completas"
+
+#v1.9.17
+msgctxt "shape_mode_limited"
+msgid "Limited"
+msgstr "Limitadas"
+
+#v1.9.17
+msgctxt "station_platform_promote"
+msgid "Promote track into platform"
+msgstr "Ascender vía a andén"
+
+#v1.9.17
+msgctxt "stop_picker_adv"
+msgid "Advanced mode"
+msgstr "Modo avanzado"
+
+#v1.9.17
+msgctxt "stop_picker_basic"
+msgid "Basic mode"
+msgstr "Modo básico"
+
+#v1.9.17
+msgctxt "trackmode_point"
+msgid "Point mode"
+msgstr "Modo punto"
+
+#v1.9.17
+msgctxt "trackmode_tangent"
+msgid "Tangent mode"
+msgstr "Modo tangente"
+
+#v1.9.17
+msgctxt "warn_straight"
+msgid "Requires exactly 2 tracks"
+msgstr "Requiere exactamente 2 vías"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.8.24
-msgctxt "accounting_trains_stop_time"
-msgid "Scheduled stop"
-msgstr "Parada programada"
-
-#v1.8.24
-msgctxt "editor_tip_add_left1"
-msgid "Left click on the end of track control points to continue an existing track"
-msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
-
-#v1.8.24
-msgctxt "editor_tip_cont_left"
-msgid "Left click to create a new track segment."
-msgstr "Click izquierdo para crear un nuevo segmento de vía."
-
-#v1.8.24
-msgctxt "kb_track_branch"
-msgid "Tracks: allow branching"
-msgstr "Vías: permitir ramas"
-
-#v1.8.24
-msgctxt "line_warn_custom_duration_too_short"
-msgid "Custom line duration is too short and it is ignored"
-msgstr "La duración es demasiado cortra y se ignora"
-
-#v1.8.24
-msgctxt "sort_sep_real_time"
-msgid "--- Realtime ---"
-msgstr "--- Tiempo real ---"
+#v1.9.17
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.5 o más recientes."
 
 
 
@@ -551,15 +601,30 @@ msgctxt "accounting_trains"
 msgid "Trains"
 msgstr "Trenes"
 
+#v1.8.24
+msgctxt "accounting_trains_collisions"
+msgid "Collisions"
+msgstr "Colisiones"
+
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
 msgstr "Salidas"
 
+#v1.8.24
+msgctxt "accounting_trains_extra_stop_time"
+msgid "Extra stop"
+msgstr "Parada extra"
+
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
 msgstr "Intervenciones"
+
+#v1.8.24
+msgctxt "accounting_trains_late_arrival_time"
+msgid "Late arrival >10s"
+msgstr "Llegada tardía >10s"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
@@ -590,6 +655,16 @@ msgstr "Tiempo recorrido"
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
 msgstr "Venta de trenes"
+
+#v1.8.24
+msgctxt "accounting_trains_signal_stop_time"
+msgid "Signal wait"
+msgstr "Espera en señal"
+
+#v1.8.24
+msgctxt "accounting_trains_stop_time"
+msgid "Scheduled stop"
+msgstr "Parada programada"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
@@ -1251,11 +1326,6 @@ msgctxt "connection_denied"
 msgid "Connection denied"
 msgstr "Conexión denegada"
 
-#v1.6.13
-msgctxt "constraint_demote_platforms"
-msgid "Demote into normal track"
-msgstr "Convertir a vía normal"
-
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
@@ -1591,6 +1661,11 @@ msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
 msgstr "Añadir a vías o crear nuevas vías"
 
+#v1.8.24
+msgctxt "editor_branch_append"
+msgid "Start or merge branches when pointing on top of existing tracks"
+msgstr "Empezar o unir ramas al mover el cursor sobre las vías"
+
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
@@ -1637,11 +1712,6 @@ msgid "Parallel track tape"
 msgstr "Cinta paralela"
 
 #v1.6.13
-msgctxt "editor_sat_platform_tape"
-msgid "Station platform tape"
-msgstr "Cinta de andén"
-
-#v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
 msgstr "Convertir en andén"
@@ -1656,30 +1726,10 @@ msgctxt "editor_sat_track_tape"
 msgid "Track tape"
 msgstr "Cinta de vía"
 
-#v1.5.41
-msgctxt "editor_select_add_platform"
-msgid "Click platform names in stations to add stops to the line"
-msgstr "Click en los nombres de andenes para añadir paradas a la línea"
-
-#v1.1.31
-msgctxt "editor_select_add_waypoint"
-msgid "Click track segments to add waypoints to the line"
-msgstr "Click en los segmentos de vías para añadir puntos de ruta"
-
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
 msgstr "Selecciona una señal para asignarla como el discriminador de andén"
-
-#v1.5.41
-msgctxt "editor_select_alt_stop"
-msgid "Click platform names in stations to add a secondary platform to the stop"
-msgstr "Selecciona andenes para asignarlos como andenes secundarios"
-
-#v1.5.41
-msgctxt "editor_select_change_platform"
-msgid "Click platform names in stations to change the stop main platform"
-msgstr "Selecciona un andén para asignarlo como andén principal"
 
 #v1.6.13
 msgctxt "editor_station"
@@ -1691,10 +1741,20 @@ msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
 msgstr "Esc para volver a modo edición"
 
+#v1.8.24
+msgctxt "editor_tip_add_left1"
+msgid "Left click on the end of track control points to continue an existing track"
+msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
 msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+
+#v1.8.24
+msgctxt "editor_tip_add_left3"
+msgid "Left click on length of existing tracks to branch them"
+msgstr "Click izquierdo sobre las vías para crear ramas"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
@@ -1725,6 +1785,16 @@ msgstr "Presiona Ctrl para alinear la vía al segmento anterior."
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
 msgstr "Esc para cancelar"
+
+#v1.8.24
+msgctxt "editor_tip_cont_left"
+msgid "Left click to create a new track segment."
+msgstr "Click izquierdo para crear un nuevo segmento de vía."
+
+#v1.8.24
+msgctxt "editor_tip_cont_left_s1"
+msgid "Hold Shift to keep creating more segments."
+msgstr "Presionar shift para crear segmentos en secuencia."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
@@ -2095,11 +2165,6 @@ msgstr "Error interno mientras se guardaba el juego"
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
-
-#v1.1.37
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the older v1.1 legacy branches in Steam."
-msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.1 de Steam."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2751,6 +2816,11 @@ msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
 msgstr "Vías: doble vía"
 
+#v1.8.24
+msgctxt "kb_track_branch"
+msgid "Tracks: allow branching"
+msgstr "Vías: permitir ramas"
+
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
@@ -2805,11 +2875,6 @@ msgstr "Vías: cinta paralela"
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
 msgstr "Vías: partir vía"
-
-#v1.6.13
-msgctxt "kb_track_sat_station_tape"
-msgid "Tracks: station tape"
-msgstr "Vías: cambiar a andén"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
@@ -2875,11 +2940,6 @@ msgstr "Line cerrada"
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
 msgstr "Contiene caminos inválidos"
-
-#v1.5.31
-msgctxt "line_editor_tip_zoom_pick"
-msgid "Zoom in to pick"
-msgstr "Ampliar para elegir"
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -2970,6 +3030,16 @@ msgstr "Paradas"
 msgctxt "line_timetable"
 msgid "Timetable"
 msgstr "Horario"
+
+#v1.8.24
+msgctxt "line_to3"
+msgid "{0} [{1}] at"
+msgstr "{0} [{1}] a"
+
+#v1.8.24
+msgctxt "line_warn_custom_duration_too_short"
+msgid "Custom line duration is too short and it is ignored"
+msgstr "La duración es demasiado cortra y se ignora"
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
@@ -3126,6 +3196,21 @@ msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
 msgstr "Mostrar en mapa:"
 
+#v1.8.24
+msgctxt "lineeditor_display_in_map_disabled"
+msgid "Disabled"
+msgstr "Desactivado"
+
+#v1.8.24
+msgctxt "lineeditor_display_in_map_loop"
+msgid "Loop"
+msgstr "Circular"
+
+#v1.8.24
+msgctxt "lineeditor_display_in_map_nonloop"
+msgid "Non-loop"
+msgstr "No circular"
+
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
@@ -3276,6 +3361,26 @@ msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
 msgstr "Intervalo manual:"
 
+#v1.8.24
+msgctxt "lineeditor_max_accel"
+msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Aceleración máx. (ms⁻²):"
+
+#v1.8.24
+msgctxt "lineeditor_max_accel_desc"
+msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
+msgstr "Limite superior para aceleración del tren. La aceleración real puede ser inferior dependiendo de la fuerza tractora."
+
+#v1.8.24
+msgctxt "lineeditor_max_brake"
+msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Freno máx. (ms⁻²):"
+
+#v1.8.24
+msgctxt "lineeditor_max_brake_desc"
+msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
+msgstr "Limite superior para el freno del tren. El freno real puede ser inferior dependiendo de la capacidad del tren."
+
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
@@ -3340,6 +3445,11 @@ msgstr "Maniobras técnicas"
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
 msgstr "Servicio de:"
+
+#v1.8.24
+msgctxt "lineeditor_stop_arrive"
+msgid "Arrive at:"
+msgstr "Llega a:"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
@@ -4916,6 +5026,11 @@ msgctxt "quit_game"
 msgid "Quit game"
 msgstr "Salir de partida"
 
+#v1.8.24
+msgctxt "realtime"
+msgid "Realtime"
+msgstr "Tiempo real"
+
 #v1.1.37
 msgctxt "rename_save"
 msgid "Rename and save"
@@ -5005,6 +5120,11 @@ msgstr "Tags"
 msgctxt "rtstat_coverage"
 msgid "Coverage"
 msgstr "Alcance"
+
+#v1.8.24
+msgctxt "rtstat_creation"
+msgid "Creation date"
+msgstr "Fecha creación"
 
 #v1.5.41
 msgctxt "rtstat_leg_late"
@@ -5336,6 +5456,11 @@ msgctxt "share_home_click_load"
 msgid "Click to load game"
 msgstr "Click para cargar partida"
 
+#v1.8.24
+msgctxt "share_home_listing"
+msgid "Browse {} shared games"
+msgstr "Navegar {} partidas compartidas"
+
 #v1.7.15
 msgctxt "share_listing"
 msgid "Listing slots"
@@ -5390,6 +5515,16 @@ msgstr "Idéntico a la opción global"
 msgctxt "signal_alert_opts"
 msgid "Alert on:"
 msgstr "Alertar en:"
+
+#v1.8.24
+msgctxt "signal_check_hit_occ"
+msgid "Occupied by {}"
+msgstr "Ocupado por {}"
+
+#v1.8.24
+msgctxt "signal_check_hit_res"
+msgid "Reserved by {}"
+msgstr "Reservado por {}"
 
 #v1.2.22
 msgctxt "signal_dir_m1"
@@ -5551,10 +5686,30 @@ msgctxt "signal_type"
 msgid "Type:"
 msgstr "Tipo:"
 
+#v1.8.24
+msgctxt "signal_warn_ignored"
+msgid "Ignored"
+msgstr "Ignorada"
+
+#v1.8.24
+msgctxt "signal_warn_ignored_plat_desc"
+msgid "One way signals at platform dead ends are ignored"
+msgstr "Se ignora la dirección única en plataformas con una salida"
+
+#v1.8.24
+msgctxt "signal_warn_max_length_desc"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "El bloque de vías protegido por esta señal es demasiado largo. Introduce más señales en el bloque, como las balizas, para hacerlo más corto."
+
 #v1.3.13
 msgctxt "signal_warn_too_close"
 msgid "Too close"
 msgstr "Demasiado cerca"
+
+#v1.8.24
+msgctxt "signal_warn_too_close_desc"
+msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
+msgstr "La posición de la señal en la vía está demasiado cercana a otra vía. Desplázala a otra vía que no la solape."
 
 #v1.1.31
 msgctxt "single_player"
@@ -5565,6 +5720,11 @@ msgstr "Un jugador"
 msgctxt "sort_sep_accounting"
 msgid "--- Accounting ---"
 msgstr "--- Contabilidad ---"
+
+#v1.8.24
+msgctxt "sort_sep_real_time"
+msgid "--- Realtime ---"
+msgstr "--- Tiempo real ---"
 
 #v1.5.31
 msgctxt "stale_run"
@@ -5690,6 +5850,21 @@ msgstr "{0}m a {1} km/h media"
 msgctxt "stop_leg_l"
 msgid "{0}m"
 msgstr "{0}m"
+
+#v1.8.24
+msgctxt "stop_times_tp_arrival"
+msgid "Stop {} arrival"
+msgstr "Llegada parada {}"
+
+#v1.8.24
+msgctxt "stop_times_tp_departure"
+msgid "Stop {} departure"
+msgstr "Salida parada {}"
+
+#v1.8.24
+msgctxt "stop_times_tp_leg"
+msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
+msgstr "Parada {0} ▶ {1} tiempo de recorrido"
 
 #v1.7.15
 msgctxt "stop_times_tp_wait"
@@ -6146,6 +6321,11 @@ msgctxt "tape_warn_too_long"
 msgid "Too long"
 msgstr "Demasiado largo"
 
+#v1.8.24
+msgctxt "teo.append_continous"
+msgid "Continously append track segments until pressing Esc or merging/linking the track"
+msgstr "Crear segmentos continuamente hasta pulsar Esc o enlazar la vía"
+
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
@@ -6255,6 +6435,11 @@ msgstr "Vel. máxima:"
 msgctxt "track_info_multi"
 msgid "Multiple selection"
 msgstr "Selección múltiple"
+
+#v1.8.24
+msgctxt "track_info_name"
+msgid "Name:"
+msgstr "Nombre:"
 
 #v1.2.29
 msgctxt "track_info_price"
@@ -6371,6 +6556,11 @@ msgctxt "train_car_append_listing_cursor"
 msgid "Append here"
 msgstr "Añadir aquí"
 
+#v1.8.24
+msgctxt "train_car_append_tp"
+msgid "Shift clicking cars in the listing directly appends them"
+msgstr "Pulsando shift en los coches del listado se añade directamente"
+
 #v1.7.15
 msgctxt "train_car_base_color_edit"
 msgid "Base color:"
@@ -6460,6 +6650,26 @@ msgstr "Elige una decor."
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
 msgstr "Usa color línea"
+
+#v1.8.24
+msgctxt "train_departing_to"
+msgid "Departing to"
+msgstr "Saliendo a"
+
+#v1.8.24
+msgctxt "train_departing_to_connect"
+msgid "to"
+msgstr "a"
+
+#v1.8.24
+msgctxt "train_editable_builtin_tags"
+msgid "Built-in tags:"
+msgstr "Tags predefinidas:"
+
+#v1.8.24
+msgctxt "train_editable_builtin_tags_locked"
+msgid "Locked by mod"
+msgstr "Bloqueado por mod"
 
 #v1.5.31
 msgctxt "train_editor_basics"
@@ -6661,10 +6871,20 @@ msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
 msgstr "Masa vacío:"
 
+#v1.8.24
+msgctxt "train_info_future_pin"
+msgid "Scroll map to train spawn position"
+msgstr "Desplazar mapa hasta la futura posición del tren"
+
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
+
+#v1.8.24
+msgctxt "train_info_late_predicted2"
+msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
+msgstr "Est. tardío {0}, {1:.1f} km de {2:.1f} km"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -6690,6 +6910,16 @@ msgstr "${} por día"
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
 msgstr "Masa / vacío:"
+
+#v1.8.24
+msgctxt "train_info_max_accel"
+msgid "Max acceleration:"
+msgstr "Aceleración máx.:"
+
+#v1.8.24
+msgctxt "train_info_max_accel_v"
+msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
+msgstr "{0:.2f} ms⁻², freno {1:.2f} ms⁻² a {2:.2f} ms⁻²"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
@@ -6806,6 +7036,16 @@ msgctxt "train_info_total_power"
 msgid "Total power:"
 msgstr "Potencia total"
 
+#v1.8.24
+msgctxt "train_info_total_power_v"
+msgid "{0} kW, {1} kN max tr. eff."
+msgstr "{0} kW, {1} kN máx tracc."
+
+#v1.8.24
+msgctxt "train_intervene_group"
+msgid "Intervene group"
+msgstr "Intervenir grupo"
+
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
@@ -6831,6 +7071,11 @@ msgctxt "train_list_filter_alert_only_stale"
 msgid "Only stale"
 msgstr "Solo caducados"
 
+#v1.8.24
+msgctxt "train_list_filter_alert_only_waiting_spawn"
+msgid "Only waiting to spawn"
+msgstr "Solo esperando a aparecer"
+
 #v1.7.15
 msgctxt "train_list_filter_alert_only_warning"
 msgid "Only with warnings"
@@ -6845,6 +7090,11 @@ msgstr "Alertas"
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
 msgstr "Caducado"
+
+#v1.8.24
+msgctxt "train_list_filter_alert_waiting_spawn"
+msgid "Waiting spawn"
+msgstr "Esperando aparecer"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
@@ -7070,6 +7320,21 @@ msgstr "Devolución total:"
 msgctxt "train_replace"
 msgid "Replace"
 msgstr "Reemplazar"
+
+#v1.8.24
+msgctxt "train_rt_late"
+msgid "Est. lateness (s)"
+msgstr "Est. tardío (s)"
+
+#v1.8.24
+msgctxt "train_rt_leg"
+msgid "Remaining leg (m)"
+msgstr "Recorrido pendiente (m)"
+
+#v1.8.24
+msgctxt "train_rt_speed"
+msgid "Speed (km/h)"
+msgstr "Velocidad (km/h)"
 
 #v1.5.31
 msgctxt "train_run"
