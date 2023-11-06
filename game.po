@@ -1,320 +1,255 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.9.17
-msgctxt "alerts_pause_game_only_0_delay"
-msgid "Only if delay is 0"
-msgstr "Solo si pasados 0 minutos"
+#v1.10.16
+msgctxt "all"
+msgid "All"
+msgstr "Todo"
 
-#v1.9.17
-msgctxt "assets_live_update"
-msgid "Live updates"
-msgstr "Tiempo real"
+#v1.10.16
+msgctxt "error_cannot_delete_save"
+msgid "Cannot delete old save for overwriting: "
+msgstr "No se puede borrar partida para sobreescribirla: "
 
-#v1.9.17
-msgctxt "built_bill"
-msgid "Built objects report"
-msgstr "Objetos construidos"
+#v1.10.16
+msgctxt "error_cannot_open_temp_file"
+msgid "Cannot open temporary file: "
+msgstr "No se puede borrar archivo temporal: "
 
-#v1.9.17
-msgctxt "constraint_offset2_add"
-msgid "Add"
-msgstr "+"
+#v1.10.16
+msgctxt "error_cannot_rename_save"
+msgid "Cannot rename temporary file: {} into {} "
+msgstr "No se puede renombrar archivo temporal: {} a {} "
 
-#v1.9.17
-msgctxt "constraint_offset2_mul"
-msgid "Mul"
-msgstr "*"
+#v1.10.16
+msgctxt "kb_track_pick_parent"
+msgid "Tracks: pick par. parent"
+msgstr "Vías: elegir padre par."
 
-#v1.9.17
-msgctxt "constraint_offset2_set"
-msgid "Set"
-msgstr "="
+#v1.10.16
+msgctxt "lineeditor_restrict_lines_map"
+msgid "Restrict listing to visible lines on map (approximately)"
+msgstr "Restringir listado a líneas visibles en el mapa (aproximadamente)"
 
-#v1.9.17
-msgctxt "constraint_platforms"
-msgid "Platforms:"
-msgstr "Andenes:"
+#v1.10.16
+msgctxt "map_hillshade_pos"
+msgid "Hillshading:"
+msgstr "Sombras:"
 
-#v1.9.17
-msgctxt "constraint_platforms_demote"
-msgid "Demote"
-msgstr "Descender"
+#v1.10.16
+msgctxt "map_hillshade_pos_0"
+msgid "Under ground"
+msgstr "Bajo el suelo"
 
-#v1.9.17
-msgctxt "constraint_platforms_promote"
-msgid "Promote"
-msgstr "Ascender"
+#v1.10.16
+msgctxt "map_hillshade_pos_1"
+msgid "Over ground"
+msgstr "Sobre el suelo"
 
-#v1.9.17
-msgctxt "dep_grp_destination"
-msgid "Destination"
-msgstr "Destino"
+#v1.10.16
+msgctxt "map_land_alpha"
+msgid "Land background mix:"
+msgstr "Land background mix:"
 
-#v1.9.17
-msgctxt "dep_grp_line"
-msgid "Line"
-msgstr "Línea"
+#v1.10.16
+msgctxt "map_land_hsv_sat"
+msgid "Land HSV saturation:"
+msgstr "Land HSV saturation:"
 
-#v1.9.17
-msgctxt "dep_grp_next_stop"
-msgid "Next stop"
-msgstr "Siguiente parada"
+#v1.10.16
+msgctxt "map_option_font"
+msgid "Label font size:"
+msgstr "Tamaño fuente:"
 
-#v1.9.17
-msgctxt "dep_grp_train"
-msgid "Train"
-msgstr "Tren"
+#v1.10.16
+msgctxt "map_option_font_0"
+msgid "Small"
+msgstr "Pequeño"
 
-#v1.9.17
-msgctxt "dep_late"
-msgid "Max late"
-msgstr "Retraso max"
+#v1.10.16
+msgctxt "map_option_font_1"
+msgid "Default"
+msgstr "Por defecto"
 
-#v1.9.17
-msgctxt "dep_sched"
-msgid "Scheduled"
-msgstr "Por horario"
+#v1.10.16
+msgctxt "map_option_font_2"
+msgid "Big"
+msgstr "Grande"
 
-#v1.9.17
-msgctxt "destinations"
-msgid "Destinations"
-msgstr "Destinos"
+#v1.10.16
+msgctxt "map_option_font_3"
+msgid "Huge"
+msgstr "Enorme"
 
-#v1.9.17
-msgctxt "editor_sel_only_buildings"
-msgid "Keep only buildings in the selection"
-msgstr "Mantener solo los edificios en la selección"
+#v1.10.16
+msgctxt "map_show_land_tex_max_zoom"
+msgid "Show land texture at max zoom"
+msgstr "Mostrar terreno en zoom máximo"
 
-#v1.9.17
-msgctxt "editor_sel_only_child_tracks"
-msgid "Keep only parallel child tracks in the selection"
-msgstr "Mantener solo las vías paralelas hijas en la selección"
+#v1.10.16
+msgctxt "map_style_mods"
+msgid "Map style mods"
+msgstr "Mods de estilo de mapa"
 
-#v1.9.17
-msgctxt "editor_sel_only_parent_tracks"
-msgid "Keep only parallel parent tracks in the selection"
-msgstr "Mantener solo las vías paralelas padres en la selección"
+#v1.10.16
+msgctxt "map_style_show_in_panel"
+msgid "Show in map options panel"
+msgstr "Mostrar en panel de opciones de mapa"
 
-#v1.9.17
-msgctxt "editor_sel_only_tracks"
-msgid "Keep only tracks in the selection"
-msgstr "Mantener solo las vías en la selección"
+#v1.10.16
+msgctxt "mod_less_prio"
+msgid "Less priority"
+msgstr "Menos prioridad"
 
-#v1.9.17
-msgctxt "editor_shapemode_full"
-msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
-msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
+#v1.10.16
+msgctxt "mod_more_prio"
+msgid "More priority"
+msgstr "Mas prioridad"
 
-#v1.9.17
-msgctxt "editor_shapemode_limited"
-msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
-msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
+#v1.10.16
+msgctxt "mvo_toggle_map_style_mods"
+msgid "Map style mods:"
+msgstr "Mods de estilo:"
 
-#v1.9.17
-msgctxt "editor_tangent_fix"
-msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
-msgstr "NOT IN GAME - Keep last tangent: preserve previous track tangent and approximate a circle arc"
+#v1.10.16
+msgctxt "mvo_track_editor_always_on_top"
+msgid "Track editor always on top"
+msgstr "Editor siempre encima"
 
-#v1.9.17
-msgctxt "editor_tangent_interp"
-msgid "Interpolate tangent: average previous track and current track tangents"
-msgstr "NOT IN GAME - Interpolate tangent: average previous track and current track tangents"
+#v1.10.16
+msgctxt "mvo_user_track_depth_bridge"
+msgid "Map bridges over track layers"
+msgstr "Puentes del mapa sobre vías"
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_click"
-msgid "Click to cancel"
-msgstr "Click para cancelar"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_strict"
+msgid "If same line, within the run"
+msgstr "If same line, within the run"
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_dbl_click"
-msgid "Double click to cancel"
-msgstr "Doble click para cancelar"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_train_pf"
+msgid "Any, bounded by leg time"
+msgstr "Any, bounded by leg time"
 
-#v1.9.17
-msgctxt "editor_tip_cont_undo"
-msgid "Ctrl-Z to undo last track node"
-msgstr "Ctrl-Z para borrar el último nodo"
+#v1.10.16
+msgctxt "options_alerts"
+msgid "Alerts"
+msgstr "Alertas"
 
-#v1.9.17
-msgctxt "editor_tip_tangent_left"
-msgid "Release left button to stop rotating the track tangent"
-msgstr "Soltar el botón izquierdo para parar de rotar la tangente de la vía"
+#v1.10.16
+msgctxt "options_autosave"
+msgid "Autosave"
+msgstr "Autoguardar"
 
-#v1.9.17
-msgctxt "file_picker_corrupted"
-msgid "Corrupted file"
-msgstr "Archivo corrupto"
+#v1.10.16
+msgctxt "options_interface"
+msgid "Interface"
+msgstr "Interfaz"
 
-#v1.9.17
-msgctxt "kb_track_sat_platform_tape"
-msgid "Tracks: platform tape"
-msgstr "Vías: cinta de andén"
+#v1.10.16
+msgctxt "options_map"
+msgid "Map"
+msgstr "Mapa"
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_s1"
-msgid "Click on tracks to add a new secondary stop point"
-msgstr "Click sobre vías para añadir una nueva paradada secundaria"
+#v1.10.16
+msgctxt "osm_admin_level_11"
+msgid "Neighborhood"
+msgstr "Vecindario"
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_title"
-msgid "Selecting secondary signal"
-msgstr "seleccionado señal secundaria"
+#v1.10.16
+msgctxt "poi_settlement_0"
+msgid "Capital"
+msgstr "Capital"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_basic"
-msgid "Click on station platform arrows to change the stop platform"
-msgstr "Click en las flechas de los andenes para cambiar el andén de parada"
+#v1.10.16
+msgctxt "poi_settlement_1"
+msgid "City"
+msgstr "Ciudad"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_s1"
-msgid "Click on tracks to change stop point"
-msgstr "Click en las vías para cambiar el punto de parada"
+#v1.10.16
+msgctxt "poi_settlement_2"
+msgid "Town"
+msgstr "Pueblo"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_title"
-msgid "Changing stop point"
-msgstr "Cambiando el punto de parada"
+#v1.10.16
+msgctxt "poi_settlement_3"
+msgid "Suburb"
+msgstr "Suburbio"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_basic"
-msgid "Click on station platform arrows to create new line stops"
-msgstr "Click en las flechas de los andenes para crear nuevas paradas"
+#v1.10.16
+msgctxt "poi_settlement_4"
+msgid "Quarter"
+msgstr "Barrio"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_s1"
-msgid "Click on tracks to set the stop point"
-msgstr "Click en las vías para elegir el punto de parada"
+#v1.10.16
+msgctxt "poi_settlement_5"
+msgid "Neighbourhood"
+msgstr "Vecindario"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_title"
-msgid "Creating new stop"
-msgstr "Creando nueva parada"
+#v1.10.16
+msgctxt "poi_settlement_6"
+msgid "Village"
+msgstr "Aldea"
 
-#v1.9.17
-msgctxt "lineeditor_facing_tip"
-msgid "Move the mouse to select the facing direction of the train, then click to confirm"
-msgstr "Mueve el ratón para seleccionar la dirección de la parada, click para confirmar"
+#v1.10.16
+msgctxt "poi_settlement_7"
+msgid "Hamlet"
+msgstr "Aldea"
 
-#v1.9.17
-msgctxt "lineeditor_new_alt_stop_basic"
-msgid "Click on station platform arrows to create a new secondary platform stop"
-msgstr "Click en las flechas de los andenes para crear nuevas paradas secundarias"
+#v1.10.16
+msgctxt "poi_settlement_8"
+msgid "Dwelling"
+msgstr "Vivienda"
 
-#v1.9.17
-msgctxt "loader_legacy_rebuild_19"
-msgid "Rebuilding pre-1.9 tracks"
-msgstr "Reconstruyendo vías pre-1.9"
+#v1.10.16
+msgctxt "poi_settlement_9"
+msgid "Farm"
+msgstr "Granja"
 
-#v1.9.17
-msgctxt "node_mode"
-msgid "Node mode:"
-msgstr "Modo de nodo:"
+#v1.10.16
+msgctxt "renderer_dx12"
+msgid "DirectX 12"
+msgstr "DirectX 12"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching"
-msgid "Pax board trains:"
-msgstr "NOT IN GAME - Pax board trains:"
+#v1.10.16
+msgctxt "renderer_vulkan"
+msgid "Vulkan"
+msgstr "Vulkan"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_line_stop"
-msgid "Matching line and stop"
-msgstr "NOT IN GAME - Matching line and stop"
+#v1.10.16
+msgctxt "station_platform_set_name_all"
+msgid "All"
+msgstr "Todas"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_train_run_line_stop"
-msgid "Matching train, run, line and stop"
-msgstr "NOT IN GAME - Matching train, run, line and stop"
+#v1.10.16
+msgctxt "timing_lines_n"
+msgid "Timing line legs, {} to go"
+msgstr "Cronometrando líneas, {} pendientes"
 
-#v1.9.17
-msgctxt "refresh_built_report"
-msgid "Refresh built objects report"
-msgstr "Actualizar informe de objetos"
+#v1.10.16
+msgctxt "trackeditor_clickable_tracks"
+msgid "Clickable tracks"
+msgstr "Vías clickables"
 
-#v1.9.17
-msgctxt "report_no_built"
-msgid "There are no built objects"
-msgstr "No hay objetos construidos"
-
-#v1.9.17
-msgctxt "reset_boundary"
-msgid "Reset boundary"
-msgstr "Restablecer límite"
-
-#v1.9.17
-msgctxt "reset_boundary_radius"
-msgid "Reset for radius:"
-msgstr "Rest. para radio:"
-
-#v1.9.17
-msgctxt "reset_boundary_radius_tip"
-msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
-msgstr "NOTA: el radio del círculo mostrado por el editor es una aproximación y puede tener un error de hasta el 5%"
-
-#v1.9.17
-msgctxt "reset_boundary_tan"
-msgid "Reset boundary to middle point"
-msgstr "Restablecer límite al punto medio"
-
-#v1.9.17
-msgctxt "reset_tangent"
-msgid "Reset tangent"
-msgstr "Restablecer tangente"
-
-#v1.9.17
-msgctxt "shape_mode"
-msgid "Tangent track shapes:"
-msgstr "Formas de vía:"
-
-#v1.9.17
-msgctxt "shape_mode_full"
-msgid "Full"
-msgstr "Completas"
-
-#v1.9.17
-msgctxt "shape_mode_limited"
-msgid "Limited"
-msgstr "Limitadas"
-
-#v1.9.17
-msgctxt "station_platform_promote"
-msgid "Promote track into platform"
-msgstr "Ascender vía a andén"
-
-#v1.9.17
-msgctxt "stop_picker_adv"
-msgid "Advanced mode"
-msgstr "Modo avanzado"
-
-#v1.9.17
-msgctxt "stop_picker_basic"
-msgid "Basic mode"
-msgstr "Modo básico"
-
-#v1.9.17
-msgctxt "trackmode_point"
-msgid "Point mode"
-msgstr "Modo punto"
-
-#v1.9.17
-msgctxt "trackmode_tangent"
-msgid "Tangent mode"
-msgstr "Modo tangente"
-
-#v1.9.17
-msgctxt "warn_straight"
-msgid "Requires exactly 2 tracks"
-msgstr "Requiere exactamente 2 vías"
+#v1.10.16
+msgctxt "warn_alpha_renderer1"
+msgid "Experimental renderer! Only use if DirectX 11 crashes often."
+msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.9.17
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.5 o más recientes."
+#v1.10.16
+msgctxt "mvo_user_track_depth"
+msgid "Map over track layers"
+msgstr "Mapa sobre las vías"
+
+#v1.10.16
+msgctxt "option_company_pax_train_matching"
+msgid "Board alternate trains:"
+msgstr "NOT IN GAME - Pax board trains:"
 
 
 
@@ -736,6 +671,11 @@ msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
 msgstr "Incluso en máxima velocidad"
 
+#v1.9.17
+msgctxt "alerts_pause_game_only_0_delay"
+msgid "Only if delay is 0"
+msgstr "Solo si pasados 0 minutos"
+
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
@@ -755,6 +695,11 @@ msgstr "Estaciones"
 msgctxt "asset_trains"
 msgid "Trains"
 msgstr "Trenes"
+
+#v1.9.17
+msgctxt "assets_live_update"
+msgid "Live updates"
+msgstr "Tiempo real"
 
 #v1.5.41
 msgctxt "auto_clone"
@@ -1076,6 +1021,11 @@ msgctxt "buildings_total"
 msgid "Buildings total"
 msgstr "Total edificios"
 
+#v1.9.17
+msgctxt "built_bill"
+msgid "Built objects report"
+msgstr "Objetos construidos"
+
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
@@ -1361,10 +1311,40 @@ msgctxt "constraint_offset2"
 msgid "Parallel offset:"
 msgstr "Desplazar paralelo:"
 
+#v1.9.17
+msgctxt "constraint_offset2_add"
+msgid "Add"
+msgstr "+"
+
+#v1.9.17
+msgctxt "constraint_offset2_mul"
+msgid "Mul"
+msgstr "*"
+
+#v1.9.17
+msgctxt "constraint_offset2_set"
+msgid "Set"
+msgstr "="
+
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
 msgstr "Elegir padre"
+
+#v1.9.17
+msgctxt "constraint_platforms"
+msgid "Platforms:"
+msgstr "Andenes:"
+
+#v1.9.17
+msgctxt "constraint_platforms_demote"
+msgid "Demote"
+msgstr "Descender"
+
+#v1.9.17
+msgctxt "constraint_platforms_promote"
+msgid "Promote"
+msgstr "Ascender"
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -1512,16 +1492,6 @@ msgid "%d crossings"
 msgstr "%d cruces"
 
 #v1.1.31
-msgctxt "custom_admin_level_poi"
-msgid "POI"
-msgstr "PDI"
-
-#v1.1.31
-msgctxt "custom_admin_level_transport"
-msgid "Transportation"
-msgstr "Transportes"
-
-#v1.1.31
 msgctxt "default_han_font"
 msgid "Default Han font:"
 msgstr "Fuente Han predet.:"
@@ -1596,6 +1566,36 @@ msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
 msgstr "{:.1f} pax/s"
 
+#v1.9.17
+msgctxt "dep_grp_destination"
+msgid "Destination"
+msgstr "Destino"
+
+#v1.9.17
+msgctxt "dep_grp_line"
+msgid "Line"
+msgstr "Línea"
+
+#v1.9.17
+msgctxt "dep_grp_next_stop"
+msgid "Next stop"
+msgstr "Siguiente parada"
+
+#v1.9.17
+msgctxt "dep_grp_train"
+msgid "Train"
+msgstr "Tren"
+
+#v1.9.17
+msgctxt "dep_late"
+msgid "Max late"
+msgstr "Retraso max"
+
+#v1.9.17
+msgctxt "dep_sched"
+msgid "Scheduled"
+msgstr "Por horario"
+
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
@@ -1605,6 +1605,11 @@ msgstr "Profundidad {}"
 msgctxt "description"
 msgid "Description:"
 msgstr "Descripción:"
+
+#v1.9.17
+msgctxt "destinations"
+msgid "Destinations"
+msgstr "Destinos"
 
 #v1.1.31
 msgctxt "disabled"
@@ -1726,15 +1731,55 @@ msgctxt "editor_sat_track_tape"
 msgid "Track tape"
 msgstr "Cinta de vía"
 
+#v1.9.17
+msgctxt "editor_sel_only_buildings"
+msgid "Keep only buildings in the selection"
+msgstr "Mantener solo los edificios en la selección"
+
+#v1.9.17
+msgctxt "editor_sel_only_child_tracks"
+msgid "Keep only parallel child tracks in the selection"
+msgstr "Mantener solo las vías paralelas hijas en la selección"
+
+#v1.9.17
+msgctxt "editor_sel_only_parent_tracks"
+msgid "Keep only parallel parent tracks in the selection"
+msgstr "Mantener solo las vías paralelas padres en la selección"
+
+#v1.9.17
+msgctxt "editor_sel_only_tracks"
+msgid "Keep only tracks in the selection"
+msgstr "Mantener solo las vías en la selección"
+
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
 msgstr "Selecciona una señal para asignarla como el discriminador de andén"
 
+#v1.9.17
+msgctxt "editor_shapemode_full"
+msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
+
+#v1.9.17
+msgctxt "editor_shapemode_limited"
+msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
+
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
 msgstr "Crear nuevas estaciones"
+
+#v1.9.17
+msgctxt "editor_tangent_fix"
+msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr "NOT IN GAME - Keep last tangent: preserve previous track tangent and approximate a circle arc"
+
+#v1.9.17
+msgctxt "editor_tangent_interp"
+msgid "Interpolate tangent: average previous track and current track tangents"
+msgstr "NOT IN GAME - Interpolate tangent: average previous track and current track tangents"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1776,6 +1821,16 @@ msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
 msgstr "Alt para alternar el lado de la vía paralela"
 
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_click"
+msgid "Click to cancel"
+msgstr "Click para cancelar"
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_dbl_click"
+msgid "Double click to cancel"
+msgstr "Doble click para cancelar"
+
 #v1.2.29
 msgctxt "editor_tip_cont_ctrl"
 msgid "Hold Ctrl to line up track with its previous track segment."
@@ -1800,6 +1855,11 @@ msgstr "Presionar shift para crear segmentos en secuencia."
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
 msgstr "Acerca el cursor al extremo de una vía existente para ver como quedaría enlazado con la vía que estás editando"
+
+#v1.9.17
+msgctxt "editor_tip_cont_undo"
+msgid "Ctrl-Z to undo last track node"
+msgstr "Ctrl-Z para borrar el último nodo"
 
 #v1.4.15
 msgctxt "editor_tip_copy"
@@ -2061,6 +2121,11 @@ msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
 msgstr "Click izquierdo para crear los andenes de estación"
 
+#v1.9.17
+msgctxt "editor_tip_tangent_left"
+msgid "Release left button to stop rotating the track tangent"
+msgstr "Soltar el botón izquierdo para parar de rotar la tangente de la vía"
+
 #v1.1.31
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
@@ -2166,6 +2231,11 @@ msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
 
+#v1.9.17
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.5 o más recientes."
+
 #v1.1.31
 msgctxt "error_writing_file"
 msgid "Error writing to file"
@@ -2190,6 +2260,11 @@ msgstr "Parada demasiado corta y/o tren lleno"
 msgctxt "file_picker_company"
 msgid "Company:"
 msgstr "Empresa:"
+
+#v1.9.17
+msgctxt "file_picker_corrupted"
+msgid "Corrupted file"
+msgstr "Archivo corrupto"
 
 #v1.1.37
 msgctxt "file_picker_date"
@@ -2871,6 +2946,11 @@ msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
 msgstr "Vías: cinta paralela"
 
+#v1.9.17
+msgctxt "kb_track_sat_platform_tape"
+msgid "Tracks: platform tape"
+msgstr "Vías: cinta de andén"
+
 #v1.6.13
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
@@ -3051,6 +3131,16 @@ msgctxt "line_warn_unachievable_fixed_departure"
 msgid "One or more fixed departure stops are unachievable"
 msgstr "Una o mas salidas fijas son imposibles"
 
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_s1"
+msgid "Click on tracks to add a new secondary stop point"
+msgstr "Click sobre vías para añadir una nueva paradada secundaria"
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_title"
+msgid "Selecting secondary signal"
+msgstr "seleccionado señal secundaria"
+
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
@@ -3116,6 +3206,21 @@ msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
 msgstr "Construye los planos para activar este andén"
 
+#v1.9.17
+msgctxt "lineeditor_change_stop_basic"
+msgid "Click on station platform arrows to change the stop platform"
+msgstr "Click en las flechas de los andenes para cambiar el andén de parada"
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_s1"
+msgid "Click on tracks to change stop point"
+msgstr "Click en las vías para cambiar el punto de parada"
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_title"
+msgid "Changing stop point"
+msgstr "Cambiando el punto de parada"
+
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
@@ -3140,6 +3245,21 @@ msgstr "Código:"
 msgctxt "lineeditor_color"
 msgid "Color:"
 msgstr "Color:"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_basic"
+msgid "Click on station platform arrows to create new line stops"
+msgstr "Click en las flechas de los andenes para crear nuevas paradas"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_s1"
+msgid "Click on tracks to set the stop point"
+msgstr "Click en las vías para elegir el punto de parada"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_title"
+msgid "Creating new stop"
+msgstr "Creando nueva parada"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
@@ -3265,6 +3385,11 @@ msgstr "Uniforme en todas las paradas"
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
 msgstr "Paradas elegidas manualmente"
+
+#v1.9.17
+msgctxt "lineeditor_facing_tip"
+msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr "Mueve el ratón para seleccionar la dirección de la parada, click para confirmar"
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at"
@@ -3400,6 +3525,11 @@ msgstr "Centrar la cámara al seleccionar una línea o estación"
 msgctxt "lineeditor_name"
 msgid "Name:"
 msgstr "Nombre:"
+
+#v1.9.17
+msgctxt "lineeditor_new_alt_stop_basic"
+msgid "Click on station platform arrows to create a new secondary platform stop"
+msgstr "Click en las flechas de los andenes para crear nuevas paradas secundarias"
 
 #v1.1.31
 msgctxt "lineeditor_price_base"
@@ -3685,6 +3815,11 @@ msgstr "Finalizando"
 msgctxt "loader_http_error"
 msgid "Error downloading shared game file"
 msgstr "Error descargando partida compartida"
+
+#v1.9.17
+msgctxt "loader_legacy_rebuild_19"
+msgid "Rebuilding pre-1.9 tracks"
+msgstr "Reconstruyendo vías pre-1.9"
 
 #v1.6.13
 msgctxt "loader_loading_db"
@@ -4476,11 +4611,6 @@ msgctxt "mvo_user_station_names"
 msgid "Station names"
 msgstr "Nombres de estación"
 
-#v1.4.15
-msgctxt "mvo_user_track_depth"
-msgid "Tunnels under roads"
-msgstr "Túneles bajo calles"
-
 #v1.1.37
 msgctxt "mvo_user_train_counters"
 msgid "Train counters"
@@ -4490,11 +4620,6 @@ msgstr "Contadores de tren"
 msgctxt "mvo_user_train_icons"
 msgid "Train icons"
 msgstr "Iconos de tren"
-
-#v1.1.37
-msgctxt "mvo_user_zoom_out_tracks"
-msgid "Zoomed out tracks"
-msgstr "Vías en zoom abierto"
 
 #v1.4.22
 msgctxt "my_collection"
@@ -4560,6 +4685,11 @@ msgstr "No hay suficiente dinero para construir los planos. Borra parte de los p
 msgctxt "no_line_header"
 msgid "<No line>"
 msgstr "<Sin línea>"
+
+#v1.9.17
+msgctxt "node_mode"
+msgid "Node mode:"
+msgstr "Modo de nodo:"
 
 #v1.1.31
 msgctxt "ok"
@@ -4635,11 +4765,6 @@ msgstr "Acople sin restricciones"
 msgctxt "options"
 msgid "Options"
 msgstr "Opciones"
-
-#v1.1.31
-msgctxt "options_general"
-msgid "General"
-msgstr "General"
 
 #v1.1.31
 msgctxt "options_graphics"
@@ -5031,6 +5156,11 @@ msgctxt "realtime"
 msgid "Realtime"
 msgstr "Tiempo real"
 
+#v1.9.17
+msgctxt "refresh_built_report"
+msgid "Refresh built objects report"
+msgstr "Actualizar informe de objetos"
+
 #v1.1.37
 msgctxt "rename_save"
 msgid "Rename and save"
@@ -5046,15 +5176,40 @@ msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
 
-#v1.2.29
-msgctxt "renderer_opengl"
-msgid "OpenGL 3.3"
-msgstr "OpenGL 3.3"
-
 #v1.7.15
 msgctxt "replace_trains"
 msgid "Replace existing train(s)"
 msgstr "Reemplazar trenes existentes"
+
+#v1.9.17
+msgctxt "report_no_built"
+msgid "There are no built objects"
+msgstr "No hay objetos construidos"
+
+#v1.9.17
+msgctxt "reset_boundary"
+msgid "Reset boundary"
+msgstr "Restablecer límite"
+
+#v1.9.17
+msgctxt "reset_boundary_radius"
+msgid "Reset for radius:"
+msgstr "Rest. para radio:"
+
+#v1.9.17
+msgctxt "reset_boundary_radius_tip"
+msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr "NOTA: el radio del círculo mostrado por el editor es una aproximación y puede tener un error de hasta el 5%"
+
+#v1.9.17
+msgctxt "reset_boundary_tan"
+msgid "Reset boundary to middle point"
+msgstr "Restablecer límite al punto medio"
+
+#v1.9.17
+msgctxt "reset_tangent"
+msgid "Reset tangent"
+msgstr "Restablecer tangente"
 
 #v1.1.31
 msgctxt "reset_train"
@@ -5361,6 +5516,21 @@ msgctxt "settings"
 msgid "Settings"
 msgstr "Opciones"
 
+#v1.9.17
+msgctxt "shape_mode"
+msgid "Tangent track shapes:"
+msgstr "Formas de vía:"
+
+#v1.9.17
+msgctxt "shape_mode_full"
+msgid "Full"
+msgstr "Completas"
+
+#v1.9.17
+msgctxt "shape_mode_limited"
+msgid "Limited"
+msgstr "Limitadas"
+
 #v1.7.15
 msgctxt "share_deleting"
 msgid "Deleting slot"
@@ -5482,19 +5652,9 @@ msgid "< Loading... >"
 msgstr "< Cargando... >"
 
 #v1.7.15
-msgctxt "share_upload_map_preview"
-msgid "Uploading map preview {}%"
-msgstr "Subiendo mapa {}%"
-
-#v1.7.15
 msgctxt "share_upload_save"
 msgid "Uploading saved game {}%"
 msgstr "Subiendo partida {}%"
-
-#v1.7.15
-msgctxt "share_upload_screenshot"
-msgid "Uploading screenshot {}%"
-msgstr "Subiendo screenshot {}%"
 
 #v1.4.15
 msgctxt "show_all_clips"
@@ -5801,6 +5961,11 @@ msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
 msgstr "Convertir andén a vía normal"
 
+#v1.9.17
+msgctxt "station_platform_promote"
+msgid "Promote track into platform"
+msgstr "Ascender vía a andén"
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
@@ -5850,6 +6015,16 @@ msgstr "{0}m a {1} km/h media"
 msgctxt "stop_leg_l"
 msgid "{0}m"
 msgstr "{0}m"
+
+#v1.9.17
+msgctxt "stop_picker_adv"
+msgid "Advanced mode"
+msgstr "Modo avanzado"
+
+#v1.9.17
+msgctxt "stop_picker_basic"
+msgid "Basic mode"
+msgstr "Modo básico"
 
 #v1.8.24
 msgctxt "stop_times_tp_arrival"
@@ -6495,6 +6670,16 @@ msgstr "Esconder puntos de control en zoom bajo"
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
 msgstr "Mantener pulsadas teclas en editor"
+
+#v1.9.17
+msgctxt "trackmode_point"
+msgid "Point mode"
+msgstr "Modo punto"
+
+#v1.9.17
+msgctxt "trackmode_tangent"
+msgid "Tangent mode"
+msgstr "Modo tangente"
 
 #v1.4.15
 msgctxt "tracks_total"
@@ -7770,6 +7955,11 @@ msgstr "Caducado"
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
 msgstr "Mod está en uso"
+
+#v1.9.17
+msgctxt "warn_straight"
+msgid "Requires exactly 2 tracks"
+msgstr "Requiere exactamente 2 vías"
 
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
