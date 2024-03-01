@@ -1,255 +1,245 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.10.16
-msgctxt "all"
-msgid "All"
-msgstr "Todo"
+#v1.11.14
+msgctxt "editor_tip_station_move"
+msgid "Move mouse to start creating the station platform"
+msgstr "Mueve el ratón para empezar a crear en el andén"
 
-#v1.10.16
-msgctxt "error_cannot_delete_save"
-msgid "Cannot delete old save for overwriting: "
-msgstr "No se puede borrar partida para sobreescribirla: "
+#v1.11.14
+msgctxt "full_simulation_reset"
+msgid "Full simulation reset"
+msgstr "Reset completo de simulación"
 
-#v1.10.16
-msgctxt "error_cannot_open_temp_file"
-msgid "Cannot open temporary file: "
-msgstr "No se puede borrar archivo temporal: "
+#v1.11.14
+msgctxt "full_simulation_reset_desc"
+msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
+msgstr "Todos los pax serán eliminados de estaciones y trenes, todos los trenes serán intervenidos, se recalcularán los tiempos de líneas. Estás seguro?"
 
-#v1.10.16
-msgctxt "error_cannot_rename_save"
-msgid "Cannot rename temporary file: {} into {} "
-msgstr "No se puede renombrar archivo temporal: {} a {} "
+#v1.11.14
+msgctxt "full_simulation_reset_yes"
+msgid "Reset simulation"
+msgstr "Reset de simulación"
 
-#v1.10.16
-msgctxt "kb_track_pick_parent"
-msgid "Tracks: pick par. parent"
-msgstr "Vías: elegir padre par."
+#v1.11.14
+msgctxt "handicap_game_speed"
+msgid "Handicap: {:.1f}x"
+msgstr "Handicap: {:.1f}x"
 
-#v1.10.16
-msgctxt "lineeditor_restrict_lines_map"
-msgid "Restrict listing to visible lines on map (approximately)"
-msgstr "Restringir listado a líneas visibles en el mapa (aproximadamente)"
+#v1.11.14
+msgctxt "last_frame_game_speed"
+msgid "Last frame speed: {:.1f}x"
+msgstr "Velocidad último frame: {:.1f}x"
 
-#v1.10.16
-msgctxt "map_hillshade_pos"
-msgid "Hillshading:"
-msgstr "Sombras:"
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time"
+msgid "Pax min. ride time:"
+msgstr "Pax tiempo min. en tren:"
 
-#v1.10.16
-msgctxt "map_hillshade_pos_0"
-msgid "Under ground"
-msgstr "Bajo el suelo"
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time_desc"
+msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
+msgstr "Formato: (hh:)mm:ss\nLos pax solo entran al tren si planean estar en su interior por al menos esta cantidad de tiempo,\nsin incluir la espera inicial."
 
-#v1.10.16
-msgctxt "map_hillshade_pos_1"
-msgid "Over ground"
-msgstr "Sobre el suelo"
+#v1.11.14
+msgctxt "lineeditor_stop_boardable"
+msgid "Board"
+msgstr "Entrar"
 
-#v1.10.16
-msgctxt "map_land_alpha"
-msgid "Land background mix:"
-msgstr "Land background mix:"
+#v1.11.14
+msgctxt "lineeditor_stop_leaveable"
+msgid "Disembark"
+msgstr "Salir"
 
-#v1.10.16
-msgctxt "map_land_hsv_sat"
-msgid "Land HSV saturation:"
-msgstr "Land HSV saturation:"
+#v1.11.14
+msgctxt "lineeditor_stop_no_pax_behavior"
+msgid "Not board or disembark"
+msgstr "No entrar ni salir"
 
-#v1.10.16
-msgctxt "map_option_font"
-msgid "Label font size:"
-msgstr "Tamaño fuente:"
+#v1.11.14
+msgctxt "lineeditor_stop_pax_behavior"
+msgid "Allow pax to:"
+msgstr "Permitr a pax:"
 
-#v1.10.16
-msgctxt "map_option_font_0"
-msgid "Small"
-msgstr "Pequeño"
+#v1.11.14
+msgctxt "lineeditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
 
-#v1.10.16
-msgctxt "map_option_font_1"
-msgid "Default"
-msgstr "Por defecto"
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Zona horaria custom:"
 
-#v1.10.16
-msgctxt "map_option_font_2"
-msgid "Big"
-msgstr "Grande"
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Formato: (-)hh:mm:ss"
 
-#v1.10.16
-msgctxt "map_option_font_3"
-msgid "Huge"
-msgstr "Enorme"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s"
+msgid "Accounting time shift:"
+msgstr "Tiempo contable:"
 
-#v1.10.16
-msgctxt "map_show_land_tex_max_zoom"
-msgid "Show land texture at max zoom"
-msgstr "Mostrar terreno en zoom máximo"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change"
+msgid "Change accounting day shift time"
+msgstr "Cambiar inicio de tiempo contable"
 
-#v1.10.16
-msgctxt "map_style_mods"
-msgid "Map style mods"
-msgstr "Mods de estilo de mapa"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_desc"
+msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
+msgstr "La contabilidad del día actual se perderá o será incorrecta. Hay que esperar 24h hasta que se corrija la contabilidad. Es posible que se pierda alguna contabilidad. La contabilidad histórica no será corregida. Esta opción solo se aplica desde el momento en que se activa. Estás seguro?"
 
-#v1.10.16
-msgctxt "map_style_show_in_panel"
-msgid "Show in map options panel"
-msgstr "Mostrar en panel de opciones de mapa"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_yes"
+msgid "Change time"
+msgstr "Cambiar tiempo"
 
-#v1.10.16
-msgctxt "mod_less_prio"
-msgid "Less priority"
-msgstr "Menos prioridad"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_desc"
+msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
+msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
 
-#v1.10.16
-msgctxt "mod_more_prio"
-msgid "More priority"
-msgstr "Mas prioridad"
+#v1.11.14
+msgctxt "option_company_pax_pf_bias"
+msgid "Pax pathfind bias:"
+msgstr "Bias de pax pathfind:"
 
-#v1.10.16
-msgctxt "mvo_toggle_map_style_mods"
-msgid "Map style mods:"
-msgstr "Mods de estilo:"
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_less"
+msgid "Better paths"
+msgstr "Mejor recorrido"
 
-#v1.10.16
-msgctxt "mvo_track_editor_always_on_top"
-msgid "Track editor always on top"
-msgstr "Editor siempre encima"
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_more"
+msgid "Faster sim"
+msgstr "Mas rendimiento"
 
-#v1.10.16
-msgctxt "mvo_user_track_depth_bridge"
-msgid "Map bridges over track layers"
-msgstr "Puentes del mapa sobre vías"
+#v1.11.14
+msgctxt "option_company_time_zones"
+msgid "Map time zones:"
+msgstr "Zonas horarias:"
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching_strict"
-msgid "If same line, within the run"
-msgstr "If same line, within the run"
+#v1.11.14
+msgctxt "option_company_time_zones_approximate"
+msgid "Approximate"
+msgstr "Aproximadas"
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching_train_pf"
-msgid "Any, bounded by leg time"
-msgstr "Any, bounded by leg time"
+#v1.11.14
+msgctxt "option_company_time_zones_change"
+msgid "Change map time zones mode"
+msgstr "Cambiar modo de zona horaria"
 
-#v1.10.16
-msgctxt "options_alerts"
-msgid "Alerts"
-msgstr "Alertas"
+#v1.11.14
+msgctxt "option_company_time_zones_simplified"
+msgid "Simplified"
+msgstr "Simplificadas"
 
-#v1.10.16
-msgctxt "options_autosave"
-msgid "Autosave"
-msgstr "Autoguardar"
+#v1.11.14
+msgctxt "option_company_time_zones_zero"
+msgid "Always 0"
+msgstr "Siempre 0"
 
-#v1.10.16
-msgctxt "options_interface"
-msgid "Interface"
-msgstr "Interfaz"
+#v1.11.14
+msgctxt "options_performance"
+msgid "Performance"
+msgstr "Rendimiento"
 
-#v1.10.16
-msgctxt "options_map"
-msgid "Map"
-msgstr "Mapa"
+#v1.11.14
+msgctxt "perf_bg_fps"
+msgid "Background UI FPS:"
+msgstr "FPS UI de fondo:"
 
-#v1.10.16
-msgctxt "osm_admin_level_11"
-msgid "Neighborhood"
-msgstr "Vecindario"
+#v1.11.14
+msgctxt "perf_fg_fps"
+msgid "Foreground UI FPS:"
+msgstr "FPS UI activo:"
 
-#v1.10.16
-msgctxt "poi_settlement_0"
-msgid "Capital"
-msgstr "Capital"
+#v1.11.14
+msgctxt "perf_fps_limited"
+msgid "Manual limit"
+msgstr "Límite manual"
 
-#v1.10.16
-msgctxt "poi_settlement_1"
-msgid "City"
-msgstr "Ciudad"
+#v1.11.14
+msgctxt "perf_fps_unlimited"
+msgid "Unlimited"
+msgstr "Ilimitado"
 
-#v1.10.16
-msgctxt "poi_settlement_2"
-msgid "Town"
-msgstr "Pueblo"
+#v1.11.14
+msgctxt "perf_fps_vsync"
+msgid "Limited by VSync"
+msgstr "Limitado por VSync"
 
-#v1.10.16
-msgctxt "poi_settlement_3"
-msgid "Suburb"
-msgstr "Suburbio"
+#v1.11.14
+msgctxt "perf_linenet_threads"
+msgid "Timetable CPU threads:"
+msgstr "Threads CPU horarios:"
 
-#v1.10.16
-msgctxt "poi_settlement_4"
-msgid "Quarter"
-msgstr "Barrio"
+#v1.11.14
+msgctxt "perf_sim_threads"
+msgid "Sim CPU threads:"
+msgstr "Threads CPU simulación:"
 
-#v1.10.16
-msgctxt "poi_settlement_5"
-msgid "Neighbourhood"
-msgstr "Vecindario"
+#v1.11.14
+msgctxt "setting_game_speed"
+msgid "Speed setting: {}x"
+msgstr "Velocidad: {}x"
 
-#v1.10.16
-msgctxt "poi_settlement_6"
-msgid "Village"
-msgstr "Aldea"
+#v1.11.14
+msgctxt "train_rt_pax"
+msgid "Pax"
+msgstr "Pax"
 
-#v1.10.16
-msgctxt "poi_settlement_7"
-msgid "Hamlet"
-msgstr "Aldea"
+#v1.11.14
+msgctxt "traineditor_order_start_time_day_on"
+msgid "On:"
+msgstr "Los:"
 
-#v1.10.16
-msgctxt "poi_settlement_8"
-msgid "Dwelling"
-msgstr "Vivienda"
+#v1.11.14
+msgctxt "traineditor_restrict_trains_map"
+msgid "Restrict listing to visible trains on map (approximately)"
+msgstr "Restringir listado a los trenes visibles (aproximadamente)"
 
-#v1.10.16
-msgctxt "poi_settlement_9"
-msgid "Farm"
-msgstr "Granja"
+#v1.11.14
+msgctxt "traineditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
 
-#v1.10.16
-msgctxt "renderer_dx12"
-msgid "DirectX 12"
-msgstr "DirectX 12"
+#v1.11.14
+msgctxt "traineditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Zona horaria custom:"
 
-#v1.10.16
-msgctxt "renderer_vulkan"
-msgid "Vulkan"
-msgstr "Vulkan"
-
-#v1.10.16
-msgctxt "station_platform_set_name_all"
-msgid "All"
-msgstr "Todas"
-
-#v1.10.16
-msgctxt "timing_lines_n"
-msgid "Timing line legs, {} to go"
-msgstr "Cronometrando líneas, {} pendientes"
-
-#v1.10.16
-msgctxt "trackeditor_clickable_tracks"
-msgid "Clickable tracks"
-msgstr "Vías clickables"
-
-#v1.10.16
-msgctxt "warn_alpha_renderer1"
-msgid "Experimental renderer! Only use if DirectX 11 crashes often."
-msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
+#v1.11.14
+msgctxt "traineditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Formato: (-)hh:mm:ss"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.10.16
-msgctxt "mvo_user_track_depth"
-msgid "Map over track layers"
-msgstr "Mapa sobre las vías"
+#v1.11.14
+msgctxt "accounting_utc_warn"
+msgid "Accounting time: {}"
+msgstr "Tiempo conta.: {}"
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching"
-msgid "Board alternate trains:"
-msgstr "NOT IN GAME - Pax board trains:"
+#v1.11.14
+msgctxt "host_sim_mode"
+msgid "Clock and bank:"
+msgstr "Reloj y banco:"
+
+#v1.11.14
+msgctxt "host_sim_mode_private"
+msgid "Private for each player"
+msgstr "Privados por jugador"
+
+#v1.11.14
+msgctxt "host_sim_mode_shared"
+msgid "Shared between all players"
+msgstr "Compartidos entre jugadores"
 
 
 
@@ -601,11 +591,6 @@ msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
 msgstr "Parada programada"
 
-#v1.1.72
-msgctxt "accounting_utc_warn"
-msgid "Accounting time: {} UTC0"
-msgstr "Tiempo conta.: {} UTC0"
-
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
@@ -675,6 +660,11 @@ msgstr "Incluso en máxima velocidad"
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
 msgstr "Solo si pasados 0 minutos"
+
+#v1.10.16
+msgctxt "all"
+msgid "All"
+msgstr "Todo"
 
 #v1.2.22
 msgctxt "apply"
@@ -2171,11 +2161,6 @@ msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
 msgstr "Velocidad: {:.1f}x"
 
-#v1.5.31
-msgctxt "effective_game_speed_handicap"
-msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
-
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
@@ -2196,10 +2181,25 @@ msgctxt "enabled"
 msgid "Enabled"
 msgstr "Activo"
 
+#v1.10.16
+msgctxt "error_cannot_delete_save"
+msgid "Cannot delete old save for overwriting: "
+msgstr "No se puede borrar partida para sobreescribirla: "
+
 #v1.1.31
 msgctxt "error_cannot_open_file"
 msgid "Cannot open file: "
 msgstr "No se puede abrir archivo: "
+
+#v1.10.16
+msgctxt "error_cannot_open_temp_file"
+msgid "Cannot open temporary file: "
+msgstr "No se puede borrar archivo temporal: "
+
+#v1.10.16
+msgctxt "error_cannot_rename_save"
+msgid "Cannot rename temporary file: {} into {} "
+msgstr "No se puede renombrar archivo temporal: {} a {} "
 
 #v1.1.31
 msgctxt "error_corrupted_file"
@@ -2587,24 +2587,9 @@ msgid "Detecting public IP..."
 msgstr "Detectando IP pública..."
 
 #v1.6.13
-msgctxt "host_sim_mode"
-msgid "Simulation:"
-msgstr "Simulación:"
-
-#v1.6.13
-msgctxt "host_sim_mode_private"
-msgid "Private"
-msgstr "Privada"
-
-#v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
 msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
-
-#v1.6.13
-msgctxt "host_sim_mode_shared"
-msgid "Shared"
-msgstr "Compartida"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -2935,6 +2920,11 @@ msgstr "Vías: nuevas vías"
 msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
 msgstr "Vías: nueva señal"
+
+#v1.10.16
+msgctxt "kb_track_pick_parent"
+msgid "Tracks: pick par. parent"
+msgstr "Vías: elegir padre par."
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
@@ -3551,6 +3541,11 @@ msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
 msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos."
 
+#v1.10.16
+msgctxt "lineeditor_restrict_lines_map"
+msgid "Restrict listing to visible lines on map (approximately)"
+msgstr "Restringir listado a líneas visibles en el mapa (aproximadamente)"
+
 #v1.2.22
 msgctxt "lineeditor_service_level"
 msgid "Service level:"
@@ -3705,11 +3700,6 @@ msgstr "Mover la parada arriba\nPresiona shift para desplazar la línea"
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
 msgstr "Zona horaria:"
-
-#v1.5.31
-msgctxt "lineeditor_tz_desc"
-msgid "Time zone of the first train departure time input."
-msgstr "Zona horaria de la hora de salida del primer tren."
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -3981,6 +3971,31 @@ msgctxt "main_options"
 msgid "Options"
 msgstr "Opciones"
 
+#v1.10.16
+msgctxt "map_hillshade_pos"
+msgid "Hillshading:"
+msgstr "Sombras:"
+
+#v1.10.16
+msgctxt "map_hillshade_pos_0"
+msgid "Under ground"
+msgstr "Bajo el suelo"
+
+#v1.10.16
+msgctxt "map_hillshade_pos_1"
+msgid "Over ground"
+msgstr "Sobre el suelo"
+
+#v1.10.16
+msgctxt "map_land_alpha"
+msgid "Land background mix:"
+msgstr "Land background mix:"
+
+#v1.10.16
+msgctxt "map_land_hsv_sat"
+msgid "Land HSV saturation:"
+msgstr "Land HSV saturation:"
+
 #v1.1.31
 msgctxt "map_names_eng"
 msgid "English"
@@ -3995,6 +4010,46 @@ msgstr "Nativo"
 msgctxt "map_names_prio"
 msgid "Map names priority:"
 msgstr "Prioridad nombres mapa:"
+
+#v1.10.16
+msgctxt "map_option_font"
+msgid "Label font size:"
+msgstr "Tamaño fuente:"
+
+#v1.10.16
+msgctxt "map_option_font_0"
+msgid "Small"
+msgstr "Pequeño"
+
+#v1.10.16
+msgctxt "map_option_font_1"
+msgid "Default"
+msgstr "Por defecto"
+
+#v1.10.16
+msgctxt "map_option_font_2"
+msgid "Big"
+msgstr "Grande"
+
+#v1.10.16
+msgctxt "map_option_font_3"
+msgid "Huge"
+msgstr "Enorme"
+
+#v1.10.16
+msgctxt "map_show_land_tex_max_zoom"
+msgid "Show land texture at max zoom"
+msgstr "Mostrar terreno en zoom máximo"
+
+#v1.10.16
+msgctxt "map_style_mods"
+msgid "Map style mods"
+msgstr "Mods de estilo de mapa"
+
+#v1.10.16
+msgctxt "map_style_show_in_panel"
+msgid "Show in map options panel"
+msgstr "Mostrar en panel de opciones de mapa"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4145,6 +4200,16 @@ msgstr "Recursos"
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
 msgstr "Planos"
+
+#v1.10.16
+msgctxt "mod_less_prio"
+msgid "Less priority"
+msgstr "Menos prioridad"
+
+#v1.10.16
+msgctxt "mod_more_prio"
+msgid "More priority"
+msgstr "Mas prioridad"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -4551,6 +4616,16 @@ msgctxt "multiplayer"
 msgid "Multiplayer"
 msgstr "Multijugador"
 
+#v1.10.16
+msgctxt "mvo_toggle_map_style_mods"
+msgid "Map style mods:"
+msgstr "Mods de estilo:"
+
+#v1.10.16
+msgctxt "mvo_track_editor_always_on_top"
+msgid "Track editor always on top"
+msgstr "Editor siempre encima"
+
 #v1.4.15
 msgctxt "mvo_user_labels"
 msgid "User labels"
@@ -4610,6 +4685,16 @@ msgstr "Iconos de estación"
 msgctxt "mvo_user_station_names"
 msgid "Station names"
 msgstr "Nombres de estación"
+
+#v1.10.16
+msgctxt "mvo_user_track_depth"
+msgid "Map over track layers"
+msgstr "Mapa sobre las vías"
+
+#v1.10.16
+msgctxt "mvo_user_track_depth_bridge"
+msgid "Map bridges over track layers"
+msgstr "Puentes del mapa sobre vías"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
@@ -4766,15 +4851,35 @@ msgctxt "options"
 msgid "Options"
 msgstr "Opciones"
 
+#v1.10.16
+msgctxt "options_alerts"
+msgid "Alerts"
+msgstr "Alertas"
+
+#v1.10.16
+msgctxt "options_autosave"
+msgid "Autosave"
+msgstr "Autoguardar"
+
 #v1.1.31
 msgctxt "options_graphics"
 msgid "Graphics"
 msgstr "Gráficos"
 
+#v1.10.16
+msgctxt "options_interface"
+msgid "Interface"
+msgstr "Interfaz"
+
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
 msgstr "Teclas"
+
+#v1.10.16
+msgctxt "options_map"
+msgid "Map"
+msgstr "Mapa"
 
 #v1.1.31
 msgctxt "options_mods_upload"
@@ -4810,6 +4915,11 @@ msgstr "Línea inválida"
 msgctxt "osm_admin_level_10"
 msgid "Quarter"
 msgstr "Barrio"
+
+#v1.10.16
+msgctxt "osm_admin_level_11"
+msgid "Neighborhood"
+msgstr "Vecindario"
 
 #v1.1.31
 msgctxt "osm_admin_level_2"
@@ -5006,11 +5116,6 @@ msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "Esperando pax..."
 
-#v1.3.13
-msgctxt "pending_validations"
-msgid "Validating tracks, {} to go"
-msgstr "Validando vías, {} restantes"
-
 #v1.5.31
 msgctxt "pick"
 msgid "Pick"
@@ -5116,6 +5221,56 @@ msgctxt "plots_button_tp"
 msgid "Open charts window"
 msgstr "Abrir ventana de gráficos"
 
+#v1.10.16
+msgctxt "poi_settlement_0"
+msgid "Capital"
+msgstr "Capital"
+
+#v1.10.16
+msgctxt "poi_settlement_1"
+msgid "City"
+msgstr "Ciudad"
+
+#v1.10.16
+msgctxt "poi_settlement_2"
+msgid "Town"
+msgstr "Pueblo"
+
+#v1.10.16
+msgctxt "poi_settlement_3"
+msgid "Suburb"
+msgstr "Suburbio"
+
+#v1.10.16
+msgctxt "poi_settlement_4"
+msgid "Quarter"
+msgstr "Barrio"
+
+#v1.10.16
+msgctxt "poi_settlement_5"
+msgid "Neighbourhood"
+msgstr "Vecindario"
+
+#v1.10.16
+msgctxt "poi_settlement_6"
+msgid "Village"
+msgstr "Aldea"
+
+#v1.10.16
+msgctxt "poi_settlement_7"
+msgid "Hamlet"
+msgstr "Aldea"
+
+#v1.10.16
+msgctxt "poi_settlement_8"
+msgid "Dwelling"
+msgstr "Vivienda"
+
+#v1.10.16
+msgctxt "poi_settlement_9"
+msgid "Farm"
+msgstr "Granja"
+
 #v1.1.31
 msgctxt "pop_reach"
 msgid "Reach: {}"
@@ -5175,6 +5330,16 @@ msgstr "Renderer:"
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
+
+#v1.10.16
+msgctxt "renderer_dx12"
+msgid "DirectX 12"
+msgstr "DirectX 12"
+
+#v1.10.16
+msgctxt "renderer_vulkan"
+msgid "Vulkan"
+msgstr "Vulkan"
 
 #v1.7.15
 msgctxt "replace_trains"
@@ -5966,6 +6131,11 @@ msgctxt "station_platform_promote"
 msgid "Promote track into platform"
 msgstr "Ascender vía a andén"
 
+#v1.10.16
+msgctxt "station_platform_set_name_all"
+msgid "All"
+msgstr "Todas"
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
@@ -6065,16 +6235,6 @@ msgstr "%d paradas"
 msgctxt "strangers"
 msgid "Strangers"
 msgstr "Desconocidos"
-
-#v1.1.37
-msgctxt "stream_ahead_desc"
-msgid "You are ahead of the host. Pausing your clock to wait for it."
-msgstr "Vas por delante del anfitrión. Parando tu reloj para esperarlo."
-
-#v1.4.22
-msgctxt "stream_catch_up_desc2"
-msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
-msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alcanzarlo. Lag: {}"
 
 #v1.6.13
 msgctxt "stream_waiting_for_player"
@@ -6556,6 +6716,11 @@ msgctxt "timetable_week"
 msgid "Week"
 msgstr "Semana"
 
+#v1.10.16
+msgctxt "timing_lines_n"
+msgid "Timing line legs, {} to go"
+msgstr "Cronometrando líneas, {} pendientes"
+
 #v1.1.31
 msgctxt "title"
 msgid "Title:"
@@ -6660,6 +6825,11 @@ msgstr "Precio"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "Vel. máxima"
+
+#v1.10.16
+msgctxt "trackeditor_clickable_tracks"
+msgid "Clickable tracks"
+msgstr "Vías clickables"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
@@ -7772,11 +7942,6 @@ msgid "Time zone:"
 msgstr "Zona horaria:"
 
 #v1.5.31
-msgctxt "traineditor_tz_desc"
-msgid "Time zone used for order time/day input."
-msgstr "Zona horaria utilizada para introducir las horas y días."
-
-#v1.5.31
 msgctxt "traineditor_tz_first_line"
 msgid "First line time zone"
 msgstr "Zona horaria de la primera línea"
@@ -7950,6 +8115,11 @@ msgstr "VSync:"
 msgctxt "waiting_expired"
 msgid "Expired"
 msgstr "Caducado"
+
+#v1.10.16
+msgctxt "warn_alpha_renderer1"
+msgid "Experimental renderer! Only use if DirectX 11 crashes often."
+msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
