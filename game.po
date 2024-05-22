@@ -1,245 +1,365 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.11.14
-msgctxt "editor_tip_station_move"
-msgid "Move mouse to start creating the station platform"
-msgstr "Mueve el ratón para empezar a crear en el andén"
+#v1.12.11
+msgctxt "building_poi_curve"
+msgid "Demand curve:"
+msgstr "Curva de demanda:"
 
-#v1.11.14
-msgctxt "full_simulation_reset"
-msgid "Full simulation reset"
-msgstr "Reset completo de simulación"
+#v1.12.11
+msgctxt "building_poi_pop"
+msgid "Population:"
+msgstr "Población:"
 
-#v1.11.14
-msgctxt "full_simulation_reset_desc"
-msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
-msgstr "Todos los pax serán eliminados de estaciones y trenes, todos los trenes serán intervenidos, se recalcularán los tiempos de líneas. Estás seguro?"
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_2d"
+msgid "One or more objects in the clip references an unknown demand curve:\n"
+msgstr "Uno o mas objetos referencian una curva de demanda desconocida:\n"
 
-#v1.11.14
-msgctxt "full_simulation_reset_yes"
-msgid "Reset simulation"
-msgstr "Reset de simulación"
+#v1.12.11
+msgctxt "demand_cache_warmup"
+msgid "Warming up tile pax path cache, game speed is limited\nIf perfomance does not improve consider selecting Random spawn station mode in Company options"
+msgstr "UNUSED, DO NOT TRANSLATE! Warming up tile pax path cache, game speed is limited\nIf perfomance does not improve consider selecting Random spawn station mode in Company options"
 
-#v1.11.14
-msgctxt "handicap_game_speed"
-msgid "Handicap: {:.1f}x"
-msgstr "Handicap: {:.1f}x"
+#v1.12.11
+msgctxt "demand_clone"
+msgid "Clone demand curve"
+msgstr "Clonar curva de demanda"
 
-#v1.11.14
-msgctxt "last_frame_game_speed"
-msgid "Last frame speed: {:.1f}x"
-msgstr "Velocidad último frame: {:.1f}x"
+#v1.12.11
+msgctxt "demand_curve_disabled"
+msgid "<Disabled>"
+msgstr "<Desactivada>"
 
-#v1.11.14
-msgctxt "lineeditor_min_pax_departure_leg_time"
-msgid "Pax min. ride time:"
-msgstr "Pax tiempo min. en tren:"
+#v1.12.11
+msgctxt "demand_default_name"
+msgid "Population"
+msgstr "Población"
 
-#v1.11.14
-msgctxt "lineeditor_min_pax_departure_leg_time_desc"
-msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
-msgstr "Formato: (hh:)mm:ss\nLos pax solo entran al tren si planean estar en su interior por al menos esta cantidad de tiempo,\nsin incluir la espera inicial."
+#v1.12.11
+msgctxt "demand_delete"
+msgid "Delete selected demand curve"
+msgstr "Borrar curva de demanda seleccionada"
 
-#v1.11.14
-msgctxt "lineeditor_stop_boardable"
-msgid "Board"
-msgstr "Entrar"
+#v1.12.11
+msgctxt "demand_editor_focus_dest"
+msgid "Destination"
+msgstr "Destino"
 
-#v1.11.14
-msgctxt "lineeditor_stop_leaveable"
-msgid "Disembark"
-msgstr "Salir"
+#v1.12.11
+msgctxt "demand_editor_focus_distance"
+msgid "Distance"
+msgstr "Distancia"
 
-#v1.11.14
-msgctxt "lineeditor_stop_no_pax_behavior"
-msgid "Not board or disembark"
-msgstr "No entrar ni salir"
+#v1.12.11
+msgctxt "demand_editor_focus_info"
+msgid "Info"
+msgstr "Info"
 
-#v1.11.14
-msgctxt "lineeditor_stop_pax_behavior"
-msgid "Allow pax to:"
-msgstr "Permitr a pax:"
+#v1.12.11
+msgctxt "demand_editor_focus_origin"
+msgid "Origin"
+msgstr "Origen"
 
-#v1.11.14
-msgctxt "lineeditor_tz_custom"
-msgid "Custom"
-msgstr "Custom"
+#v1.12.11
+msgctxt "demand_editor_focus_range0"
+msgid "0 km to 95 km"
+msgstr "0 km a 95 km"
 
-#v1.11.14
-msgctxt "lineeditor_tz_custom_input"
-msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+#v1.12.11
+msgctxt "demand_editor_title"
+msgid "Demand curves editor"
+msgstr "Editor de curvas de demanda"
 
-#v1.11.14
-msgctxt "lineeditor_tz_custom_input_desc"
-msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+#v1.12.11
+msgctxt "demand_export"
+msgid "Export to TSV file"
+msgstr "Exportar a fichero TSV"
 
-#v1.11.14
-msgctxt "option_company_acc_utc0_offset_s"
-msgid "Accounting time shift:"
-msgstr "Tiempo contable:"
+#v1.12.11
+msgctxt "demand_import_new"
+msgid "Import new demand curve from TSV file"
+msgstr "Importar nueva curva de demanda de fichero TSV"
 
-#v1.11.14
-msgctxt "option_company_acc_utc0_offset_s_change"
-msgid "Change accounting day shift time"
-msgstr "Cambiar inicio de tiempo contable"
+#v1.12.11
+msgctxt "demand_import_replace"
+msgid "Replace with curve from TSV file"
+msgstr "Remplazar curva de demanda con fichero TSV"
 
-#v1.11.14
-msgctxt "option_company_acc_utc0_offset_s_change_desc"
-msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
-msgstr "La contabilidad del día actual se perderá o será incorrecta. Hay que esperar 24h hasta que se corrija la contabilidad. Es posible que se pierda alguna contabilidad. La contabilidad histórica no será corregida. Esta opción solo se aplica desde el momento en que se activa. Estás seguro?"
+#v1.12.11
+msgctxt "demand_info_file_ops"
+msgid "Export and replace"
+msgstr "Exportar y reemplazar"
 
-#v1.11.14
-msgctxt "option_company_acc_utc0_offset_s_change_yes"
-msgid "Change time"
-msgstr "Cambiar tiempo"
+#v1.12.11
+msgctxt "demand_info_move_pois"
+msgid "Bulk change POIs into a different curve"
+msgstr "Cambiar todos los POIs a una curva diferente"
 
-#v1.11.14
-msgctxt "option_company_acc_utc0_offset_s_desc"
-msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
-msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
+#v1.12.11
+msgctxt "demand_info_move_pois_but"
+msgid "Change all POIs"
+msgstr "Cambiar todos los POIs"
 
-#v1.11.14
-msgctxt "option_company_pax_pf_bias"
-msgid "Pax pathfind bias:"
-msgstr "Bias de pax pathfind:"
+#v1.12.11
+msgctxt "demand_info_move_pois_label"
+msgid "Change to:"
+msgstr "Cambiar a:"
 
-#v1.11.14
-msgctxt "option_company_pax_pf_bias_less"
-msgid "Better paths"
-msgstr "Mejor recorrido"
+#v1.12.11
+msgctxt "demand_info_name"
+msgid "Name:"
+msgstr "Nombre:"
 
-#v1.11.14
-msgctxt "option_company_pax_pf_bias_more"
-msgid "Faster sim"
-msgstr "Mas rendimiento"
+#v1.12.11
+msgctxt "demand_info_poi"
+msgid "Points of interest:"
+msgstr "Punto de interés:"
 
-#v1.11.14
-msgctxt "option_company_time_zones"
-msgid "Map time zones:"
-msgstr "Zonas horarias:"
+#v1.12.11
+msgctxt "demand_info_pop"
+msgid "Population:"
+msgstr "Población:"
 
-#v1.11.14
-msgctxt "option_company_time_zones_approximate"
-msgid "Approximate"
-msgstr "Aproximadas"
+#v1.12.11
+msgctxt "demand_pax_spawn"
+msgid "{} new pax/min."
+msgstr "{} nuevos pax/min."
 
-#v1.11.14
-msgctxt "option_company_time_zones_change"
-msgid "Change map time zones mode"
-msgstr "Cambiar modo de zona horaria"
+#v1.12.11
+msgctxt "demand_rebuild_tp"
+msgid "Rebuilding demand data..."
+msgstr "Reconstruyendo datos de demanda..."
 
-#v1.11.14
-msgctxt "option_company_time_zones_simplified"
-msgid "Simplified"
-msgstr "Simplificadas"
+#v1.12.11
+msgctxt "demand_replace_default"
+msgid "Replace with default curve"
+msgstr "Reemplazar con curva por defecto"
 
-#v1.11.14
-msgctxt "option_company_time_zones_zero"
-msgid "Always 0"
-msgstr "Siempre 0"
+#v1.12.11
+msgctxt "demand_replace_file"
+msgid "Replace from TSV file"
+msgstr "Reemplazar con fichero TSV"
 
-#v1.11.14
-msgctxt "options_performance"
-msgid "Performance"
-msgstr "Rendimiento"
+#v1.12.11
+msgctxt "demand_time_copy_day"
+msgid "Copy day"
+msgstr "Copiar día"
 
-#v1.11.14
-msgctxt "perf_bg_fps"
-msgid "Background UI FPS:"
-msgstr "FPS UI de fondo:"
+#v1.12.11
+msgctxt "demand_time_paste_day"
+msgid "Paste day"
+msgstr "Pegar día"
 
-#v1.11.14
-msgctxt "perf_fg_fps"
-msgid "Foreground UI FPS:"
-msgstr "FPS UI activo:"
+#v1.12.11
+msgctxt "demand_time_set_0"
+msgid "All 0%"
+msgstr "Todo 0%"
 
-#v1.11.14
-msgctxt "perf_fps_limited"
-msgid "Manual limit"
-msgstr "Límite manual"
+#v1.12.11
+msgctxt "demand_time_set_100"
+msgid "All 100%"
+msgstr "Todo 100%"
 
-#v1.11.14
-msgctxt "perf_fps_unlimited"
-msgid "Unlimited"
-msgstr "Ilimitado"
+#v1.12.11
+msgctxt "editor_poi"
+msgid "Create new points of interest and signs"
+msgstr "Crear nuevos puntos de interés y signos"
 
-#v1.11.14
-msgctxt "perf_fps_vsync"
-msgid "Limited by VSync"
-msgstr "Limitado por VSync"
+#v1.12.11
+msgctxt "editor_tip_new_poi_left"
+msgid "Left click to create a new point of interest or sign"
+msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
 
-#v1.11.14
-msgctxt "perf_linenet_threads"
-msgid "Timetable CPU threads:"
-msgstr "Threads CPU horarios:"
+#v1.12.11
+msgctxt "fmt_copy_of"
+msgid "Copy of {}"
+msgstr "Copia de {}"
 
-#v1.11.14
-msgctxt "perf_sim_threads"
-msgid "Sim CPU threads:"
-msgstr "Threads CPU simulación:"
+#v1.12.11
+msgctxt "info_company_active_tiles"
+msgid "Active pax tiles:"
+msgstr "Zonas de pax activas:"
 
-#v1.11.14
-msgctxt "setting_game_speed"
-msgid "Speed setting: {}x"
-msgstr "Velocidad: {}x"
+#v1.12.11
+msgctxt "info_table_pax_location"
+msgid "Location"
+msgstr "Lugar"
 
-#v1.11.14
-msgctxt "train_rt_pax"
-msgid "Pax"
-msgstr "Pax"
+#v1.12.11
+msgctxt "info_table_pax_location_tp"
+msgid "Current location"
+msgstr "Lugar actual"
 
-#v1.11.14
-msgctxt "traineditor_order_start_time_day_on"
-msgid "On:"
-msgstr "Los:"
+#v1.12.11
+msgctxt "info_table_station_city_tp"
+msgid "Group by city"
+msgstr "Agrupar por ciudad"
 
-#v1.11.14
-msgctxt "traineditor_restrict_trains_map"
-msgid "Restrict listing to visible trains on map (approximately)"
-msgstr "Restringir listado a los trenes visibles (aproximadamente)"
+#v1.12.11
+msgctxt "info_table_station_dist_tp"
+msgid "Sort by distance"
+msgstr "Ordenar por distancia"
 
-#v1.11.14
-msgctxt "traineditor_tz_custom"
-msgid "Custom"
-msgstr "Custom"
+#v1.12.11
+msgctxt "mod_poi_layer_options_title"
+msgid "Mod POI layer options"
+msgstr "Opciones capas de PDI"
 
-#v1.11.14
-msgctxt "traineditor_tz_custom_input"
-msgid "Custom time zone:"
-msgstr "Zona horaria custom:"
+#v1.12.11
+msgctxt "mplo_default_demand"
+msgid "<Controlled by the mod>"
+msgstr "<Controlado por el mod>"
 
-#v1.11.14
-msgctxt "traineditor_tz_custom_input_desc"
-msgid "Format: (-)hh:mm:ss"
-msgstr "Formato: (-)hh:mm:ss"
+#v1.12.11
+msgctxt "mplo_demand_curve"
+msgid "Demand curve:"
+msgstr "Curva de demanda:"
+
+#v1.12.11
+msgctxt "mplo_hidden"
+msgid "Hidden"
+msgstr "Oculto"
+
+#v1.12.11
+msgctxt "mplo_icons_only"
+msgid "Icons only"
+msgstr "Solo iconos"
+
+#v1.12.11
+msgctxt "mplo_labels_and_icons"
+msgid "Labels and icons"
+msgstr "Texto e iconos"
+
+#v1.12.11
+msgctxt "mplo_map_vis"
+msgid "Map display:"
+msgstr "Mostrar en mapa:"
+
+#v1.12.11
+msgctxt "mvo_mod_poi_labels"
+msgid "POI mod labels"
+msgstr "Texto mods de PDI"
+
+#v1.12.11
+msgctxt "option_company_demand_editor"
+msgid "Demand curve editor"
+msgstr "Editar curvas de demanda"
+
+#v1.12.11
+msgctxt "option_company_mod_poi_layer_editor"
+msgid "Mod POI layer options"
+msgstr "Opciones mods de PDI"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_pick"
+msgid "Pax spawn station:"
+msgstr "Estación origen pax:"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_random"
+msgid "Random"
+msgstr "Aleatoria"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk"
+msgid "Shortest walk"
+msgstr "Menor caminada"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
+msgid "Shortest walk, best path"
+msgstr "Menor caminada, mejor ruta"
+
+#v1.12.11
+msgctxt "pax_total_demand"
+msgid "Total: {0}"
+msgstr "Total: {0}"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_destination"
+msgid "As destination: {0}"
+msgstr "Como destino: {0}"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_origin"
+msgid "As origin: {0}"
+msgstr "Como origen: {0}"
+
+#v1.12.11
+msgctxt "poi_instance_editor"
+msgid "Point of interest properties"
+msgstr "Propiedades punto de interés"
+
+#v1.12.11
+msgctxt "poi_instance_editor_new"
+msgid "New point of interest properties"
+msgstr "Propiedades de nuevo punto de interés"
+
+#v1.12.11
+msgctxt "sign_instance_editor"
+msgid "Sign properties"
+msgstr "Propiedades signo"
+
+#v1.12.11
+msgctxt "sign_instance_editor_new"
+msgid "New sign properties"
+msgstr "Propiedades nuevo signo"
+
+#v1.12.11
+msgctxt "station_demand_aggregate"
+msgid "Aggregate"
+msgstr "Agregar"
+
+#v1.12.11
+msgctxt "station_demand_aggregated_started_at"
+msgid "Started at {}"
+msgstr "Empezando en {}"
+
+#v1.12.11
+msgctxt "station_demand_realtime"
+msgid "Realtime"
+msgstr "Tiempo real"
+
+#v1.12.11
+msgctxt "station_infowin_demand"
+msgid "Ridership"
+msgstr "Ocupación"
+
+#v1.12.11
+msgctxt "station_rt_demand_dest"
+msgid "As destination"
+msgstr "Como destino"
+
+#v1.12.11
+msgctxt "station_rt_demand_origin"
+msgid "As origin"
+msgstr "Como origen"
+
+#v1.12.11
+msgctxt "waiting_at_station"
+msgid "Waiting at station"
+msgstr "Esperando en estación"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.11.14
-msgctxt "accounting_utc_warn"
-msgid "Accounting time: {}"
-msgstr "Tiempo conta.: {}"
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
+msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
 
-#v1.11.14
-msgctxt "host_sim_mode"
-msgid "Clock and bank:"
-msgstr "Reloj y banco:"
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
 
-#v1.11.14
-msgctxt "host_sim_mode_private"
-msgid "Private for each player"
-msgstr "Privados por jugador"
-
-#v1.11.14
-msgctxt "host_sim_mode_shared"
-msgid "Shared between all players"
-msgstr "Compartidos entre jugadores"
+#v1.12.11
+msgctxt "option_company_demand"
+msgid "Global demand factor:"
+msgstr "Demanda global de pax:"
 
 
 
@@ -590,6 +710,11 @@ msgstr "Espera en señal"
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
 msgstr "Parada programada"
+
+#v1.11.14
+msgctxt "accounting_utc_warn"
+msgid "Accounting time: {}"
+msgstr "Tiempo conta.: {}"
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -1161,16 +1286,6 @@ msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
 msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
 
-#v1.4.15
-msgctxt "confirm_clip_unknown_desc_3"
-msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
-
-#v1.4.15
-msgctxt "confirm_clip_unknown_desc_4"
-msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
-
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
@@ -1550,11 +1665,6 @@ msgstr "Borrar solo planos"
 msgctxt "delete_tracks"
 msgid "Delete objects"
 msgstr "Borrar objetos"
-
-#v1.1.31
-msgctxt "demand_pax_overall"
-msgid "{:.1f} pax/s"
-msgstr "{:.1f} pax/s"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
@@ -2111,6 +2221,11 @@ msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
 msgstr "Click izquierdo para crear los andenes de estación"
 
+#v1.11.14
+msgctxt "editor_tip_station_move"
+msgid "Move mouse to start creating the station platform"
+msgstr "Mueve el ratón para empezar a crear en el andén"
+
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
 msgid "Release left button to stop rotating the track tangent"
@@ -2446,6 +2561,21 @@ msgctxt "full_date_time"
 msgid "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 msgstr "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 
+#v1.11.14
+msgctxt "full_simulation_reset"
+msgid "Full simulation reset"
+msgstr "Reset completo de simulación"
+
+#v1.11.14
+msgctxt "full_simulation_reset_desc"
+msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
+msgstr "Todos los pax serán eliminados de estaciones y trenes, todos los trenes serán intervenidos, se recalcularán los tiempos de líneas. Estás seguro?"
+
+#v1.11.14
+msgctxt "full_simulation_reset_yes"
+msgid "Reset simulation"
+msgstr "Reset de simulación"
+
 #v1.2.22
 msgctxt "game_restart_req"
 msgid "Game restart is required"
@@ -2490,6 +2620,11 @@ msgstr "Factura planos globales"
 msgctxt "global_blueprint_bill_short"
 msgid "Global"
 msgstr "Global"
+
+#v1.11.14
+msgctxt "handicap_game_speed"
+msgid "Handicap: {:.1f}x"
+msgstr "Handicap: {:.1f}x"
 
 #v1.2.29
 msgctxt "height_layer_n"
@@ -2586,10 +2721,25 @@ msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
 msgstr "Detectando IP pública..."
 
+#v1.11.14
+msgctxt "host_sim_mode"
+msgid "Clock and bank:"
+msgstr "Reloj y banco:"
+
+#v1.11.14
+msgctxt "host_sim_mode_private"
+msgid "Private for each player"
+msgstr "Privados por jugador"
+
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
 msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
+
+#v1.11.14
+msgctxt "host_sim_mode_shared"
+msgid "Shared between all players"
+msgstr "Compartidos entre jugadores"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
@@ -2985,6 +3135,11 @@ msgstr "[No tiene tecla asignada]"
 msgctxt "language_pick"
 msgid "Language:"
 msgstr "Idioma:"
+
+#v1.11.14
+msgctxt "last_frame_game_speed"
+msgid "Last frame speed: {:.1f}x"
+msgstr "Velocidad último frame: {:.1f}x"
 
 #v1.2.29
 msgctxt "layer_ground"
@@ -3496,6 +3651,16 @@ msgctxt "lineeditor_max_brake_desc"
 msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
 msgstr "Limite superior para el freno del tren. El freno real puede ser inferior dependiendo de la capacidad del tren."
 
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time"
+msgid "Pax min. ride time:"
+msgstr "Pax tiempo min. en tren:"
+
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time_desc"
+msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
+msgstr "Formato: (hh:)mm:ss\nLos pax solo entran al tren si planean estar en su interior por al menos esta cantidad de tiempo,\nsin incluir la espera inicial."
+
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
@@ -3576,6 +3741,16 @@ msgctxt "lineeditor_stop_arrive"
 msgid "Arrive at:"
 msgstr "Llega a:"
 
+#v1.11.14
+msgctxt "lineeditor_stop_boardable"
+msgid "Board"
+msgstr "Entrar"
+
+#v1.11.14
+msgctxt "lineeditor_stop_leaveable"
+msgid "Disembark"
+msgstr "Salir"
+
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
 msgid "Stop time mode:"
@@ -3596,6 +3771,11 @@ msgctxt "lineeditor_stop_mode_fixed_departure"
 msgid "Fixed departure"
 msgstr "Salida fija"
 
+#v1.11.14
+msgctxt "lineeditor_stop_no_pax_behavior"
+msgid "Not board or disembark"
+msgstr "No entrar ni salir"
+
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
@@ -3610,6 +3790,11 @@ msgstr "Recorrido {0} {1} {2}"
 msgctxt "lineeditor_stop_panel_line_service_stop"
 msgid "Line service stop"
 msgstr "Parada de un servicio"
+
+#v1.11.14
+msgctxt "lineeditor_stop_pax_behavior"
+msgid "Allow pax to:"
+msgstr "Permitr a pax:"
 
 #v1.5.41
 msgctxt "lineeditor_suffix"
@@ -3700,6 +3885,21 @@ msgstr "Mover la parada arriba\nPresiona shift para desplazar la línea"
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
 msgstr "Zona horaria:"
+
+#v1.11.14
+msgctxt "lineeditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
+
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Zona horaria custom:"
+
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Formato: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -4801,10 +5001,30 @@ msgctxt "option_company_acc_export"
 msgid "Export accounting data"
 msgstr "Exportar contabilidad"
 
-#v1.1.58
-msgctxt "option_company_demand"
-msgid "Pax demand factor:"
-msgstr "Factor demanda de pax:"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s"
+msgid "Accounting time shift:"
+msgstr "Tiempo contable:"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change"
+msgid "Change accounting day shift time"
+msgstr "Cambiar inicio de tiempo contable"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_desc"
+msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
+msgstr "La contabilidad del día actual se perderá o será incorrecta. Hay que esperar 24h hasta que se corrija la contabilidad. Es posible que se pierda alguna contabilidad. La contabilidad histórica no será corregida. Esta opción solo se aplica desde el momento en que se activa. Estás seguro?"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_yes"
+msgid "Change time"
+msgstr "Cambiar tiempo"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_desc"
+msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
+msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -4821,6 +5041,21 @@ msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
 msgstr "Nueva vía desp. par.:"
 
+#v1.11.14
+msgctxt "option_company_pax_pf_bias"
+msgid "Pax pathfind bias:"
+msgstr "Bias de pax pathfind:"
+
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_less"
+msgid "Better paths"
+msgstr "Mejor recorrido"
+
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_more"
+msgid "Faster sim"
+msgstr "Mas rendimiento"
+
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
@@ -4835,6 +5070,31 @@ msgstr "Pasar a dinero ilimitado"
 msgctxt "option_company_switch_no_couplers"
 msgid "Switch to unrestricted coupling"
 msgstr "Activar acople sin restricciones"
+
+#v1.11.14
+msgctxt "option_company_time_zones"
+msgid "Map time zones:"
+msgstr "Zonas horarias:"
+
+#v1.11.14
+msgctxt "option_company_time_zones_approximate"
+msgid "Approximate"
+msgstr "Aproximadas"
+
+#v1.11.14
+msgctxt "option_company_time_zones_change"
+msgid "Change map time zones mode"
+msgstr "Cambiar modo de zona horaria"
+
+#v1.11.14
+msgctxt "option_company_time_zones_simplified"
+msgid "Simplified"
+msgstr "Simplificadas"
+
+#v1.11.14
+msgctxt "option_company_time_zones_zero"
+msgid "Always 0"
+msgstr "Siempre 0"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -4885,6 +5145,11 @@ msgstr "Mapa"
 msgctxt "options_mods_upload"
 msgid "Uploader"
 msgstr "Her. mods"
+
+#v1.11.14
+msgctxt "options_performance"
+msgid "Performance"
+msgstr "Rendimiento"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -5115,6 +5380,41 @@ msgstr "(ventana)"
 msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "Esperando pax..."
+
+#v1.11.14
+msgctxt "perf_bg_fps"
+msgid "Background UI FPS:"
+msgstr "FPS UI de fondo:"
+
+#v1.11.14
+msgctxt "perf_fg_fps"
+msgid "Foreground UI FPS:"
+msgstr "FPS UI activo:"
+
+#v1.11.14
+msgctxt "perf_fps_limited"
+msgid "Manual limit"
+msgstr "Límite manual"
+
+#v1.11.14
+msgctxt "perf_fps_unlimited"
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#v1.11.14
+msgctxt "perf_fps_vsync"
+msgid "Limited by VSync"
+msgstr "Limitado por VSync"
+
+#v1.11.14
+msgctxt "perf_linenet_threads"
+msgid "Timetable CPU threads:"
+msgstr "Threads CPU horarios:"
+
+#v1.11.14
+msgctxt "perf_sim_threads"
+msgid "Sim CPU threads:"
+msgstr "Threads CPU simulación:"
 
 #v1.5.31
 msgctxt "pick"
@@ -5675,6 +5975,11 @@ msgstr "Selección"
 msgctxt "sell_all_trains_yes"
 msgid "Sell all"
 msgstr "Vender todos"
+
+#v1.11.14
+msgctxt "setting_game_speed"
+msgid "Speed setting: {}x"
+msgstr "Velocidad: {}x"
 
 #v1.1.31
 msgctxt "settings"
@@ -6736,11 +7041,6 @@ msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
 msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
 
-#v1.2.22
-msgctxt "tooltip_demand"
-msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
-msgstr "Local {0}%\nRegional {1}%\nLarga distancia {2}%"
-
 #v1.1.31
 msgctxt "total"
 msgid "Total"
@@ -7686,6 +7986,11 @@ msgctxt "train_rt_leg"
 msgid "Remaining leg (m)"
 msgstr "Recorrido pendiente (m)"
 
+#v1.11.14
+msgctxt "train_rt_pax"
+msgid "Pax"
+msgstr "Pax"
+
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
@@ -7891,6 +8196,11 @@ msgctxt "traineditor_order_start_time_by"
 msgid "Than:"
 msgstr "Las:"
 
+#v1.11.14
+msgctxt "traineditor_order_start_time_day_on"
+msgid "On:"
+msgstr "Los:"
+
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
@@ -7905,6 +8215,11 @@ msgstr "Reemplazar con tren propio"
 msgctxt "traineditor_replace_tmu_mode"
 msgid "Replacing with preconfigured train"
 msgstr "Reemplazar con tren preconfigurado"
+
+#v1.11.14
+msgctxt "traineditor_restrict_trains_map"
+msgid "Restrict listing to visible trains on map (approximately)"
+msgstr "Restringir listado a los trenes visibles (aproximadamente)"
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -7940,6 +8255,21 @@ msgstr "Vender tren seleccionado"
 msgctxt "traineditor_tz"
 msgid "Time zone:"
 msgstr "Zona horaria:"
+
+#v1.11.14
+msgctxt "traineditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
+
+#v1.11.14
+msgctxt "traineditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Zona horaria custom:"
+
+#v1.11.14
+msgctxt "traineditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Formato: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
