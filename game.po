@@ -1,365 +1,270 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.12.11
-msgctxt "building_poi_curve"
-msgid "Demand curve:"
-msgstr "Curva de demanda:"
-
-#v1.12.11
-msgctxt "building_poi_pop"
-msgid "Population:"
-msgstr "Población:"
-
-#v1.12.11
-msgctxt "confirm_clip_unknown_desc_2d"
-msgid "One or more objects in the clip references an unknown demand curve:\n"
-msgstr "Uno o mas objetos referencian una curva de demanda desconocida:\n"
-
-#v1.12.11
-msgctxt "demand_cache_warmup"
-msgid "Warming up tile pax path cache, game speed is limited\nIf perfomance does not improve consider selecting Random spawn station mode in Company options"
-msgstr "UNUSED, DO NOT TRANSLATE! Warming up tile pax path cache, game speed is limited\nIf perfomance does not improve consider selecting Random spawn station mode in Company options"
-
-#v1.12.11
-msgctxt "demand_clone"
-msgid "Clone demand curve"
-msgstr "Clonar curva de demanda"
-
-#v1.12.11
-msgctxt "demand_curve_disabled"
-msgid "<Disabled>"
-msgstr "<Desactivada>"
-
-#v1.12.11
-msgctxt "demand_default_name"
-msgid "Population"
-msgstr "Población"
-
-#v1.12.11
-msgctxt "demand_delete"
-msgid "Delete selected demand curve"
-msgstr "Borrar curva de demanda seleccionada"
-
-#v1.12.11
-msgctxt "demand_editor_focus_dest"
-msgid "Destination"
-msgstr "Destino"
-
-#v1.12.11
-msgctxt "demand_editor_focus_distance"
-msgid "Distance"
-msgstr "Distancia"
-
-#v1.12.11
-msgctxt "demand_editor_focus_info"
-msgid "Info"
-msgstr "Info"
-
-#v1.12.11
-msgctxt "demand_editor_focus_origin"
-msgid "Origin"
-msgstr "Origen"
-
-#v1.12.11
-msgctxt "demand_editor_focus_range0"
-msgid "0 km to 95 km"
-msgstr "0 km a 95 km"
-
-#v1.12.11
-msgctxt "demand_editor_title"
-msgid "Demand curves editor"
-msgstr "Editor de curvas de demanda"
-
-#v1.12.11
-msgctxt "demand_export"
-msgid "Export to TSV file"
-msgstr "Exportar a fichero TSV"
-
-#v1.12.11
-msgctxt "demand_import_new"
-msgid "Import new demand curve from TSV file"
-msgstr "Importar nueva curva de demanda de fichero TSV"
-
-#v1.12.11
-msgctxt "demand_import_replace"
-msgid "Replace with curve from TSV file"
-msgstr "Remplazar curva de demanda con fichero TSV"
-
-#v1.12.11
-msgctxt "demand_info_file_ops"
-msgid "Export and replace"
-msgstr "Exportar y reemplazar"
-
-#v1.12.11
-msgctxt "demand_info_move_pois"
-msgid "Bulk change POIs into a different curve"
-msgstr "Cambiar todos los POIs a una curva diferente"
-
-#v1.12.11
-msgctxt "demand_info_move_pois_but"
-msgid "Change all POIs"
-msgstr "Cambiar todos los POIs"
-
-#v1.12.11
-msgctxt "demand_info_move_pois_label"
-msgid "Change to:"
-msgstr "Cambiar a:"
-
-#v1.12.11
-msgctxt "demand_info_name"
-msgid "Name:"
-msgstr "Nombre:"
-
-#v1.12.11
-msgctxt "demand_info_poi"
-msgid "Points of interest:"
-msgstr "Punto de interés:"
-
-#v1.12.11
-msgctxt "demand_info_pop"
-msgid "Population:"
-msgstr "Población:"
-
-#v1.12.11
-msgctxt "demand_pax_spawn"
-msgid "{} new pax/min."
-msgstr "{} nuevos pax/min."
-
-#v1.12.11
-msgctxt "demand_rebuild_tp"
-msgid "Rebuilding demand data..."
-msgstr "Reconstruyendo datos de demanda..."
-
-#v1.12.11
-msgctxt "demand_replace_default"
-msgid "Replace with default curve"
-msgstr "Reemplazar con curva por defecto"
-
-#v1.12.11
-msgctxt "demand_replace_file"
-msgid "Replace from TSV file"
-msgstr "Reemplazar con fichero TSV"
-
-#v1.12.11
-msgctxt "demand_time_copy_day"
-msgid "Copy day"
-msgstr "Copiar día"
-
-#v1.12.11
-msgctxt "demand_time_paste_day"
-msgid "Paste day"
-msgstr "Pegar día"
-
-#v1.12.11
-msgctxt "demand_time_set_0"
-msgid "All 0%"
-msgstr "Todo 0%"
-
-#v1.12.11
-msgctxt "demand_time_set_100"
-msgid "All 100%"
-msgstr "Todo 100%"
-
-#v1.12.11
-msgctxt "editor_poi"
-msgid "Create new points of interest and signs"
-msgstr "Crear nuevos puntos de interés y signos"
-
-#v1.12.11
-msgctxt "editor_tip_new_poi_left"
-msgid "Left click to create a new point of interest or sign"
-msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
-
-#v1.12.11
-msgctxt "fmt_copy_of"
-msgid "Copy of {}"
-msgstr "Copia de {}"
-
-#v1.12.11
-msgctxt "info_company_active_tiles"
-msgid "Active pax tiles:"
-msgstr "Zonas de pax activas:"
-
-#v1.12.11
-msgctxt "info_table_pax_location"
-msgid "Location"
-msgstr "Lugar"
-
-#v1.12.11
-msgctxt "info_table_pax_location_tp"
-msgid "Current location"
-msgstr "Lugar actual"
-
-#v1.12.11
-msgctxt "info_table_station_city_tp"
-msgid "Group by city"
-msgstr "Agrupar por ciudad"
-
-#v1.12.11
-msgctxt "info_table_station_dist_tp"
-msgid "Sort by distance"
-msgstr "Ordenar por distancia"
-
-#v1.12.11
-msgctxt "mod_poi_layer_options_title"
-msgid "Mod POI layer options"
-msgstr "Opciones capas de PDI"
-
-#v1.12.11
-msgctxt "mplo_default_demand"
-msgid "<Controlled by the mod>"
-msgstr "<Controlado por el mod>"
-
-#v1.12.11
-msgctxt "mplo_demand_curve"
-msgid "Demand curve:"
-msgstr "Curva de demanda:"
-
-#v1.12.11
-msgctxt "mplo_hidden"
-msgid "Hidden"
-msgstr "Oculto"
-
-#v1.12.11
-msgctxt "mplo_icons_only"
-msgid "Icons only"
-msgstr "Solo iconos"
-
-#v1.12.11
-msgctxt "mplo_labels_and_icons"
-msgid "Labels and icons"
-msgstr "Texto e iconos"
-
-#v1.12.11
-msgctxt "mplo_map_vis"
-msgid "Map display:"
-msgstr "Mostrar en mapa:"
-
-#v1.12.11
-msgctxt "mvo_mod_poi_labels"
-msgid "POI mod labels"
-msgstr "Texto mods de PDI"
-
-#v1.12.11
-msgctxt "option_company_demand_editor"
-msgid "Demand curve editor"
-msgstr "Editar curvas de demanda"
-
-#v1.12.11
-msgctxt "option_company_mod_poi_layer_editor"
-msgid "Mod POI layer options"
-msgstr "Opciones mods de PDI"
-
-#v1.12.11
-msgctxt "option_company_pax_spawn_station_pick"
-msgid "Pax spawn station:"
-msgstr "Estación origen pax:"
-
-#v1.12.11
-msgctxt "option_company_pax_spawn_station_random"
-msgid "Random"
-msgstr "Aleatoria"
-
-#v1.12.11
-msgctxt "option_company_pax_spawn_station_shortest_walk"
-msgid "Shortest walk"
-msgstr "Menor caminada"
-
-#v1.12.11
-msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
-msgid "Shortest walk, best path"
-msgstr "Menor caminada, mejor ruta"
-
-#v1.12.11
-msgctxt "pax_total_demand"
-msgid "Total: {0}"
-msgstr "Total: {0}"
-
-#v1.12.11
-msgctxt "pax_total_demand_as_destination"
-msgid "As destination: {0}"
-msgstr "Como destino: {0}"
-
-#v1.12.11
-msgctxt "pax_total_demand_as_origin"
-msgid "As origin: {0}"
-msgstr "Como origen: {0}"
-
-#v1.12.11
-msgctxt "poi_instance_editor"
-msgid "Point of interest properties"
-msgstr "Propiedades punto de interés"
-
-#v1.12.11
-msgctxt "poi_instance_editor_new"
-msgid "New point of interest properties"
-msgstr "Propiedades de nuevo punto de interés"
-
-#v1.12.11
-msgctxt "sign_instance_editor"
-msgid "Sign properties"
-msgstr "Propiedades signo"
-
-#v1.12.11
-msgctxt "sign_instance_editor_new"
-msgid "New sign properties"
-msgstr "Propiedades nuevo signo"
-
-#v1.12.11
-msgctxt "station_demand_aggregate"
-msgid "Aggregate"
-msgstr "Agregar"
-
-#v1.12.11
-msgctxt "station_demand_aggregated_started_at"
-msgid "Started at {}"
-msgstr "Empezando en {}"
-
-#v1.12.11
-msgctxt "station_demand_realtime"
-msgid "Realtime"
-msgstr "Tiempo real"
-
-#v1.12.11
-msgctxt "station_infowin_demand"
-msgid "Ridership"
-msgstr "Ocupación"
-
-#v1.12.11
-msgctxt "station_rt_demand_dest"
-msgid "As destination"
-msgstr "Como destino"
-
-#v1.12.11
-msgctxt "station_rt_demand_origin"
-msgid "As origin"
-msgstr "Como origen"
-
-#v1.12.11
-msgctxt "waiting_at_station"
-msgid "Waiting at station"
-msgstr "Esperando en estación"
+#v1.13.11
+msgctxt "accounting_pax_walked_in"
+msgid "Walked in"
+msgstr "Entra caminando"
+
+#v1.13.11
+msgctxt "accounting_pax_walked_out"
+msgid "Walked out"
+msgstr "Sale caminando"
+
+#v1.13.11
+msgctxt "accounting_train_arrived_full"
+msgid "Arrived full"
+msgstr "Llegado lleno"
+
+#v1.13.11
+msgctxt "accounting_train_departed_full"
+msgid "Departed full"
+msgstr "Salido lleno"
+
+#v1.13.11
+msgctxt "assets_on_map_labels"
+msgid "Labels"
+msgstr "Etiquetas"
+
+#v1.13.11
+msgctxt "assets_on_map_max_radius"
+msgid "Max. radius:"
+msgstr "Radio máximo:"
+
+#v1.13.11
+msgctxt "assets_on_map_neg_color"
+msgid "Negative color:"
+msgstr "Color negativo:"
+
+#v1.13.11
+msgctxt "assets_on_map_pos_color"
+msgid "Positive color:"
+msgstr "Color positivo:"
+
+#v1.13.11
+msgctxt "assets_view_on_map"
+msgid "View on map"
+msgstr "Visualizar en mapa"
+
+#v1.13.11
+msgctxt "bulk_edit_all_stations"
+msgid "Bulk edit all stations"
+msgstr "Editar todas las estaciones"
+
+#v1.13.11
+msgctxt "editor_new_plat_extension"
+msgid "Create platform footprint extensions"
+msgstr "Crear extensiones de andén"
+
+#v1.13.11
+msgctxt "editor_new_walk_link"
+msgid "Create walk link"
+msgstr "Crear camino de enlace"
+
+#v1.13.11
+msgctxt "editor_tip_new_plat_extension_fin_left"
+msgid "Left click to finish creating a new platform footprint extension"
+msgstr "Click izquierdo para terminar de crear la extensión de andén"
+
+#v1.13.11
+msgctxt "editor_tip_new_plat_extension_left"
+msgid "Left click to create a new platform footprint extension"
+msgstr "Click izquierdo para crear la extensión de andén"
+
+#v1.13.11
+msgctxt "editor_tip_new_walk_link_fin_left"
+msgid "Left click to finish creating a new walk link"
+msgstr "Click izquierdo para terminar de crear el camino de enlace"
+
+#v1.13.11
+msgctxt "editor_tip_new_walk_link_left"
+msgid "Left click to create a new walk link"
+msgstr "Click izquierdo para crear el camino de enlace"
+
+#v1.13.11
+msgctxt "hall"
+msgid "Hall"
+msgstr "Hall"
+
+#v1.13.11
+msgctxt "hall_row_many"
+msgid "(Many)"
+msgstr "(Varios)"
+
+#v1.13.11
+msgctxt "hall_station_full"
+msgid "Full"
+msgstr "Lleno"
+
+#v1.13.11
+msgctxt "info_table_pax_hall"
+msgid "Hall"
+msgstr "Hall"
+
+#v1.13.11
+msgctxt "info_table_pax_hall_tp"
+msgid "Reason to be in the hall, platform due time"
+msgstr "Razón para estar en el hall, tiempo restante"
+
+#v1.13.11
+msgctxt "kb_track_build_selection"
+msgid "Tracks: build selection"
+msgstr "Vías: construir selección"
+
+#v1.13.11
+msgctxt "kb_track_plat_extension"
+msgid "Tracks: new plat. ext."
+msgstr "Vías: nueva ext. andén"
+
+#v1.13.11
+msgctxt "kb_track_poi"
+msgid "Tracks: new POI"
+msgstr "Vías: nuevo POI"
+
+#v1.13.11
+msgctxt "kb_track_walk_link"
+msgid "Tracks: new walk link"
+msgstr "Vías: nuevo camino enlace"
+
+#v1.13.11
+msgctxt "list_lines_closed"
+msgid "Closed"
+msgstr "Cerrada"
+
+#v1.13.11
+msgctxt "list_lines_open"
+msgid "Open"
+msgstr "Abierta"
+
+#v1.13.11
+msgctxt "list_lines_tech"
+msgid "Technical"
+msgstr "Técnica"
+
+#v1.13.11
+msgctxt "list_lines_warn"
+msgid "With warnings"
+msgstr "Con alerta"
+
+#v1.13.11
+msgctxt "mvo_user_poi_labels"
+msgid "User POI labels"
+msgstr "Etiquetas de POIs de usuario"
+
+#v1.13.11
+msgctxt "new_station_defaults"
+msgid "New station defaults"
+msgstr "Opciones para nuevas estaciones"
+
+#v1.13.11
+msgctxt "order_error_unpowered_train"
+msgid "Underpowered train"
+msgstr "Falta de potencia"
+
+#v1.13.11
+msgctxt "path2_walk"
+msgid "Walk for {}"
+msgstr "Camina durante {}"
+
+#v1.13.11
+msgctxt "pax_waiting3"
+msgid "Pax:"
+msgstr "Pax:"
+
+#v1.13.11
+msgctxt "perf_editor_holds_rebuild"
+msgid "Hold updates when paused in editors"
+msgstr "Pausa actualizaciones en editores pausados"
+
+#v1.13.11
+msgctxt "rebuild_demand_stalled_tp"
+msgid "Tile demand rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
+msgstr "La actualización de los datos de demanda está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+
+#v1.13.11
+msgctxt "rebuild_timetable_stalled_tp"
+msgid "Pax timetable rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
+msgstr "La actualización de los horarios está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+
+#v1.13.11
+msgctxt "reset_all_stations"
+msgid "Reset all stations"
+msgstr "Modificar todas las estaciones"
+
+#v1.13.11
+msgctxt "station_max_plat_pax"
+msgid "Platforms pax capacity:"
+msgstr "Capacidad en andenes:"
+
+#v1.13.11
+msgctxt "station_max_plat_pax_nc"
+msgid "Plat. pax capacity"
+msgstr "Capacidad en andenes"
+
+#v1.13.11
+msgctxt "station_max_walk"
+msgid "Auto walk transfer:"
+msgstr "Camino automático:"
+
+#v1.13.11
+msgctxt "station_max_walk_nc"
+msgid "Max. walk transfer"
+msgstr "Camino automático"
+
+#v1.13.11
+msgctxt "station_platform_user_footprint"
+msgid "Platform footprint:"
+msgstr "Ancho andén:"
+
+#v1.13.11
+msgctxt "station_pop_area_nc"
+msgid "Population radius"
+msgstr "Radio población"
+
+#v1.13.11
+msgctxt "station_transfer_overflow_into_hall"
+msgid "Transfers overflow into hall"
+msgstr "Transbordos pueden ir al hall"
+
+#v1.13.11
+msgctxt "station_transfer_overflow_into_hall_nc"
+msgid "(Change) Overflow"
+msgstr "(Cambiar) Transbordos"
+
+#v1.13.11
+msgctxt "timetable"
+msgid "Timetable"
+msgstr "Horario"
+
+#v1.13.11
+msgctxt "track_station_tools"
+msgid "Create stations and extensions"
+msgstr "Crear estaciones y extensiones"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.12.11
-msgctxt "confirm_clip_unknown_desc_3"
-msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+#v1.13.11
+msgctxt "editor_station"
+msgid "Create station platforms"
+msgstr "Crear nuevos andenes"
 
-#v1.12.11
-msgctxt "confirm_clip_unknown_desc_4"
-msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+#v1.13.11
+msgctxt "mvo_mod_poi_labels"
+msgid "Mod POI labels"
+msgstr "Etiquetas de POIs de mods"
 
-#v1.12.11
-msgctxt "option_company_demand"
-msgid "Global demand factor:"
-msgstr "Demanda global de pax:"
+#v1.13.11
+msgctxt "option_company_station_label"
+msgid "Station label:"
+msgstr "Etiqueta estación:"
+
+#v1.13.11
+msgctxt "station_pop_area"
+msgid "Population radius:"
+msgstr "Radio población:"
 
 
 
@@ -490,11 +395,6 @@ msgstr "Entrado tren"
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
 msgstr "Compensado"
-
-#v1.5.31
-msgctxt "accounting_pax_found_train_too_full"
-msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
@@ -1116,6 +1016,16 @@ msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
 msgstr "[*] Extensión de andén"
 
+#v1.12.11
+msgctxt "building_poi_curve"
+msgid "Demand curve:"
+msgstr "Curva de demanda:"
+
+#v1.12.11
+msgctxt "building_poi_pop"
+msgid "Population:"
+msgstr "Población:"
+
 #v1.4.22
 msgctxt "building_start_t"
 msgid "Start t (0 to 1):"
@@ -1285,6 +1195,21 @@ msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto descon
 msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
 msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
+
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_2d"
+msgid "One or more objects in the clip references an unknown demand curve:\n"
+msgstr "Uno o mas objetos referencian una curva de demanda desconocida:\n"
+
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
+msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
@@ -1666,6 +1591,146 @@ msgctxt "delete_tracks"
 msgid "Delete objects"
 msgstr "Borrar objetos"
 
+#v1.12.11
+msgctxt "demand_clone"
+msgid "Clone demand curve"
+msgstr "Clonar curva de demanda"
+
+#v1.12.11
+msgctxt "demand_curve_disabled"
+msgid "<Disabled>"
+msgstr "<Desactivada>"
+
+#v1.12.11
+msgctxt "demand_default_name"
+msgid "Population"
+msgstr "Población"
+
+#v1.12.11
+msgctxt "demand_delete"
+msgid "Delete selected demand curve"
+msgstr "Borrar curva de demanda seleccionada"
+
+#v1.12.11
+msgctxt "demand_editor_focus_dest"
+msgid "Destination"
+msgstr "Destino"
+
+#v1.12.11
+msgctxt "demand_editor_focus_distance"
+msgid "Distance"
+msgstr "Distancia"
+
+#v1.12.11
+msgctxt "demand_editor_focus_info"
+msgid "Info"
+msgstr "Info"
+
+#v1.12.11
+msgctxt "demand_editor_focus_origin"
+msgid "Origin"
+msgstr "Origen"
+
+#v1.12.11
+msgctxt "demand_editor_focus_range0"
+msgid "0 km to 95 km"
+msgstr "0 km a 95 km"
+
+#v1.12.11
+msgctxt "demand_editor_title"
+msgid "Demand curves editor"
+msgstr "Editor de curvas de demanda"
+
+#v1.12.11
+msgctxt "demand_export"
+msgid "Export to TSV file"
+msgstr "Exportar a fichero TSV"
+
+#v1.12.11
+msgctxt "demand_import_new"
+msgid "Import new demand curve from TSV file"
+msgstr "Importar nueva curva de demanda de fichero TSV"
+
+#v1.12.11
+msgctxt "demand_import_replace"
+msgid "Replace with curve from TSV file"
+msgstr "Remplazar curva de demanda con fichero TSV"
+
+#v1.12.11
+msgctxt "demand_info_file_ops"
+msgid "Export and replace"
+msgstr "Exportar y reemplazar"
+
+#v1.12.11
+msgctxt "demand_info_move_pois"
+msgid "Bulk change POIs into a different curve"
+msgstr "Cambiar todos los POIs a una curva diferente"
+
+#v1.12.11
+msgctxt "demand_info_move_pois_but"
+msgid "Change all POIs"
+msgstr "Cambiar todos los POIs"
+
+#v1.12.11
+msgctxt "demand_info_move_pois_label"
+msgid "Change to:"
+msgstr "Cambiar a:"
+
+#v1.12.11
+msgctxt "demand_info_name"
+msgid "Name:"
+msgstr "Nombre:"
+
+#v1.12.11
+msgctxt "demand_info_poi"
+msgid "Points of interest:"
+msgstr "Punto de interés:"
+
+#v1.12.11
+msgctxt "demand_info_pop"
+msgid "Population:"
+msgstr "Población:"
+
+#v1.12.11
+msgctxt "demand_pax_spawn"
+msgid "{} new pax/min."
+msgstr "{} nuevos pax/min."
+
+#v1.12.11
+msgctxt "demand_rebuild_tp"
+msgid "Rebuilding demand data..."
+msgstr "Reconstruyendo datos de demanda..."
+
+#v1.12.11
+msgctxt "demand_replace_default"
+msgid "Replace with default curve"
+msgstr "Reemplazar con curva por defecto"
+
+#v1.12.11
+msgctxt "demand_replace_file"
+msgid "Replace from TSV file"
+msgstr "Reemplazar con fichero TSV"
+
+#v1.12.11
+msgctxt "demand_time_copy_day"
+msgid "Copy day"
+msgstr "Copiar día"
+
+#v1.12.11
+msgctxt "demand_time_paste_day"
+msgid "Paste day"
+msgstr "Pegar día"
+
+#v1.12.11
+msgctxt "demand_time_set_0"
+msgid "All 0%"
+msgstr "Todo 0%"
+
+#v1.12.11
+msgctxt "demand_time_set_100"
+msgid "All 100%"
+msgstr "Todo 100%"
+
 #v1.9.17
 msgctxt "dep_grp_destination"
 msgid "Destination"
@@ -1806,6 +1871,11 @@ msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
 msgstr "Click en punto de control para hacerlo el padre de la restricción"
 
+#v1.12.11
+msgctxt "editor_poi"
+msgid "Create new points of interest and signs"
+msgstr "Crear nuevos puntos de interés y signos"
+
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
@@ -1865,11 +1935,6 @@ msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
 msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
 msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
-
-#v1.6.13
-msgctxt "editor_station"
-msgid "Create stations"
-msgstr "Crear nuevas estaciones"
 
 #v1.9.17
 msgctxt "editor_tangent_fix"
@@ -2075,6 +2140,11 @@ msgstr "Click izquierdo para finalizar la creación del edificio"
 msgctxt "editor_tip_new_building_left"
 msgid "Left click to create a new building"
 msgstr "Click izquierdo para crear un nuevo edificio"
+
+#v1.12.11
+msgctxt "editor_tip_new_poi_left"
+msgid "Left click to create a new point of interest or sign"
+msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
@@ -2501,6 +2571,11 @@ msgctxt "filter_year_retired"
 msgid "Year retired"
 msgstr "Año retiro"
 
+#v1.12.11
+msgctxt "fmt_copy_of"
+msgid "Copy of {}"
+msgstr "Copia de {}"
+
 #v1.1.31
 msgctxt "friend_state_away"
 msgid "Away"
@@ -2756,6 +2831,11 @@ msgctxt "ignore"
 msgid "Ignore"
 msgstr "Ignorar"
 
+#v1.12.11
+msgctxt "info_company_active_tiles"
+msgid "Active pax tiles:"
+msgstr "Zonas de pax activas:"
+
 #v1.4.15
 msgctxt "info_company_buildings"
 msgid "Buildings:"
@@ -2826,6 +2906,16 @@ msgctxt "info_table_pax_leg_tp"
 msgid "Elapsed time of the current trip leg, including station waits"
 msgstr "Tiempo que ha pasado para el tramo actual, incluyendo esperar en la estación"
 
+#v1.12.11
+msgctxt "info_table_pax_location"
+msgid "Location"
+msgstr "Lugar"
+
+#v1.12.11
+msgctxt "info_table_pax_location_tp"
+msgid "Current location"
+msgstr "Lugar actual"
+
 #v1.1.37
 msgctxt "info_table_pax_next"
 msgid "Next stop"
@@ -2875,6 +2965,16 @@ msgstr "Esperando a"
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
 msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
+
+#v1.12.11
+msgctxt "info_table_station_city_tp"
+msgid "Group by city"
+msgstr "Agrupar por ciudad"
+
+#v1.12.11
+msgctxt "info_table_station_dist_tp"
+msgid "Sort by distance"
+msgstr "Ordenar por distancia"
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -4436,6 +4536,11 @@ msgctxt "mod_panel_steamworks"
 msgid "Subscribe to new mods in the Workshop"
 msgstr "Suscribe nuevos mods en la Workshop"
 
+#v1.12.11
+msgctxt "mod_poi_layer_options_title"
+msgid "Mod POI layer options"
+msgstr "Opciones capas de PDI"
+
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
 msgid "Remove all orphaned and unused rules"
@@ -4786,6 +4891,36 @@ msgctxt "mpinfo_stats_stream"
 msgid "Stream stats (hoster UI)"
 msgstr "Estadísticas streaming (anfitrión)"
 
+#v1.12.11
+msgctxt "mplo_default_demand"
+msgid "<Controlled by the mod>"
+msgstr "<Controlado por el mod>"
+
+#v1.12.11
+msgctxt "mplo_demand_curve"
+msgid "Demand curve:"
+msgstr "Curva de demanda:"
+
+#v1.12.11
+msgctxt "mplo_hidden"
+msgid "Hidden"
+msgstr "Oculto"
+
+#v1.12.11
+msgctxt "mplo_icons_only"
+msgid "Icons only"
+msgstr "Solo iconos"
+
+#v1.12.11
+msgctxt "mplo_labels_and_icons"
+msgid "Labels and icons"
+msgstr "Texto e iconos"
+
+#v1.12.11
+msgctxt "mplo_map_vis"
+msgid "Map display:"
+msgstr "Mostrar en mapa:"
+
 #v1.1.31
 msgctxt "msaa_mode"
 msgid "MSAA:"
@@ -5026,10 +5161,25 @@ msgctxt "option_company_acc_utc0_offset_s_desc"
 msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
 msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
 
+#v1.12.11
+msgctxt "option_company_demand"
+msgid "Global demand factor:"
+msgstr "Demanda global de pax:"
+
+#v1.12.11
+msgctxt "option_company_demand_editor"
+msgid "Demand curve editor"
+msgstr "Editar curvas de demanda"
+
 #v1.7.15
 msgctxt "option_company_geo_export"
 msgid "Export GeoJSON"
 msgstr "Exportar GeoJSON"
+
+#v1.12.11
+msgctxt "option_company_mod_poi_layer_editor"
+msgid "Mod POI layer options"
+msgstr "Opciones mods de PDI"
 
 #v1.1.31
 msgctxt "option_company_name"
@@ -5056,10 +5206,25 @@ msgctxt "option_company_pax_pf_bias_more"
 msgid "Faster sim"
 msgstr "Mas rendimiento"
 
-#v1.5.31
-msgctxt "option_company_station_label"
-msgid "New station label:"
-msgstr "Etiqueta estación nueva:"
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_pick"
+msgid "Pax spawn station:"
+msgstr "Estación origen pax:"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_random"
+msgid "Random"
+msgstr "Aleatoria"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk"
+msgid "Shortest walk"
+msgstr "Menor caminada"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
+msgid "Shortest walk, best path"
+msgstr "Menor caminada, mejor ruta"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
@@ -5326,10 +5491,20 @@ msgctxt "pax_tab"
 msgid "Passengers"
 msgstr "Pasajeros"
 
-#v1.1.31
-msgctxt "pax_waiting"
-msgid "Pax: {0} / {1}"
-msgstr "Pax: {0} / {1}"
+#v1.12.11
+msgctxt "pax_total_demand"
+msgid "Total: {0}"
+msgstr "Total: {0}"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_destination"
+msgid "As destination: {0}"
+msgstr "Como destino: {0}"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_origin"
+msgid "As origin: {0}"
+msgstr "Como origen: {0}"
 
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
@@ -5514,12 +5689,22 @@ msgstr "Mostrar paradas con conflictos"
 #v1.5.41
 msgctxt "plats_stacked_lines"
 msgid "Single column per platform"
-msgstr "Una columna por plataforma"
+msgstr "Una columna por andén"
 
 #v1.3.13
 msgctxt "plots_button_tp"
 msgid "Open charts window"
 msgstr "Abrir ventana de gráficos"
+
+#v1.12.11
+msgctxt "poi_instance_editor"
+msgid "Point of interest properties"
+msgstr "Propiedades punto de interés"
+
+#v1.12.11
+msgctxt "poi_instance_editor_new"
+msgid "New point of interest properties"
+msgstr "Propiedades de nuevo punto de interés"
 
 #v1.10.16
 msgctxt "poi_settlement_0"
@@ -5736,11 +5921,6 @@ msgctxt "right_bar_tags"
 msgid "Tags"
 msgstr "Tags"
 
-#v1.1.72
-msgctxt "rtstat_coverage"
-msgid "Coverage"
-msgstr "Alcance"
-
 #v1.8.24
 msgctxt "rtstat_creation"
 msgid "Creation date"
@@ -5815,11 +5995,6 @@ msgstr "Pax con origen en"
 msgctxt "rtstat_sax_avg"
 msgid "Satisfaction"
 msgstr "Satisfacción"
-
-#v1.1.72
-msgctxt "rtstat_spawn_rate"
-msgid "Spawn rate"
-msgstr "Ritmo de nuevos pax"
 
 #v1.1.72
 msgctxt "rtstat_speed"
@@ -6131,6 +6306,16 @@ msgctxt "show_all_clips"
 msgid "Show saved clipboard clips"
 msgstr "Mostrar los clips guardados del portapapeles"
 
+#v1.12.11
+msgctxt "sign_instance_editor"
+msgid "Sign properties"
+msgstr "Propiedades signo"
+
+#v1.12.11
+msgctxt "sign_instance_editor_new"
+msgid "New sign properties"
+msgstr "Propiedades nuevo signo"
+
 #v1.3.13
 msgctxt "signal_alert_opt_custom"
 msgid "Custom wait time"
@@ -6324,7 +6509,7 @@ msgstr "Ignorada"
 #v1.8.24
 msgctxt "signal_warn_ignored_plat_desc"
 msgid "One way signals at platform dead ends are ignored"
-msgstr "Se ignora la dirección única en plataformas con una salida"
+msgstr "Se ignora la dirección única en andén con una salida"
 
 #v1.8.24
 msgctxt "signal_warn_max_length_desc"
@@ -6371,10 +6556,30 @@ msgctxt "start_game"
 msgid "Start game"
 msgstr "Empezar partida"
 
+#v1.12.11
+msgctxt "station_demand_aggregate"
+msgid "Aggregate"
+msgstr "Agregar"
+
+#v1.12.11
+msgctxt "station_demand_aggregated_started_at"
+msgid "Started at {}"
+msgstr "Empezando en {}"
+
+#v1.12.11
+msgctxt "station_demand_realtime"
+msgid "Realtime"
+msgstr "Tiempo real"
+
 #v1.2.22
 msgctxt "station_editor"
 msgid "Station properties"
 msgstr "Propiedades de estación"
+
+#v1.12.11
+msgctxt "station_infowin_demand"
+msgid "Ridership"
+msgstr "Ocupación"
 
 #v1.5.31
 msgctxt "station_label_mode"
@@ -6446,10 +6651,15 @@ msgctxt "station_platform_user_name"
 msgid "Platform name:"
 msgstr "Nombre de andén:"
 
-#v1.1.31
-msgctxt "station_pop_area"
-msgid "Area:"
-msgstr "Area:"
+#v1.12.11
+msgctxt "station_rt_demand_dest"
+msgid "As destination"
+msgstr "Como destino"
+
+#v1.12.11
+msgctxt "station_rt_demand_origin"
+msgid "As origin"
+msgstr "Como origen"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -8440,6 +8650,11 @@ msgstr "Visibilidad:"
 msgctxt "vsync_mode"
 msgid "VSync:"
 msgstr "VSync:"
+
+#v1.12.11
+msgctxt "waiting_at_station"
+msgid "Waiting at station"
+msgstr "Esperando en estación"
 
 #v1.5.31
 msgctxt "waiting_expired"
