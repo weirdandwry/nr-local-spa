@@ -1,270 +1,680 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.13.11
-msgctxt "accounting_pax_walked_in"
-msgid "Walked in"
-msgstr "Entra caminando"
+#v1.14.24
+msgctxt "bill_tab_built"
+msgid "Built"
+msgstr "Construido"
 
-#v1.13.11
-msgctxt "accounting_pax_walked_out"
-msgid "Walked out"
-msgstr "Sale caminando"
+#v1.14.24
+msgctxt "click_to_change"
+msgid "Click to change"
+msgstr "Click para cambiar"
 
-#v1.13.11
-msgctxt "accounting_train_arrived_full"
-msgid "Arrived full"
-msgstr "Llegado lleno"
+#v1.14.24
+msgctxt "kb_mode_schedules"
+msgid "Mode: schedules"
+msgstr "Mode: horarios"
 
-#v1.13.11
-msgctxt "accounting_train_departed_full"
-msgid "Departed full"
-msgstr "Salido lleno"
+#v1.14.24
+msgctxt "label_short_not_available"
+msgid "N/A"
+msgstr "N/D"
 
-#v1.13.11
-msgctxt "assets_on_map_labels"
-msgid "Labels"
-msgstr "Etiquetas"
+#v1.14.24
+msgctxt "lineeditor_reference_train_pick"
+msgid "< Select train >"
+msgstr "< Seleccionar tren >"
 
-#v1.13.11
-msgctxt "assets_on_map_max_radius"
-msgid "Max. radius:"
-msgstr "Radio máximo:"
+#v1.14.24
+msgctxt "mass_del_schedules_but"
+msgid "Delete all schedules"
+msgstr "Borrar los horarios"
 
-#v1.13.11
-msgctxt "assets_on_map_neg_color"
-msgid "Negative color:"
-msgstr "Color negativo:"
+#v1.14.24
+msgctxt "mass_del_schedules_desc"
+msgid "Do you want to delete all schedules?"
+msgstr "Quieres borrar todos los horarios?"
 
-#v1.13.11
-msgctxt "assets_on_map_pos_color"
-msgid "Positive color:"
-msgstr "Color positivo:"
+#v1.14.24
+msgctxt "mass_del_schedules_title"
+msgid "Delete all schedules"
+msgstr "Borrar todos los horarios"
 
-#v1.13.11
-msgctxt "assets_view_on_map"
-msgid "View on map"
-msgstr "Visualizar en mapa"
+#v1.14.24
+msgctxt "mass_del_schedules_yes"
+msgid "Delete all"
+msgstr "Borrar todos"
 
-#v1.13.11
-msgctxt "bulk_edit_all_stations"
-msgid "Bulk edit all stations"
-msgstr "Editar todas las estaciones"
+#v1.14.24
+msgctxt "new_schedule_name"
+msgid "New schedule"
+msgstr "Nuevo horario"
 
-#v1.13.11
-msgctxt "editor_new_plat_extension"
-msgid "Create platform footprint extensions"
-msgstr "Crear extensiones de andén"
+#v1.14.24
+msgctxt "new_shift_placeholder"
+msgid "< Create new shift >"
+msgstr "< Crear nuevo turno >"
 
-#v1.13.11
-msgctxt "editor_new_walk_link"
-msgid "Create walk link"
-msgstr "Crear camino de enlace"
+#v1.14.24
+msgctxt "no_sched_header"
+msgid "<No schedule>"
+msgstr "<Sin horario>"
 
-#v1.13.11
-msgctxt "editor_tip_new_plat_extension_fin_left"
-msgid "Left click to finish creating a new platform footprint extension"
-msgstr "Click izquierdo para terminar de crear la extensión de andén"
+#v1.14.24
+msgctxt "no_schedule_header"
+msgid "<No schedule>"
+msgstr "<Sin horario>"
 
-#v1.13.11
-msgctxt "editor_tip_new_plat_extension_left"
-msgid "Left click to create a new platform footprint extension"
-msgstr "Click izquierdo para crear la extensión de andén"
+#v1.14.24
+msgctxt "order_error_line_invalid_ref_train"
+msgid "Line has empty or invalid reference train\nAssign a train to a shift running this order, or as autorun, to generate line timings"
+msgstr "La línea no tiene tren de referencia\nAsigna un tren a un turno que recorra esta línea, o de auto recorrido, para generar los tiempos de la línea"
 
-#v1.13.11
-msgctxt "editor_tip_new_walk_link_fin_left"
-msgid "Left click to finish creating a new walk link"
-msgstr "Click izquierdo para terminar de crear el camino de enlace"
+#v1.14.24
+msgctxt "order_group_idx"
+msgid "Group {} auto interval"
+msgstr "Grupo {} de auto intervalo"
 
-#v1.13.11
-msgctxt "editor_tip_new_walk_link_left"
-msgid "Left click to create a new walk link"
-msgstr "Click izquierdo para crear el camino de enlace"
+#v1.14.24
+msgctxt "order_listing_inserted_lists"
+msgid "Inserted order lists"
+msgstr "Listas de órdenes insertadas"
 
-#v1.13.11
-msgctxt "hall"
-msgid "Hall"
-msgstr "Hall"
+#v1.14.24
+msgctxt "order_timing_bias_equal"
+msgid "Timed as if the timing stop and enter stop are in the same loop"
+msgstr "Cronometrado como si la parada de tiempos y la de entrada se realizaran en la misma vuelta"
 
-#v1.13.11
-msgctxt "hall_row_many"
-msgid "(Many)"
-msgstr "(Varios)"
+#v1.14.24
+msgctxt "order_timing_bias_next"
+msgid "Timed as if the timing stop is reached in the next loop"
+msgstr "Cronometrado como si la parada de tiempos se alcanza en la siguiente vuelta"
 
-#v1.13.11
-msgctxt "hall_station_full"
-msgid "Full"
-msgstr "Lleno"
+#v1.14.24
+msgctxt "order_timing_bias_prev"
+msgid "Timed as if the timing stop is reached first in the previous loop"
+msgstr "Cronometrado como si la parada de tiempos y la de entrada se realizaran en la vuelta anterior"
 
-#v1.13.11
-msgctxt "info_table_pax_hall"
-msgid "Hall"
-msgstr "Hall"
+#v1.14.24
+msgctxt "picker_mode_schedule_tags"
+msgid "Schedule tags"
+msgstr "Etiquetas de horarios"
 
-#v1.13.11
-msgctxt "info_table_pax_hall_tp"
-msgid "Reason to be in the hall, platform due time"
-msgstr "Razón para estar en el hall, tiempo restante"
+#v1.14.24
+msgctxt "picker_mode_schedules"
+msgid "Schedules"
+msgstr "Horarios"
 
-#v1.13.11
-msgctxt "kb_track_build_selection"
-msgid "Tracks: build selection"
-msgstr "Vías: construir selección"
+#v1.14.24
+msgctxt "plats_grouped"
+msgid "Assume contiguous track segments are a single platform"
+msgstr "Asumir que los segmentos de vía contiguos forman un solo andén"
 
-#v1.13.11
-msgctxt "kb_track_plat_extension"
-msgid "Tracks: new plat. ext."
-msgstr "Vías: nueva ext. andén"
+#v1.14.24
+msgctxt "plats_show_pass_bys"
+msgid "Display passing-by trains"
+msgstr "Mostrar trenes de paso"
 
-#v1.13.11
-msgctxt "kb_track_poi"
-msgid "Tracks: new POI"
-msgstr "Vías: nuevo POI"
+#v1.14.24
+msgctxt "run_panel_sched2"
+msgid "{0} / {1} / Run {2}"
+msgstr "{0} / {1} / Recorrido {2}"
 
-#v1.13.11
-msgctxt "kb_track_walk_link"
-msgid "Tracks: new walk link"
-msgstr "Vías: nuevo camino enlace"
+#v1.14.24
+msgctxt "sched_cell_sub"
+msgid "{} shifts, {} trains"
+msgstr "{} turnos, {} trenes"
 
-#v1.13.11
-msgctxt "list_lines_closed"
-msgid "Closed"
-msgstr "Cerrada"
+#v1.14.24
+msgctxt "sched_clone"
+msgid "Clone this schedule"
+msgstr "Clonar este horario"
 
-#v1.13.11
-msgctxt "list_lines_open"
-msgid "Open"
-msgstr "Abierta"
+#v1.14.24
+msgctxt "sched_clone_steal"
+msgid "Clone as editable schedule"
+msgstr "Clonar como horario editable"
 
-#v1.13.11
-msgctxt "list_lines_tech"
-msgid "Technical"
-msgstr "Técnica"
+#v1.14.24
+msgctxt "sched_editor_auto_line_warn"
+msgid "This schedule is automatically generated"
+msgstr "Este horario se ha generado automáticamente"
 
-#v1.13.11
-msgctxt "list_lines_warn"
-msgid "With warnings"
-msgstr "Con alerta"
+#v1.14.24
+msgctxt "sched_editor_auto_value"
+msgid "Auto"
+msgstr "Auto"
 
-#v1.13.11
-msgctxt "mvo_user_poi_labels"
-msgid "User POI labels"
-msgstr "Etiquetas de POIs de usuario"
+#v1.14.24
+msgctxt "sched_editor_color"
+msgid "Color:"
+msgstr "Color:"
 
-#v1.13.11
-msgctxt "new_station_defaults"
-msgid "New station defaults"
-msgstr "Opciones para nuevas estaciones"
+#v1.14.24
+msgctxt "sched_editor_max_repeat"
+msgid "Max"
+msgstr "Max"
 
-#v1.13.11
-msgctxt "order_error_unpowered_train"
-msgid "Underpowered train"
-msgstr "Falta de potencia"
+#v1.14.24
+msgctxt "sched_editor_name"
+msgid "Name:"
+msgstr "Nombre:"
 
-#v1.13.11
-msgctxt "path2_walk"
-msgid "Walk for {}"
-msgstr "Camina durante {}"
+#v1.14.24
+msgctxt "sched_editor_shift_order_edit_enabled"
+msgid "Enable order"
+msgstr "Activar orden"
 
-#v1.13.11
-msgctxt "pax_waiting3"
-msgid "Pax:"
-msgstr "Pax:"
+#v1.14.24
+msgctxt "sched_editor_shift_order_edit_enter_exit"
+msgid "Override enter/exit/timing stop"
+msgstr "Cambiar paradas entrada/salida"
 
-#v1.13.11
-msgctxt "perf_editor_holds_rebuild"
-msgid "Hold updates when paused in editors"
-msgstr "Pausa actualizaciones en editores pausados"
+#v1.14.24
+msgctxt "sched_editor_shift_order_edit_start"
+msgid "Override start time"
+msgstr "Cambiar tiempo inicio"
 
-#v1.13.11
-msgctxt "rebuild_demand_stalled_tp"
-msgid "Tile demand rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los datos de demanda está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+#v1.14.24
+msgctxt "sched_editor_shift_order_ins_info"
+msgid "Inserted by:"
+msgstr "Insertado por:"
 
-#v1.13.11
-msgctxt "rebuild_timetable_stalled_tp"
-msgid "Pax timetable rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los horarios está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+#v1.14.24
+msgctxt "sched_editor_shift_train"
+msgid "Train:"
+msgstr "Tren:"
 
-#v1.13.11
-msgctxt "reset_all_stations"
-msgid "Reset all stations"
-msgstr "Modificar todas las estaciones"
+#v1.14.24
+msgctxt "sched_editor_tab_basics"
+msgid "Basics"
+msgstr "Básico"
 
-#v1.13.11
-msgctxt "station_max_plat_pax"
-msgid "Platforms pax capacity:"
-msgstr "Capacidad en andenes:"
+#v1.14.24
+msgctxt "sched_editor_tab_offsets"
+msgid "Offsets"
+msgstr "Desplazados"
 
-#v1.13.11
-msgctxt "station_max_plat_pax_nc"
-msgid "Plat. pax capacity"
-msgstr "Capacidad en andenes"
+#v1.14.24
+msgctxt "sched_editor_tab_orders"
+msgid "Orders"
+msgstr "Órdenes"
 
-#v1.13.11
-msgctxt "station_max_walk"
-msgid "Auto walk transfer:"
-msgstr "Camino automático:"
-
-#v1.13.11
-msgctxt "station_max_walk_nc"
-msgid "Max. walk transfer"
-msgstr "Camino automático"
-
-#v1.13.11
-msgctxt "station_platform_user_footprint"
-msgid "Platform footprint:"
-msgstr "Ancho andén:"
-
-#v1.13.11
-msgctxt "station_pop_area_nc"
-msgid "Population radius"
-msgstr "Radio población"
-
-#v1.13.11
-msgctxt "station_transfer_overflow_into_hall"
-msgid "Transfers overflow into hall"
-msgstr "Transbordos pueden ir al hall"
-
-#v1.13.11
-msgctxt "station_transfer_overflow_into_hall_nc"
-msgid "(Change) Overflow"
-msgstr "(Cambiar) Transbordos"
-
-#v1.13.11
-msgctxt "timetable"
+#v1.14.24
+msgctxt "sched_editor_tab_timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Horarios"
 
-#v1.13.11
-msgctxt "track_station_tools"
-msgid "Create stations and extensions"
-msgstr "Crear estaciones y extensiones"
+#v1.14.24
+msgctxt "sched_group_interval_n_shifts"
+msgid "{0}, {1} shifts"
+msgstr "{0}, {1} turnos"
+
+#v1.14.24
+msgctxt "sched_list_auto_scheds"
+msgid "Show auto line schedules"
+msgstr "Mostrar horarios de auto líneas"
+
+#v1.14.24
+msgctxt "sched_list_filter_alert_short"
+msgid "Warnings"
+msgstr "Alertas"
+
+#v1.14.24
+msgctxt "sched_list_filter_all"
+msgid "All schedules"
+msgstr "Todos los horarios"
+
+#v1.14.24
+msgctxt "sched_list_filter_all_short"
+msgid "All"
+msgstr "Todos"
+
+#v1.14.24
+msgctxt "sched_not_set_line"
+msgid "< Not set >"
+msgstr "< No seleccionado >"
+
+#v1.14.24
+msgctxt "sched_order_list_default_name"
+msgid "New order list"
+msgstr "Nueva lista de órdenes"
+
+#v1.14.24
+msgctxt "sched_order_list_first_name"
+msgid "Default"
+msgstr "Por defecto"
+
+#v1.14.24
+msgctxt "sched_order_list_inst_pick"
+msgid "Order list:"
+msgstr "Lista de órdenes:"
+
+#v1.14.24
+msgctxt "sched_shift_clone"
+msgid "Clone this shift"
+msgstr "Clonar este turno"
+
+#v1.14.24
+msgctxt "sched_shift_train_link_train_editor"
+msgid "Open in train editor"
+msgstr "Abrir en editor de trenes"
+
+#v1.14.24
+msgctxt "sched_shift_train_pick_unasigged"
+msgid "< Unassigned >"
+msgstr "< Sin assignar >"
+
+#v1.14.24
+msgctxt "sched_shift_train_unassign"
+msgid "Unassign current train"
+msgstr "Desasignar el tren actual"
+
+#v1.14.24
+msgctxt "schededitor_order_edit_mode"
+msgid "Edit"
+msgstr "Editar"
+
+#v1.14.24
+msgctxt "schededitor_order_insert_list_mode"
+msgid "Insert list"
+msgstr "Insert. lista"
+
+#v1.14.24
+msgctxt "schededitor_order_insert_mode"
+msgid "Insert"
+msgstr "Insertar"
+
+#v1.14.24
+msgctxt "schededitor_order_list_create"
+msgid "Create new order list\nShift click to clone current order list"
+msgstr "Crear nueva lista de órdenes\nShift click para clonar la lista actual"
+
+#v1.14.24
+msgctxt "schededitor_order_list_delete"
+msgid "Delete order list"
+msgstr "Borrar lista de órdenes"
+
+#v1.14.24
+msgctxt "schededitor_order_list_name_edit"
+msgid "Edit order list name"
+msgstr "Editar nombre de lista de órdenes"
+
+#v1.14.24
+msgctxt "schededitor_order_repeat"
+msgid "Repeat:"
+msgstr "Repetir:"
+
+#v1.14.24
+msgctxt "schededitor_order_stack_mode"
+msgid "Stack"
+msgstr "Apilar"
+
+#v1.14.24
+msgctxt "schededitor_service_level"
+msgid "Service level:"
+msgstr "Nivel de servicio:"
+
+#v1.14.24
+msgctxt "schededitor_service_level_closed"
+msgid "Closed"
+msgstr "Cerrado"
+
+#v1.14.24
+msgctxt "schededitor_service_level_full"
+msgid "Set by lines"
+msgstr "Configurado en las líneas"
+
+#v1.14.24
+msgctxt "schededitor_shift_edit_no_sel"
+msgid "Select an order or inserted list"
+msgstr "Seleccionar una órden o una lista insertada"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_del"
+msgid "Delete selected order list"
+msgstr "Borrar la lista de órdenes seleccionada"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_edit"
+msgid "Edit order list"
+msgstr "Editar lista de órdenes"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_insert"
+msgid "Insert order list"
+msgstr "Insertar lista"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_insert_day_1char"
+msgid "{}d"
+msgstr "{}d"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_insert_offset"
+msgid "Offset:"
+msgstr "Desplazar:"
+
+#v1.14.24
+msgctxt "schededitor_shift_list_insert_time"
+msgid "Format: hh:mm:ss\nTime to add to the start the selected order list."
+msgstr "Formato: hh:mm:ss\nTiempo a añadir al principio de la lista de órdenes."
+
+#v1.14.24
+msgctxt "schededitor_shift_order_edit_orig"
+msgid "Edit original"
+msgstr "Editar original"
+
+#v1.14.24
+msgctxt "schededitor_tp_create_sched"
+msgid "Create a new schedule"
+msgstr "Crear nuevo horario"
+
+#v1.14.24
+msgctxt "schededitor_tp_create_shift"
+msgid "Create a new shift"
+msgstr "Crear nuevo turno"
+
+#v1.14.24
+msgctxt "schededitor_tp_delete_sched"
+msgid "Delete selected shift"
+msgstr "Borrar turno seleccionado"
+
+#v1.14.24
+msgctxt "schededitor_tp_delete_shift"
+msgid "Delete selected schedule"
+msgstr "Borrar horario seleccionado"
+
+#v1.14.24
+msgctxt "schededitor_tp_shift_down"
+msgid "Move down selected shift"
+msgstr "Mover turno hacia abajo"
+
+#v1.14.24
+msgctxt "schededitor_tp_shift_up"
+msgid "Move up selected shift"
+msgstr "Mover turno hacia arriba"
+
+#v1.14.24
+msgctxt "schededitor_tz_sched"
+msgid "Sched"
+msgstr "Hor."
+
+#v1.14.24
+msgctxt "scheds_n_0"
+msgid "0 schedules"
+msgstr "0 horarios"
+
+#v1.14.24
+msgctxt "scheds_n_1"
+msgid "1 schedule"
+msgstr "1 horario"
+
+#v1.14.24
+msgctxt "scheds_n_many"
+msgid "%d schedules"
+msgstr "%d horarios"
+
+#v1.14.24
+msgctxt "schedule_group_shift_override_offset"
+msgid "Offset:"
+msgstr "Desplazar:"
+
+#v1.14.24
+msgctxt "schedules"
+msgid "Schedules"
+msgstr "Horarios"
+
+#v1.14.24
+msgctxt "search_section_schedules"
+msgid "Schedules"
+msgstr "Horarios"
+
+#v1.14.24
+msgctxt "shift_auto_name_missing_train"
+msgid "Unassigned"
+msgstr "Sin asignar"
+
+#v1.14.24
+msgctxt "station_timetable_open_in_sched"
+msgid "Click to open in schedule editor"
+msgstr "Click para abrir en el editor de horarios"
+
+#v1.14.24
+msgctxt "station_tt_stop_ignored"
+msgid "Ignored by pax"
+msgstr "Ignorado por pax"
+
+#v1.14.24
+msgctxt "station_tt_stop_info"
+msgid "Stop {}"
+msgstr "Parada {}"
+
+#v1.14.24
+msgctxt "station_tt_stop_pass_by"
+msgid "Passing-by on the way to stop {}"
+msgstr "Pasando de camino a la parada {}"
+
+#v1.14.24
+msgctxt "train_info_intervention"
+msgid "Train intervention"
+msgstr "Intervenir tren"
+
+#v1.14.24
+msgctxt "train_info_open_editor_sched"
+msgid "Open shift in schedule editor"
+msgstr "Abrir turno en el editor de horarios"
+
+#v1.14.24
+msgctxt "train_info_open_editor_train"
+msgid "Open train editor"
+msgstr "Abrir editor de trenes"
+
+#v1.14.24
+msgctxt "train_info_status_sched_closed"
+msgid "Schedule is closed"
+msgstr "Horario cerrado"
+
+#v1.14.24
+msgctxt "train_list_filter_autorun"
+msgid "Only with line autorun"
+msgstr "Solo líneas automáticas"
+
+#v1.14.24
+msgctxt "train_list_filter_autorun_short"
+msgid "Autorun"
+msgstr "Línea automática"
+
+#v1.14.24
+msgctxt "train_list_filter_by_schedule"
+msgid "Group by schedule"
+msgstr "Agrupar por horario"
+
+#v1.14.24
+msgctxt "train_list_filter_by_schedulee_tags"
+msgid "Group by schedule tags"
+msgstr "Agrupar por etiquetas de horario"
+
+#v1.14.24
+msgctxt "train_orders_keep_group"
+msgid "< Keep current group >"
+msgstr "< Mantener grupo actual >"
+
+#v1.14.24
+msgctxt "train_orders_mass_sched"
+msgid "Trains will be assigned to existing unassigned shifts. New shifts will be created for any remaining trains."
+msgstr "Los trenes se asignarán a los turnos disponibles. Se crearán nuevos turnos si no hay turnos disponibles."
+
+#v1.14.24
+msgctxt "train_orders_mode_link_line_editor"
+msgid "Open line in line editor"
+msgstr "Abrir línea en el editor de líneas"
+
+#v1.14.24
+msgctxt "train_orders_mode_link_sched_editor"
+msgid "Open shift in schedule editor"
+msgstr "Abrir turno en el editor de horarios"
+
+#v1.14.24
+msgctxt "train_orders_offset_group"
+msgid "Offset:"
+msgstr "Desplazar:"
+
+#v1.14.24
+msgctxt "train_orders_offset_group_n"
+msgid "Group {}"
+msgstr "Grupo {}"
+
+#v1.14.24
+msgctxt "train_orders_sched_change"
+msgid "Change orders"
+msgstr "Cambiar órdenes"
+
+#v1.14.24
+msgctxt "train_orders_sched_purchase_clear"
+msgid "Clear selection"
+msgstr "Cancelar selección"
+
+#v1.14.24
+msgctxt "train_orders_sched_purchase_new"
+msgid "Create new schedule"
+msgstr "Crear nuevo horario"
+
+#v1.14.24
+msgctxt "train_orders_sched_short"
+msgid "Schedule:"
+msgstr "Horario:"
+
+#v1.14.24
+msgctxt "train_orders_shift_short"
+msgid "Shift:"
+msgstr "Turno:"
+
+#v1.14.24
+msgctxt "traineditor_order_append_stack_action"
+msgid "Append stacked order"
+msgstr "Añadir orden apilada"
+
+#v1.14.24
+msgctxt "traineditor_order_append_stack_action_warn"
+msgid "Select a single order"
+msgstr "Selecciona una orden"
+
+#v1.14.24
+msgctxt "traineditor_order_edit_sel_warn"
+msgid "Select one or more orders"
+msgstr "Seleccionar una o mas órdenes"
+
+#v1.14.24
+msgctxt "traineditor_order_timing"
+msgid "Timing:"
+msgstr "Tiempo:"
+
+#v1.14.24
+msgctxt "traineditor_order_timing_enter"
+msgid "<Same as enter stop>"
+msgstr "<Igual que la entrada>"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.13.11
-msgctxt "editor_station"
-msgid "Create station platforms"
-msgstr "Crear nuevos andenes"
+#v1.14.24
+msgctxt "editor_warn_need_train_acc"
+msgid "Buy and select a train, order a train to auto run this line, or assign it to a shift running this line."
+msgstr "Compra y selecciona un tren, o añade órdenes en un horario para esta línea con un turno asignado, o selecciona un tren para auto recorrido."
 
-#v1.13.11
-msgctxt "mvo_mod_poi_labels"
-msgid "Mod POI labels"
-msgstr "Etiquetas de POIs de mods"
+#v1.14.24
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.6 or newer legacy branches in Steam."
+msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.6 o más recientes."
 
-#v1.13.11
-msgctxt "option_company_station_label"
-msgid "Station label:"
-msgstr "Etiqueta estación:"
+#v1.14.24
+msgctxt "lineeditor_default_timings_go_ref_train"
+msgid "View reference train in train editor"
+msgstr "Editar tren de referencia"
 
-#v1.13.11
-msgctxt "station_pop_area"
-msgid "Population radius:"
-msgstr "Radio población:"
+#v1.14.24
+msgctxt "plats_stacked_lines"
+msgid "Single column for all events of a given platform"
+msgstr "Una columna para todos los eventos del andén"
+
+#v1.14.24
+msgctxt "rebuild_demand_stalled_tp"
+msgid "Tile demand rebuild is pending due to an editing action\nClick icon, press F1 or unpause the simulation to start the rebuild"
+msgstr "La actualización de los datos de demanda está pendiente\nHaz click en el icono, pulsa F1 o pon el marcha el sim para empezar la actualización"
+
+#v1.14.24
+msgctxt "rebuild_timetable_stalled_tp"
+msgid "Pax timetable rebuild is pending due to an editing action\nClick icon, press F1 or unpause the simulation to start the rebuild"
+msgstr "La actualización de los horarios está pendiente\nHaz click en el icono, pulsa F1 o pon el marcha el sim para empezar la actualización"
+
+#v1.14.24
+msgctxt "run_view_tooltip"
+msgid "{0}Run {1}"
+msgstr "{0}Recorrido {1}"
+
+#v1.14.24
+msgctxt "run_view_tooltip_full"
+msgid "{0}Run {1}\n{2}"
+msgstr "{0}Recorrido {1}\n{2}"
+
+#v1.14.24
+msgctxt "stale_run_tooltip"
+msgid "The orders for this train have changed. It will automatically respawn on when resuming the simulation.\nPax will be automatically relocated to their next stops."
+msgstr "Las órdenes de este tren han cambiado. Al final de su recorrido actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
+
+#v1.14.24
+msgctxt "station_max_walk_nc"
+msgid "Auto walk transfer"
+msgstr "Camino automático"
+
+#v1.14.24
+msgctxt "train_group_fixed_shift_by_desc"
+msgid "Format: (-)hh:mm:ss\nIncrementally shift the start time of the orders by this amount."
+msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes por ese valor."
+
+#v1.14.24
+msgctxt "train_group_manual_duration_amount_desc"
+msgid "Format: hh:mm:ss\nEvenly distribute the start time of the orders over this duration."
+msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes a lo largo de esta duración."
+
+#v1.14.24
+msgctxt "train_group_mode"
+msgid "Offset:"
+msgstr "Desplazar:"
+
+#v1.14.24
+msgctxt "train_list_filter_manual"
+msgid "Only with schedule"
+msgstr "Solo con turno"
+
+#v1.14.24
+msgctxt "train_list_filter_manual_short"
+msgid "Scheduled"
+msgstr "Con turno"
+
+#v1.14.24
+msgctxt "train_orders_mode_manual"
+msgid "Run a schedule shift"
+msgstr "Recorrer un turno"
+
+#v1.14.24
+msgctxt "traineditor_order_append_action"
+msgid "Insert new order"
+msgstr "Añadir nueva orden"
+
+#v1.14.24
+msgctxt "traineditor_order_start_event"
+msgid "Timing event:"
+msgstr "Ev. tiempo:"
+
+#v1.14.24
+msgctxt "traineditor_order_start_time_desc"
+msgid "Format: hh:mm:ss\nTime of day to for the selected timing stop and event to happen."
+msgstr "Formato: hh:mm:ss\nMomento del día correspondiente al evento de la parada de tiempo."
 
 
 
@@ -456,6 +866,16 @@ msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
 msgstr "Compen.: esperó demasiado"
 
+#v1.13.11
+msgctxt "accounting_pax_walked_in"
+msgid "Walked in"
+msgstr "Entra caminando"
+
+#v1.13.11
+msgctxt "accounting_pax_walked_out"
+msgid "Walked out"
+msgstr "Sale caminando"
+
 #v1.1.31
 msgctxt "accounting_period_day"
 msgid "Day"
@@ -531,15 +951,20 @@ msgctxt "accounting_ticketing_fares"
 msgid "Fares"
 msgstr "Tarifas"
 
-#v1.1.37
-msgctxt "accounting_ticketing_profit"
-msgid "Profit"
-msgstr "Beneficios"
-
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
 msgstr "Reembolsos"
+
+#v1.13.11
+msgctxt "accounting_train_arrived_full"
+msgid "Arrived full"
+msgstr "Llegado lleno"
+
+#v1.13.11
+msgctxt "accounting_train_departed_full"
+msgid "Departed full"
+msgstr "Salido lleno"
 
 #v1.1.31
 msgctxt "accounting_trains"
@@ -715,6 +1140,31 @@ msgstr "Trenes"
 msgctxt "assets_live_update"
 msgid "Live updates"
 msgstr "Tiempo real"
+
+#v1.13.11
+msgctxt "assets_on_map_labels"
+msgid "Labels"
+msgstr "Etiquetas"
+
+#v1.13.11
+msgctxt "assets_on_map_max_radius"
+msgid "Max. radius:"
+msgstr "Radio máximo:"
+
+#v1.13.11
+msgctxt "assets_on_map_neg_color"
+msgid "Negative color:"
+msgstr "Color negativo:"
+
+#v1.13.11
+msgctxt "assets_on_map_pos_color"
+msgid "Positive color:"
+msgstr "Color positivo:"
+
+#v1.13.11
+msgctxt "assets_view_on_map"
+msgid "View on map"
+msgstr "Visualizar en mapa"
 
 #v1.5.41
 msgctxt "auto_clone"
@@ -1050,6 +1500,11 @@ msgstr "Total edificios"
 msgctxt "built_bill"
 msgid "Built objects report"
 msgstr "Objetos construidos"
+
+#v1.13.11
+msgctxt "bulk_edit_all_stations"
+msgid "Bulk edit all stations"
+msgstr "Editar todas las estaciones"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
@@ -1851,10 +2306,20 @@ msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
 msgstr "Mover, borrar y editar vías"
 
+#v1.13.11
+msgctxt "editor_new_plat_extension"
+msgid "Create platform footprint extensions"
+msgstr "Crear extensiones de andén"
+
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
 msgstr "Crear nuevas señales"
+
+#v1.13.11
+msgctxt "editor_new_walk_link"
+msgid "Create walk link"
+msgstr "Crear camino de enlace"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
@@ -1935,6 +2400,11 @@ msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
 msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
 msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
+
+#v1.13.11
+msgctxt "editor_station"
+msgid "Create station platforms"
+msgstr "Crear nuevos andenes"
 
 #v1.9.17
 msgctxt "editor_tangent_fix"
@@ -2141,6 +2611,16 @@ msgctxt "editor_tip_new_building_left"
 msgid "Left click to create a new building"
 msgstr "Click izquierdo para crear un nuevo edificio"
 
+#v1.13.11
+msgctxt "editor_tip_new_plat_extension_fin_left"
+msgid "Left click to finish creating a new platform footprint extension"
+msgstr "Click izquierdo para terminar de crear la extensión de andén"
+
+#v1.13.11
+msgctxt "editor_tip_new_plat_extension_left"
+msgid "Left click to create a new platform footprint extension"
+msgstr "Click izquierdo para crear la extensión de andén"
+
 #v1.12.11
 msgctxt "editor_tip_new_poi_left"
 msgid "Left click to create a new point of interest or sign"
@@ -2160,6 +2640,16 @@ msgstr "Click izquierdo para crear señal"
 msgctxt "editor_tip_new_signal_shift"
 msgid "Shift to change signal facing direction"
 msgstr "Shift para cambiar la dirección de la señal"
+
+#v1.13.11
+msgctxt "editor_tip_new_walk_link_fin_left"
+msgid "Left click to finish creating a new walk link"
+msgstr "Click izquierdo para terminar de crear el camino de enlace"
+
+#v1.13.11
+msgctxt "editor_tip_new_walk_link_left"
+msgid "Left click to create a new walk link"
+msgstr "Click izquierdo para crear el camino de enlace"
 
 #v1.4.15
 msgctxt "editor_tip_paste"
@@ -2321,11 +2811,6 @@ msgctxt "editor_warn_closed"
 msgid "Remember to set the service level to passenger service to allow pax to use this line."
 msgstr "Recuerda cambiar el nivel de servicio a pasajeros para permitir que los pax utilicen esta línea."
 
-#v1.2.22
-msgctxt "editor_warn_need_train_acc"
-msgid "Buy and schedule at least one train to this line."
-msgstr "Programa al menos un tren en esta línea."
-
 #v1.5.31
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
@@ -2415,11 +2900,6 @@ msgstr "Error interno mientras se guardaba el juego"
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
-
-#v1.9.17
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "La versión del juego que ha creado esta partida es demasiado vieja y no se puede cargar. Prueba con las versiones obsoletas v1.5 o más recientes."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2696,6 +3176,21 @@ msgctxt "global_blueprint_bill_short"
 msgid "Global"
 msgstr "Global"
 
+#v1.13.11
+msgctxt "hall"
+msgid "Hall"
+msgstr "Hall"
+
+#v1.13.11
+msgctxt "hall_row_many"
+msgid "(Many)"
+msgstr "(Varios)"
+
+#v1.13.11
+msgctxt "hall_station_full"
+msgid "Full"
+msgstr "Lleno"
+
 #v1.11.14
 msgctxt "handicap_game_speed"
 msgid "Handicap: {:.1f}x"
@@ -2895,6 +3390,16 @@ msgstr "Pagos"
 msgctxt "info_table_pax_fare_tp"
 msgid "Fare(s) paid so far"
 msgstr "Pagado hasta el momento"
+
+#v1.13.11
+msgctxt "info_table_pax_hall"
+msgid "Hall"
+msgstr "Hall"
+
+#v1.13.11
+msgctxt "info_table_pax_hall_tp"
+msgid "Reason to be in the hall, platform due time"
+msgstr "Razón para estar en el hall, tiempo restante"
 
 #v1.1.31
 msgctxt "info_table_pax_leg"
@@ -3131,6 +3636,11 @@ msgctxt "kb_track_branch"
 msgid "Tracks: allow branching"
 msgstr "Vías: permitir ramas"
 
+#v1.13.11
+msgctxt "kb_track_build_selection"
+msgid "Tracks: build selection"
+msgstr "Vías: construir selección"
+
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
@@ -3176,6 +3686,16 @@ msgctxt "kb_track_pick_parent"
 msgid "Tracks: pick par. parent"
 msgstr "Vías: elegir padre par."
 
+#v1.13.11
+msgctxt "kb_track_plat_extension"
+msgid "Tracks: new plat. ext."
+msgstr "Vías: nueva ext. andén"
+
+#v1.13.11
+msgctxt "kb_track_poi"
+msgid "Tracks: new POI"
+msgstr "Vías: nuevo POI"
+
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
@@ -3210,6 +3730,11 @@ msgstr "Vías: seleccionar señal"
 msgctxt "kb_track_station"
 msgid "Tracks: new station"
 msgstr "Vías: nueva estación"
+
+#v1.13.11
+msgctxt "kb_track_walk_link"
+msgid "Tracks: new walk link"
+msgstr "Vías: nuevo camino enlace"
 
 #v1.2.22
 msgctxt "kb_tracks_unbp"
@@ -3290,36 +3815,6 @@ msgstr "Agrupar por: Sin tags"
 msgctxt "line_list_group_tags"
 msgid "Group by: Tags"
 msgstr "Agrupar por: Tags"
-
-#v1.3.13
-msgctxt "line_list_sort_alpha"
-msgid "Sort by: Alphabetical"
-msgstr "Ordenar por: Alfabético"
-
-#v1.3.13
-msgctxt "line_list_sort_pax_Compensation"
-msgid "Sort by: Compensations"
-msgstr "Ordenar por: Compensaciones"
-
-#v1.3.13
-msgctxt "line_list_sort_pax_board"
-msgid "Sort by: Boarded"
-msgstr "Ordenar por: Entrado en tren"
-
-#v1.3.13
-msgctxt "line_list_sort_pax_fares"
-msgid "Sort by: Fares"
-msgstr "Ordenar por: Pagado"
-
-#v1.3.13
-msgctxt "line_list_sort_pax_profit"
-msgid "Sort by: Profit"
-msgstr "Ordenar por: Beneficio"
-
-#v1.3.13
-msgctxt "line_list_sort_pax_refunds"
-msgid "Sort by: Refunds"
-msgstr "Ordenar por: Reembolsos"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -3550,11 +4045,6 @@ msgstr "Permitir parada de duración manual"
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
 msgstr "Tiempos por defecto"
-
-#v1.7.15
-msgctxt "lineeditor_default_timings_go_ref_train"
-msgid "Edit reference train"
-msgstr "Editar tren de referencia"
 
 #v1.7.15
 msgctxt "lineeditor_display_in_map"
@@ -4051,15 +4541,30 @@ msgctxt "lines_n_many"
 msgid "%d lines"
 msgstr "%d líneas"
 
+#v1.13.11
+msgctxt "list_lines_closed"
+msgid "Closed"
+msgstr "Cerrada"
+
+#v1.13.11
+msgctxt "list_lines_open"
+msgid "Open"
+msgstr "Abierta"
+
+#v1.13.11
+msgctxt "list_lines_tech"
+msgid "Technical"
+msgstr "Técnica"
+
+#v1.13.11
+msgctxt "list_lines_warn"
+msgid "With warnings"
+msgstr "Con alerta"
+
 #v1.5.41
 msgctxt "list_sort_compact"
 msgid "Compact"
 msgstr "Compacto"
-
-#v1.3.13
-msgctxt "list_sort_reverse"
-msgid "Reverse sorting"
-msgstr "Orden inverso"
 
 #v1.1.31
 msgctxt "load_game"
@@ -4951,6 +5456,11 @@ msgctxt "multiplayer"
 msgid "Multiplayer"
 msgstr "Multijugador"
 
+#v1.13.11
+msgctxt "mvo_mod_poi_labels"
+msgid "Mod POI labels"
+msgstr "Etiquetas de POIs de mods"
+
 #v1.10.16
 msgctxt "mvo_toggle_map_style_mods"
 msgid "Map style mods:"
@@ -5000,6 +5510,11 @@ msgstr "Etiquetas de mapa"
 msgctxt "mvo_user_platform_names"
 msgid "Platform names"
 msgstr "Nombres de andén"
+
+#v1.13.11
+msgctxt "mvo_user_poi_labels"
+msgid "User POI labels"
+msgstr "Etiquetas de POIs de usuario"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
@@ -5095,6 +5610,11 @@ msgstr "Nombre de nueva partida guardada:"
 msgctxt "new_save_placeholder"
 msgid "<Create new save>"
 msgstr "<Crear nueva partida guardada>"
+
+#v1.13.11
+msgctxt "new_station_defaults"
+msgid "New station defaults"
+msgstr "Opciones para nuevas estaciones"
 
 #v1.1.31
 msgctxt "no_cash_pop_desc"
@@ -5226,6 +5746,11 @@ msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
 msgid "Shortest walk, best path"
 msgstr "Menor caminada, mejor ruta"
 
+#v1.13.11
+msgctxt "option_company_station_label"
+msgid "Station label:"
+msgstr "Etiqueta estación:"
+
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
@@ -5335,6 +5860,11 @@ msgstr "No hay suficiente tiempo para crear recorridos entre esta orden y la sig
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
 msgstr "Órdenes con <Llegar antes de> no pueden aparecer seguidas"
+
+#v1.13.11
+msgctxt "order_error_unpowered_train"
+msgid "Underpowered train"
+msgstr "Falta de potencia"
 
 #v1.5.31
 msgctxt "order_invalid_line"
@@ -5466,6 +5996,11 @@ msgctxt "path2_wait_line2"
 msgid " For the departure of {0} [{1}]"
 msgstr " Para la salida de {0} [{1}]"
 
+#v1.13.11
+msgctxt "path2_walk"
+msgid "Walk for {}"
+msgstr "Camina durante {}"
+
 #v1.5.31
 msgctxt "path_not_found_trip"
 msgid "Path not found between {0} and {1}"
@@ -5505,6 +6040,11 @@ msgstr "Como destino: {0}"
 msgctxt "pax_total_demand_as_origin"
 msgid "As origin: {0}"
 msgstr "Como origen: {0}"
+
+#v1.13.11
+msgctxt "pax_waiting3"
+msgid "Pax:"
+msgstr "Pax:"
 
 #v1.1.31
 msgctxt "paxlist_groupby_dest"
@@ -5560,6 +6100,11 @@ msgstr "Esperando pax..."
 msgctxt "perf_bg_fps"
 msgid "Background UI FPS:"
 msgstr "FPS UI de fondo:"
+
+#v1.13.11
+msgctxt "perf_editor_holds_rebuild"
+msgid "Hold updates when paused in editors"
+msgstr "Pausa actualizaciones en editores pausados"
 
 #v1.11.14
 msgctxt "perf_fg_fps"
@@ -5685,11 +6230,6 @@ msgstr "%d andenes"
 msgctxt "plats_show_conflicts"
 msgid "Highlight overlapping train stops"
 msgstr "Mostrar paradas con conflictos"
-
-#v1.5.41
-msgctxt "plats_stacked_lines"
-msgid "Single column per platform"
-msgstr "Una columna por andén"
 
 #v1.3.13
 msgctxt "plots_button_tp"
@@ -5835,6 +6375,11 @@ msgstr "Reemplazar trenes existentes"
 msgctxt "report_no_built"
 msgid "There are no built objects"
 msgstr "No hay objetos construidos"
+
+#v1.13.11
+msgctxt "reset_all_stations"
+msgid "Reset all stations"
+msgstr "Modificar todas las estaciones"
 
 #v1.9.17
 msgctxt "reset_boundary"
@@ -6006,25 +6551,10 @@ msgctxt "run_panel_start"
 msgid "{0}: Start path to {1}"
 msgstr "{0}: Empezar recorrido a {1}"
 
-#v1.5.31
-msgctxt "run_panel_train"
-msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
-
-#v1.5.31
-msgctxt "run_view_tooltip"
-msgid "{0} Run {1}"
-msgstr "{0} Recorrido {1}"
-
 #v1.7.15
 msgctxt "run_view_tooltip_click"
 msgid "Click to see all {} stops"
 msgstr "Click para ver las {} paradas"
-
-#v1.5.31
-msgctxt "run_view_tooltip_full"
-msgid "{0} Run {1}\n{2}"
-msgstr "{0} Recorrido {1}\n{2}"
 
 #v1.1.31
 msgctxt "save"
@@ -6546,11 +7076,6 @@ msgctxt "stale_run"
 msgid "Stale run"
 msgstr "Recorrido obsoleto"
 
-#v1.5.31
-msgctxt "stale_run_tooltip"
-msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
-
 #v1.1.31
 msgctxt "start_game"
 msgid "Start game"
@@ -6611,6 +7136,21 @@ msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
 msgstr "Nombre y pax"
 
+#v1.13.11
+msgctxt "station_max_plat_pax"
+msgid "Platforms pax capacity:"
+msgstr "Capacidad en andenes:"
+
+#v1.13.11
+msgctxt "station_max_plat_pax_nc"
+msgid "Plat. pax capacity"
+msgstr "Capacidad en andenes"
+
+#v1.13.11
+msgctxt "station_max_walk"
+msgid "Auto walk transfer:"
+msgstr "Camino automático:"
+
 #v1.1.31
 msgctxt "station_name_edit"
 msgid "Name:"
@@ -6646,10 +7186,25 @@ msgctxt "station_platform_set_name_all"
 msgid "All"
 msgstr "Todas"
 
+#v1.13.11
+msgctxt "station_platform_user_footprint"
+msgid "Platform footprint:"
+msgstr "Ancho andén:"
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
 msgstr "Nombre de andén:"
+
+#v1.13.11
+msgctxt "station_pop_area"
+msgid "Population radius:"
+msgstr "Radio población:"
+
+#v1.13.11
+msgctxt "station_pop_area_nc"
+msgid "Population radius"
+msgstr "Radio población"
 
 #v1.12.11
 msgctxt "station_rt_demand_dest"
@@ -6660,6 +7215,16 @@ msgstr "Como destino"
 msgctxt "station_rt_demand_origin"
 msgid "As origin"
 msgstr "Como origen"
+
+#v1.13.11
+msgctxt "station_transfer_overflow_into_hall"
+msgid "Transfers overflow into hall"
+msgstr "Transbordos pueden ir al hall"
+
+#v1.13.11
+msgctxt "station_transfer_overflow_into_hall_nc"
+msgid "(Change) Overflow"
+msgstr "(Cambiar) Transbordos"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -7206,6 +7771,11 @@ msgctxt "time_s"
 msgid "{}s"
 msgstr "{}s"
 
+#v1.13.11
+msgctxt "timetable"
+msgid "Timetable"
+msgstr "Horario"
+
 #v1.5.31
 msgctxt "timetable_1day"
 msgid "One day"
@@ -7335,6 +7905,11 @@ msgstr "Precio"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "Vel. máxima"
+
+#v1.13.11
+msgctxt "track_station_tools"
+msgid "Create stations and extensions"
+msgstr "Crear estaciones y extensiones"
 
 #v1.10.16
 msgctxt "trackeditor_clickable_tracks"
@@ -7476,11 +8051,6 @@ msgctxt "train_clone"
 msgid "Clone"
 msgstr "Clonar"
 
-#v1.5.31
-msgctxt "train_clone_copier"
-msgid "Clone as copier"
-msgstr "Clonar como copiador"
-
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
@@ -7542,11 +8112,6 @@ msgid "Basics"
 msgstr "Básico"
 
 #v1.5.31
-msgctxt "train_editor_group"
-msgid "Group"
-msgstr "Grupo"
-
-#v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
 msgstr "Órdenes"
@@ -7567,11 +8132,6 @@ msgid "Interval:"
 msgstr "Intervalo:"
 
 #v1.5.31
-msgctxt "train_group_fixed_shift_by_desc"
-msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
-
-#v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
 msgstr "Intervalo:"
@@ -7587,31 +8147,6 @@ msgid "Duration:"
 msgstr "Duración:"
 
 #v1.5.31
-msgctxt "train_group_manual_duration_amount_desc"
-msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
-
-#v1.5.31
-msgctxt "train_group_migrate_but"
-msgid "Set as copiers"
-msgstr "Cambiar a copiadores"
-
-#v1.5.31
-msgctxt "train_group_migrate_line"
-msgid "Migrate auto run trains"
-msgstr "Migrar trenes automáticos"
-
-#v1.5.31
-msgctxt "train_group_migrate_line_pick"
-msgid "Auto trains of:"
-msgstr "Trenes auto de:"
-
-#v1.5.31
-msgctxt "train_group_mode"
-msgid "Shift mode:"
-msgstr "Distribución:"
-
-#v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
 msgstr "Intervalo fijo"
@@ -7625,31 +8160,6 @@ msgstr "Uniforme en la duración de una línea"
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
 msgstr "Uniforme en una duración manual"
-
-#v1.5.31
-msgctxt "train_group_n_name"
-msgid "Trains:"
-msgstr "Trenes:"
-
-#v1.5.31
-msgctxt "train_group_n_value"
-msgid "{0} copying, {1} managed"
-msgstr "{0} copiando, {1} controlados"
-
-#v1.5.31
-msgctxt "train_group_shift_matching"
-msgid "Shift orders:"
-msgstr "Distribuir órdenes:"
-
-#v1.5.31
-msgctxt "train_group_shift_matching_all"
-msgid "All orders"
-msgstr "Todas"
-
-#v1.5.31
-msgctxt "train_group_shift_matching_only_pax_service"
-msgid "Only pax service orders"
-msgstr "Solo las de líneas de pax"
 
 #v1.1.58
 msgctxt "train_info_arrives"
@@ -7906,11 +8416,6 @@ msgctxt "train_info_total_power_v"
 msgid "{0} kW, {1} kN max tr. eff."
 msgstr "{0} kW, {1} kN máx tracc."
 
-#v1.8.24
-msgctxt "train_intervene_group"
-msgid "Intervene group"
-msgstr "Intervenir grupo"
-
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
@@ -7992,16 +8497,6 @@ msgid "Flat listing"
 msgstr "Listado plano"
 
 #v1.5.31
-msgctxt "train_list_filter_manual"
-msgid "Only with manual orders"
-msgstr "Solo con órdenes manuales"
-
-#v1.5.31
-msgctxt "train_list_filter_manual_short"
-msgid "Manual orders"
-msgstr "Órdenes manuales"
-
-#v1.5.31
 msgctxt "train_list_filter_mothballed"
 msgid "Only mothballed"
 msgstr "Solo retirados"
@@ -8037,36 +8532,6 @@ msgid "Name:"
 msgstr "Nombre:"
 
 #v1.5.31
-msgctxt "train_orders_auto_copy"
-msgid "Auto copy from:"
-msgstr "Auto copia de:"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode"
-msgid "Shift:"
-msgstr "Distribuir:"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode_auto"
-msgid "Managed by parent group"
-msgstr "Controlador por el original"
-
-#v1.5.31
-msgctxt "train_orders_auto_copy_mode_manual"
-msgid "Shift by manual amount"
-msgstr "Desplazar con valor manual"
-
-#v1.5.41
-msgctxt "train_orders_auto_copy_shift"
-msgid "Copy:"
-msgstr "Copiar:"
-
-#v1.5.41
-msgctxt "train_orders_auto_copy_shift_go_parent"
-msgid "Edit parent orders"
-msgstr "Editar órdenes del padre"
-
-#v1.5.31
 msgctxt "train_orders_auto_run"
 msgid "Auto run line:"
 msgstr "Linea automática"
@@ -8095,11 +8560,6 @@ msgstr "Auto recorrer línea"
 msgctxt "train_orders_mode_ignore"
 msgid "< Do not change >"
 msgstr "< No cambiar >"
-
-#v1.5.31
-msgctxt "train_orders_mode_manual"
-msgid "Manual orders"
-msgstr "Órdenes manules"
 
 #v1.5.31
 msgctxt "train_orders_mode_mothballed"
@@ -8251,11 +8711,6 @@ msgctxt "train_total_price_many"
 msgid "Total for %d trains:"
 msgstr "Total para %d trenes:"
 
-#v1.5.31
-msgctxt "traineditor_auto_shift_time_desc"
-msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar la auto copia por este valor."
-
 #v1.7.15
 msgctxt "traineditor_buy_custom_mode"
 msgid "Purchase custom train"
@@ -8275,26 +8730,6 @@ msgstr "Limpiar selección"
 msgctxt "traineditor_move_camera"
 msgid "Focus camera when selecting a train"
 msgstr "Centrar la cámara al seleccionar un tren"
-
-#v1.5.31
-msgctxt "traineditor_order_append"
-msgid "Append new order"
-msgstr "Añadir nueva orden"
-
-#v1.5.31
-msgctxt "traineditor_order_append_action"
-msgid "Append new order"
-msgstr "Añadir nueva orden"
-
-#v1.5.31
-msgctxt "traineditor_order_bulk_edit"
-msgid "Bulk edit orders"
-msgstr "Editar múltiples órdenes"
-
-#v1.5.31
-msgctxt "traineditor_order_edit"
-msgid "Edit orders"
-msgstr "Editar órdenes"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_multi"
@@ -8327,11 +8762,6 @@ msgid "<Last line stop>"
 msgstr "<Última parada>"
 
 #v1.5.31
-msgctxt "traineditor_order_loops"
-msgid "Loop until next order"
-msgstr "Repetir hasta siguiente orden"
-
-#v1.5.31
 msgctxt "traineditor_order_select_all"
 msgid "Select all orders"
 msgstr "Seleccionar todas las órdenes"
@@ -8357,11 +8787,6 @@ msgid "Paste orders"
 msgstr "Pegar órdenes"
 
 #v1.5.31
-msgctxt "traineditor_order_shift_by"
-msgid "By:"
-msgstr "Por:"
-
-#v1.5.31
 msgctxt "traineditor_order_shift_time"
 msgid "Shift:"
 msgstr "Desplazar:"
@@ -8370,11 +8795,6 @@ msgstr "Desplazar:"
 msgctxt "traineditor_order_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
 msgstr "Formato: (-)hh:mm:ss\nDesplazar el inicio de las órdenes por este valor."
-
-#v1.5.31
-msgctxt "traineditor_order_start_event"
-msgid "Enter event:"
-msgstr "Ev. entrada:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival"
@@ -8410,11 +8830,6 @@ msgstr "Las:"
 msgctxt "traineditor_order_start_time_day_on"
 msgid "On:"
 msgstr "Los:"
-
-#v1.5.31
-msgctxt "traineditor_order_start_time_desc"
-msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
-msgstr "Formato: hh:mm:ss\nMomento del día para empezar los recorridos de la línea seleccionada."
 
 #v1.7.15
 msgctxt "traineditor_replace_custom_mode"
