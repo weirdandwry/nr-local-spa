@@ -1,280 +1,175 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.15.16
-msgctxt "bulk_station_deletion"
-msgid "Delete stations"
-msgstr "Borrar estaciones"
+#v1.16.16
+msgctxt "constraint_overlap_distance"
+msgid "Overlap distance:"
+msgstr "Solapamiento:"
 
-#v1.15.16
-msgctxt "delete_station"
-msgid "Delete station"
-msgstr "Borrar estación"
+#v1.16.16
+msgctxt "constraint_overlap_distance_tip"
+msgid "Distance between track centers which is considered a collision area for path checking purposes.\nOnly considers the longest distance if two tracks differ."
+msgstr "Distancia entre los centros de las vías considerada como área de colisión por las señales de camino.\nSolo se tiene en cuenta la distancia mas larga entre dos o mas vías."
 
-#v1.15.16
-msgctxt "delete_stations"
-msgid "Delete stations"
-msgstr "Borrar estaciones"
+#v1.16.16
+msgctxt "kb_track_plat_promote"
+msgid "Tracks: promote platform"
+msgstr "Vías: convertir en andén"
 
-#v1.15.16
-msgctxt "editor_tip_cont_ctrl_rev"
-msgid "Hold Ctrl to hide guides and disable snapping."
-msgstr "Presionar Ctrl para esconder las guías y desactivar snapping."
+#v1.16.16
+msgctxt "lineeditor_alt_platforms_out_of_station"
+msgid "Out of station"
+msgstr "Fuera de estación"
 
-#v1.15.16
-msgctxt "editor_tip_new_building_move"
-msgid "Move mouse to start creating the building"
-msgstr "Mueve el ratón para empezar a crear el edificio"
+#v1.16.16
+msgctxt "lineeditor_warn_deprecated_waypoint_secondary"
+msgid "WAYPOINTS WITH SECONDARY STOPS ARE DEPRECATED STARTING FROM 1.16. This system is intented for stopping trains, not for picking alternative paths for through trains. This loophole will be removed in a future version."
+msgstr "LOS PUNTOS DE PASO CON PARADAS SECUNDARIAS SE CONSIDERAN OBSOLETOS DESDE 1.16. Este sistema está pensado para hacer paradas de trenes, no para elegir caminos alternativos. Una versión futura eliminará esta posibilidad."
 
-#v1.15.16
-msgctxt "editor_tip_station_left_append2"
-msgid "Left click to append new platform to {}"
-msgstr "Click izquierdo para añadir un andén a {}"
+#v1.16.16
+msgctxt "lineeditor_warn_need_stop_sel_signal"
+msgid "Station does not have stop selection signals, trains cannot perform secondary platform selection. Click to pick stop selection signals in the station editor."
+msgstr "La estación no tiene señales de selección de parada y los trenes no puede elegir paradas secundarios. Haz click para elegir señales de selección de parada en el editor de estaciones."
 
-#v1.15.16
-msgctxt "editor_tip_station_left_new"
-msgid "Left click to create a new station"
-msgstr "Click izquierdo para crear una nueva estación"
+#v1.16.16
+msgctxt "option_company_track_overlap_distance"
+msgid "New track overlap dist.:"
+msgstr "Solapamiento vía nueva:"
 
-#v1.15.16
-msgctxt "editor_trackmode_point"
-msgid "Point mode: track nodes are part of the shape of the track and have editable tangents"
-msgstr "Modo punto: los nodos de la vía son parte de la curva y tienen tangentes editables"
+#v1.16.16
+msgctxt "sched_editor_enable_train"
+msgid "Enable train:"
+msgstr "Permitir tren:"
 
-#v1.15.16
-msgctxt "editor_trackmode_tangent"
-msgid "Tangent mode: track node positions limit the tangents of the shape of the track"
-msgstr "Modo tangente: los nodos de la vía limitan las tangentes de la curva"
+#v1.16.16
+msgctxt "sched_editor_pad"
+msgid "Continue into next order"
+msgstr "Continuar en la siguiente orden"
 
-#v1.15.16
-msgctxt "kb_mode_stations"
-msgid "Mode: stations"
-msgstr "Mode: estaciones"
+#v1.16.16
+msgctxt "sched_editor_tab_trains"
+msgid "Trains"
+msgstr "Trenes"
 
-#v1.15.16
-msgctxt "mvo_track_editor_station_influence"
-msgid "Track editor station influence"
-msgstr "Radio estación en editor de vías"
+#v1.16.16
+msgctxt "sched_shift_train_unassigned"
+msgid "Unassigned"
+msgstr "Sin asignar"
 
-#v1.15.16
-msgctxt "open_in_station_editor"
-msgid "Open in station editor"
-msgstr "Abrir en editor de estaciones"
+#v1.16.16
+msgctxt "sched_train_pick_to_enable"
+msgid "< Pick train >"
+msgstr "< Elegir tren >"
 
-#v1.15.16
-msgctxt "perf_track_editor_check_map_conflicts"
-msgid "Realtime track-map collision (slow)"
-msgstr "Colisión vía-mapa en tiempo real (lento)"
+#v1.16.16
+msgctxt "schedule_group_trains_table_shifts"
+msgid "Shifts"
+msgstr "Turnos"
 
-#v1.15.16
-msgctxt "picker_listing_too_long"
-msgid "This listing is too long. Please type a search string or change to a different listing mode."
-msgstr "Este listado es demasiado largo. Por favor introduce un texto de búsqueda o selecciona otro listado."
+#v1.16.16
+msgctxt "schedule_group_trains_table_trains"
+msgid "Trains"
+msgstr "Trenes"
 
-#v1.15.16
-msgctxt "right_bar_online_lag"
-msgid "Network latency: {}ms\nEnd-to-end latency: {}ms"
-msgstr "Latencia red: {}ms\nLatencia final: {}ms"
+#v1.16.16
+msgctxt "signal_check_beyond_stops"
+msgid "Check beyond stops"
+msgstr "Comprobar pasando paradas"
 
-#v1.15.16
-msgctxt "se_confirm_delete_station"
-msgid "Confirm station deletion"
-msgstr "Confirmar borrado de estación"
+#v1.16.16
+msgctxt "station_editor_stop_select_signals"
+msgid "Stop selection signals"
+msgstr "Señales de selección de parada"
 
-#v1.15.16
-msgctxt "station_cell_sub"
-msgid "{} platforms"
-msgstr "{} andenes"
+#v1.16.16
+msgctxt "stop_picker_adv_length"
+msgid "Length: {}m"
+msgstr "Longitud: {}m"
 
-#v1.15.16
-msgctxt "station_editor_basics"
-msgid "Basics"
-msgstr "Básico"
+#v1.16.16
+msgctxt "train_alert_dispatch_busy_shifts"
+msgid "Cannot dispatch: enabled shifts are already assigned"
+msgstr "No se puede asignar: los turnos permitidos ya están asignados"
 
-#v1.15.16
-msgctxt "station_editor_walk_links"
-msgid "Walk links"
-msgstr "Enlaces a pie"
+#v1.16.16
+msgctxt "train_alert_dispatch_busy_tracks"
+msgid "Cannot dispatch: tracks are busy"
+msgstr "No se puede asignar: las vías están ocupadas"
 
-#v1.15.16
-msgctxt "station_info_center"
-msgid "Center station in map"
-msgstr "Centrar estación en mapa"
+#v1.16.16
+msgctxt "train_alert_dispatch_no_shifts"
+msgid "Cannot dispatch: not enabled in active schedules"
+msgstr "No se puede asignar: tren no permitido en ningún horario activo"
 
-#v1.15.16
-msgctxt "station_list_filter_all_short"
-msgid "All"
-msgstr "Todo"
+#v1.16.16
+msgctxt "train_info_status_broken"
+msgid "Unknown train state"
+msgstr "Estado desconocido"
 
-#v1.15.16
-msgctxt "station_platform_pick"
-msgid "Platform of:"
-msgstr "Andén de:"
+#v1.16.16
+msgctxt "train_info_status_dispatch_cooldown"
+msgid "Attempting dispatch in {}s"
+msgstr "Intentando asignar en {}s"
 
-#v1.15.16
-msgctxt "station_platform_pick_existing_station"
-msgid "< Select existing station >"
-msgstr "< Seleccionar estación existente >"
+#v1.16.16
+msgctxt "train_list_filter_alert_unassigned"
+msgid "Unassigned"
+msgstr "Sin asignar"
 
-#v1.15.16
-msgctxt "station_platform_pick_new_station"
-msgid "< Create new station >"
-msgstr "< Crear nueva estación >"
+#v1.16.16
+msgctxt "train_list_filter_unassigned"
+msgid "Only unassigned"
+msgstr "Solo sin asignar"
 
-#v1.15.16
-msgctxt "stationeditor_move_camera"
-msgid "Pan and zoom view when selecting a station"
-msgstr "Zoom y desplazar mapa al seleccionar estaciones"
+#v1.16.16
+msgctxt "train_orders_auto_enable_sched"
+msgid "Auto enable trains in shifts"
+msgstr "Auto permitir trenes en los turnos"
 
-#v1.15.16
-msgctxt "stationeditor_open_editor"
-msgid "Open station in station editor"
-msgstr "Abrir estación en el editor de estaciones"
+#v1.16.16
+msgctxt "train_orders_disable_sched_shift"
+msgid "Disable shift"
+msgstr "Desactivar turno"
 
-#v1.15.16
-msgctxt "stationeditor_open_infowin"
-msgid "Open station info window"
-msgstr "Abrir ventana de información de estación"
+#v1.16.16
+msgctxt "train_orders_edit_shift_editor"
+msgid "Open in schedule editor"
+msgstr "Abrir en el editor de horarios"
 
-#v1.15.16
-msgctxt "stationeditor_open_track_editor"
-msgid "Open station in track editor"
-msgstr "Abrir estación en el editor de vías"
+#v1.16.16
+msgctxt "train_orders_enable_sched_shift"
+msgid "Enable shift"
+msgstr "Permitir en turno"
 
-#v1.15.16
-msgctxt "stationeditor_restrict_lines_map"
-msgid "Restrict listing to visible stations on map (approximately)"
-msgstr "Restringir listado a las estaciones visibles en el mapa (aproximadamente)"
-
-#v1.15.16
-msgctxt "stationeditor_tp_delete"
-msgid "Delete selected station"
-msgstr "Borrar estación seleccionada"
-
-#v1.15.16
-msgctxt "stations"
-msgid "Stations"
-msgstr "Estaciones"
-
-#v1.15.16
-msgctxt "stations_n_0"
-msgid "0 stations"
-msgstr "0 estaciones"
-
-#v1.15.16
-msgctxt "stations_n_1"
-msgid "1 station"
-msgstr "1 estación"
-
-#v1.15.16
-msgctxt "stations_n_many"
-msgid "%d stations"
-msgstr "%d estaciones"
-
-#v1.15.16
-msgctxt "tape_warn_too_far"
-msgid "Too far"
-msgstr "Muy lejos"
-
-#v1.15.16
-msgctxt "te_confirm_delete_bulk_station"
-msgid "Confirm delete all selected stations"
-msgstr "Confirmar borrado de todas las estaciones seleccionadas"
-
-#v1.15.16
-msgctxt "te_confirm_delete_bulk_station_desc"
-msgid "Do you want to delete all the selected stations?"
-msgstr "Quieres borrar todas las estaciones seleccionadas?"
-
-#v1.15.16
-msgctxt "te_confirm_delete_station"
-msgid "Confirm delete station"
-msgstr "Confirmar borrar estación"
-
-#v1.15.16
-msgctxt "te_confirm_delete_station_desc"
-msgid "Do you want to delete the station?"
-msgstr "Quieres borrar la estación?"
-
-#v1.15.16
-msgctxt "teo.signal_auto_direction_lr"
-msgid "Drive on left for signal front side"
-msgstr "Conducir en la izquierda para la cara frontal de la señal"
-
-#v1.15.16
-msgctxt "teo.signal_auto_side"
-msgid "Create signal on the track side"
-msgstr "Crear señales en el lateral de la vía"
-
-#v1.15.16
-msgctxt "trackeditor_always_show_auto_guide"
-msgid "Always display snapping track guides"
-msgstr "Siempre mostrar las guías"
-
-#v1.15.16
-msgctxt "train_list_filter_city"
-msgid "Group by city"
-msgstr "Agrupar por ciudad"
-
-#v1.15.16
-msgctxt "train_list_filter_region"
-msgid "Group by region"
-msgstr "Agrupar por región"
-
-#v1.15.16
-msgctxt "unknown_city"
-msgid "<Unknown>"
-msgstr "<Desconocida>"
+#v1.16.16
+msgctxt "traineditor_order_start_time_arrange_bop_desc"
+msgid "Set time to the latest possible time which makes this order not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
+msgstr "Cambia al tiempo más tardío posible que permite a esta orden no tener tiempo de espera extra\nIgnora los cambios no aplicados a los días de la semana o el inicio de la orden\nSolo se aplica al primer día de la orden"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.15.16
-msgctxt "constraint_platforms_demote"
-msgid "Demote platforms into normal tracks"
-msgstr "Convertir andén en vía normal"
+#v1.16.16
+msgctxt "lineeditor_alt_platforms_n"
+msgid "Total: {}"
+msgstr "Total: {}"
 
-#v1.15.16
-msgctxt "constraint_platforms_promote"
-msgid "Promote tracks into new station"
-msgstr "Convertir vía normal en andén"
+#v1.16.16
+msgctxt "lineeditor_alt_signal"
+msgid "When a train reaches this path signal, it will be capable of changing its destination platform if its current choice is busy, and only if it belongs to this station.\nOnly trains whose current line stop is configured for multiple platforms will be able to change their destination platform.\nOnly path signals with a direct path to the main and all secondary platforms will properly enable this feature."
+msgstr "Cuando un tren alcanza esta señal es capaz y su andén de destion está ocupado, es capaz de cambiarlo, siempre que su destino sea esta estación.\nLa parada del tren ha de tener configuradas uno o mas andenes secundarios.\nSolo las señales con visibilidad directa a los andenes principal y secundarios funcionarán correctamente."
 
-#v1.15.16
-msgctxt "editor_station"
-msgid "Create stations and platforms"
-msgstr "Crear nuevas estaciones y andenes"
+#v1.16.16
+msgctxt "option_company_parallel_offset"
+msgid "New track parallel off.:"
+msgstr "Nueva vía desp. par.:"
 
-#v1.15.16
-msgctxt "editor_tip_cont_ctrl"
-msgid "Hold Ctrl to show guides and snap to previous track alignment."
-msgstr "Presiona Ctrl para mostrar guías y alinear la vía al segmento anterior."
-
-#v1.15.16
-msgctxt "editor_tip_station_fin_left"
-msgid "Left click to finish creating the new station platform"
-msgstr "Click izquierdo para terminar de crear el andén de estación"
-
-#v1.15.16
-msgctxt "kb_tracks_unbp"
-msgid "Tracks: reblueprint"
-msgstr "Vías: convertir a planos"
-
-#v1.15.16
-msgctxt "schededitor_tp_delete_sched"
-msgid "Delete selected schedule"
-msgstr "Borrar horario seleccionado"
-
-#v1.15.16
-msgctxt "schededitor_tp_delete_shift"
-msgid "Delete selected shift"
-msgstr "Borrar turno seleccionado"
-
-#v1.15.16
-msgctxt "station_platform_promote"
-msgid "Promote track into new station"
-msgstr "Convertir vía normal en andén"
+#v1.16.16
+msgctxt "sched_editor_shift_train"
+msgid "Current train:"
+msgstr "Tren actual:"
 
 
 
@@ -1131,6 +1026,11 @@ msgctxt "bulk_label_mode"
 msgid "Station label:"
 msgstr "Etiqueta estación:"
 
+#v1.15.16
+msgctxt "bulk_station_deletion"
+msgid "Delete stations"
+msgstr "Borrar estaciones"
+
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
@@ -1426,6 +1326,16 @@ msgctxt "constraint_pick"
 msgid "Pick parent"
 msgstr "Elegir padre"
 
+#v1.15.16
+msgctxt "constraint_platforms_demote"
+msgid "Demote platforms into normal tracks"
+msgstr "Convertir andén en vía normal"
+
+#v1.15.16
+msgctxt "constraint_platforms_promote"
+msgid "Promote tracks into new station"
+msgstr "Convertir vía normal en andén"
+
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
@@ -1635,6 +1545,16 @@ msgstr "Borrar y vender trenes"
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
 msgstr "Borrar solo planos"
+
+#v1.15.16
+msgctxt "delete_station"
+msgid "Delete station"
+msgstr "Borrar estación"
+
+#v1.15.16
+msgctxt "delete_stations"
+msgid "Delete stations"
+msgstr "Borrar estaciones"
 
 #v1.4.15
 msgctxt "delete_tracks"
@@ -1986,6 +1906,11 @@ msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
 msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
 
+#v1.15.16
+msgctxt "editor_station"
+msgid "Create stations and platforms"
+msgstr "Crear nuevas estaciones y andenes"
+
 #v1.9.17
 msgctxt "editor_tangent_fix"
 msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
@@ -2040,6 +1965,16 @@ msgstr "Click para cancelar"
 msgctxt "editor_tip_cont_cancel_dbl_click"
 msgid "Double click to cancel"
 msgstr "Doble click para cancelar"
+
+#v1.15.16
+msgctxt "editor_tip_cont_ctrl"
+msgid "Hold Ctrl to show guides and snap to previous track alignment."
+msgstr "Presiona Ctrl para mostrar guías y alinear la vía al segmento anterior."
+
+#v1.15.16
+msgctxt "editor_tip_cont_ctrl_rev"
+msgid "Hold Ctrl to hide guides and disable snapping."
+msgstr "Presionar Ctrl para esconder las guías y desactivar snapping."
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
@@ -2170,6 +2105,11 @@ msgstr "Click izquierdo para finalizar la creación del edificio"
 msgctxt "editor_tip_new_building_left"
 msgid "Left click to create a new building"
 msgstr "Click izquierdo para crear un nuevo edificio"
+
+#v1.15.16
+msgctxt "editor_tip_new_building_move"
+msgid "Move mouse to start creating the building"
+msgstr "Mueve el ratón para empezar a crear el edificio"
 
 #v1.12.11
 msgctxt "editor_tip_new_poi_left"
@@ -2311,6 +2251,21 @@ msgctxt "editor_tip_station_fin_esc"
 msgid "Esc to cancel"
 msgstr "Esc para cancelar"
 
+#v1.15.16
+msgctxt "editor_tip_station_fin_left"
+msgid "Left click to finish creating the new station platform"
+msgstr "Click izquierdo para terminar de crear el andén de estación"
+
+#v1.15.16
+msgctxt "editor_tip_station_left_append2"
+msgid "Left click to append new platform to {}"
+msgstr "Click izquierdo para añadir un andén a {}"
+
+#v1.15.16
+msgctxt "editor_tip_station_left_new"
+msgid "Left click to create a new station"
+msgstr "Click izquierdo para crear una nueva estación"
+
 #v1.11.14
 msgctxt "editor_tip_station_move"
 msgid "Move mouse to start creating the station platform"
@@ -2335,6 +2290,16 @@ msgstr "Suelta el botón izquierdo para dejar de mover el control de curva"
 msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
 msgstr "Aumenta el zoom para poder editar"
+
+#v1.15.16
+msgctxt "editor_trackmode_point"
+msgid "Point mode: track nodes are part of the shape of the track and have editable tangents"
+msgstr "Modo punto: los nodos de la vía son parte de la curva y tienen tangentes editables"
+
+#v1.15.16
+msgctxt "editor_trackmode_tangent"
+msgid "Tangent mode: track node positions limit the tangents of the shape of the track"
+msgstr "Modo tangente: los nodos de la vía limitan las tangentes de la curva"
 
 #v1.5.31
 msgctxt "editor_warn_closed"
@@ -3146,6 +3111,11 @@ msgctxt "kb_mode_schedules"
 msgid "Mode: schedules"
 msgstr "Mode: horarios"
 
+#v1.15.16
+msgctxt "kb_mode_stations"
+msgid "Mode: stations"
+msgstr "Mode: estaciones"
+
 #v1.2.22
 msgctxt "kb_mode_tracks"
 msgid "Mode: tracks"
@@ -3270,6 +3240,11 @@ msgstr "Vías: seleccionar señal"
 msgctxt "kb_track_station"
 msgid "Tracks: new station"
 msgstr "Vías: nueva estación"
+
+#v1.15.16
+msgctxt "kb_tracks_unbp"
+msgid "Tracks: reblueprint"
+msgstr "Vías: convertir a planos"
 
 #v1.2.22
 msgctxt "key_info2"
@@ -3420,16 +3395,6 @@ msgstr "seleccionado señal secundaria"
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
 msgstr "Andenes secundarios:"
-
-#v1.5.31
-msgctxt "lineeditor_alt_platforms_n"
-msgid "(Total: {})"
-msgstr "(Total: {})"
-
-#v1.5.31
-msgctxt "lineeditor_alt_signal"
-msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
@@ -5036,6 +5001,11 @@ msgctxt "mvo_track_editor_always_on_top"
 msgid "Track editor always on top"
 msgstr "Editor siempre encima"
 
+#v1.15.16
+msgctxt "mvo_track_editor_station_influence"
+msgid "Track editor station influence"
+msgstr "Radio estación en editor de vías"
+
 #v1.4.15
 msgctxt "mvo_user_labels"
 msgid "User labels"
@@ -5236,6 +5206,11 @@ msgctxt "open_games_folder_tooltip"
 msgid "Open saved games folder"
 msgstr "Abrir carpeta de partidas guardadas"
 
+#v1.15.16
+msgctxt "open_in_station_editor"
+msgid "Open in station editor"
+msgstr "Abrir en editor de estaciones"
+
 #v1.3.13
 msgctxt "option_company_acc_export"
 msgid "Export accounting data"
@@ -5290,11 +5265,6 @@ msgstr "Opciones mods de PDI"
 msgctxt "option_company_name"
 msgid "Company name:"
 msgstr "Nombre empresa:"
-
-#v1.5.31
-msgctxt "option_company_parallel_offset"
-msgid "New track par. off.:"
-msgstr "Nueva vía desp. par.:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias"
@@ -5751,6 +5721,11 @@ msgctxt "perf_sim_threads"
 msgid "Sim CPU threads:"
 msgstr "Threads CPU simulación:"
 
+#v1.15.16
+msgctxt "perf_track_editor_check_map_conflicts"
+msgid "Realtime track-map collision (slow)"
+msgstr "Colisión vía-mapa en tiempo real (lento)"
+
 #v1.5.31
 msgctxt "pick"
 msgid "Pick"
@@ -5770,6 +5745,11 @@ msgstr "Elige mod local"
 msgctxt "pick_placeholder"
 msgid "< Pick >"
 msgstr "< Elige >"
+
+#v1.15.16
+msgctxt "picker_listing_too_long"
+msgid "This listing is too long. Please type a search string or change to a different listing mode."
+msgstr "Este listado es demasiado largo. Por favor introduce un texto de búsqueda o selecciona otro listado."
 
 #v1.5.41
 msgctxt "picker_mode_flat"
@@ -6106,6 +6086,11 @@ msgctxt "right_bar_online"
 msgid "Multiplayer status"
 msgstr "Estado de multijugador"
 
+#v1.15.16
+msgctxt "right_bar_online_lag"
+msgid "Network latency: {}ms\nEnd-to-end latency: {}ms"
+msgstr "Latencia red: {}ms\nLatencia final: {}ms"
+
 #v1.1.37
 msgctxt "right_bar_search"
 msgid "Search"
@@ -6367,11 +6352,6 @@ msgid "Inserted by:"
 msgstr "Insertado por:"
 
 #v1.14.24
-msgctxt "sched_editor_shift_train"
-msgid "Train:"
-msgstr "Tren:"
-
-#v1.14.24
 msgctxt "sched_editor_tab_basics"
 msgid "Basics"
 msgstr "Básico"
@@ -6561,6 +6541,16 @@ msgctxt "schededitor_tp_create_shift"
 msgid "Create a new shift"
 msgstr "Crear nuevo turno"
 
+#v1.15.16
+msgctxt "schededitor_tp_delete_sched"
+msgid "Delete selected schedule"
+msgstr "Borrar horario seleccionado"
+
+#v1.15.16
+msgctxt "schededitor_tp_delete_shift"
+msgid "Delete selected shift"
+msgstr "Borrar turno seleccionado"
+
 #v1.14.24
 msgctxt "schededitor_tp_shift_down"
 msgid "Move down selected shift"
@@ -6600,6 +6590,11 @@ msgstr "Desplazar:"
 msgctxt "schedules"
 msgid "Schedules"
 msgstr "Horarios"
+
+#v1.15.16
+msgctxt "se_confirm_delete_station"
+msgid "Confirm station deletion"
+msgstr "Confirmar borrado de estación"
 
 #v1.1.31
 msgctxt "search_section_lines"
@@ -7056,6 +7051,11 @@ msgctxt "start_game"
 msgid "Start game"
 msgstr "Empezar partida"
 
+#v1.15.16
+msgctxt "station_cell_sub"
+msgid "{} platforms"
+msgstr "{} andenes"
+
 #v1.12.11
 msgctxt "station_demand_aggregate"
 msgid "Aggregate"
@@ -7075,6 +7075,21 @@ msgstr "Tiempo real"
 msgctxt "station_editor"
 msgid "Station properties"
 msgstr "Propiedades de estación"
+
+#v1.15.16
+msgctxt "station_editor_basics"
+msgid "Basics"
+msgstr "Básico"
+
+#v1.15.16
+msgctxt "station_editor_walk_links"
+msgid "Walk links"
+msgstr "Enlaces a pie"
+
+#v1.15.16
+msgctxt "station_info_center"
+msgid "Center station in map"
+msgstr "Centrar estación en mapa"
 
 #v1.12.11
 msgctxt "station_infowin_demand"
@@ -7110,6 +7125,11 @@ msgstr "Solo el nombre"
 msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
 msgstr "Nombre y pax"
+
+#v1.15.16
+msgctxt "station_list_filter_all_short"
+msgid "All"
+msgstr "Todo"
 
 #v1.13.11
 msgctxt "station_max_plat_pax"
@@ -7155,6 +7175,26 @@ msgstr "Auto nombre de andén"
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
 msgstr "Convertir andén a vía normal"
+
+#v1.15.16
+msgctxt "station_platform_pick"
+msgid "Platform of:"
+msgstr "Andén de:"
+
+#v1.15.16
+msgctxt "station_platform_pick_existing_station"
+msgid "< Select existing station >"
+msgstr "< Seleccionar estación existente >"
+
+#v1.15.16
+msgctxt "station_platform_pick_new_station"
+msgid "< Create new station >"
+msgstr "< Crear nueva estación >"
+
+#v1.15.16
+msgctxt "station_platform_promote"
+msgid "Promote track into new station"
+msgstr "Convertir vía normal en andén"
 
 #v1.10.16
 msgctxt "station_platform_set_name_all"
@@ -7215,6 +7255,56 @@ msgstr "Parada {}"
 msgctxt "station_tt_stop_pass_by"
 msgid "Passing-by on the way to stop {}"
 msgstr "Pasando de camino a la parada {}"
+
+#v1.15.16
+msgctxt "stationeditor_move_camera"
+msgid "Pan and zoom view when selecting a station"
+msgstr "Zoom y desplazar mapa al seleccionar estaciones"
+
+#v1.15.16
+msgctxt "stationeditor_open_editor"
+msgid "Open station in station editor"
+msgstr "Abrir estación en el editor de estaciones"
+
+#v1.15.16
+msgctxt "stationeditor_open_infowin"
+msgid "Open station info window"
+msgstr "Abrir ventana de información de estación"
+
+#v1.15.16
+msgctxt "stationeditor_open_track_editor"
+msgid "Open station in track editor"
+msgstr "Abrir estación en el editor de vías"
+
+#v1.15.16
+msgctxt "stationeditor_restrict_lines_map"
+msgid "Restrict listing to visible stations on map (approximately)"
+msgstr "Restringir listado a las estaciones visibles en el mapa (aproximadamente)"
+
+#v1.15.16
+msgctxt "stationeditor_tp_delete"
+msgid "Delete selected station"
+msgstr "Borrar estación seleccionada"
+
+#v1.15.16
+msgctxt "stations"
+msgid "Stations"
+msgstr "Estaciones"
+
+#v1.15.16
+msgctxt "stations_n_0"
+msgid "0 stations"
+msgstr "0 estaciones"
+
+#v1.15.16
+msgctxt "stations_n_1"
+msgid "1 station"
+msgstr "1 estación"
+
+#v1.15.16
+msgctxt "stations_n_many"
+msgid "%d stations"
+msgstr "%d estaciones"
 
 #v1.1.31
 msgctxt "steam_chat"
@@ -7716,6 +7806,31 @@ msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
 msgstr "Longitud inválida"
 
+#v1.15.16
+msgctxt "tape_warn_too_far"
+msgid "Too far"
+msgstr "Muy lejos"
+
+#v1.15.16
+msgctxt "te_confirm_delete_bulk_station"
+msgid "Confirm delete all selected stations"
+msgstr "Confirmar borrado de todas las estaciones seleccionadas"
+
+#v1.15.16
+msgctxt "te_confirm_delete_bulk_station_desc"
+msgid "Do you want to delete all the selected stations?"
+msgstr "Quieres borrar todas las estaciones seleccionadas?"
+
+#v1.15.16
+msgctxt "te_confirm_delete_station"
+msgid "Confirm delete station"
+msgstr "Confirmar borrar estación"
+
+#v1.15.16
+msgctxt "te_confirm_delete_station_desc"
+msgid "Do you want to delete the station?"
+msgstr "Quieres borrar la estación?"
+
 #v1.8.24
 msgctxt "teo.append_continous"
 msgid "Continously append track segments until pressing Esc or merging/linking the track"
@@ -7730,6 +7845,16 @@ msgstr "Circular por la izquierda en doble andén"
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
 msgstr "Auto añadir cambio cruzado y señales en doble andén"
+
+#v1.15.16
+msgctxt "teo.signal_auto_direction_lr"
+msgid "Drive on left for signal front side"
+msgstr "Conducir en la izquierda para la cara frontal de la señal"
+
+#v1.15.16
+msgctxt "teo.signal_auto_side"
+msgid "Create signal on the track side"
+msgstr "Crear señales en el lateral de la vía"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
@@ -7885,6 +8010,11 @@ msgstr "Precio"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "Vel. máxima"
+
+#v1.15.16
+msgctxt "trackeditor_always_show_auto_guide"
+msgid "Always display snapping track guides"
+msgstr "Siempre mostrar las guías"
 
 #v1.10.16
 msgctxt "trackeditor_clickable_tracks"
@@ -8062,11 +8192,6 @@ msgid "Use line color"
 msgstr "Usa color línea"
 
 #v1.8.24
-msgctxt "train_departing_to"
-msgid "Departing to"
-msgstr "Saliendo a"
-
-#v1.8.24
 msgctxt "train_departing_to_connect"
 msgid "to"
 msgstr "a"
@@ -8207,11 +8332,6 @@ msgid "Description:"
 msgstr "Descripción:"
 
 #v1.1.31
-msgctxt "train_info_destination"
-msgid "Destination:"
-msgstr "Destino:"
-
-#v1.1.31
 msgctxt "train_info_dim"
 msgid "Dimensions:"
 msgstr "Dimensiones:"
@@ -8255,11 +8375,6 @@ msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
 msgctxt "train_info_late_predicted2"
 msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Est. tardío {0}, {1:.1f} km de {2:.1f} km"
-
-#v1.1.31
-msgctxt "train_info_line"
-msgid "Line:"
-msgstr "Línea:"
 
 #v1.1.31
 msgctxt "train_info_location"
@@ -8356,30 +8471,10 @@ msgctxt "train_info_speed"
 msgid "Speed / max:"
 msgstr "Velocidad / max:"
 
-#v1.1.31
-msgctxt "train_info_status"
-msgid "Status:"
-msgstr "Estado:"
-
-#v1.3.13
-msgctxt "train_info_status_busy_track"
-msgid "Track is occupied or reserved"
-msgstr "Vía ocupada o reservada"
-
-#v1.1.31
-msgctxt "train_info_status_circulation"
-msgid "Running"
-msgstr "Circulando"
-
 #v1.2.22
 msgctxt "train_info_status_collision"
 msgid "Collision"
 msgstr "Colisión"
-
-#v1.1.31
-msgctxt "train_info_status_in_storage"
-msgid "Stored"
-msgstr "Almacenado"
 
 #v1.3.13
 msgctxt "train_info_status_line_closed"
@@ -8406,16 +8501,6 @@ msgctxt "train_info_status_signal_wait"
 msgid "Waiting at signal"
 msgstr "Esperando señal"
 
-#v1.5.31
-msgctxt "train_info_status_waiting_spawn"
-msgid "Waiting for scheduled spawn"
-msgstr "Esperando según el horario"
-
-#v1.1.31
-msgctxt "train_info_storing"
-msgid "Storing in:"
-msgstr "Almacenado en:"
-
 #v1.1.37
 msgctxt "train_info_total_power"
 msgid "Total power:"
@@ -8435,11 +8520,6 @@ msgstr "Esta intervención programa el recorrido actual correcto, coloca al tren
 msgctxt "train_intervention_dialog_title"
 msgid "Train intervention"
 msgstr "Intervenir tren"
-
-#v1.1.31
-msgctxt "train_invalid_order"
-msgid "Invalid order"
-msgstr "Orden inválida"
 
 #v1.5.41
 msgctxt "train_list_compact"
@@ -8521,6 +8601,11 @@ msgctxt "train_list_filter_by_schedulee_tags"
 msgid "Group by schedule tags"
 msgstr "Agrupar por etiquetas de horario"
 
+#v1.15.16
+msgctxt "train_list_filter_city"
+msgid "Group by city"
+msgstr "Agrupar por ciudad"
+
 #v1.5.31
 msgctxt "train_list_filter_flat"
 msgid "Flat listing"
@@ -8545,6 +8630,11 @@ msgstr "Solo retirados"
 msgctxt "train_list_filter_mothballed_short"
 msgid "Mothballed"
 msgstr "Retirados"
+
+#v1.15.16
+msgctxt "train_list_filter_region"
+msgid "Group by region"
+msgstr "Agrupar por región"
 
 #v1.3.13
 msgctxt "train_list_filter_tags"
@@ -8617,11 +8707,6 @@ msgid "Open line in line editor"
 msgstr "Abrir línea en el editor de líneas"
 
 #v1.14.24
-msgctxt "train_orders_mode_link_sched_editor"
-msgid "Open shift in schedule editor"
-msgstr "Abrir turno en el editor de horarios"
-
-#v1.14.24
 msgctxt "train_orders_mode_manual"
 msgid "Run a schedule shift"
 msgstr "Recorrer un turno"
@@ -8645,11 +8730,6 @@ msgstr "Grupo {}"
 msgctxt "train_orders_run_short"
 msgid "Run line:"
 msgstr "Línea:"
-
-#v1.14.24
-msgctxt "train_orders_sched_change"
-msgid "Change orders"
-msgstr "Cambiar órdenes"
 
 #v1.14.24
 msgctxt "train_orders_sched_purchase_clear"
@@ -9155,6 +9235,11 @@ msgstr "pax"
 msgctxt "unknown"
 msgid "Unknown"
 msgstr "Desconocido"
+
+#v1.15.16
+msgctxt "unknown_city"
+msgid "<Unknown>"
+msgstr "<Desconocida>"
 
 #v1.2.29
 msgctxt "unlimited_depth"
