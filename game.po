@@ -1,425 +1,435 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.18.30
-msgctxt "autorun_dispatch_info_brief"
-msgid "Auto run"
-msgstr "Línea automática"
+#v1.19.10
+msgctxt "display_mode_fullscreen"
+msgid "Fullscreen"
+msgstr "Fullscreen"
 
-#v1.18.30
-msgctxt "controleditor_tab_config"
-msgid "Configure"
-msgstr "Configurar"
+#v1.19.10
+msgctxt "map_container_directory"
+msgid "Directory"
+msgstr "Directory"
 
-#v1.18.30
-msgctxt "controleditor_tab_devel"
-msgid "Develop"
-msgstr "Desarrollar"
+#v1.19.10
+msgctxt "map_container_pmtiles"
+msgid "PMTiles"
+msgstr "PMTiles"
 
-#v1.18.30
-msgctxt "controleditor_tp_delete"
-msgid "Delete selected script"
-msgstr "Borrar script seleccionado"
-
-#v1.18.30
-msgctxt "copy_to_clipboard"
-msgid "Copy to clipboard"
-msgstr "Copiar a portapapeles"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_attempted_on"
-msgid "Attempted on {} UTC{}"
-msgstr "Intentado en {} UTC{}"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_CurrentTimeBeforeArrival"
-msgid "Too early for arrival"
-msgstr "Demasiado pronto para la llegada"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_LineInvalid"
-msgid "Line is invalid"
-msgstr "Línea es inválida"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_SchedServiceLevel"
-msgid "Schedule is closed"
-msgstr "Horario cerrado"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_ScriptDisallows"
-msgid "Disallowed by script(s)"
-msgstr "Rechazado por script(s)"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_ShiftAssigned"
-msgid "Shift is already assigned"
-msgstr "Turno asignado a otro tren"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_ShiftGoesUnassigned"
-msgid "Shift goes into unassigned"
-msgstr "Turno pasa a estar sin asignar"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_StopAreaBusy"
-msgid "Stop area is occupied or reserved"
-msgstr "Área de parada está ocupada o reservada"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_StopInvalid"
-msgid "Line stop is invalid"
-msgstr "Parada de la línea inválida"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_TrainNotOnStopArea"
-msgid "Train not on stop area"
-msgstr "El tren no está localizado en el área de parada"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_Unknown"
+#v1.19.10
+msgctxt "map_container_unknown"
 msgid "Unknown"
-msgstr "Desconocido"
-
-#v1.18.30
-msgctxt "dispatch_cooldown_reason_needs_sim"
-msgid "Resume simulation and/or wait until next dispatch attempt"
-msgstr "Ejecuta la simulación o espera al siguiente intento de asignación"
-
-#v1.18.30
-msgctxt "file_export_desc"
-msgid "Data has been exported to {}"
-msgstr "Datos exportados a {}"
-
-#v1.18.30
-msgctxt "file_export_title"
-msgid "Exported to file"
-msgstr "Exportar a fichero"
-
-#v1.18.30
-msgctxt "input_range_2f"
-msgid "{:.2f}{} to {:.2f}{}"
-msgstr "{:.2f}{} a {:.2f}{}"
-
-#v1.18.30
-msgctxt "lineeditor_pad_wait_here"
-msgid "Timetable pad wait in this stop"
-msgstr "Espera de horario en esta parada"
-
-#v1.18.30
-msgctxt "option_company_db_export"
-msgid "Export IDs"
-msgstr "Exportar IDs"
-
-#v1.18.30
-msgctxt "option_company_tt_export"
-msgid "Export timetable data"
-msgstr "Exportar horarios"
-
-#v1.18.30
-msgctxt "order_error_invalid_path"
-msgid "Glue path cannot be found"
-msgstr "No se puede encontrar ruta de enlace"
-
-#v1.18.30
-msgctxt "run_dispatch_info_brief"
-msgid "Single run"
-msgstr "Recorrido único"
-
-#v1.18.30
-msgctxt "saving"
-msgid "Saving..."
-msgstr "Guardando..."
-
-#v1.18.30
-msgctxt "sched_alert_shift_errors"
-msgid "One or more shifts contain errors"
-msgstr "Uno o mas turnos contienen errores"
-
-#v1.18.30
-msgctxt "sched_info_brief"
-msgid "{0} [{1}]"
-msgstr "{0} [{1}]"
-
-#v1.18.30
-msgctxt "script_delete_stale"
-msgid "Delete code and data"
-msgstr "Borrar código y datos"
-
-#v1.18.30
-msgctxt "script_editor_build"
-msgid "Build"
-msgstr "Compilar"
-
-#v1.18.30
-msgctxt "script_editor_build_errors_header"
-msgid "{} errors, {} compilations"
-msgstr "{} errores, {} compilaciones"
-
-#v1.18.30
-msgctxt "script_editor_log"
-msgid "log() Output"
-msgstr "Salida de log()"
-
-#v1.18.30
-msgctxt "script_editor_log_clear"
-msgid "Clear log"
-msgstr "Borrar log"
-
-#v1.18.30
-msgctxt "script_editor_log_enable"
-msgid "Enable logging"
-msgstr "Activar log"
-
-#v1.18.30
-msgctxt "script_enabled_but_no_config"
-msgid "Extension has no configuration"
-msgstr "Extension sin configuración"
-
-#v1.18.30
-msgctxt "script_extensions"
-msgid "Extensions"
-msgstr "Extensiones"
-
-#v1.18.30
-msgctxt "script_field_vec_line_n"
-msgid "{} lines"
-msgstr "{} líneas"
-
-#v1.18.30
-msgctxt "script_field_vec_sched_n"
-msgid "{} schedules"
-msgstr "{} horarios"
-
-#v1.18.30
-msgctxt "script_field_vec_signal_n"
-msgid "{} signals"
-msgstr "{} señales"
-
-#v1.18.30
-msgctxt "script_field_vec_train_n"
-msgid "{} trains"
-msgstr "{} trenes"
-
-#v1.18.30
-msgctxt "script_listing_error"
-msgid "Compilation errors"
-msgstr "Errores de compilación"
-
-#v1.18.30
-msgctxt "script_listing_log"
-msgid "Logging is enabled"
-msgstr "Log activo"
-
-#v1.18.30
-msgctxt "script_origin_source"
-msgid "Source:"
-msgstr "Fuente:"
-
-#v1.18.30
-msgctxt "script_origin_source_builtin"
-msgid "Built-in"
-msgstr "Built-in"
-
-#v1.18.30
-msgctxt "script_origin_source_builtin_mod"
-msgid "Built-in mod"
-msgstr "Built-in mod"
-
-#v1.18.30
-msgctxt "script_origin_source_direct"
-msgid "Direct"
-msgstr "Directo"
-
-#v1.18.30
-msgctxt "script_origin_source_edit"
-msgid "Edit"
-msgstr "Editar"
-
-#v1.18.30
-msgctxt "script_origin_source_local_mod"
-msgid "Local mod {}, section {}"
-msgstr "Mod local {}, sección {}"
-
-#v1.18.30
-msgctxt "script_origin_source_mod_invalid"
-msgid "Unknown mod, or mod changed script ID. Code and data preserved in the save."
-msgstr "Mod desconocido, o con la script ID cambiada. El código y datos se preservan en la partida."
-
-#v1.18.30
-msgctxt "script_origin_source_reload"
-msgid "Reload"
-msgstr "Recargar"
-
-#v1.18.30
-msgctxt "script_origin_source_workshop"
-msgid "Steam Workshop mod {}, section {}"
-msgstr "Steam Workshop mod {}, sección {}"
-
-#v1.18.30
-msgctxt "script_profile_tasks"
-msgid "Deferred tasks:"
-msgstr "Tareas diferidas:"
-
-#v1.18.30
-msgctxt "script_requires_signal"
-msgid "Requires {}"
-msgstr "Requiere {}"
-
-#v1.18.30
-msgctxt "script_struct_implements"
-msgid "Implements:"
-msgstr "Implementa:"
-
-#v1.18.30
-msgctxt "signal_appearance"
-msgid "Appearance:"
-msgstr "Apariencia:"
-
-#v1.18.30
-msgctxt "signal_cosmetic"
-msgid "Cosmetic:"
-msgstr "Cosmético:"
-
-#v1.18.30
-msgctxt "signal_editor_save_template"
-msgid "Save as template"
-msgstr "Guardar como plantilla"
-
-#v1.18.30
-msgctxt "signal_kind_name_marker"
-msgid "Marker"
-msgstr "Marcador"
-
-#v1.18.30
-msgctxt "signal_toggle_rotate"
-msgid "Rotate"
-msgstr "Rotar"
-
-#v1.18.30
-msgctxt "signal_toggle_side"
-msgid "Side"
-msgstr "Lado"
-
-#v1.18.30
-msgctxt "signal_toggle_size"
-msgid "Size"
-msgstr "Tamaño"
-
-#v1.18.30
-msgctxt "signals_palette_clear_fav"
-msgid "Right click to clear"
-msgstr "Botón derecho para borrar"
-
-#v1.18.30
-msgctxt "signals_palette_template_fav"
-msgid "Right click to save as template"
-msgstr "Botón derecho para guardar como plantilla"
-
-#v1.18.30
-msgctxt "train_config_set"
-msgid "Set {}"
-msgstr "Set {}"
-
-#v1.18.30
-msgctxt "train_info_configuration"
-msgid "Configuration:"
-msgstr "Configuración:"
-
-#v1.18.30
-msgctxt "train_info_hitch_driver"
-msgid "Driver:"
-msgstr "Conductor:"
-
-#v1.18.30
-msgctxt "train_info_hitch_hitcher"
-msgid "Hitch:"
-msgstr "Enganche:"
-
-#v1.18.30
-msgctxt "train_info_no_timing"
-msgid "{0:.1f} km of {1:.1f} km"
-msgstr "{0:.1f} km de {1:.1f} km"
-
-#v1.18.30
-msgctxt "train_info_set_milestone"
-msgid "Set train milestone"
-msgstr "Seleccionar hito manual"
-
-#v1.18.30
-msgctxt "train_info_warp"
-msgid "Warp train"
-msgstr "Teleportar tren"
-
-#v1.18.30
-msgctxt "train_motion_flippable"
-msgid "Flippable"
-msgstr "Reorientable"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_back"
-msgid "Push-pull backward"
-msgstr "Push-pull trasero"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_fwd"
-msgid "Push-pull forward"
-msgstr "Push-pull delantero"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report"
-msgid "Push-pull report:"
-msgstr "Estado push-pull:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_2cars"
-msgid "2+ cars:"
-msgstr "2+ coches:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_back_control"
-msgid "Back control:"
-msgstr "Control trasero:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_back_loco"
-msgid "Back locomotive:"
-msgstr "Locomotora trasera:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_front_control"
-msgid "Front control:"
-msgstr "Control delantero:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_front_loco"
-msgid "Front locomotive:"
-msgstr "Locomotora delantera:"
-
-#v1.18.30
-msgctxt "train_motion_pushpull_report_train_tag"
-msgid "Train push-pull tag:"
-msgstr "Tag push-pull en tren:"
-
-#v1.18.30
-msgctxt "train_motion_recompo_current"
-msgid "Current"
-msgstr "Actual"
-
-#v1.18.30
-msgctxt "train_motion_recompo_default"
-msgid "As purchased"
-msgstr "Original"
+msgstr "Unknown"
+
+#v1.19.10
+msgctxt "map_format_avif"
+msgid "AVIF"
+msgstr "AVIF"
+
+#v1.19.10
+msgctxt "map_format_jpg"
+msgid "JPG"
+msgstr "JPG"
+
+#v1.19.10
+msgctxt "map_format_mlt"
+msgid "MapLibre Vector Tile"
+msgstr "MapLibre Vector Tile"
+
+#v1.19.10
+msgctxt "map_format_mvt"
+msgid "Mapbox Vector Tile"
+msgstr "Mapbox Vector Tile"
+
+#v1.19.10
+msgctxt "map_format_nimby_lerc"
+msgid "Custom NIMBY_LERC"
+msgstr "Custom NIMBY_LERC"
+
+#v1.19.10
+msgctxt "map_format_png"
+msgid "PNG"
+msgstr "PNG"
+
+#v1.19.10
+msgctxt "map_format_raw"
+msgid "Custom"
+msgstr "Custom"
+
+#v1.19.10
+msgctxt "map_format_unknown"
+msgid "Auto"
+msgstr "Auto"
+
+#v1.19.10
+msgctxt "map_format_webp"
+msgid "WEBP"
+msgstr "WEBP"
+
+#v1.19.10
+msgctxt "map_op_result_formaterror"
+msgid "Format Error"
+msgstr "Format Error"
+
+#v1.19.10
+msgctxt "map_op_result_invalidstate"
+msgid "Invalid State"
+msgstr "Invalid State"
+
+#v1.19.10
+msgctxt "map_op_result_methoderror"
+msgid "Method Error"
+msgstr "Method Error"
+
+#v1.19.10
+msgctxt "map_op_result_notfound"
+msgid "Not Found"
+msgstr "Not Found"
+
+#v1.19.10
+msgctxt "map_op_result_ok"
+msgid "Ok"
+msgstr "Ok"
+
+#v1.19.10
+msgctxt "map_op_result_servererror"
+msgid "Server Error"
+msgstr "Server Error"
+
+#v1.19.10
+msgctxt "map_op_result_timeout"
+msgid "Timeout"
+msgstr "Timeout"
+
+#v1.19.10
+msgctxt "map_op_result_transporterror"
+msgid "Transport Error"
+msgstr "Transport Error"
+
+#v1.19.10
+msgctxt "map_option_font_disabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+#v1.19.10
+msgctxt "map_role_buildup"
+msgid "Buildup"
+msgstr "Buildup"
+
+#v1.19.10
+msgctxt "map_role_dem"
+msgid "Hillshading"
+msgstr "Hillshading"
+
+#v1.19.10
+msgctxt "map_role_land"
+msgid "Land"
+msgstr "Land"
+
+#v1.19.10
+msgctxt "map_role_popbuildup"
+msgid "PopBuildup"
+msgstr "PopBuildup"
+
+#v1.19.10
+msgctxt "map_role_population"
+msgid "Population"
+msgstr "Population"
+
+#v1.19.10
+msgctxt "map_role_unknown"
+msgid "Unknown"
+msgstr "Unknown"
+
+#v1.19.10
+msgctxt "map_role_vectors"
+msgid "Vectors"
+msgstr "Vectors"
+
+#v1.19.10
+msgctxt "mode_map_options"
+msgid "Options"
+msgstr "Options"
+
+#v1.19.10
+msgctxt "mode_map_options_desc"
+msgid "Built-in map options"
+msgstr "Built-in map options"
+
+#v1.19.10
+msgctxt "mode_map_sources_mode"
+msgid "Sources"
+msgstr "Sources"
+
+#v1.19.10
+msgctxt "mode_map_sources_mode_desc"
+msgid "Edit map sources"
+msgstr "Edit map sources"
+
+#v1.19.10
+msgctxt "option_company_train_braking_factor"
+msgid "Train braking factor:"
+msgstr "Train braking factor:"
+
+#v1.19.10
+msgctxt "option_rotation_bind"
+msgid "Map rotation:"
+msgstr "Map rotation:"
+
+#v1.19.10
+msgctxt "option_rotation_bind_h"
+msgid "Horizontal mouse wheel"
+msgstr "Horizontal mouse wheel"
+
+#v1.19.10
+msgctxt "option_rotation_bind_v_a"
+msgid "Alt + vertical mouse wheel"
+msgstr "Alt + vertical mouse wheel"
+
+#v1.19.10
+msgctxt "option_rotation_bind_v_s"
+msgid "Shift + vertical mouse wheel"
+msgstr "Shift + vertical mouse wheel"
+
+#v1.19.10
+msgctxt "renderer_curr_device"
+msgid "Current GPU:"
+msgstr "Current GPU:"
+
+#v1.19.10
+msgctxt "renderer_curr_server"
+msgid "Current display server:"
+msgstr "Current display server:"
+
+#v1.19.10
+msgctxt "renderer_device"
+msgid "Change GPU:"
+msgstr "Change GPU:"
+
+#v1.19.10
+msgctxt "renderer_device_default"
+msgid "System default"
+msgstr "System default"
+
+#v1.19.10
+msgctxt "renderer_force_wayland"
+msgid "Prefer Wayland even without fifo-v1"
+msgstr "Prefer Wayland even without fifo-v1"
+
+#v1.19.10
+msgctxt "right_bar_reset_map_rotation"
+msgid "Reset map rotation"
+msgstr "Reset map rotation"
+
+#v1.19.10
+msgctxt "right_bar_window_maximize"
+msgid "Maximize window"
+msgstr "Maximize window"
+
+#v1.19.10
+msgctxt "right_bar_window_minimize"
+msgid "Minimize window"
+msgstr "Minimize window"
+
+#v1.19.10
+msgctxt "right_bar_window_move"
+msgid "Drag to move window"
+msgstr "Drag to move window"
+
+#v1.19.10
+msgctxt "right_bar_window_restore"
+msgid "Restore window"
+msgstr "Restore window"
+
+#v1.19.10
+msgctxt "schedule_group_shift_skip_loops"
+msgid "Skip loops:"
+msgstr "Skip loops:"
+
+#v1.19.10
+msgctxt "share_upload_save2"
+msgid "Uploading saved game"
+msgstr "Uploading saved game"
+
+#v1.19.10
+msgctxt "signal_name_edit"
+msgid "Name:"
+msgstr "Name:"
+
+#v1.19.10
+msgctxt "station_platforkPIck"
+msgid "Platform of:"
+msgstr "Platform of:"
+
+#v1.19.10
+msgctxt "station_platforkPIck_existing_station"
+msgid "< Select existing station >"
+msgstr "< Select existing station >"
+
+#v1.19.10
+msgctxt "station_platforkPIck_new_station"
+msgid "< Create new station >"
+msgstr "< Create new station >"
+
+#v1.19.10
+msgctxt "user_map_filter_color"
+msgid "Color"
+msgstr "Color"
+
+#v1.19.10
+msgctxt "user_map_filter_hue"
+msgid "Hue:"
+msgstr "Hue:"
+
+#v1.19.10
+msgctxt "user_map_filter_invert"
+msgid "Invert:"
+msgstr "Invert:"
+
+#v1.19.10
+msgctxt "user_map_filter_lightness"
+msgid "Lightness:"
+msgstr "Lightness:"
+
+#v1.19.10
+msgctxt "user_map_filter_opacity"
+msgid "Opacity"
+msgstr "Opacity"
+
+#v1.19.10
+msgctxt "user_map_filter_reset"
+msgid "Reset"
+msgstr "Reset"
+
+#v1.19.10
+msgctxt "user_map_filter_saturation"
+msgid "Saturation:"
+msgstr "Saturation:"
+
+#v1.19.10
+msgctxt "user_map_filter_style"
+msgid "Style"
+msgstr "Style"
+
+#v1.19.10
+msgctxt "user_map_source_container"
+msgid "Container:"
+msgstr "Container:"
+
+#v1.19.10
+msgctxt "user_map_source_create"
+msgid "Create"
+msgstr "Create"
+
+#v1.19.10
+msgctxt "user_map_source_error"
+msgid "Error:"
+msgstr "Error:"
+
+#v1.19.10
+msgctxt "user_map_source_format"
+msgid "Format:"
+msgstr "Format:"
+
+#v1.19.10
+msgctxt "user_map_source_format_hint"
+msgid "Data format:"
+msgstr "Data format:"
+
+#v1.19.10
+msgctxt "user_map_source_format_hint_generic_raster"
+msgid "Generic raster"
+msgstr "Generic raster"
+
+#v1.19.10
+msgctxt "user_map_source_format_hint_mapbox_dem"
+msgid "Mapbox RGB elevation"
+msgstr "Mapbox RGB elevation"
+
+#v1.19.10
+msgctxt "user_map_source_format_hint_mvt"
+msgid "Mapbox Vector Tile"
+msgstr "Mapbox Vector Tile"
+
+#v1.19.10
+msgctxt "user_map_source_format_hint_terrarium"
+msgid "Terrarium RGB elevation"
+msgstr "Terrarium RGB elevation"
+
+#v1.19.10
+msgctxt "user_map_source_name"
+msgid "Name:"
+msgstr "Name:"
+
+#v1.19.10
+msgctxt "user_map_source_new_source"
+msgid "New source"
+msgstr "New source"
+
+#v1.19.10
+msgctxt "user_map_source_not_ready"
+msgid "Preparing..."
+msgstr "Preparing..."
+
+#v1.19.10
+msgctxt "user_map_source_origin"
+msgid "Origin:"
+msgstr "Origin:"
+
+#v1.19.10
+msgctxt "user_map_source_origin_default"
+msgid "Default"
+msgstr "Default"
+
+#v1.19.10
+msgctxt "user_map_source_origin_http"
+msgid "HTTP"
+msgstr "HTTP"
+
+#v1.19.10
+msgctxt "user_map_source_origin_local"
+msgid "Local"
+msgstr "Local"
+
+#v1.19.10
+msgctxt "user_map_source_path"
+msgid "Path:"
+msgstr "Path:"
+
+#v1.19.10
+msgctxt "user_map_source_pick_file"
+msgid "Pick PMTiles file"
+msgstr "Pick PMTiles file"
+
+#v1.19.10
+msgctxt "user_map_source_rect"
+msgid "Area:"
+msgstr "Area:"
+
+#v1.19.10
+msgctxt "user_map_source_role"
+msgid "Role:"
+msgstr "Role:"
+
+#v1.19.10
+msgctxt "user_map_source_url"
+msgid "URL:"
+msgstr "URL:"
+
+#v1.19.10
+msgctxt "user_map_source_zoom_range"
+msgid "Zoom range:"
+msgstr "Zoom range:"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.18.30
-msgctxt "lineeditor_reference_train_desc"
-msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times.\nLeg time calculation always uses the purchased configuration of the train."
-msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos.\nEste cálculo siempre utiliza la configuración original tren tal como se compró."
+#v1.19.10
+msgctxt "error_too_new_save_v"
+msgid "The game version ({}.{}.{}.{:x}) that created this save file is newer than your game version ({}.{}.{}.{:x}). Update the game to load this file."
+msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
 
 
 
@@ -930,6 +940,11 @@ msgstr "Auto exportar conta.:"
 msgctxt "autoexport_config_value"
 msgid "Enabled"
 msgstr "Activado"
+
+#v1.18.30
+msgctxt "autorun_dispatch_info_brief"
+msgid "Auto run"
+msgstr "Línea automática"
 
 #v1.1.31
 msgctxt "autosave_interval"
@@ -1686,6 +1701,21 @@ msgctxt "control_main_mode"
 msgid "Control"
 msgstr "Control"
 
+#v1.18.30
+msgctxt "controleditor_tab_config"
+msgid "Configure"
+msgstr "Configurar"
+
+#v1.18.30
+msgctxt "controleditor_tab_devel"
+msgid "Develop"
+msgstr "Desarrollar"
+
+#v1.18.30
+msgctxt "controleditor_tp_delete"
+msgid "Delete selected script"
+msgstr "Borrar script seleccionado"
+
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
@@ -1695,6 +1725,11 @@ msgstr "Copiado! Pega con Ctrl-V"
 msgctxt "copy"
 msgid "Copy"
 msgstr "Copiar"
+
+#v1.18.30
+msgctxt "copy_to_clipboard"
+msgid "Copy to clipboard"
+msgstr "Copiar a portapapeles"
 
 #v1.1.31
 msgctxt "credits"
@@ -2006,6 +2041,66 @@ msgctxt "disabled"
 msgid "Disabled"
 msgstr "Desactivado"
 
+#v1.18.30
+msgctxt "dispatch_cooldown_attempted_on"
+msgid "Attempted on {} UTC{}"
+msgstr "Intentado en {} UTC{}"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_CurrentTimeBeforeArrival"
+msgid "Too early for arrival"
+msgstr "Demasiado pronto para la llegada"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_LineInvalid"
+msgid "Line is invalid"
+msgstr "Línea es inválida"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_SchedServiceLevel"
+msgid "Schedule is closed"
+msgstr "Horario cerrado"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_ScriptDisallows"
+msgid "Disallowed by script(s)"
+msgstr "Rechazado por script(s)"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_ShiftAssigned"
+msgid "Shift is already assigned"
+msgstr "Turno asignado a otro tren"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_ShiftGoesUnassigned"
+msgid "Shift goes into unassigned"
+msgstr "Turno pasa a estar sin asignar"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_StopAreaBusy"
+msgid "Stop area is occupied or reserved"
+msgstr "Área de parada está ocupada o reservada"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_StopInvalid"
+msgid "Line stop is invalid"
+msgstr "Parada de la línea inválida"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_TrainNotOnStopArea"
+msgid "Train not on stop area"
+msgstr "El tren no está localizado en el área de parada"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_Unknown"
+msgid "Unknown"
+msgstr "Desconocido"
+
+#v1.18.30
+msgctxt "dispatch_cooldown_reason_needs_sim"
+msgid "Resume simulation and/or wait until next dispatch attempt"
+msgstr "Ejecuta la simulación o espera al siguiente intento de asignación"
+
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
@@ -2020,11 +2115,6 @@ msgstr "Pantalla completa excl."
 msgctxt "display_mode_windowed"
 msgid "Windowed"
 msgstr "Ventana"
-
-#v1.1.31
-msgctxt "display_mode_windowed_fullscreen"
-msgid "Windowed fullscreen"
-msgstr "Ventana pantalla completa"
 
 #v1.1.31
 msgctxt "display_screen"
@@ -2651,11 +2741,6 @@ msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
 msgstr "Error interno mientras se guardaba el juego"
 
-#v1.1.37
-msgctxt "error_too_new_save_v"
-msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
-msgstr "La versión del juego ({}.{}.{}.{}) que ha creado esta partida guardada es más nueva que tu versión del juego ({}.{}.{}.{}). Actualiza el juego para cargar esta partida."
-
 #v1.14.24
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.6 or newer legacy branches in Steam."
@@ -2680,6 +2765,16 @@ msgstr "{} reembolsos"
 msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
 msgstr "Parada demasiado corta y/o tren lleno"
+
+#v1.18.30
+msgctxt "file_export_desc"
+msgid "Data has been exported to {}"
+msgstr "Datos exportados a {}"
+
+#v1.18.30
+msgctxt "file_export_title"
+msgid "Exported to file"
+msgstr "Exportar a fichero"
 
 #v1.1.37
 msgctxt "file_picker_company"
@@ -3255,6 +3350,11 @@ msgstr "{} km/h"
 msgctxt "input_range"
 msgid "{}{} to {}{}"
 msgstr "{}{} a {}{}"
+
+#v1.18.30
+msgctxt "input_range_2f"
+msgid "{:.2f}{} to {:.2f}{}"
+msgstr "{:.2f}{} a {:.2f}{}"
 
 #v1.5.41
 msgctxt "intervene_all_stale_trains"
@@ -4056,6 +4156,11 @@ msgctxt "lineeditor_new_alt_stop_basic"
 msgid "Click on station platform arrows to create a new secondary platform stop"
 msgstr "Click en las flechas de los andenes para crear nuevas paradas secundarias"
 
+#v1.18.30
+msgctxt "lineeditor_pad_wait_here"
+msgid "Timetable pad wait in this stop"
+msgstr "Espera de horario en esta parada"
+
 #v1.1.31
 msgctxt "lineeditor_price_base"
 msgid "Base ticket price:"
@@ -4070,6 +4175,11 @@ msgstr "Precio por km de billete:"
 msgctxt "lineeditor_reference_train"
 msgid "Reference train:"
 msgstr "Tren de referencia:"
+
+#v1.18.30
+msgctxt "lineeditor_reference_train_desc"
+msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times.\nLeg time calculation always uses the purchased configuration of the train."
+msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos.\nEste cálculo siempre utiliza la configuración original tren tal como se compró."
 
 #v1.14.24
 msgctxt "lineeditor_reference_train_pick"
@@ -4566,31 +4676,6 @@ msgctxt "main_options"
 msgid "Options"
 msgstr "Opciones"
 
-#v1.10.16
-msgctxt "map_hillshade_pos"
-msgid "Hillshading:"
-msgstr "Sombras:"
-
-#v1.10.16
-msgctxt "map_hillshade_pos_0"
-msgid "Under ground"
-msgstr "Bajo el suelo"
-
-#v1.10.16
-msgctxt "map_hillshade_pos_1"
-msgid "Over ground"
-msgstr "Sobre el suelo"
-
-#v1.10.16
-msgctxt "map_land_alpha"
-msgid "Land background mix:"
-msgstr "Land background mix:"
-
-#v1.10.16
-msgctxt "map_land_hsv_sat"
-msgid "Land HSV saturation:"
-msgstr "Land HSV saturation:"
-
 #v1.1.31
 msgctxt "map_names_eng"
 msgid "English"
@@ -4630,21 +4715,6 @@ msgstr "Grande"
 msgctxt "map_option_font_3"
 msgid "Huge"
 msgstr "Enorme"
-
-#v1.10.16
-msgctxt "map_show_land_tex_max_zoom"
-msgid "Show land texture at max zoom"
-msgstr "Mostrar terreno en zoom máximo"
-
-#v1.10.16
-msgctxt "map_style_mods"
-msgid "Map style mods"
-msgstr "Mods de estilo de mapa"
-
-#v1.10.16
-msgctxt "map_style_show_in_panel"
-msgid "Show in map options panel"
-msgstr "Mostrar en panel de opciones de mapa"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4815,16 +4885,6 @@ msgstr "Recursos"
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
 msgstr "Planos"
-
-#v1.10.16
-msgctxt "mod_less_prio"
-msgid "Less priority"
-msgstr "Menos prioridad"
-
-#v1.10.16
-msgctxt "mod_more_prio"
-msgid "More priority"
-msgstr "Mas prioridad"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -5521,6 +5581,11 @@ msgctxt "option_company_acc_utc0_offset_s_desc"
 msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
 msgstr "Formato: (-)hh:mm:ss\nEl inicio de un nuevo día contable se corresponde a UTC0 mas esta cantidad de tiempo"
 
+#v1.18.30
+msgctxt "option_company_db_export"
+msgid "Export IDs"
+msgstr "Exportar IDs"
+
 #v1.12.11
 msgctxt "option_company_demand"
 msgid "Global demand factor:"
@@ -5631,6 +5696,11 @@ msgctxt "option_company_track_overlap_distance"
 msgid "New track overlap dist.:"
 msgstr "Solapamiento vía nueva:"
 
+#v1.18.30
+msgctxt "option_company_tt_export"
+msgid "Export timetable data"
+msgstr "Exportar horarios"
+
 #v1.1.31
 msgctxt "option_no_cash"
 msgid "Unlimited money"
@@ -5696,11 +5766,6 @@ msgctxt "options_keybinds"
 msgid "Keybinds"
 msgstr "Teclas"
 
-#v1.10.16
-msgctxt "options_map"
-msgid "Map"
-msgstr "Mapa"
-
 #v1.1.31
 msgctxt "options_mods_upload"
 msgid "Uploader"
@@ -5720,6 +5785,11 @@ msgstr "Línea vacía"
 msgctxt "order_error_invalid_line"
 msgid "Invalid line"
 msgstr "Línea inválida"
+
+#v1.18.30
+msgctxt "order_error_invalid_path"
+msgid "Glue path cannot be found"
+msgstr "No se puede encontrar ruta de enlace"
 
 #v1.14.24
 msgctxt "order_error_line_invalid_ref_train"
@@ -6496,6 +6566,11 @@ msgctxt "rtstat_speed"
 msgid "Speed"
 msgstr "Velocidad"
 
+#v1.18.30
+msgctxt "run_dispatch_info_brief"
+msgid "Single run"
+msgstr "Recorrido único"
+
 #v1.14.24
 msgctxt "run_panel_sched2"
 msgid "{0} / {1} / Run {2}"
@@ -6540,6 +6615,11 @@ msgstr "Nombre archivo partida"
 msgctxt "save_game"
 msgid "Save game"
 msgstr "Guardar partida"
+
+#v1.18.30
+msgctxt "saving"
+msgid "Saving..."
+msgstr "Guardando..."
 
 #v1.1.31
 msgctxt "sax_0"
@@ -6605,6 +6685,11 @@ msgstr "Escalado:"
 msgctxt "scaling_mode_auto"
 msgid "Auto"
 msgstr "Auto"
+
+#v1.18.30
+msgctxt "sched_alert_shift_errors"
+msgid "One or more shifts contain errors"
+msgstr "Uno o mas turnos contienen errores"
 
 #v1.14.24
 msgctxt "sched_cell_sub"
@@ -6715,6 +6800,11 @@ msgstr "Trenes"
 msgctxt "sched_group_interval_n_shifts"
 msgid "{0}, {1} shifts"
 msgstr "{0}, {1} turnos"
+
+#v1.18.30
+msgctxt "sched_info_brief"
+msgid "{0} [{1}]"
+msgstr "{0} [{1}]"
 
 #v1.14.24
 msgctxt "sched_list_auto_scheds"
@@ -6951,10 +7041,70 @@ msgctxt "schedules"
 msgid "Schedules"
 msgstr "Horarios"
 
+#v1.18.30
+msgctxt "script_delete_stale"
+msgid "Delete code and data"
+msgstr "Borrar código y datos"
+
 #v1.17.11
 msgctxt "script_editor_basics"
 msgid "Basics"
 msgstr "Básico"
+
+#v1.18.30
+msgctxt "script_editor_build"
+msgid "Build"
+msgstr "Compilar"
+
+#v1.18.30
+msgctxt "script_editor_build_errors_header"
+msgid "{} errors, {} compilations"
+msgstr "{} errores, {} compilaciones"
+
+#v1.18.30
+msgctxt "script_editor_log"
+msgid "log() Output"
+msgstr "Salida de log()"
+
+#v1.18.30
+msgctxt "script_editor_log_clear"
+msgid "Clear log"
+msgstr "Borrar log"
+
+#v1.18.30
+msgctxt "script_editor_log_enable"
+msgid "Enable logging"
+msgstr "Activar log"
+
+#v1.18.30
+msgctxt "script_enabled_but_no_config"
+msgid "Extension has no configuration"
+msgstr "Extension sin configuración"
+
+#v1.18.30
+msgctxt "script_extensions"
+msgid "Extensions"
+msgstr "Extensiones"
+
+#v1.18.30
+msgctxt "script_field_vec_line_n"
+msgid "{} lines"
+msgstr "{} líneas"
+
+#v1.18.30
+msgctxt "script_field_vec_sched_n"
+msgid "{} schedules"
+msgstr "{} horarios"
+
+#v1.18.30
+msgctxt "script_field_vec_signal_n"
+msgid "{} signals"
+msgstr "{} señales"
+
+#v1.18.30
+msgctxt "script_field_vec_train_n"
+msgid "{} trains"
+msgstr "{} trenes"
 
 #v1.17.11
 msgctxt "script_list_filter_alert_only_warning"
@@ -6976,10 +7126,80 @@ msgctxt "script_list_filter_all_short"
 msgid "All"
 msgstr "Todos"
 
+#v1.18.30
+msgctxt "script_listing_error"
+msgid "Compilation errors"
+msgstr "Errores de compilación"
+
+#v1.18.30
+msgctxt "script_listing_log"
+msgid "Logging is enabled"
+msgstr "Log activo"
+
 #v1.17.11
 msgctxt "script_name_edit"
 msgid "Name:"
 msgstr "Nombre:"
+
+#v1.18.30
+msgctxt "script_origin_source"
+msgid "Source:"
+msgstr "Fuente:"
+
+#v1.18.30
+msgctxt "script_origin_source_builtin"
+msgid "Built-in"
+msgstr "Built-in"
+
+#v1.18.30
+msgctxt "script_origin_source_builtin_mod"
+msgid "Built-in mod"
+msgstr "Built-in mod"
+
+#v1.18.30
+msgctxt "script_origin_source_direct"
+msgid "Direct"
+msgstr "Directo"
+
+#v1.18.30
+msgctxt "script_origin_source_edit"
+msgid "Edit"
+msgstr "Editar"
+
+#v1.18.30
+msgctxt "script_origin_source_local_mod"
+msgid "Local mod {}, section {}"
+msgstr "Mod local {}, sección {}"
+
+#v1.18.30
+msgctxt "script_origin_source_mod_invalid"
+msgid "Unknown mod, or mod changed script ID. Code and data preserved in the save."
+msgstr "Mod desconocido, o con la script ID cambiada. El código y datos se preservan en la partida."
+
+#v1.18.30
+msgctxt "script_origin_source_reload"
+msgid "Reload"
+msgstr "Recargar"
+
+#v1.18.30
+msgctxt "script_origin_source_workshop"
+msgid "Steam Workshop mod {}, section {}"
+msgstr "Steam Workshop mod {}, sección {}"
+
+#v1.18.30
+msgctxt "script_profile_tasks"
+msgid "Deferred tasks:"
+msgstr "Tareas diferidas:"
+
+#v1.18.30
+msgctxt "script_requires_signal"
+msgid "Requires {}"
+msgstr "Requiere {}"
+
+#v1.18.30
+msgctxt "script_struct_implements"
+msgid "Implements:"
+msgstr "Implementa:"
 
 #v1.17.11
 msgctxt "scripts_n_0"
@@ -7231,6 +7451,11 @@ msgctxt "signal_alert_opts"
 msgid "Alert on:"
 msgstr "Alertar en:"
 
+#v1.18.30
+msgctxt "signal_appearance"
+msgid "Appearance:"
+msgstr "Apariencia:"
+
 #v1.16.16
 msgctxt "signal_check_beyond_stops"
 msgid "Check beyond stops"
@@ -7246,6 +7471,11 @@ msgctxt "signal_check_hit_res"
 msgid "Reserved by {}"
 msgstr "Reservado por {}"
 
+#v1.18.30
+msgctxt "signal_cosmetic"
+msgid "Cosmetic:"
+msgstr "Cosmético:"
+
 #v1.2.22
 msgctxt "signal_direction"
 msgid "Direction:"
@@ -7260,6 +7490,11 @@ msgstr "Esta señal sigue siendo functional pero se considera obsoleta. Algunas 
 msgctxt "signal_edit_simple_block_obsolete"
 msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
 msgstr "Esta señal sigue siendo funcional pero se considera obsoleta y reemplazada por las señales de camino. Reemplaza tus señales de bloque simple por señales de camino."
+
+#v1.18.30
+msgctxt "signal_editor_save_template"
+msgid "Save as template"
+msgstr "Guardar como plantilla"
 
 #v1.2.22
 msgctxt "signal_editor_title_edit"
@@ -7305,6 +7540,11 @@ msgstr "Rotar"
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
 msgstr "Baliza de bloque"
+
+#v1.18.30
+msgctxt "signal_kind_name_marker"
+msgid "Marker"
+msgstr "Marcador"
 
 #v1.3.13
 msgctxt "signal_kind_name_noway"
@@ -7361,6 +7601,21 @@ msgctxt "signal_stop_check_signals_stops"
 msgid "Signals and train stop"
 msgstr "Señales y parada de tren"
 
+#v1.18.30
+msgctxt "signal_toggle_rotate"
+msgid "Rotate"
+msgstr "Rotar"
+
+#v1.18.30
+msgctxt "signal_toggle_side"
+msgid "Side"
+msgstr "Lado"
+
+#v1.18.30
+msgctxt "signal_toggle_size"
+msgid "Size"
+msgstr "Tamaño"
+
 #v1.2.22
 msgctxt "signal_type"
 msgid "Type:"
@@ -7390,6 +7645,16 @@ msgstr "Demasiado cerca"
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
 msgstr "La posición de la señal en la vía está demasiado cercana a otra vía. Desplázala a otra vía que no la solape."
+
+#v1.18.30
+msgctxt "signals_palette_clear_fav"
+msgid "Right click to clear"
+msgstr "Botón derecho para borrar"
+
+#v1.18.30
+msgctxt "signals_palette_template_fav"
+msgid "Right click to save as template"
+msgstr "Botón derecho para guardar como plantilla"
 
 #v1.1.31
 msgctxt "single_player"
@@ -7550,21 +7815,6 @@ msgstr "Auto nombre de andén"
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
 msgstr "Convertir andén a vía normal"
-
-#v1.15.16
-msgctxt "station_platform_pick"
-msgid "Platform of:"
-msgstr "Andén de:"
-
-#v1.15.16
-msgctxt "station_platform_pick_existing_station"
-msgid "< Select existing station >"
-msgstr "< Seleccionar estación existente >"
-
-#v1.15.16
-msgctxt "station_platform_pick_new_station"
-msgid "< Create new station >"
-msgstr "< Crear nueva estación >"
 
 #v1.15.16
 msgctxt "station_platform_promote"
@@ -8566,6 +8816,11 @@ msgctxt "train_code_edit"
 msgid "Serial:"
 msgstr "N. serie:"
 
+#v1.18.30
+msgctxt "train_config_set"
+msgid "Set {}"
+msgstr "Set {}"
+
 #v1.7.15
 msgctxt "train_create_order_from_run"
 msgid "Create new order from this run"
@@ -8696,6 +8951,11 @@ msgctxt "train_info_car_name"
 msgid "Car:"
 msgstr "Coche:"
 
+#v1.18.30
+msgctxt "train_info_configuration"
+msgid "Configuration:"
+msgstr "Configuración:"
+
 #v1.7.15
 msgctxt "train_info_coupler_back"
 msgid "Back coupling:"
@@ -8766,6 +9026,16 @@ msgctxt "train_info_future_pin"
 msgid "Scroll map to train spawn position"
 msgstr "Desplazar mapa hasta la futura posición del tren"
 
+#v1.18.30
+msgctxt "train_info_hitch_driver"
+msgid "Driver:"
+msgstr "Conductor:"
+
+#v1.18.30
+msgctxt "train_info_hitch_hitcher"
+msgid "Hitch:"
+msgstr "Enganche:"
+
 #v1.14.24
 msgctxt "train_info_intervention"
 msgid "Train intervention"
@@ -8780,11 +9050,6 @@ msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
 msgctxt "train_info_late_predicted2"
 msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Est. tardío {0}, {1:.1f} km de {2:.1f} km"
-
-#v1.1.31
-msgctxt "train_info_location"
-msgid "Location:"
-msgstr "Lugar:"
 
 #v1.1.37
 msgctxt "train_info_maintenance_cost"
@@ -8820,6 +9085,11 @@ msgstr "Max pax:"
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
 msgstr "Max velocidad:"
+
+#v1.18.30
+msgctxt "train_info_no_timing"
+msgid "{0:.1f} km of {1:.1f} km"
+msgstr "{0:.1f} km de {1:.1f} km"
 
 #v1.14.24
 msgctxt "train_info_open_editor_sched"
@@ -8871,6 +9141,11 @@ msgctxt "train_info_running_cost_f2"
 msgid "${0:.2} per km, ${1:.2} per km per pax"
 msgstr "${0:.2} por km, ${1:.2} por km por pax"
 
+#v1.18.30
+msgctxt "train_info_set_milestone"
+msgid "Set train milestone"
+msgstr "Seleccionar hito manual"
+
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
@@ -8920,6 +9195,11 @@ msgstr "Potencia total"
 msgctxt "train_info_total_power_v"
 msgid "{0} kW, {1} kN max tr. eff."
 msgstr "{0} kW, {1} kN máx tracc."
+
+#v1.18.30
+msgctxt "train_info_warp"
+msgid "Warp train"
+msgstr "Teleportar tren"
 
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
@@ -9070,6 +9350,66 @@ msgstr "Modelo:"
 msgctxt "train_model_edit_custom"
 msgid "Custom"
 msgstr "Propio"
+
+#v1.18.30
+msgctxt "train_motion_flippable"
+msgid "Flippable"
+msgstr "Reorientable"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_back"
+msgid "Push-pull backward"
+msgstr "Push-pull trasero"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_fwd"
+msgid "Push-pull forward"
+msgstr "Push-pull delantero"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report"
+msgid "Push-pull report:"
+msgstr "Estado push-pull:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_2cars"
+msgid "2+ cars:"
+msgstr "2+ coches:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_back_control"
+msgid "Back control:"
+msgstr "Control trasero:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_back_loco"
+msgid "Back locomotive:"
+msgstr "Locomotora trasera:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_front_control"
+msgid "Front control:"
+msgstr "Control delantero:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_front_loco"
+msgid "Front locomotive:"
+msgstr "Locomotora delantera:"
+
+#v1.18.30
+msgctxt "train_motion_pushpull_report_train_tag"
+msgid "Train push-pull tag:"
+msgstr "Tag push-pull en tren:"
+
+#v1.18.30
+msgctxt "train_motion_recompo_current"
+msgid "Current"
+msgstr "Actual"
+
+#v1.18.30
+msgctxt "train_motion_recompo_default"
+msgid "As purchased"
+msgstr "Original"
 
 #v1.1.58
 msgctxt "train_n_copies"
@@ -9745,11 +10085,6 @@ msgstr "Esperando en estación"
 msgctxt "waiting_expired"
 msgid "Expired"
 msgstr "Caducado"
-
-#v1.10.16
-msgctxt "warn_alpha_renderer1"
-msgid "Experimental renderer! Only use if DirectX 11 crashes often."
-msgstr "Experimental! Utilizar solo en caso de problemas con DirectX 11."
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
